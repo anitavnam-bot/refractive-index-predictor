@@ -12,3 +12,4 @@ data/intermediate/
 
 *.DS_Store
 models/rf_bandgap_model.joblib
+notebooks/models/rf_bandgap_model.joblib

@@ -11,3 +11,4 @@ data/raw/
 data/intermediate/
 
 *.DS_Store
+models/rf_bandgap_model.joblib

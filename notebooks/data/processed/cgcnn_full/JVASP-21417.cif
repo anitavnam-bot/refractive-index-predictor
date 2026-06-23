@@ -1,0 +1,48 @@
+# generated using pymatgen
+data_Sr3ZnIrO6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.73292285
+_cell_length_b   6.73292259
+_cell_length_c   6.73292279
+_cell_angle_alpha   91.34995840
+_cell_angle_beta   91.34995496
+_cell_angle_gamma   91.34995962
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sr3ZnIrO6
+_chemical_formula_sum   'Sr6 Zn2 Ir2 O12'
+_cell_volume   304.96032046
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sr  Sr0  1  0.61375129  0.88624857  0.24999931  1
+  Sr  Sr1  1  0.24999917  0.61375195  0.88624804  1
+  Sr  Sr2  1  0.88624806  0.24999995  0.61375138  1
+  Sr  Sr3  1  0.38624786  0.11375169  0.74999996  1
+  Sr  Sr4  1  0.74999998  0.38624832  0.11375123  1
+  Sr  Sr5  1  0.11375110  0.75000032  0.38624790  1
+  Zn  Zn6  1  0.74999937  0.75000020  0.74999946  1
+  Zn  Zn7  1  0.24999979  0.25000007  0.24999982  1
+  Ir  Ir8  1  0.49999958  0.50000013  0.49999964  1
+  Ir  Ir9  1  0.00000000  0.00000000  0.00000000  1
+  O  O10  1  0.09392061  0.28619920  0.95953278  1
+  O  O11  1  0.78619883  0.59392149  0.45953214  1
+  O  O12  1  0.54046713  0.21380082  0.40607840  1
+  O  O13  1  0.40607835  0.54046750  0.21380040  1
+  O  O14  1  0.21380032  0.40607878  0.54046714  1
+  O  O15  1  0.71380054  0.04046713  0.90607855  1
+  O  O16  1  0.90607854  0.71380107  0.04046649  1
+  O  O17  1  0.04046630  0.90607904  0.71380054  1
+  O  O18  1  0.45953202  0.78619945  0.59392087  1
+  O  O19  1  0.59392080  0.45953277  0.78619887  1
+  O  O20  1  0.95953286  0.09392123  0.28619873  1
+  O  O21  1  0.28619861  0.95953314  0.09392073  1

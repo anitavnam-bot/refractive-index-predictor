@@ -1,0 +1,30 @@
+# generated using pymatgen
+data_B3Cl
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.95668778
+_cell_length_b   5.00018895
+_cell_length_c   6.21082166
+_cell_angle_alpha   143.48303304
+_cell_angle_beta   123.22819666
+_cell_angle_gamma   31.84180753
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   B3Cl
+_chemical_formula_sum   'B3 Cl1'
+_cell_volume   52.45222279
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  B  B0  1  -0.01049602  0.32779745  0.00819710  1
+  B  B1  1  0.56254689  0.61016543  0.86374167  1
+  B  B2  1  0.77526183  0.78805434  0.43453963  1
+  Cl  Cl3  1  0.76321857  0.44697611  0.43372268  1

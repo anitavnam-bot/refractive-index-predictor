@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_XeO3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.27756951
+_cell_length_b   5.99796217
+_cell_length_c   7.75458589
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   XeO3
+_chemical_formula_sum   'Xe4 O12'
+_cell_volume   245.46879733
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Xe  Xe0  1  0.76986793  0.44308956  0.33603284  1
+  Xe  Xe1  1  0.23013216  0.94308938  0.16396742  1
+  Xe  Xe2  1  0.73013221  0.55691008  0.83603311  1
+  Xe  Xe3  1  0.26986788  0.05691026  0.66396769  1
+  O  O4  1  0.41842683  0.19125203  0.08549579  1
+  O  O5  1  0.61236881  0.64688003  0.06762433  1
+  O  O6  1  0.91842687  0.30874779  0.91450474  1
+  O  O7  1  0.59125260  0.95116250  0.74671112  1
+  O  O8  1  0.09125255  0.54883696  0.25328941  1
+  O  O9  1  0.38763128  0.14688021  0.43237593  1
+  O  O10  1  0.58157327  0.69125185  0.41450448  1
+  O  O11  1  0.40874749  0.45116268  0.75328967  1
+  O  O12  1  0.88763133  0.35311961  0.56762460  1
+  O  O13  1  0.90874754  0.04883714  0.24671086  1
+  O  O14  1  0.08157322  0.80874761  0.58549605  1
+  O  O15  1  0.11236877  0.85311942  0.93237620  1

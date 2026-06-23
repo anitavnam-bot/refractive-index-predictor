@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_ScMnGe
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.89891501
+_cell_length_b   6.59204384
+_cell_length_c   6.59204105
+_cell_angle_alpha   120.00001748
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ScMnGe
+_chemical_formula_sum   'Sc3 Mn3 Ge3'
+_cell_volume   146.72844452
+_cell_formula_units_Z   3
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sc  Sc0  1  0.50000064  0.58328684  -0.00000027  1
+  Sc  Sc1  1  0.50000064  0.41669876  0.41670840  1
+  Sc  Sc2  1  0.50000064  -0.00000964  0.58329191  1
+  Mn  Mn3  1  0.00000000  0.22999171  -0.00000011  1
+  Mn  Mn4  1  0.00000000  0.76998039  0.76999237  1
+  Mn  Mn5  1  0.00000000  0.99998816  0.23000731  1
+  Ge  Ge6  1  0.00000000  0.33332253  0.66666854  1
+  Ge  Ge7  1  0.00000000  0.66665323  0.33333150  1
+  Ge  Ge8  1  0.50000064  -0.00001278  0.00000000  1

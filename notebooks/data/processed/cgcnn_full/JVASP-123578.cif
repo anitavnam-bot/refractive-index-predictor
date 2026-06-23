@@ -1,0 +1,30 @@
+# generated using pymatgen
+data_HfP3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.63626705
+_cell_length_b   3.78268391
+_cell_length_c   5.17548568
+_cell_angle_alpha   90.00241563
+_cell_angle_beta   110.56666848
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   HfP3
+_chemical_formula_sum   'Hf1 P3'
+_cell_volume   66.65078750
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Hf  Hf0  1  0.32928256  -0.00003531  0.65856750  1
+  P  P1  1  0.62284476  0.00008369  0.24569060  1
+  P  P2  1  0.13640429  0.49998080  0.27280764  1
+  P  P3  1  0.91146641  0.49997028  0.82293659  1

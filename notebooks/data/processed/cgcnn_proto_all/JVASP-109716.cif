@@ -1,0 +1,31 @@
+# generated using pymatgen
+data_Mn4Ga
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   2.55137321
+_cell_length_b   2.55137321
+_cell_length_c   10.22823246
+_cell_angle_alpha   82.83530026
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Mn4Ga
+_chemical_formula_sum   'Mn4 Ga1'
+_cell_volume   57.05951077
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mn  Mn0  1  0.59567221  0.19134643  0.21298106  1
+  Mn  Mn1  1  0.20069874  0.40139905  0.39790174  1
+  Mn  Mn2  1  0.79929988  0.59860335  0.60209795  1
+  Mn  Mn3  1  0.40432640  0.80865598  0.78701863  1
+  Ga  Ga4  1  0.00000000  0.00000000  0.00000000  1

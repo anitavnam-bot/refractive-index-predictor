@@ -1,0 +1,32 @@
+# generated using pymatgen
+data_NaInO
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.18095539
+_cell_length_b   6.18095539
+_cell_length_c   5.93194552
+_cell_angle_alpha   113.65350760
+_cell_angle_beta   113.65350760
+_cell_angle_gamma   31.22983052
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NaInO
+_chemical_formula_sum   'Na2 In2 O2'
+_cell_volume   106.81819204
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.14244598  0.14244598  0.32314593  1
+  Na  Na1  1  0.85755369  0.85755369  0.67685249  1
+  In  In2  1  0.61676217  0.61676217  0.81701878  1
+  In  In3  1  0.38323750  0.38323750  0.18297964  1
+  O  O4  1  0.76241093  0.76241093  0.23449219  1
+  O  O5  1  0.23758874  0.23758874  0.76550623  1

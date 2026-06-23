@@ -1,0 +1,32 @@
+# generated using pymatgen
+data_CaGaCu
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.51349040
+_cell_length_b   5.51349007
+_cell_length_c   7.20261507
+_cell_angle_alpha   51.61523325
+_cell_angle_beta   51.61523587
+_cell_angle_gamma   47.48437382
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CaGaCu
+_chemical_formula_sum   'Ca2 Ga2 Cu2'
+_cell_volume   118.57644844
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ca  Ca0  1  0.55272276  0.55272046  0.69333498  1
+  Ca  Ca1  1  0.44727786  0.44727626  0.30666720  1
+  Ga  Ga2  1  0.83049333  0.83049082  0.10684676  1
+  Ga  Ga3  1  0.16950729  0.16950590  0.89315542  1
+  Cu  Cu4  1  0.16434882  0.16434807  0.27213024  1
+  Cu  Cu5  1  0.83565180  0.83564865  0.72787194  1

@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_V5Cr5Ge6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.79293460
+_cell_length_b   7.09081429
+_cell_length_c   7.07916766
+_cell_angle_alpha   96.38509266
+_cell_angle_beta   109.78697004
+_cell_angle_gamma   70.24688300
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   V5Cr5Ge6
+_chemical_formula_sum   'V5 Cr5 Ge6'
+_cell_volume   213.06370862
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  V  V0  1  0.26820910  0.30831447  0.84473206  1
+  V  V1  1  0.76510063  0.15833150  0.68853314  1
+  V  V2  1  0.23613014  0.84205809  0.31431937  1
+  V  V3  1  0.25068544  0.50061028  0.50086280  1
+  V  V4  1  0.74956738  0.50061028  0.50086278  1
+  Cr  Cr5  1  0.41985208  0.84420117  0.68390499  1
+  Cr  Cr6  1  0.57358198  0.15860203  0.30576471  1
+  Cr  Cr7  1  0.92462885  0.30762056  0.15687710  1
+  Cr  Cr8  1  0.07542907  0.69157297  0.84242866  1
+  Cr  Cr9  1  0.73657210  0.68808270  0.16122890  1
+  Ge  Ge10  1  0.25273864  0.99588905  0.00011604  1
+  Ge  Ge11  1  0.75148808  0.99588905  0.00011602  1
+  Ge  Ge12  1  0.33199931  0.50051919  0.16451580  1
+  Ge  Ge13  1  0.66716363  0.50415728  0.83848594  1
+  Ge  Ge14  1  0.83181974  0.83516703  0.49880726  1
+  Ge  Ge15  1  0.16503510  0.16838519  0.49845502  1

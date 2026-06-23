@@ -1,0 +1,32 @@
+# generated using pymatgen
+data_Dy5Mg
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.52755653
+_cell_length_b   6.52755653
+_cell_length_c   6.52755656
+_cell_angle_alpha   55.34513237
+_cell_angle_beta   55.34513237
+_cell_angle_gamma   55.34513323
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Dy5Mg
+_chemical_formula_sum   'Dy5 Mg1'
+_cell_volume   175.39982307
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Dy  Dy0  1  0.50000019  0.15842145  0.84157944  1
+  Dy  Dy1  1  0.15842054  0.84157900  0.50000083  1
+  Dy  Dy2  1  0.84157907  0.50000023  0.15842115  1
+  Dy  Dy3  1  0.33327890  0.33327909  0.33327926  1
+  Dy  Dy4  1  0.66672097  0.66672136  0.66672169  1
+  Mg  Mg5  1  0.00000000  0.00000000  0.00000000  1

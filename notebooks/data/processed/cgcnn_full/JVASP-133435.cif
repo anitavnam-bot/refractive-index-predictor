@@ -1,0 +1,48 @@
+# generated using pymatgen
+data_Na5EuTaAs4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.50209222
+_cell_length_b   9.50209249
+_cell_length_c   7.28515971
+_cell_angle_alpha   88.82035879
+_cell_angle_beta   88.82035886
+_cell_angle_gamma   121.18344891
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Na5EuTaAs4
+_chemical_formula_sum   'Na10 Eu2 Ta2 As8'
+_cell_volume   562.24108827
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.46937585  0.53940165  0.39128062  1
+  Na  Na1  1  0.47090001  0.94257176  0.38205962  1
+  Na  Na2  1  0.53940120  0.46937585  0.89128038  1
+  Na  Na3  1  0.94257109  0.47090004  0.88205938  1
+  Na  Na4  1  0.85585358  0.13070664  0.22506814  1
+  Na  Na5  1  0.85120549  0.71270933  0.18235799  1
+  Na  Na6  1  0.28330417  0.14369883  0.23892775  1
+  Na  Na7  1  0.13070636  0.85585379  0.72506790  1
+  Na  Na8  1  0.14369859  0.28330406  0.73892751  1
+  Na  Na9  1  0.71270872  0.85120574  0.68235775  1
+  Eu  Eu10  1  0.52869363  0.05575533  0.88628060  1
+  Eu  Eu11  1  0.05575556  0.52869404  0.38628084  1
+  Ta  Ta12  1  0.66632603  0.33657238  0.50141119  1
+  Ta  Ta13  1  0.33657238  0.66632660  0.00141142  1
+  As  As14  1  0.19599464  0.81424677  0.11472883  1
+  As  As15  1  0.18491252  0.37922665  0.13336676  1
+  As  As16  1  0.63051918  0.82271926  0.08001321  1
+  As  As17  1  0.81424615  0.19599456  0.61472860  1
+  As  As18  1  0.82271860  0.63051933  0.58001297  1
+  As  As19  1  0.37922628  0.18491239  0.63336653  1
+  As  As20  1  0.66869998  0.31659510  0.15920387  1
+  As  As21  1  0.31659473  0.66870010  0.65920363  1

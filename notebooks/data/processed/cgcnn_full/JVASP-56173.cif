@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Cr3InO8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.98648123
+_cell_length_b   4.98648157
+_cell_length_c   6.44248429
+_cell_angle_alpha   90.09615908
+_cell_angle_beta   90.09615880
+_cell_angle_gamma   69.20035077
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Cr3InO8
+_chemical_formula_sum   'Cr3 In1 O8'
+_cell_volume   149.75195981
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cr  Cr0  1  0.36385581  0.36385535  0.73521061  1
+  Cr  Cr1  1  0.63614535  0.63614441  0.26478874  1
+  Cr  Cr2  1  0.00000032  0.00000040  0.50000016  1
+  In  In3  1  0.00000000  0.00000000  0.00000000  1
+  O  O4  1  0.74183057  0.21650871  0.72702849  1
+  O  O5  1  0.26124906  0.26124879  0.96050857  1
+  O  O6  1  0.78349223  0.25817024  0.27297086  1
+  O  O7  1  0.23260258  0.23260229  0.53492733  1
+  O  O8  1  0.25817059  0.78349104  0.27297086  1
+  O  O9  1  0.21650893  0.74182951  0.72702849  1
+  O  O10  1  0.76739858  0.76739746  0.46507202  1
+  O  O11  1  0.73875210  0.73875096  0.03949079  1

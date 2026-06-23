@@ -1,0 +1,32 @@
+# generated using pymatgen
+data_YAlFe
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.30330363
+_cell_length_b   5.30330410
+_cell_length_c   5.30330382
+_cell_angle_alpha   119.55959065
+_cell_angle_beta   117.71455755
+_cell_angle_gamma   92.38444701
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   YAlFe
+_chemical_formula_sum   'Y2 Al2 Fe2'
+_cell_volume   107.50777156
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Y  Y0  1  0.13630332  0.88630331  0.25000069  1
+  Y  Y1  1  0.86369697  0.11369720  0.74999992  1
+  Al  Al2  1  0.49999977  0.50000050  -0.00000008  1
+  Al  Al3  1  0.00000057  0.50000001  0.50000073  1
+  Fe  Fe4  1  0.50000015  0.50000025  0.50000030  1
+  Fe  Fe5  1  0.49999958  0.00000024  -0.00000043  1

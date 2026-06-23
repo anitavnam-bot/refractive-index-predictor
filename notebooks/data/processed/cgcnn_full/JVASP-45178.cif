@@ -1,0 +1,52 @@
+# generated using pymatgen
+data_Li3FeSiBO7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.99594763
+_cell_length_b   6.15145846
+_cell_length_c   8.27484082
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   95.89599269
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Li3FeSiBO7
+_chemical_formula_sum   'Li6 Fe2 Si2 B2 O14'
+_cell_volume   252.96014808
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.23742660  0.75000019  0.10383673  1
+  Li  Li1  1  0.74715267  0.00240562  0.24794800  1
+  Li  Li2  1  0.74715267  0.49759451  0.24794800  1
+  Li  Li3  1  0.25284723  0.50240574  0.75205173  1
+  Li  Li4  1  0.25284723  0.99759463  0.75205173  1
+  Li  Li5  1  0.76257329  0.25000006  0.89616300  1
+  Fe  Fe6  1  0.20074710  0.25000006  0.31447963  1
+  Fe  Fe7  1  0.79925279  0.75000019  0.68552010  1
+  Si  Si8  1  0.72507240  0.25000006  0.57098482  1
+  Si  Si9  1  0.27492749  0.75000019  0.42901490  1
+  B  B10  1  0.29211335  0.25000006  0.03806655  1
+  B  B11  1  0.70788654  0.75000019  0.96193317  1
+  O  O12  1  0.51967178  0.75000019  0.82358019  1
+  O  O13  1  0.81893687  0.05155470  0.69914960  1
+  O  O14  1  0.81893687  0.44844543  0.69914960  1
+  O  O15  1  0.39621429  0.25000006  0.52260962  1
+  O  O16  1  0.13075419  0.75000019  0.59591041  1
+  O  O17  1  0.86924570  0.25000006  0.40408931  1
+  O  O18  1  0.63626294  0.75000019  0.11376575  1
+  O  O19  1  0.18106302  0.55155482  0.30085012  1
+  O  O20  1  0.18106302  0.94844555  0.30085012  1
+  O  O21  1  0.48032812  0.25000006  0.17641953  1
+  O  O22  1  0.03240498  0.25000006  0.08675141  1
+  O  O23  1  0.96759492  0.75000019  0.91324832  1
+  O  O24  1  0.60378560  0.75000019  0.47739011  1
+  O  O25  1  0.36373695  0.25000006  0.88623397  1

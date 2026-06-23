@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_In2FeS4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.52863426
+_cell_length_b   7.52863379
+_cell_length_c   7.52863437
+_cell_angle_alpha   60.00000180
+_cell_angle_beta   60.00000388
+_cell_angle_gamma   59.99999800
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   In2FeS4
+_chemical_formula_sum   'In4 Fe2 S8'
+_cell_volume   301.74049102
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  In  In0  1  0.50000020  0.49999970  0.00000049  1
+  In  In1  1  0.50000020  0.49999970  0.50000020  1
+  In  In2  1  0.00000011  0.49999970  0.50000003  1
+  In  In3  1  0.50000009  -0.00000000  0.49999988  1
+  Fe  Fe4  1  0.87500035  0.87499948  0.87500035  1
+  Fe  Fe5  1  0.12500005  0.12499993  0.12500005  1
+  S  S6  1  0.74916974  0.74916900  0.74916974  1
+  S  S7  1  0.25083066  0.25083041  0.74750815  1
+  S  S8  1  0.25083076  0.74750789  0.25083097  1
+  S  S9  1  0.74750853  0.25083041  0.25083083  1
+  S  S10  1  0.74916964  0.25249152  0.74916943  1
+  S  S11  1  0.25249187  0.74916900  0.74916957  1
+  S  S12  1  0.25083066  0.25083041  0.25083066  1
+  S  S13  1  0.74916974  0.74916900  0.25249225  1

@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_BaTb2Mn2O7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.51615930
+_cell_length_b   5.60198199
+_cell_length_c   10.29498660
+_cell_angle_alpha   74.21643632
+_cell_angle_beta   89.98343709
+_cell_angle_gamma   89.94241347
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   BaTb2Mn2O7
+_chemical_formula_sum   'Ba2 Tb4 Mn4 O14'
+_cell_volume   306.13485794
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tb  Tb0  1  0.73443560  0.54174097  0.36565903  1
+  Tb  Tb1  1  0.26556471  0.45825945  0.63434139  1
+  Tb  Tb2  1  0.26557421  0.09259979  0.36565893  1
+  Tb  Tb3  1  0.73442609  0.90740063  0.63434149  1
+  Ba  Ba4  1  0.74701987  0.74244985  0.00000335  1
+  Ba  Ba5  1  0.25297967  0.25754988  -0.00000257  1
+  Mn  Mn6  1  0.75361280  0.34919980  0.79345755  1
+  Mn  Mn7  1  0.24638429  0.85734875  0.79345890  1
+  Mn  Mn8  1  0.24638751  0.65080062  0.20654286  1
+  Mn  Mn9  1  0.75361601  0.14265167  0.20654151  1
+  O  O10  1  0.00000042  0.39351209  0.21296810  1
+  O  O11  1  -0.00000034  0.60648825  0.78703182  1
+  O  O12  1  0.72697779  0.53036660  0.58049166  1
+  O  O13  1  0.75958681  0.22284647  -0.00000383  1
+  O  O14  1  0.27302252  0.46963382  0.41950875  1
+  O  O15  1  0.50000274  0.39918564  0.20162473  1
+  O  O16  1  0.49999756  0.60081478  0.79837568  1
+  O  O17  1  0.00000029  0.87567204  0.24864918  1
+  O  O18  1  0.27302598  0.88913918  0.58048883  1
+  O  O19  1  0.72697433  0.11086124  0.41951158  1
+  O  O20  1  0.24041272  0.77715326  0.00000461  1
+  O  O21  1  0.50000457  0.88237002  0.23525076  1
+  O  O22  1  -0.00000021  0.12432831  0.75135074  1
+  O  O23  1  0.49999573  0.11763040  0.76474965  1

@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_NdCoSbPbO6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.78138511
+_cell_length_b   5.65730006
+_cell_length_c   9.72840665
+_cell_angle_alpha   54.89639367
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NdCoSbPbO6
+_chemical_formula_sum   'Nd2 Co2 Sb2 Pb2 O12'
+_cell_volume   260.31332603
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Nd  Nd0  1  0.80758374  0.26768268  0.24764077  1
+  Nd  Nd1  1  0.19241711  0.26768311  0.74764049  1
+  Co  Co2  1  0.73893190  0.50416314  0.49751723  1
+  Co  Co3  1  0.26106895  0.50416357  0.99751695  1
+  Sb  Sb4  1  0.74060272  -0.00006823  0.00074171  1
+  Sb  Sb5  1  0.25939813  -0.00006780  0.50074144  1
+  Pb  Pb6  1  0.72680729  0.74806172  0.74748441  1
+  Pb  Pb7  1  0.27319356  0.74806129  0.24748469  1
+  O  O8  1  0.01917941  0.74422437  0.04184903  1
+  O  O9  1  0.98082143  0.74422481  0.54184875  1
+  O  O10  1  0.77835728  0.17924567  0.75215016  1
+  O  O11  1  0.22164357  0.17924523  0.25215044  1
+  O  O12  1  0.73587190  0.85313735  0.24664353  1
+  O  O13  1  0.55346434  0.65671661  0.04949276  1
+  O  O14  1  0.96238996  0.31148563  0.96302291  1
+  O  O15  1  0.03761088  0.31148519  0.46302318  1
+  O  O16  1  0.54845548  0.23535903  0.45345055  1
+  O  O17  1  0.44653650  0.65671705  0.54949248  1
+  O  O18  1  0.26412894  0.85313778  0.74664325  1
+  O  O19  1  0.45154537  0.23535947  0.95345027  1

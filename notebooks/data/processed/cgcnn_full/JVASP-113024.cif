@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_Er2MgTiO6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.58925656
+_cell_length_b   5.26209587
+_cell_length_c   9.23346207
+_cell_angle_alpha   55.63643318
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Er2MgTiO6
+_chemical_formula_sum   'Er4 Mg2 Ti2 O12'
+_cell_volume   224.17130681
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Er  Er0  1  0.06915782  0.72864012  0.75204959  1
+  Er  Er1  1  0.93084280  0.27135874  0.24795043  1
+  Er  Er2  1  0.56915812  0.27135835  0.74795034  1
+  Er  Er3  1  0.43084249  0.72864052  0.25204968  1
+  Mg  Mg4  1  0.50000031  0.49999982  0.00000010  1
+  Mg  Mg5  1  0.00000000  0.49999943  0.50000001  1
+  Ti  Ti6  1  0.50000031  -0.00000039  0.49999991  1
+  Ti  Ti7  1  0.00000000  0.00000000  0.00000000  1
+  O  O8  1  0.68757919  0.36015752  0.44246694  1
+  O  O9  1  0.31242143  0.63984134  0.55753307  1
+  O  O10  1  0.70196097  0.75241294  0.06406620  1
+  O  O11  1  0.29803965  0.24758592  0.93593382  1
+  O  O12  1  0.20196066  0.24758632  0.43593392  1
+  O  O13  1  0.54516106  0.12516617  0.25613854  1
+  O  O14  1  0.04516075  0.87483309  0.24386158  1
+  O  O15  1  0.95483987  0.12516577  0.75613844  1
+  O  O16  1  0.81242173  0.36015713  0.94246685  1
+  O  O17  1  0.45483956  0.87483270  0.74386148  1
+  O  O18  1  0.79803996  0.75241255  0.56406610  1
+  O  O19  1  0.18757888  0.63984174  0.05753317  1

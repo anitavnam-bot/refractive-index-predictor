@@ -1,0 +1,32 @@
+# generated using pymatgen
+data_CaAu2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.55965828
+_cell_length_b   5.94683672
+_cell_length_c   5.94683768
+_cell_angle_alpha   72.59441040
+_cell_angle_beta   67.45752197
+_cell_angle_gamma   67.45752148
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CaAu2
+_chemical_formula_sum   'Ca2 Au4'
+_cell_volume   135.34627635
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ca  Ca0  1  0.54135806  0.70864109  0.20864201  1
+  Ca  Ca1  1  0.45864100  0.29135729  0.79135885  1
+  Au  Au2  1  0.15894680  0.30493224  0.37717349  1
+  Au  Au3  1  0.84105225  0.69506614  0.62282737  1
+  Au  Au4  1  0.15894701  0.87717189  0.80493313  1
+  Au  Au5  1  0.84105204  0.12282649  0.19506773  1

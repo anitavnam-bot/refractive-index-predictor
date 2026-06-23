@@ -1,0 +1,29 @@
+# generated using pymatgen
+data_MoHO
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.95184556
+_cell_length_b   2.60224364
+_cell_length_c   2.67297492
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   58.30356260
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   MoHO
+_chemical_formula_sum   'Mo1 H1 O1'
+_cell_volume   29.30621691
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mo  Mo0  1  0.41005709  -0.14645950  0.00000000  1
+  H  H1  1  -0.08996216  -0.05457873  0.00000000  1
+  O  O2  1  -0.08993175  0.32886898  0.00000000  1

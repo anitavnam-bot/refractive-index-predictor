@@ -1,0 +1,33 @@
+# generated using pymatgen
+data_Nd2Fe2Si2C
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.99663522
+_cell_length_b   5.78494862
+_cell_length_c   5.91805685
+_cell_angle_alpha   73.27889597
+_cell_angle_beta   70.26535178
+_cell_angle_gamma   69.79171161
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Nd2Fe2Si2C
+_chemical_formula_sum   'Nd2 Fe2 Si2 C1'
+_cell_volume   118.57478437
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Nd  Nd0  1  0.05866228  0.68239296  0.20028043  1
+  Nd  Nd1  1  0.94133672  0.31760589  0.79972003  1
+  Fe  Fe2  1  0.69430234  0.19770192  0.41369234  1
+  Fe  Fe3  1  0.30569667  0.80229693  0.58630812  1
+  Si  Si4  1  0.32131592  0.11662435  0.24074226  1
+  Si  Si5  1  0.67868308  0.88337451  0.75925820  1
+  C  C6  1  0.49999950  0.49999943  0.50000023  1

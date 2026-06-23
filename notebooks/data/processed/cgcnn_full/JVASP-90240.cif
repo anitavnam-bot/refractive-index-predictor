@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_HfGeRh
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.90430010
+_cell_length_b   6.63650006
+_cell_length_c   6.63640980
+_cell_angle_alpha   120.00043842
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   HfGeRh
+_chemical_formula_sum   'Hf3 Ge3 Rh3'
+_cell_volume   148.91697427
+_cell_formula_units_Z   3
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Hf  Hf0  1  0.49999999  0.57666067  -0.00000020  1
+  Hf  Hf1  1  0.49999999  0.42331660  0.42332790  1
+  Hf  Hf2  1  0.49999999  0.99998972  0.57667199  1
+  Ge  Ge3  1  0.00000000  0.33332011  0.66666713  1
+  Ge  Ge4  1  0.00000000  0.66665331  0.33333289  1
+  Ge  Ge5  1  0.49999999  0.99999226  -0.00000035  1
+  Rh  Rh6  1  0.00000000  0.24893397  -0.00000009  1
+  Rh  Rh7  1  0.00000000  0.75104448  0.75105643  1
+  Rh  Rh8  1  0.00000000  0.99998833  0.24894334  1

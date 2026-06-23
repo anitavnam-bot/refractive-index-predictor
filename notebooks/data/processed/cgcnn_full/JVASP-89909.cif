@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_TmSiAg
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.13741946
+_cell_length_b   6.98963304
+_cell_length_c   6.98962152
+_cell_angle_alpha   120.00005884
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TmSiAg
+_chemical_formula_sum   'Tm3 Si3 Ag3'
+_cell_volume   175.05235724
+_cell_formula_units_Z   3
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tm  Tm0  1  0.50000006  0.58263884  0.00000030  1
+  Tm  Tm1  1  0.50000006  0.41734691  0.41735945  1
+  Tm  Tm2  1  0.50000006  0.99998752  0.58264033  1
+  Si  Si3  1  0.00000000  0.33332452  0.66666820  1
+  Si  Si4  1  0.00000000  0.66665618  0.33333137  1
+  Si  Si5  1  0.50000006  -0.00001798  -0.00000000  1
+  Ag  Ag6  1  0.00000000  0.25267699  0.00000013  1
+  Ag  Ag7  1  0.00000000  0.74730395  0.74731744  1
+  Ag  Ag8  1  0.00000000  0.99998552  0.25268252  1

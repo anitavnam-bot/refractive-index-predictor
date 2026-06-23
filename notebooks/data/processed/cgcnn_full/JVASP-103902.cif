@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_ZnH2C3O4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.19021429
+_cell_length_b   4.84763091
+_cell_length_c   5.87686665
+_cell_angle_alpha   78.74902157
+_cell_angle_beta   69.11553209
+_cell_angle_gamma   64.39130689
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ZnH2C3O4
+_chemical_formula_sum   'Zn1 H2 C3 O4'
+_cell_volume   100.45633073
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Zn  Zn0  1  0.47579769  0.07234455  0.39702412  1
+  H  H1  1  0.75912407  0.36836121  0.93732965  1
+  H  H2  1  0.59543170  0.77637168  0.85664978  1
+  C  C3  1  0.45313833  0.51155224  0.68131392  1
+  C  C4  1  0.53160360  0.57236385  0.89698698  1
+  C  C5  1  0.17665615  0.63315320  0.11267325  1
+  O  O6  1  0.32316221  0.72925528  0.53630852  1
+  O  O7  1  0.50716687  0.23507330  0.66618973  1
+  O  O8  1  0.11942495  0.41542011  0.25764752  1
+  O  O9  1  0.93906156  0.90963204  0.12782483  1

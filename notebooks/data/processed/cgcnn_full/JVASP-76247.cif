@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_Ba3FeN3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.05543651
+_cell_length_b   8.05543646
+_cell_length_c   5.62192453
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00000023
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ba3FeN3
+_chemical_formula_sum   'Ba6 Fe2 N6'
+_cell_volume   315.93213115
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.72606962  0.63720677  0.74999940  1
+  Ba  Ba1  1  0.08886230  0.72606929  0.24999980  1
+  Ba  Ba2  1  0.63720689  0.91113709  0.24999980  1
+  Ba  Ba3  1  0.36279313  0.08886255  0.74999940  1
+  Ba  Ba4  1  0.91113771  0.27393035  0.74999940  1
+  Ba  Ba5  1  0.27393039  0.36279287  0.24999980  1
+  Fe  Fe6  1  0.66666715  0.33333289  0.24999980  1
+  Fe  Fe7  1  0.33333286  0.66666675  0.74999940  1
+  N  N8  1  0.55625975  0.87316194  0.74999940  1
+  N  N9  1  0.68309868  0.55625968  0.24999980  1
+  N  N10  1  0.87316252  0.31690129  0.24999980  1
+  N  N11  1  0.12683750  0.68309836  0.74999940  1
+  N  N12  1  0.31690133  0.44373996  0.74999940  1
+  N  N13  1  0.44374027  0.12683770  0.24999980  1

@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_Cr4InAgS8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.24652051
+_cell_length_b   7.24652016
+_cell_length_c   7.24652132
+_cell_angle_alpha   59.99999921
+_cell_angle_beta   60.00000081
+_cell_angle_gamma   60.00000154
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Cr4InAgS8
+_chemical_formula_sum   'Cr4 In1 Ag1 S8'
+_cell_volume   269.07516302
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cr  Cr0  1  0.62105740  0.62105763  0.13682739  1
+  Cr  Cr1  1  0.62105743  0.13682746  0.62105743  1
+  Cr  Cr2  1  0.13682738  0.62105763  0.62105736  1
+  Cr  Cr3  1  0.62105740  0.62105763  0.62105739  1
+  In  In4  1  0.00000000  0.00000000  0.00000000  1
+  Ag  Ag5  1  0.24999995  0.25000004  0.24999995  1
+  S  S6  1  0.86000613  0.86000645  0.41998200  1
+  S  S7  1  0.86000615  0.41998218  0.86000615  1
+  S  S8  1  0.41998200  0.86000645  0.86000609  1
+  S  S9  1  0.86000613  0.86000645  0.86000611  1
+  S  S10  1  0.38966310  0.38966324  0.83101031  1
+  S  S11  1  0.38966307  0.83101062  0.38966305  1
+  S  S12  1  0.83101034  0.38966324  0.38966311  1
+  S  S13  1  0.38966310  0.38966324  0.38966309  1

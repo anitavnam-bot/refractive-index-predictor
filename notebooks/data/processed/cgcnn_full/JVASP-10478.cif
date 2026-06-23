@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_KLi6TaO6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.32370419
+_cell_length_b   5.32370475
+_cell_length_c   5.32370403
+_cell_angle_alpha   101.14929488
+_cell_angle_beta   101.14929433
+_cell_angle_gamma   101.14929329
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   KLi6TaO6
+_chemical_formula_sum   'K1 Li6 Ta1 O6'
+_cell_volume   141.00695756
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.49999951  0.50000003  0.49999924  1
+  Li  Li1  1  0.34432299  -0.00000017  0.65567639  1
+  Li  Li2  1  -0.00000023  0.65567715  0.34432259  1
+  Li  Li3  1  0.34432244  0.65567715  -0.00000045  1
+  Li  Li4  1  0.00000003  0.34432307  0.65567644  1
+  Li  Li5  1  0.65567655  -0.00000017  0.34432249  1
+  Li  Li6  1  0.65567626  0.34432307  -0.00000050  1
+  Ta  Ta7  1  0.00000000  0.00000000  0.00000000  1
+  O  O8  1  0.27267197  0.91473362  0.27267190  1
+  O  O9  1  0.27267250  0.27267247  0.91473258  1
+  O  O10  1  0.72732705  0.08526643  0.72732658  1
+  O  O11  1  0.72732652  0.72732758  0.08526590  1
+  O  O12  1  0.08526643  0.72732758  0.72732668  1
+  O  O13  1  0.91473259  0.27267248  0.27267180  1

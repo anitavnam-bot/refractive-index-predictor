@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_HoCrB4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.44748426
+_cell_length_b   5.89963053
+_cell_length_c   11.39889945
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   HoCrB4
+_chemical_formula_sum   'Ho4 Cr4 B16'
+_cell_volume   231.84088700
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ho  Ho0  1  -0.00000000  0.62430072  0.34931243  1
+  Ho  Ho1  1  -0.00000000  0.37569919  0.65068762  1
+  Ho  Ho2  1  -0.00000000  0.12430076  0.15068760  1
+  Ho  Ho3  1  -0.00000000  0.87569915  0.84931245  1
+  Cr  Cr4  1  -0.00000000  0.62196867  0.07930426  1
+  Cr  Cr5  1  -0.00000000  0.37803124  0.92069579  1
+  Cr  Cr6  1  -0.00000000  0.12196872  0.42069576  1
+  Cr  Cr7  1  -0.00000000  0.87803119  0.57930429  1
+  B  B8  1  0.49999938  0.02517746  0.69188236  1
+  B  B9  1  0.49999938  0.97482245  0.30811769  1
+  B  B10  1  0.49999938  0.61349681  0.95303292  1
+  B  B11  1  0.49999938  0.38650310  0.04696713  1
+  B  B12  1  0.49999938  0.11349685  0.54696715  1
+  B  B13  1  0.49999938  0.88650306  0.45303290  1
+  B  B14  1  0.49999938  0.63696875  0.53240513  1
+  B  B15  1  0.49999938  0.71924638  0.68411826  1
+  B  B16  1  0.49999938  0.13696879  0.96759495  1
+  B  B17  1  0.49999938  0.86303112  0.03240510  1
+  B  B18  1  0.49999938  0.47482249  0.19188233  1
+  B  B19  1  0.49999938  0.28075353  0.31588179  1
+  B  B20  1  0.49999938  0.21924642  0.81588181  1
+  B  B21  1  0.49999938  0.78075349  0.18411824  1
+  B  B22  1  0.49999938  0.36303116  0.46759492  1
+  B  B23  1  0.49999938  0.52517742  0.80811772  1

@@ -1,0 +1,48 @@
+# generated using pymatgen
+data_Al2Ge(HO3)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.02160937
+_cell_length_b   5.02160937
+_cell_length_c   9.47049409
+_cell_angle_alpha   78.83610001
+_cell_angle_beta   101.16389999
+_cell_angle_gamma   64.55377214
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Al2Ge(HO3)2
+_chemical_formula_sum   'Al4 Ge2 H4 O12'
+_cell_volume   200.97250808
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Al  Al0  1  0.46979272  0.29790910  0.91422676  1
+  Al  Al1  1  0.29790947  0.46979235  0.58577334  1
+  Al  Al2  1  0.53020826  0.70209139  0.08577330  1
+  Al  Al3  1  0.70209151  0.53020814  0.41422673  1
+  Ge  Ge4  1  0.02744685  0.02744648  0.75000005  1
+  Ge  Ge5  1  0.97255413  0.97255400  0.25000002  1
+  H  H6  1  0.92032838  0.38726593  0.94770337  1
+  H  H7  1  0.38726630  0.92032801  0.55229672  1
+  H  H8  1  0.07967261  0.61273456  0.05229669  1
+  H  H9  1  0.61273468  0.07967248  0.44770334  1
+  O  O10  1  0.48466004  0.71307823  0.54109751  1
+  O  O11  1  0.71307860  0.48465967  0.95890259  1
+  O  O12  1  0.35672166  0.83654894  0.23777618  1
+  O  O13  1  0.83654906  0.35672154  0.26222385  1
+  O  O14  1  0.64327932  0.16345155  0.76222389  1
+  O  O15  1  0.06944125  0.24655738  0.58886643  1
+  O  O16  1  0.75344323  0.93055960  0.08886640  1
+  O  O17  1  0.93055973  0.75344311  0.41113364  1
+  O  O18  1  0.24655775  0.06944088  0.91113367  1
+  O  O19  1  0.28692238  0.51534082  0.04109748  1
+  O  O20  1  0.16345192  0.64327895  0.73777621  1
+  O  O21  1  0.51534094  0.28692226  0.45890256  1

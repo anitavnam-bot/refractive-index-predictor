@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Li2SiO3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.70895770
+_cell_length_b   5.37812609
+_cell_length_c   5.40783545
+_cell_angle_alpha   119.81844109
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Li2SiO3
+_chemical_formula_sum   'Li4 Si2 O6'
+_cell_volume   118.82327294
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.00715959  0.83106580  0.34908846  1
+  Li  Li1  1  0.50715984  0.16893569  0.65091177  1
+  Li  Li2  1  0.50715984  0.51802374  0.34908836  1
+  Li  Li3  1  0.00715959  0.48197775  0.65091188  1
+  Si  Si4  1  0.50120008  0.82673408  0.00000029  1
+  Si  Si5  1  0.00119983  0.17326636  0.00000006  1
+  O  O6  1  0.85617750  0.88290611  0.00000031  1
+  O  O7  1  0.41655115  0.54213886  0.70746473  1
+  O  O8  1  0.41655115  0.83467394  0.29253564  1
+  O  O9  1  0.35617726  0.11709433  0.00000004  1
+  O  O10  1  0.91655140  0.16532755  0.70746460  1
+  O  O11  1  0.91655140  0.45786263  0.29253551  1

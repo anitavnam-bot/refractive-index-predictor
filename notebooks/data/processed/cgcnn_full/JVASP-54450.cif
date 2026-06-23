@@ -1,0 +1,37 @@
+# generated using pymatgen
+data_Tb3(MnGe)4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.11636405
+_cell_length_b   7.04889182
+_cell_length_c   7.96477547
+_cell_angle_alpha   116.26200613
+_cell_angle_beta   104.97357910
+_cell_angle_gamma   90.00153587
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Tb3(MnGe)4
+_chemical_formula_sum   'Tb3 Mn4 Ge4'
+_cell_volume   198.46085630
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tb  Tb0  1  0.87956120  0.87784632  0.75189935  1
+  Tb  Tb1  1  0.00363573  0.50191921  0.00006220  1
+  Tb  Tb2  1  0.12772034  0.12597257  0.24820292  1
+  Mn  Mn3  1  0.32564549  0.13442283  0.64402406  1
+  Mn  Mn4  1  0.68163655  0.49046407  0.35609917  1
+  Mn  Mn5  1  0.32567975  0.51332404  0.64402135  1
+  Mn  Mn6  1  0.68164338  0.86935627  0.35607113  1
+  Ge  Ge7  1  0.22410389  0.72237366  0.44100349  1
+  Ge  Ge8  1  0.50363487  0.20303311  0.00005685  1
+  Ge  Ge9  1  0.50362623  0.80078526  0.00003671  1
+  Ge  Ge10  1  0.78321084  0.28140334  0.55911276  1

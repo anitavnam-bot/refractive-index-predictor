@@ -1,0 +1,30 @@
+# generated using pymatgen
+data_MnHgS2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.04489683
+_cell_length_b   7.04489682
+_cell_length_c   7.04489693
+_cell_angle_alpha   33.77052553
+_cell_angle_beta   33.77052575
+_cell_angle_gamma   33.77052205
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   MnHgS2
+_chemical_formula_sum   'Mn1 Hg1 S2'
+_cell_volume   96.26379648
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mn  Mn0  1  0.49808962  0.49808985  0.49809002  1
+  Hg  Hg1  1  0.00285676  0.00285676  0.00285677  1
+  S  S2  1  0.13158671  0.13158677  0.13158681  1
+  S  S3  1  0.61746679  0.61746708  0.61746729  1

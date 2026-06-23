@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_ZnB11
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.21688146
+_cell_length_b   5.61643609
+_cell_length_c   5.21688126
+_cell_angle_alpha   54.32528844
+_cell_angle_beta   56.75177953
+_cell_angle_gamma   54.32528579
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ZnB11
+_chemical_formula_sum   'Zn1 B11'
+_cell_volume   95.71922126
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Zn  Zn0  1  0.02709243  0.59153466  0.02709303  1
+  B  B1  1  0.00236648  0.04736977  0.63359247  1
+  B  B2  1  0.63359322  0.04736970  0.00236665  1
+  B  B3  1  0.35415971  0.98048607  0.99692847  1
+  B  B4  1  0.97611338  0.30690567  0.97611266  1
+  B  B5  1  0.99692861  0.98048600  0.35416050  1
+  B  B6  1  0.24038057  0.64039971  0.24038100  1
+  B  B7  1  0.21612217  0.21581941  0.62187533  1
+  B  B8  1  0.62187585  0.21581937  0.21612225  1
+  B  B9  1  0.39226547  0.80026550  0.77664469  1
+  B  B10  1  0.76245112  0.37328260  0.76245070  1
+  B  B11  1  0.77664475  0.80026546  0.39226598  1

@@ -1,0 +1,31 @@
+# generated using pymatgen
+data_BaGe3Ir
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.61335573
+_cell_length_b   4.61335573
+_cell_length_c   6.10614851
+_cell_angle_alpha   112.19519537
+_cell_angle_beta   112.19519537
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   BaGe3Ir
+_chemical_formula_sum   'Ba1 Ge3 Ir1'
+_cell_volume   109.85750266
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.58976097  0.58976097  0.17952101  1
+  Ge  Ge1  1  0.00087432  0.00087432  0.00174763  1
+  Ge  Ge2  1  0.84199840  0.34199794  0.68399588  1
+  Ge  Ge3  1  0.34199794  0.84199840  0.68399588  1
+  Ir  Ir4  1  0.24037098  0.24037098  0.48074096  1

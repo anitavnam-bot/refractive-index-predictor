@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_UInPt
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.14941409
+_cell_length_b   7.40890539
+_cell_length_c   7.40818575
+_cell_angle_alpha   120.00320019
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   UInPt
+_chemical_formula_sum   'U3 In3 Pt3'
+_cell_volume   197.22833784
+_cell_formula_units_Z   3
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  U  U0  1  0.49999951  0.58410998  -0.00000025  1
+  U  U1  1  0.49999951  0.41584698  0.41589098  1
+  U  U2  1  0.49999951  0.99995518  0.58410755  1
+  In  In3  1  0.00000000  0.25049149  -0.00000011  1
+  In  In4  1  0.00000000  0.74951188  0.74955600  1
+  In  In5  1  0.00000000  0.99995591  0.25044238  1
+  Pt  Pt6  1  0.00000000  0.33330909  0.66663425  1
+  Pt  Pt7  1  0.00000000  0.66667405  0.33336445  1
+  Pt  Pt8  1  0.49999951  0.00004363  -0.00000000  1

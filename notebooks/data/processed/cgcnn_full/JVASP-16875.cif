@@ -1,0 +1,32 @@
+# generated using pymatgen
+data_PrPIr
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.14719895
+_cell_length_b   4.14719955
+_cell_length_c   7.73163369
+_cell_angle_alpha   105.55699551
+_cell_angle_beta   105.55699972
+_cell_angle_gamma   89.99999730
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   PrPIr
+_chemical_formula_sum   'Pr2 P2 Ir2'
+_cell_volume   123.04208839
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Pr  Pr0  1  0.75050693  0.25050577  0.50101218  1
+  Pr  Pr1  1  0.00050601  0.00050601  0.00101202  1
+  P  P2  1  0.32996443  0.82996333  0.65992621  1
+  P  P3  1  0.57996408  0.57996356  0.15992599  1
+  Ir  Ir4  1  0.41255154  0.41255011  0.82510130  1
+  Ir  Ir5  1  0.16255100  0.66255048  0.32510108  1

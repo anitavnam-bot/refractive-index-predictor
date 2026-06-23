@@ -1,0 +1,33 @@
+# generated using pymatgen
+data_Fe3S4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   10.94049879
+_cell_length_b   10.94049894
+_cell_length_c   10.94049813
+_cell_angle_alpha   17.38584203
+_cell_angle_beta   17.38584248
+_cell_angle_gamma   17.38583906
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Fe3S4
+_chemical_formula_sum   'Fe3 S4'
+_cell_volume   102.03207601
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Fe  Fe0  1  0.58411147  0.58411393  0.58411125  1
+  Fe  Fe1  1  0.41588731  0.41588907  0.41588715  1
+  Fe  Fe2  1  0.49999939  0.50000150  0.49999920  1
+  S  S3  1  0.87210036  0.87210404  0.87210003  1
+  S  S4  1  0.12789842  0.12789896  0.12789837  1
+  S  S5  1  0.71363250  0.71363551  0.71363222  1
+  S  S6  1  0.28636628  0.28636749  0.28636617  1

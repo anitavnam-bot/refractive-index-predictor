@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_K3ScCl6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.58353365
+_cell_length_b   7.58353354
+_cell_length_c   7.58353358
+_cell_angle_alpha   59.99999574
+_cell_angle_beta   59.99999621
+_cell_angle_gamma   59.99999700
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   K3ScCl6
+_chemical_formula_sum   'K3 Sc1 Cl6'
+_cell_volume   308.38966142
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.74999995  0.75000013  0.75000014  1
+  K  K1  1  0.24999998  0.25000004  0.25000005  1
+  K  K2  1  0.49999997  0.50000009  0.50000010  1
+  Sc  Sc3  1  0.00000000  0.00000000  0.00000000  1
+  Cl  Cl4  1  0.76938107  0.23061875  0.23061905  1
+  Cl  Cl5  1  0.23061869  0.23061875  0.76938108  1
+  Cl  Cl6  1  0.23061887  0.76938143  0.76938114  1
+  Cl  Cl7  1  0.23061886  0.76938143  0.23061881  1
+  Cl  Cl8  1  0.76938107  0.23061875  0.76938138  1
+  Cl  Cl9  1  0.76938124  0.76938143  0.23061911  1

@@ -1,0 +1,29 @@
+# generated using pymatgen
+data_Hf2Cu
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.16747216
+_cell_length_b   3.16747188
+_cell_length_c   5.98607344
+_cell_angle_alpha   105.34141810
+_cell_angle_beta   105.34141037
+_cell_angle_gamma   90.00000062
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Hf2Cu
+_chemical_formula_sum   'Hf2 Cu1'
+_cell_volume   55.69525072
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Hf  Hf0  1  0.34336369  0.34336385  0.68672921  1
+  Hf  Hf1  1  0.65663407  0.65663598  0.31326928  1
+  Cu  Cu2  1  0.00000000  0.00000000  0.00000000  1

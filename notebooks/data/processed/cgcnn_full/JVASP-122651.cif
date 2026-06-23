@@ -1,0 +1,30 @@
+# generated using pymatgen
+data_CaGa3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.78668737
+_cell_length_b   5.78668657
+_cell_length_c   4.31347527
+_cell_angle_alpha   69.54344041
+_cell_angle_beta   110.45656011
+_cell_angle_gamma   136.17724347
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CaGa3
+_chemical_formula_sum   'Ca1 Ga3'
+_cell_volume   92.64657758
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ca  Ca0  1  0.06297326  0.93702837  0.93712503  1
+  Ga  Ga1  1  0.43610652  0.56389501  0.31926467  1
+  Ga  Ga2  1  0.81252688  0.18747475  0.18062148  1
+  Ga  Ga3  1  0.68839514  0.31160659  0.56298961  1

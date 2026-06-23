@@ -1,0 +1,32 @@
+# generated using pymatgen
+data_Eu2Mg
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.78880870
+_cell_length_b   8.78880871
+_cell_length_c   5.51056217
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   155.55499334
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Eu2Mg
+_chemical_formula_sum   'Eu4 Mg2'
+_cell_volume   176.14367260
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Eu  Eu0  1  0.09082303  0.90917724  0.24999990  1
+  Eu  Eu1  1  0.77207637  0.22792212  0.24999990  1
+  Eu  Eu2  1  0.90917586  0.09082227  0.74999970  1
+  Eu  Eu3  1  0.22792253  0.77207739  0.74999970  1
+  Mg  Mg4  1  0.43263142  0.56736796  0.24999990  1
+  Mg  Mg5  1  0.56736748  0.43263155  0.74999970  1

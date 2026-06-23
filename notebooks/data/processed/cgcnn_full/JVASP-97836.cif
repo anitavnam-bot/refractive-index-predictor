@@ -1,0 +1,48 @@
+# generated using pymatgen
+data_Ho3TaO7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.44342440
+_cell_length_b   6.44342440
+_cell_length_c   7.42885528
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   108.83015202
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ho3TaO7
+_chemical_formula_sum   'Ho6 Ta2 O14'
+_cell_volume   291.92184903
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ho  Ho0  1  0.46432258  0.00012592  0.00851969  1
+  Ho  Ho1  1  0.53567727  -0.00012533  0.50852001  1
+  Ho  Ho2  1  0.00012535  0.46432281  0.49148063  1
+  Ho  Ho3  1  -0.00012598  0.53567754  0.99148095  1
+  Ho  Ho4  1  0.46754010  0.46754090  0.75000048  1
+  Ho  Ho5  1  0.53245912  0.53246004  0.25000016  1
+  Ta  Ta6  1  0.99816725  0.99816896  0.75000048  1
+  Ta  Ta7  1  0.00183197  0.00183198  0.25000016  1
+  O  O8  1  0.08297980  0.32941395  0.77509693  1
+  O  O9  1  0.91701943  0.67058698  0.27509661  1
+  O  O10  1  0.94663746  0.68902375  0.70574943  1
+  O  O11  1  0.92988574  0.07011465  0.50000032  1
+  O  O12  1  0.31097697  0.05336217  0.29425121  1
+  O  O13  1  0.67058554  0.91702070  0.22490371  1
+  O  O14  1  0.32941369  0.08298024  0.72490403  1
+  O  O15  1  0.62940487  0.37059530  0.00000000  1
+  O  O16  1  0.37059435  0.62940564  0.50000032  1
+  O  O17  1  0.63899137  0.36100881  0.50000032  1
+  O  O18  1  0.36100785  0.63899213  0.00000000  1
+  O  O19  1  0.07011348  0.92988629  0.00000000  1
+  O  O20  1  0.68902226  0.94663877  0.79425152  1
+  O  O21  1  0.05336177  0.31097719  0.20574911  1

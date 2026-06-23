@@ -1,0 +1,33 @@
+# generated using pymatgen
+data_MnInGaS4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   12.60174434
+_cell_length_b   12.60174440
+_cell_length_c   12.60174361
+_cell_angle_alpha   17.39246319
+_cell_angle_beta   17.39246126
+_cell_angle_gamma   17.39246755
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   MnInGaS4
+_chemical_formula_sum   'Mn1 In1 Ga1 S4'
+_cell_volume   156.04162156
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mn  Mn0  1  0.23270677  0.23270700  0.23270638  1
+  In  In1  1  0.76673852  0.76673925  0.76673722  1
+  Ga  Ga2  1  0.99643469  0.99643565  0.99643302  1
+  S  S3  1  0.13179274  0.13179287  0.13179252  1
+  S  S4  1  0.87823838  0.87823922  0.87823690  1
+  S  S5  1  0.70078090  0.70078158  0.70077972  1
+  S  S6  1  0.29730884  0.29730912  0.29730834  1

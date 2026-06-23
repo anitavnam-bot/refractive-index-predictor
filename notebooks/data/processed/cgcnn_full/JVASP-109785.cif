@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_BaNdFeCoO6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.88219219
+_cell_length_b   3.88219219
+_cell_length_c   7.70221370
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   BaNdFeCoO6
+_chemical_formula_sum   'Ba1 Nd1 Fe1 Co1 O6'
+_cell_volume   116.08326797
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.00000000  0.00000000  0.99702596  1
+  Nd  Nd1  1  0.00000000  0.00000000  0.50478935  1
+  Fe  Fe2  1  0.49999972  0.49999972  0.25358386  1
+  Co  Co3  1  0.49999972  0.49999972  0.74942245  1
+  O  O4  1  0.49999972  0.49999972  0.00626384  1
+  O  O5  1  -0.00000000  0.49999972  0.72462533  1
+  O  O6  1  0.49999972  0.00000000  0.72462533  1
+  O  O7  1  -0.00000000  0.49999972  0.27097406  1
+  O  O8  1  0.49999972  0.00000000  0.27097406  1
+  O  O9  1  0.49999972  0.49999972  0.49771335  1

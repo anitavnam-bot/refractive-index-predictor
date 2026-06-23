@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_K3CeBr6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.37788840
+_cell_length_b   8.37788840
+_cell_length_c   8.37788840
+_cell_angle_alpha   60.00000000
+_cell_angle_beta   60.00000000
+_cell_angle_gamma   60.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   K3CeBr6
+_chemical_formula_sum   'K3 Ce1 Br6'
+_cell_volume   415.80405048
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.74999967  0.75000030  0.74999941  1
+  K  K1  1  0.24999989  0.25000010  0.24999980  1
+  K  K2  1  0.49999978  0.50000020  0.49999960  1
+  Ce  Ce3  1  0.00000000  0.00000000  0.00000000  1
+  Br  Br4  1  0.75714372  0.24285597  0.24285557  1
+  Br  Br5  1  0.24285577  0.24285597  0.75714403  1
+  Br  Br6  1  0.24285583  0.75714443  0.75714364  1
+  Br  Br7  1  0.24285583  0.75714443  0.24285529  1
+  Br  Br8  1  0.75714372  0.24285597  0.75714392  1
+  Br  Br9  1  0.75714379  0.75714443  0.24285518  1

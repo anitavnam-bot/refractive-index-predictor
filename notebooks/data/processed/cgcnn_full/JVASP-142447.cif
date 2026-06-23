@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_Er10Ga5Co
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.75316826
+_cell_length_b   8.70557648
+_cell_length_c   7.39924065
+_cell_angle_alpha   65.25870505
+_cell_angle_beta   64.59111522
+_cell_angle_gamma   50.15017973
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Er10Ga5Co
+_chemical_formula_sum   'Er10 Ga5 Co1'
+_cell_volume   382.52455477
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Er  Er0  1  0.81749943  0.47434870  0.52565048  1
+  Er  Er1  1  0.46886365  0.82189698  0.17810228  1
+  Er  Er2  1  0.31048190  0.98157091  0.69229038  1
+  Er  Er3  1  0.98434395  0.30770918  0.01842796  1
+  Er  Er4  1  0.17810225  0.53113535  0.46886419  1
+  Er  Er5  1  0.52565026  0.18249930  0.81750015  1
+  Er  Er6  1  0.69229007  0.01565508  0.31048234  1
+  Er  Er7  1  0.01842802  0.68951681  0.98434476  1
+  Er  Er8  1  0.48008060  0.51991870  0.00912424  1
+  Er  Er9  1  0.00912413  0.99087494  0.48008096  1
+  Ga  Ga10  1  0.75196426  0.74803420  0.75196483  1
+  Ga  Ga11  1  0.25196459  0.24803489  0.25196478  1
+  Ga  Ga12  1  0.87983338  0.12016529  0.87983397  1
+  Ga  Ga13  1  0.62725886  0.37274018  0.37762772  1
+  Ga  Ga14  1  0.37762741  0.62237151  0.62725930  1
+  Co  Co15  1  0.12648097  0.87351831  0.12648114  1

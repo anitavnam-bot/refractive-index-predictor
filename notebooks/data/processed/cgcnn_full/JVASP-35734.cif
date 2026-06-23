@@ -1,0 +1,30 @@
+# generated using pymatgen
+data_CrAgTe2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.08109033
+_cell_length_b   4.08108961
+_cell_length_c   7.64924901
+_cell_angle_alpha   74.52819558
+_cell_angle_beta   74.52819817
+_cell_angle_gamma   59.99999785
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CrAgTe2
+_chemical_formula_sum   'Cr1 Ag1 Te2'
+_cell_volume   104.96725793
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cr  Cr0  1  0.99848282  0.99848314  0.00455440  1
+  Ag  Ag1  1  0.14384868  0.14384912  0.56845475  1
+  Te  Te2  1  0.26736620  0.26736642  0.19790308  1
+  Te  Te3  1  0.73430512  0.73430592  0.79708671  1

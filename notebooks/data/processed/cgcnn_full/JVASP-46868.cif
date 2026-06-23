@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_LiSi2NiO6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.34871979
+_cell_length_b   5.37962037
+_cell_length_c   5.49726226
+_cell_angle_alpha   89.99987875
+_cell_angle_beta   90.00004230
+_cell_angle_gamma   119.80952441
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LiSi2NiO6
+_chemical_formula_sum   'Li1 Si2 Ni1 O6'
+_cell_volume   137.24891986
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.00002573  -0.00000070  0.00000734  1
+  Si  Si1  1  0.00000558  0.50000444  0.66766955  1
+  Si  Si2  1  0.50000104  0.49999700  0.33232956  1
+  Ni  Ni3  1  0.50002670  0.00000087  -0.00000529  1
+  O  O4  1  0.15219360  0.78848338  0.83662994  1
+  O  O5  1  0.24122764  0.48251271  0.49995519  1
+  O  O6  1  0.63633585  0.78847027  0.16335446  1
+  O  O7  1  0.36371294  0.21151775  0.16336719  1
+  O  O8  1  0.75871499  0.51748808  0.50004390  1
+  O  O9  1  0.84787094  0.21153332  0.83664485  1

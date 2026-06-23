@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_LiCaPrTeO6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.52912871
+_cell_length_b   5.72867659
+_cell_length_c   9.54438843
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   124.85769543
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LiCaPrTeO6
+_chemical_formula_sum   'Li2 Ca2 Pr2 Te2 O12'
+_cell_volume   248.07152399
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.50026007  0.26404872  0.00153041  1
+  Li  Li1  1  0.50025987  0.73595187  0.50153066  1
+  Ca  Ca2  1  0.26346197  0.69488716  0.75045200  1
+  Ca  Ca3  1  0.26346217  0.30511343  0.25045175  1
+  Pr  Pr4  1  0.73413892  0.19207225  0.74803928  1
+  Pr  Pr5  1  0.73413912  0.80792835  0.24803902  1
+  Te  Te6  1  0.99938180  0.74367129  0.99923552  1
+  Te  Te7  1  0.99938200  0.25632931  0.49923527  1
+  O  O8  1  0.66904040  0.06482672  0.45423858  1
+  O  O9  1  0.33014756  0.55543386  0.04492264  1
+  O  O10  1  0.76346925  0.53585838  0.45069366  1
+  O  O11  1  0.14909938  0.28440970  0.73954699  1
+  O  O12  1  0.85450533  0.22432044  0.26009713  1
+  O  O13  1  0.76346905  0.46414222  0.95069392  1
+  O  O14  1  0.66904020  0.93517387  0.95423884  1
+  O  O15  1  0.33014737  0.44456673  0.54492289  1
+  O  O16  1  0.23649938  0.02783176  0.05124660  1
+  O  O17  1  0.14909958  0.71559089  0.23954674  1
+  O  O18  1  0.23649918  0.97216884  0.55124686  1
+  O  O19  1  0.85450513  0.77568016  0.76009739  1

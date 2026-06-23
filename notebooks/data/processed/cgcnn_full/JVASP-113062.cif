@@ -1,0 +1,44 @@
+# generated using pymatgen
+data_RbCoNiF6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.06188114
+_cell_length_b   7.06188114
+_cell_length_c   7.06188114
+_cell_angle_alpha   119.86440307
+_cell_angle_beta   120.25267345
+_cell_angle_gamma   89.89896810
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   RbCoNiF6
+_chemical_formula_sum   'Rb2 Co2 Ni2 F12'
+_cell_volume   248.80253395
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Rb  Rb0  1  0.37761471  0.62761404  0.75000005  1
+  Rb  Rb1  1  0.62238616  0.37238587  0.25000044  1
+  Co  Co2  1  0.00000000  0.00000000  0.00000000  1
+  Co  Co3  1  0.50000005  -0.00000000  0.50000003  1
+  Ni  Ni4  1  -0.00000010  -0.00000021  0.49999968  1
+  Ni  Ni5  1  0.00000038  0.49999995  0.00000022  1
+  F  F6  1  0.08517973  0.93443759  0.76930264  1
+  F  F7  1  0.66513560  0.31587640  0.73069746  1
+  F  F8  1  0.08570669  0.33570624  0.74999972  1
+  F  F9  1  0.68539323  0.93539234  0.75000041  1
+  F  F10  1  0.91482149  0.68412350  0.84925924  1
+  F  F11  1  0.33486527  0.68412350  0.26930304  1
+  F  F12  1  0.91482113  0.06556231  0.23069785  1
+  F  F13  1  0.66513614  0.93443802  0.34925949  1
+  F  F14  1  0.91429417  0.66429366  0.25000078  1
+  F  F15  1  0.31460764  0.06460756  0.25000009  1
+  F  F16  1  0.33486472  0.06556188  0.65074101  1
+  F  F17  1  0.08517938  0.31587640  0.15074126  1

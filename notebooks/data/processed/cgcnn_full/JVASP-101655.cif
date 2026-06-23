@@ -1,0 +1,34 @@
+# generated using pymatgen
+data_MnCu2GeTe4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.42170893
+_cell_length_b   7.42170893
+_cell_length_c   7.42170893
+_cell_angle_alpha   131.53599983
+_cell_angle_beta   131.53599983
+_cell_angle_gamma   70.96285938
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   MnCu2GeTe4
+_chemical_formula_sum   'Mn1 Cu2 Ge1 Te4'
+_cell_volume   224.30626852
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mn  Mn0  1  0.00000000  0.00000000  0.00000000  1
+  Cu  Cu1  1  0.24999907  0.74999985  0.49999958  1
+  Cu  Cu2  1  0.74999912  0.25000014  0.49999980  1
+  Ge  Ge3  1  0.49999947  0.50000027  0.00000044  1
+  Te  Te4  1  0.37862183  0.88680254  0.00000044  1
+  Te  Te5  1  0.88680171  0.37862301  0.00000067  1
+  Te  Te6  1  0.11319716  0.11319744  0.49181953  1
+  Te  Te7  1  0.62137644  0.62137753  0.50817961  1

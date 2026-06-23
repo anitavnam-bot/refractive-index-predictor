@@ -1,0 +1,33 @@
+# generated using pymatgen
+data_SrNdMnO4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.83034662
+_cell_length_b   6.83034662
+_cell_length_c   6.83034662
+_cell_angle_alpha   147.33778660
+_cell_angle_beta   147.33778660
+_cell_angle_gamma   46.86389305
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   SrNdMnO4
+_chemical_formula_sum   'Sr1 Nd1 Mn1 O4'
+_cell_volume   92.47040480
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sr  Sr0  1  0.64300883  0.64300833  -0.00000014  1
+  Nd  Nd1  1  0.36015005  0.36014977  -0.00000008  1
+  Mn  Mn2  1  0.00255807  0.00255806  -0.00000000  1
+  O  O3  1  0.83506305  0.83506240  -0.00000018  1
+  O  O4  1  0.17341706  0.17341692  -0.00000004  1
+  O  O5  1  0.99290280  0.49290199  0.50000019  1
+  O  O6  1  0.49290299  0.99290300  0.50000120  1

@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_MgCo(SiO3)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.96843973
+_cell_length_b   6.49969939
+_cell_length_c   6.49969905
+_cell_angle_alpha   85.81536641
+_cell_angle_beta   81.70446195
+_cell_angle_gamma   81.70447054
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   MgCo(SiO3)2
+_chemical_formula_sum   'Mg2 Co2 Si4 O12'
+_cell_volume   205.23609511
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mg  Mg0  1  0.75000102  0.27161047  0.72838840  1
+  Mg  Mg1  1  0.25000206  0.72838800  0.27161194  1
+  Co  Co2  1  0.24999977  0.08516567  0.91483415  1
+  Co  Co3  1  0.75000030  0.91483480  0.08516519  1
+  Si  Si4  1  0.29022011  0.20870311  0.39410237  1
+  Si  Si5  1  0.20978072  0.60589665  0.79129563  1
+  Si  Si6  1  0.79022036  0.39410181  0.20870371  1
+  Si  Si7  1  0.70978196  0.79129536  0.60589697  1
+  O  O8  1  0.64242242  0.97100037  0.77760667  1
+  O  O9  1  0.85757990  0.22239095  0.02899886  1
+  O  O10  1  0.63134159  0.61695318  0.14492245  1
+  O  O11  1  0.86865986  0.85507740  0.38304588  1
+  O  O12  1  0.36865949  0.38304429  0.85507689  1
+  O  O13  1  -0.08934781  0.58504405  0.70457240  1
+  O  O14  1  0.08934856  0.41495506  0.29542628  1
+  O  O15  1  0.41065341  0.70457248  0.58504500  1
+  O  O16  1  0.35757865  0.02899810  0.22239267  1
+  O  O17  1  0.58934967  0.29542699  0.41495435  1
+  O  O18  1  0.13134222  0.14492107  0.61695347  1
+  O  O19  1  0.14242318  0.77760752  0.97100048  1

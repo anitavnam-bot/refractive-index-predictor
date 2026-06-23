@@ -1,0 +1,41 @@
+# generated using pymatgen
+data_Na4Cu(AsO4)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.89120991
+_cell_length_b   5.88557169
+_cell_length_c   6.96964889
+_cell_angle_alpha   97.44419150
+_cell_angle_beta   90.40292814
+_cell_angle_gamma   106.86757981
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Na4Cu(AsO4)2
+_chemical_formula_sum   'Na4 Cu1 As2 O8'
+_cell_volume   190.17833202
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.28425263  0.56683413  0.16835320  1
+  Na  Na1  1  0.71574824  0.43316735  0.83164789  1
+  Na  Na2  1  0.15629121  0.25256000  0.58307108  1
+  Na  Na3  1  0.84370966  0.74744147  0.41693000  1
+  Cu  Cu4  1  0.00000000  0.00000000  0.00000000  1
+  As  As5  1  0.40280842  0.80382532  0.73239493  1
+  As  As6  1  0.59719245  0.19617616  0.26760616  1
+  O  O7  1  0.68634883  0.27178961  0.50972754  1
+  O  O8  1  0.22525895  0.14406144  0.24493785  1
+  O  O9  1  0.23698677  0.56044197  0.84455352  1
+  O  O10  1  0.77474192  0.85594003  0.75506324  1
+  O  O11  1  0.76301410  0.43955950  0.15544757  1
+  O  O12  1  0.67145353  0.93544058  0.16444110  1
+  O  O13  1  0.32854734  0.06456089  0.83555999  1
+  O  O14  1  0.31365204  0.72821186  0.49027354  1

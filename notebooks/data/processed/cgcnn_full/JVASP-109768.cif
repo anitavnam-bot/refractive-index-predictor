@@ -1,0 +1,32 @@
+# generated using pymatgen
+data_CeOsRu
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.44219515
+_cell_length_b   5.44219515
+_cell_length_c   5.44219515
+_cell_angle_alpha   124.21220973
+_cell_angle_beta   119.29580971
+_cell_angle_gamma   87.04346991
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CeOsRu
+_chemical_formula_sum   'Ce2 Os2 Ru2'
+_cell_volume   110.52014137
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ce  Ce0  1  0.12458661  0.87458550  0.25000064  1
+  Ce  Ce1  1  0.87541407  0.12541378  0.74999989  1
+  Os  Os2  1  0.50000034  0.49999964  0.50000026  1
+  Os  Os3  1  0.49999953  -0.00000034  -0.00000025  1
+  Ru  Ru4  1  0.49999976  0.49999931  0.00000010  1
+  Ru  Ru5  1  0.00000081  0.49999998  0.50000052  1

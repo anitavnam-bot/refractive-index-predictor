@@ -1,0 +1,52 @@
+# generated using pymatgen
+data_Na3CrBAsO7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.29236684
+_cell_length_b   6.65109671
+_cell_length_c   9.05005200
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   91.83448007
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Na3CrBAsO7
+_chemical_formula_sum   'Na6 Cr2 B2 As2 O14'
+_cell_volume   318.39895520
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.23639749  0.75000037  0.07292317  1
+  Na  Na1  1  0.75299220  0.99864065  0.24632926  1
+  Na  Na2  1  0.75299220  0.50136009  0.24632926  1
+  Na  Na3  1  0.24700822  0.49864040  0.75367067  1
+  Na  Na4  1  0.24700822  0.00135984  0.75367067  1
+  Na  Na5  1  0.76360293  0.25000012  0.92707677  1
+  Cr  Cr6  1  0.21928938  0.25000012  0.32713867  1
+  Cr  Cr7  1  0.78071104  0.75000037  0.67286127  1
+  B  B8  1  0.72076515  0.75000037  0.93603158  1
+  B  B9  1  0.27923527  0.25000012  0.06396836  1
+  As  As10  1  0.28611731  0.75000037  0.42382895  1
+  As  As11  1  0.71388311  0.25000012  0.57617099  1
+  O  O12  1  0.52602699  0.75000037  0.82648373  1
+  O  O13  1  0.79112851  0.05166497  0.69174939  1
+  O  O14  1  0.79112851  0.44833528  0.69174939  1
+  O  O15  1  0.39178490  0.25000012  0.53375796  1
+  O  O16  1  0.12728896  0.75000037  0.58478006  1
+  O  O17  1  0.87271146  0.25000012  0.41521987  1
+  O  O18  1  0.68549501  0.75000037  0.08218537  1
+  O  O19  1  0.20887191  0.55166521  0.30825055  1
+  O  O20  1  0.20887191  0.94833553  0.30825055  1
+  O  O21  1  0.47397343  0.25000012  0.17351620  1
+  O  O22  1  0.04251770  0.25000012  0.13051112  1
+  O  O23  1  0.95748272  0.75000037  0.86948882  1
+  O  O24  1  0.60821553  0.75000037  0.46624198  1
+  O  O25  1  0.31450541  0.25000012  0.91781456  1

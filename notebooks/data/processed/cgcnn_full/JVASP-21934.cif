@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Ge2Mo
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.48800888
+_cell_length_b   6.42770455
+_cell_length_c   8.64861553
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ge2Mo
+_chemical_formula_sum   'Ge8 Mo4'
+_cell_volume   193.90101370
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ge  Ge0  1  0.25000008  0.43847988  0.13443679  1
+  Ge  Ge1  1  0.75000024  0.56151941  0.86556373  1
+  Ge  Ge2  1  0.25000008  0.93847952  0.36556347  1
+  Ge  Ge3  1  0.75000024  0.06151977  0.63443704  1
+  Ge  Ge4  1  0.75000024  0.13569768  0.04133293  1
+  Ge  Ge5  1  0.25000008  0.86430161  0.95866759  1
+  Ge  Ge6  1  0.75000024  0.63569732  0.45866733  1
+  Ge  Ge7  1  0.25000008  0.36430197  0.54133318  1
+  Mo  Mo8  1  0.25000008  0.74997014  0.67034963  1
+  Mo  Mo9  1  0.75000024  0.25002915  0.32965088  1
+  Mo  Mo10  1  0.25000008  0.24997049  0.82965114  1
+  Mo  Mo11  1  0.75000024  0.75002880  0.17034937  1

@@ -1,0 +1,34 @@
+# generated using pymatgen
+data_LaMg6W
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.54246379
+_cell_length_b   6.54246286
+_cell_length_c   5.02093258
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   121.79946486
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LaMg6W
+_chemical_formula_sum   'La1 Mg6 W1'
+_cell_volume   182.65585298
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  La  La0  1  0.19964914  0.30035080  0.24999987  1
+  Mg  Mg1  1  0.18514963  0.82784027  0.24999987  1
+  Mg  Mg2  1  0.67215970  0.31485032  0.24999987  1
+  Mg  Mg3  1  0.66307154  0.83692846  0.24999987  1
+  Mg  Mg4  1  0.32718963  0.68645383  0.74999962  1
+  Mg  Mg5  1  0.81354654  0.17281073  0.74999962  1
+  Mg  Mg6  1  0.82427355  0.67572691  0.74999962  1
+  W  W7  1  0.31496014  0.18504012  0.74999962  1

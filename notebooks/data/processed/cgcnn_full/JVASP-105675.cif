@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_Na2HgAsF6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.40986605
+_cell_length_b   6.40986533
+_cell_length_c   6.40986525
+_cell_angle_alpha   59.99999540
+_cell_angle_beta   59.99999908
+_cell_angle_gamma   59.99999860
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Na2HgAsF6
+_chemical_formula_sum   'Na2 Hg1 As1 F6'
+_cell_volume   186.22232259
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.25000025  0.24999986  0.24999988  1
+  Na  Na1  1  0.75000076  0.74999958  0.74999965  1
+  Hg  Hg2  1  0.50000051  0.49999972  0.49999977  1
+  As  As3  1  0.00000000  0.00000000  0.00000000  1
+  F  F4  1  0.22246466  0.22246431  0.77753587  1
+  F  F5  1  0.22246491  0.77753513  0.77753563  1
+  F  F6  1  0.77753636  0.77753513  0.22246366  1
+  F  F7  1  0.22246490  0.77753513  0.22246409  1
+  F  F8  1  0.77753611  0.22246431  0.77753544  1
+  F  F9  1  0.77753611  0.22246431  0.22246390  1

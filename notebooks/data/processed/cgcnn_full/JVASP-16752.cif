@@ -1,0 +1,34 @@
+# generated using pymatgen
+data_ErSi2Ni
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.95373312
+_cell_length_b   3.95436441
+_cell_length_c   8.50434909
+_cell_angle_alpha   103.44375842
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ErSi2Ni
+_chemical_formula_sum   'Er2 Si4 Ni2'
+_cell_volume   129.31793446
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Er  Er0  1  0.24999980  0.89483697  0.78967727  1
+  Er  Er1  1  0.74999941  0.10516131  0.21032322  1
+  Si  Si2  1  0.24999980  0.25029861  0.50059766  1
+  Si  Si3  1  0.74999941  0.74969966  0.49940282  1
+  Si  Si4  1  0.74999941  0.45995268  0.91990900  1
+  Si  Si5  1  0.24999980  0.54004559  0.08009148  1
+  Ni  Ni6  1  0.74999941  0.32367341  0.64734867  1
+  Ni  Ni7  1  0.24999980  0.67632487  0.35265181  1

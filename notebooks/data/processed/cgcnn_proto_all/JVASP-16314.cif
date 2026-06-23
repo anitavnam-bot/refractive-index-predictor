@@ -1,0 +1,31 @@
+# generated using pymatgen
+data_Ba(GeRh)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.22320772
+_cell_length_b   4.22320711
+_cell_length_c   6.75241930
+_cell_angle_alpha   108.22311279
+_cell_angle_beta   108.22310773
+_cell_angle_gamma   90.00000058
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ba(GeRh)2
+_chemical_formula_sum   'Ba1 Ge2 Rh2'
+_cell_volume   108.01504665
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.00000000  0.00000000  0.00000000  1
+  Ge  Ge1  1  0.64573920  0.64573851  0.29147719  1
+  Ge  Ge2  1  0.35426211  0.35426230  0.70852363  1
+  Rh  Rh3  1  0.25000010  0.74999965  0.50000035  1
+  Rh  Rh4  1  0.75000021  0.25000016  0.50000047  1

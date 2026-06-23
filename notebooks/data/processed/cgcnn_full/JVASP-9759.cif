@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_NaTaGeO5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.66411541
+_cell_length_b   5.66411569
+_cell_length_c   7.46342896
+_cell_angle_alpha   104.61462367
+_cell_angle_beta   104.61462205
+_cell_angle_gamma   105.40278716
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NaTaGeO5
+_chemical_formula_sum   'Na2 Ta2 Ge2 O10'
+_cell_volume   209.87983908
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.67351056  0.32648837  0.25000034  1
+  Na  Na1  1  0.32648821  0.67351010  0.75000045  1
+  Ta  Ta2  1  -0.00000039  -0.00000006  0.50000015  1
+  Ta  Ta3  1  0.00000000  0.00000000  0.00000000  1
+  Ge  Ge4  1  0.68277919  0.31721930  0.75000049  1
+  Ge  Ge5  1  0.31721959  0.68277917  0.25000030  1
+  O  O6  1  0.06688785  0.93311033  0.75000043  1
+  O  O7  1  0.93311092  0.06688814  0.25000036  1
+  O  O8  1  0.10393703  0.69429478  0.38788971  1
+  O  O9  1  0.30570411  0.89606147  0.11211087  1
+  O  O10  1  0.89606174  0.30570369  0.61211108  1
+  O  O11  1  0.69429467  0.10393699  0.88788992  1
+  O  O12  1  0.36614583  0.24397084  0.58549983  1
+  O  O13  1  0.75602767  0.63385252  0.91450112  1
+  O  O14  1  0.63385294  0.75602763  0.41450096  1
+  O  O15  1  0.24397110  0.36614595  0.08549967  1

@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_DyNiSn
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.47443344
+_cell_length_b   7.13282609
+_cell_length_c   7.64051844
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   DyNiSn
+_chemical_formula_sum   'Dy4 Ni4 Sn4'
+_cell_volume   243.84986294
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Dy  Dy0  1  0.74999942  0.01429985  0.70127132  1
+  Dy  Dy1  1  0.24999981  0.98570070  0.29872888  1
+  Dy  Dy2  1  0.74999942  0.51430013  0.79872898  1
+  Dy  Dy3  1  0.24999981  0.48570042  0.20127122  1
+  Ni  Ni4  1  0.74999942  0.79784139  0.08416363  1
+  Ni  Ni5  1  0.24999981  0.20215916  0.91583658  1
+  Ni  Ni6  1  0.74999942  0.29784111  0.41583648  1
+  Ni  Ni7  1  0.24999981  0.70215943  0.58416373  1
+  Sn  Sn8  1  0.74999942  0.68965050  0.41237555  1
+  Sn  Sn9  1  0.24999981  0.31035005  0.58762465  1
+  Sn  Sn10  1  0.74999942  0.18965023  0.08762455  1
+  Sn  Sn11  1  0.24999981  0.81035032  0.91237566  1

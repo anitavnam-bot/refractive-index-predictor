@@ -1,0 +1,32 @@
+# generated using pymatgen
+data_Pb2Au
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.76567117
+_cell_length_b   6.00764850
+_cell_length_c   6.00764903
+_cell_angle_alpha   76.68723559
+_cell_angle_beta   61.32368591
+_cell_angle_gamma   61.32368021
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Pb2Au
+_chemical_formula_sum   'Pb4 Au2'
+_cell_volume   160.17669925
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Pb  Pb0  1  0.15946641  0.50000021  0.18106654  1
+  Pb  Pb1  1  0.34053244  0.81893408  0.50000037  1
+  Pb  Pb2  1  0.65946694  0.18106635  0.50000013  1
+  Pb  Pb3  1  0.84053297  0.50000021  0.81893395  1
+  Au  Au4  1  0.25000008  0.00000000  0.00000012  1
+  Au  Au5  1  0.75000024  0.00000000  0.00000035  1

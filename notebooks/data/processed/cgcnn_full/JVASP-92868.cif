@@ -1,0 +1,34 @@
+# generated using pymatgen
+data_Mg6CrCd
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.24701379
+_cell_length_b   6.24701344
+_cell_length_c   4.99026426
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   119.92006977
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Mg6CrCd
+_chemical_formula_sum   'Mg6 Cr1 Cd1'
+_cell_volume   168.79062124
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mg  Mg0  1  0.16756048  0.83625514  0.24999979  1
+  Mg  Mg1  1  0.66374504  0.33244017  0.24999979  1
+  Mg  Mg2  1  0.66551016  0.83449045  0.24999979  1
+  Mg  Mg3  1  0.33101157  0.65569793  0.74999936  1
+  Mg  Mg4  1  0.84430221  0.16898904  0.74999936  1
+  Mg  Mg5  1  0.83291292  0.66708765  0.74999936  1
+  Cr  Cr6  1  0.16418637  0.33581385  0.24999979  1
+  Cd  Cd7  1  0.33077340  0.16922677  0.74999936  1

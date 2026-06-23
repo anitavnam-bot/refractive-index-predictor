@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_Na2LiAuF6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.73862242
+_cell_length_b   5.73862179
+_cell_length_c   5.73862223
+_cell_angle_alpha   59.99999748
+_cell_angle_beta   60.00000110
+_cell_angle_gamma   60.00000031
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Na2LiAuF6
+_chemical_formula_sum   'Na2 Li1 Au1 F6'
+_cell_volume   133.63120600
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.25000008  0.24999973  0.24999990  1
+  Na  Na1  1  0.75000024  0.74999920  0.74999969  1
+  Li  Li2  1  0.50000016  0.49999947  0.49999980  1
+  Au  Au3  1  0.00000000  0.00000000  0.00000000  1
+  F  F4  1  0.25998686  0.25998650  0.74001293  1
+  F  F5  1  0.25998729  0.74001244  0.74001288  1
+  F  F6  1  0.74001347  0.74001244  0.25998666  1
+  F  F7  1  0.25998729  0.74001244  0.25998662  1
+  F  F8  1  0.74001303  0.25998650  0.74001298  1
+  F  F9  1  0.74001303  0.25998650  0.25998671  1

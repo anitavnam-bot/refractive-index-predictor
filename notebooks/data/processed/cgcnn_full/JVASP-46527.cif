@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Ba3Ti2O7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.05843974
+_cell_length_b   4.05861488
+_cell_length_c   11.07476137
+_cell_angle_alpha   100.52754440
+_cell_angle_beta   100.53658399
+_cell_angle_gamma   90.14264948
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ba3Ti2O7
+_chemical_formula_sum   'Ba3 Ti2 O7'
+_cell_volume   176.20311353
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.43969469  0.42891554  0.36739902  1
+  Ba  Ba1  1  0.25755838  0.24356454  0.99992402  1
+  Ba  Ba2  1  0.07207167  0.06156470  0.63244601  1
+  Ti  Ti3  1  0.86412927  0.82691216  0.18986139  1
+  Ti  Ti4  1  0.67408236  0.63708465  0.80998294  1
+  O  O5  1  0.93185610  0.94267286  0.37330526  1
+  O  O6  1  0.84209248  0.35669664  0.18874571  1
+  O  O7  1  0.14432592  0.65918556  0.81110025  1
+  O  O8  1  0.65313991  0.16799634  0.81109861  1
+  O  O9  1  0.33327432  0.84786364  0.18874661  1
+  O  O10  1  0.74440145  0.75673188  0.99992448  1
+  O  O11  1  0.55825811  0.56946326  0.62653992  1

@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Te4MoBr
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.88446544
+_cell_length_b   7.91566991
+_cell_length_c   7.99115060
+_cell_angle_alpha   112.49456459
+_cell_angle_beta   102.87208565
+_cell_angle_gamma   101.37510621
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Te4MoBr
+_chemical_formula_sum   'Te8 Mo2 Br2'
+_cell_volume   372.44791839
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Te  Te0  1  0.87959128  0.66824797  0.82725102  1
+  Te  Te1  1  0.03759759  0.88837224  0.23257808  1
+  Te  Te2  1  0.96240303  0.11162714  0.76742258  1
+  Te  Te3  1  0.53800786  0.23834881  0.93198587  1
+  Te  Te4  1  0.61129476  0.14482564  0.31108234  1
+  Te  Te5  1  0.38870586  0.85517374  0.68891832  1
+  Te  Te6  1  0.12040934  0.33175141  0.17274963  1
+  Te  Te7  1  0.46199276  0.76165057  0.06801479  1
+  Mo  Mo8  1  0.78160985  0.99980395  0.00149946  1
+  Mo  Mo9  1  0.21839077  0.00019543  0.99850119  1
+  Br  Br10  1  0.74371645  0.59843471  0.41563062  1
+  Br  Br11  1  0.25628417  0.40156467  0.58437004  1

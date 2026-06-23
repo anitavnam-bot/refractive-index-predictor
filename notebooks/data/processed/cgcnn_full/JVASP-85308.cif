@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_La2InCu2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.94524277
+_cell_length_b   7.87563394
+_cell_length_c   7.87563394
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   La2InCu2
+_chemical_formula_sum   'La4 In2 Cu4'
+_cell_volume   244.70608930
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  La  La0  1  0.49999965  0.17857463  0.67857438  1
+  La  La1  1  0.49999965  0.32142512  0.17857463  1
+  La  La2  1  0.49999965  0.67857438  0.82142487  1
+  La  La3  1  0.49999965  0.82142487  0.32142512  1
+  In  In4  1  0.00000000  0.00000000  0.00000000  1
+  In  In5  1  0.00000000  0.49999975  0.49999975  1
+  Cu  Cu6  1  0.00000000  0.11641811  0.38358164  1
+  Cu  Cu7  1  0.00000000  0.38358164  0.88358139  1
+  Cu  Cu8  1  0.00000000  0.61641786  0.11641811  1
+  Cu  Cu9  1  0.00000000  0.88358139  0.61641786  1

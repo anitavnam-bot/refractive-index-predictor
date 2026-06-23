@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_Ho2ReC2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.07935270
+_cell_length_b   6.54032025
+_cell_length_c   9.79783505
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ho2ReC2
+_chemical_formula_sum   'Ho8 Re4 C8'
+_cell_volume   325.48989391
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ho  Ho0  1  0.74999960  0.67965110  0.44429009  1
+  Ho  Ho1  1  0.24999987  0.96784390  0.28387844  1
+  Ho  Ho2  1  0.74999960  0.53215604  0.78387869  1
+  Ho  Ho3  1  0.74999960  0.03215606  0.71612207  1
+  Ho  Ho4  1  0.24999987  0.46784392  0.21612182  1
+  Ho  Ho5  1  0.24999987  0.32034886  0.55571042  1
+  Ho  Ho6  1  0.24999987  0.82034884  0.94429034  1
+  Ho  Ho7  1  0.74999960  0.17965112  0.05571017  1
+  Re  Re8  1  0.74999960  0.21832663  0.36791598  1
+  Re  Re9  1  0.24999987  0.28167335  0.86791623  1
+  Re  Re10  1  0.24999987  0.78167333  0.63208452  1
+  Re  Re11  1  0.74999960  0.71832661  0.13208427  1
+  C  C12  1  0.24999987  0.17549565  0.05223286  1
+  C  C13  1  0.74999960  0.32450433  0.55223311  1
+  C  C14  1  0.74999960  0.82450431  0.94776765  1
+  C  C15  1  0.24999987  0.67549563  0.44776739  1
+  C  C16  1  0.24999987  0.54862478  0.75886319  1
+  C  C17  1  0.74999960  0.95137517  0.25886294  1
+  C  C18  1  0.74999960  0.45137519  0.24113732  1
+  C  C19  1  0.24999987  0.04862480  0.74113757  1

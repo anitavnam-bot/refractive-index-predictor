@@ -1,0 +1,34 @@
+# generated using pymatgen
+data_Ag2BiSb(TeSe)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.37367473
+_cell_length_b   7.37367473
+_cell_length_c   7.37367473
+_cell_angle_alpha   132.03912574
+_cell_angle_beta   131.69322570
+_cell_angle_gamma   70.44083983
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ag2BiSb(TeSe)2
+_chemical_formula_sum   'Ag2 Bi1 Sb1 Te2 Se2'
+_cell_volume   217.86986111
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ag  Ag0  1  0.99596866  0.99596811  -0.00000113  1
+  Ag  Ag1  1  0.24599084  0.74599050  0.49999971  1
+  Bi  Bi2  1  0.76314946  0.26314933  0.49999994  1
+  Sb  Sb3  1  0.51184055  0.51184027  -0.00000058  1
+  Te  Te4  1  0.24324958  0.24324944  -0.00000027  1
+  Te  Te5  1  0.49213932  0.99213884  0.49999944  1
+  Se  Se6  1  0.74465697  0.74465656  -0.00000084  1
+  Se  Se7  1  0.00300357  0.50300336  0.49999999  1

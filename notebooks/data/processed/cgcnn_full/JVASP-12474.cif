@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_Hg3(ClO)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.37637953
+_cell_length_b   7.03971124
+_cell_length_c   6.90946034
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   113.45710942
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Hg3(ClO)2
+_chemical_formula_sum   'Hg6 Cl4 O4'
+_cell_volume   284.51956359
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Hg  Hg0  1  0.41720115  0.86582256  0.75780882  1
+  Hg  Hg1  1  0.58279919  0.36582265  0.74219186  1
+  Hg  Hg2  1  0.58279917  0.13417726  0.24219172  1
+  Hg  Hg3  1  0.41720113  0.63417717  0.25780869  1
+  Hg  Hg4  1  0.00000002  0.49999991  0.50000014  1
+  Hg  Hg5  1  0.00000000  0.00000000  0.00000000  1
+  Cl  Cl6  1  0.78807564  0.62725004  0.04999326  1
+  Cl  Cl7  1  0.21192466  0.12725013  0.45000715  1
+  Cl  Cl8  1  0.78807566  0.87274970  0.54999340  1
+  Cl  Cl9  1  0.21192468  0.37274979  0.95000729  1
+  O  O10  1  0.32945489  0.60501519  0.56192194  1
+  O  O11  1  0.67054545  0.10501528  0.93807874  1
+  O  O12  1  0.67054543  0.39498463  0.43807861  1
+  O  O13  1  0.32945487  0.89498454  0.06192180  1

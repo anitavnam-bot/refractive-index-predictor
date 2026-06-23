@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_LiTiMnO4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.77513105
+_cell_length_b   5.82558263
+_cell_length_c   5.82558251
+_cell_angle_alpha   61.38913809
+_cell_angle_beta   60.28605969
+_cell_angle_gamma   60.28606033
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LiTiMnO4
+_chemical_formula_sum   'Li2 Ti2 Mn2 O8'
+_cell_volume   140.59918949
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.12491839  0.12508171  0.12508177  1
+  Li  Li1  1  0.87508304  0.87491767  0.87491808  1
+  Ti  Ti2  1  0.50000062  -0.00000031  0.49999950  1
+  Ti  Ti3  1  0.50000000  0.50000000  0.00000042  1
+  Mn  Mn4  1  0.00000081  0.49999969  0.49999993  1
+  Mn  Mn5  1  0.50000071  0.49999969  0.49999993  1
+  O  O6  1  0.26047052  0.26073454  0.26073466  1
+  O  O7  1  0.25786888  0.27073558  0.71352678  1
+  O  O8  1  0.25786833  0.71352709  0.27073636  1
+  O  O9  1  0.71806074  0.26073454  0.26073466  1
+  O  O10  1  0.28194069  0.73926484  0.73926519  1
+  O  O11  1  0.74213255  0.72926380  0.28647307  1
+  O  O12  1  0.74213309  0.28647229  0.72926349  1
+  O  O13  1  0.73953091  0.73926484  0.73926519  1

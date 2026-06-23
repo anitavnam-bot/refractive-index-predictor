@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_TaVO4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.60048826
+_cell_length_b   5.60048826
+_cell_length_c   5.60048826
+_cell_angle_alpha   73.08761960
+_cell_angle_beta   106.91238040
+_cell_angle_gamma   65.28012901
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TaVO4
+_chemical_formula_sum   'Ta2 V2 O8'
+_cell_volume   134.36563575
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ta  Ta0  1  0.75933881  0.74066002  0.49999961  1
+  Ta  Ta1  1  0.50933937  0.49065985  0.00000000  1
+  V  V2  1  0.24578563  0.25421398  0.49999961  1
+  V  V3  1  0.99578615  0.00421307  0.00000000  1
+  O  O4  1  0.54216934  0.25487721  0.79704655  1
+  O  O5  1  0.05418480  0.74768696  0.80187076  1
+  O  O6  1  0.99512218  0.30192498  0.70295228  1
+  O  O7  1  0.50231243  0.79955794  0.69812807  1
+  O  O8  1  0.99512218  0.70782932  0.29704694  1
+  O  O9  1  0.50231317  0.19581390  0.30187115  1
+  O  O10  1  0.94807442  0.25487648  0.20295267  1
+  O  O11  1  0.45044146  0.74768622  0.19812846  1

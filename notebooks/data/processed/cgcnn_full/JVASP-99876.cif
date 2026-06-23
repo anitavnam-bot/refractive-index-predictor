@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_TbSiOs2C
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.92229395
+_cell_length_b   5.92229389
+_cell_length_c   7.14824741
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   141.73922468
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TbSiOs2C
+_chemical_formula_sum   'Tb2 Si2 Os4 C2'
+_cell_volume   155.25286910
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tb  Tb0  1  0.54781019  0.45219009  0.25000009  1
+  Tb  Tb1  1  0.45219068  0.54780996  0.75000027  1
+  Si  Si2  1  0.26939525  0.73060609  0.25000009  1
+  Si  Si3  1  0.73060562  0.26939396  0.75000027  1
+  Os  Os4  1  0.83510496  0.16489423  0.05753484  1
+  Os  Os5  1  0.16489592  0.83510582  0.94246552  1
+  Os  Os6  1  0.16489592  0.83510582  0.55753502  1
+  Os  Os7  1  0.83510496  0.16489423  0.44246534  1
+  C  C8  1  0.00000000  0.00000000  0.00000000  1
+  C  C9  1  0.00000000  0.00000000  0.50000018  1

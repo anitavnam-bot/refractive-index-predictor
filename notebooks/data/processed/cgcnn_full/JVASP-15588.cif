@@ -1,0 +1,31 @@
+# generated using pymatgen
+data_U2TeN2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.89537871
+_cell_length_b   3.89537938
+_cell_length_c   6.86183941
+_cell_angle_alpha   106.48973850
+_cell_angle_beta   106.48974522
+_cell_angle_gamma   89.99999341
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   U2TeN2
+_chemical_formula_sum   'U2 Te1 N2'
+_cell_volume   95.36437752
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  U  U0  1  0.34128471  0.34128446  0.68256918  1
+  U  U1  1  0.65871570  0.65871502  0.31743164  1
+  Te  Te2  1  0.00000000  0.00000000  0.00000000  1
+  N  N3  1  0.25000028  0.74999944  0.50000037  1
+  N  N4  1  0.75000013  0.25000004  0.50000045  1

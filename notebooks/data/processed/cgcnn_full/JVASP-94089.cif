@@ -1,0 +1,34 @@
+# generated using pymatgen
+data_RbMg6V
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.87144793
+_cell_length_b   11.13237700
+_cell_length_c   3.38184100
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   135.00241714
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   RbMg6V
+_chemical_formula_sum   'Rb1 Mg6 V1'
+_cell_volume   209.53780845
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Rb  Rb0  1  0.25004685  0.87502390  0.24999993  1
+  Mg  Mg1  1  0.74998209  0.37499906  0.24999993  1
+  Mg  Mg2  1  0.74998197  0.87498298  0.24999993  1
+  Mg  Mg3  1  0.24994902  0.16910701  0.74999978  1
+  Mg  Mg4  1  0.24994892  0.58084395  0.74999978  1
+  Mg  Mg5  1  0.83831616  0.16915810  0.74999978  1
+  Mg  Mg6  1  0.66175902  0.58088001  0.74999978  1
+  V  V7  1  0.25001497  0.37500698  0.24999993  1

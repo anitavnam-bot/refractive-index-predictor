@@ -1,0 +1,32 @@
+# generated using pymatgen
+data_SrPuO4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.55852457
+_cell_length_b   6.55852458
+_cell_length_c   6.55852469
+_cell_angle_alpha   34.93919445
+_cell_angle_beta   34.93919484
+_cell_angle_gamma   34.93919323
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   SrPuO4
+_chemical_formula_sum   'Sr1 Pu1 O4'
+_cell_volume   82.60977644
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sr  Sr0  1  0.49999918  0.49999944  0.50000124  1
+  Pu  Pu1  1  0.00000000  0.00000000  0.00000000  1
+  O  O2  1  0.64142872  0.64142905  0.64143136  1
+  O  O3  1  0.35856964  0.35856983  0.35857112  1
+  O  O4  1  0.10710333  0.10710339  0.10710377  1
+  O  O5  1  0.89289503  0.89289549  0.89289871  1

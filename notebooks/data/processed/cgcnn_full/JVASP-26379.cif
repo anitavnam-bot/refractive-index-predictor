@@ -1,0 +1,33 @@
+# generated using pymatgen
+data_BaBeSiO4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.04863031
+_cell_length_b   5.15747723
+_cell_length_c   5.15744777
+_cell_angle_alpha   61.66714948
+_cell_angle_beta   61.05511432
+_cell_angle_gamma   61.05551536
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   BaBeSiO4
+_chemical_formula_sum   'Ba1 Be1 Si1 O4'
+_cell_volume   97.63932236
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.03383545  0.98026587  0.98026306  1
+  Be  Be1  1  0.26323038  0.25286898  0.25287030  1
+  Si  Si2  1  0.51435591  0.50153385  0.50153218  1
+  O  O3  1  0.44713853  0.37650404  0.87887537  1
+  O  O4  1  0.88705533  0.32286297  0.32286560  1
+  O  O5  1  0.44714473  0.87887558  0.37650308  1
+  O  O6  1  0.26793825  0.43608892  0.43608797  1

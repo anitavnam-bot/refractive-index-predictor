@@ -1,0 +1,29 @@
+# generated using pymatgen
+data_CuSbO
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.01277894
+_cell_length_b   3.52179911
+_cell_length_c   3.10982457
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   125.49153826
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CuSbO
+_chemical_formula_sum   'Cu1 Sb1 O1'
+_cell_volume   53.61761395
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cu  Cu0  1  0.24921777  -0.08408578  0.00000000  1
+  Sb  Sb1  1  0.66408879  0.82951800  0.00000000  1
+  O  O2  1  0.08669264  0.25456568  0.00000000  1

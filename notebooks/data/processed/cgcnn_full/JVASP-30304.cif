@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_Li2DyPCO7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.55166367
+_cell_length_b   6.59365100
+_cell_length_c   4.69115383
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   82.09251453
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Li2DyPCO7
+_chemical_formula_sum   'Li4 Dy2 P2 C2 O14'
+_cell_volume   292.64115648
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.16305089  0.99701585  0.20921383  1
+  Li  Li1  1  0.16305089  0.50298392  0.20921383  1
+  Li  Li2  1  0.83694854  0.49701592  0.79078514  1
+  Li  Li3  1  0.83694854  0.00298400  0.79078514  1
+  Dy  Dy4  1  0.37380363  0.74999989  0.73557463  1
+  Dy  Dy5  1  0.62619579  0.24999996  0.26442434  1
+  P  P6  1  0.38550562  0.24999996  0.75633661  1
+  P  P7  1  0.61449380  0.74999989  0.24366236  1
+  C  C8  1  0.07469469  0.74999989  0.71848794  1
+  C  C9  1  0.92530474  0.24999996  0.28151103  1
+  O  O10  1  0.82298266  0.24999996  0.50224614  1
+  O  O11  1  0.69068184  0.94086486  0.11293027  1
+  O  O12  1  0.69068184  0.55913492  0.11293027  1
+  O  O13  1  0.54547858  0.24999996  0.80037445  1
+  O  O14  1  0.60780166  0.74999989  0.57583437  1
+  O  O15  1  0.39219776  0.24999996  0.42416460  1
+  O  O16  1  0.11464957  0.74999989  0.97109191  1
+  O  O17  1  0.30931758  0.44086493  0.88706870  1
+  O  O18  1  0.30931758  0.05913499  0.88706870  1
+  O  O19  1  0.17701676  0.74999989  0.49775283  1
+  O  O20  1  0.88534985  0.24999996  0.02890706  1
+  O  O21  1  0.05504986  0.24999996  0.32043195  1
+  O  O22  1  0.45452084  0.74999989  0.19962452  1
+  O  O23  1  0.94494957  0.74999989  0.67956702  1

@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_Na3TbTi2Nb2O12
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.43093737
+_cell_length_b   5.56450557
+_cell_length_c   7.76072299
+_cell_angle_alpha   89.98314903
+_cell_angle_beta   89.94494736
+_cell_angle_gamma   89.51290901
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Na3TbTi2Nb2O12
+_chemical_formula_sum   'Na3 Tb1 Ti2 Nb2 O12'
+_cell_volume   234.52419069
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tb  Tb0  1  0.99054930  0.93701226  0.25041283  1
+  Na  Na1  1  0.49802362  0.52925042  0.74855530  1
+  Na  Na2  1  -0.00350063  0.00872011  0.75171702  1
+  Na  Na3  1  0.51141543  0.45905409  0.25036487  1
+  Ti  Ti4  1  0.49153729  0.98439467  0.00644082  1
+  Ti  Ti5  1  0.00769593  0.47915223  0.49647754  1
+  Nb  Nb6  1  0.49499716  0.99338456  0.51027911  1
+  Nb  Nb7  1  0.00626280  0.47946108  0.98932374  1
+  O  O8  1  0.92123979  0.49581331  0.74579349  1
+  O  O9  1  0.56683038  0.97777095  0.75395408  1
+  O  O10  1  0.30241790  0.30035696  0.95781177  1
+  O  O11  1  0.19463336  0.80717437  0.52286912  1
+  O  O12  1  0.71740545  0.72755270  0.44579346  1
+  O  O13  1  0.29651331  0.30763823  0.53884875  1
+  O  O14  1  0.71373525  0.72966461  0.05349844  1
+  O  O15  1  0.80563023  0.20941607  0.45021210  1
+  O  O16  1  0.40444114  0.03435884  0.24701358  1
+  O  O17  1  0.19934936  0.80826953  0.97835404  1
+  O  O18  1  0.80237332  0.20460905  0.05007089  1
+  O  O19  1  0.07844950  0.52694921  0.25221108  1

@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_Co(PdSe)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.04958961
+_cell_length_b   6.02865237
+_cell_length_c   6.62383018
+_cell_angle_alpha   117.06963048
+_cell_angle_beta   112.40608156
+_cell_angle_gamma   89.99999751
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Co(PdSe)2
+_chemical_formula_sum   'Co2 Pd4 Se4'
+_cell_volume   162.27266146
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Co  Co0  1  0.74999945  0.00000000  -0.00000016  1
+  Co  Co1  1  0.24999982  0.00000000  -0.00000005  1
+  Pd  Pd2  1  0.88738157  0.26529115  0.77476418  1
+  Pd  Pd3  1  0.11261916  0.73470973  0.22523663  1
+  Pd  Pd4  1  0.61261859  0.49052790  0.22523631  1
+  Pd  Pd5  1  0.38738214  0.50947298  0.77476450  1
+  Se  Se6  1  0.64214339  0.93383090  0.28428653  1
+  Se  Se7  1  0.35785734  0.06616998  0.71571429  1
+  Se  Se8  1  0.14214326  0.35045564  0.28428611  1
+  Se  Se9  1  0.85785747  0.64954525  0.71571471  1

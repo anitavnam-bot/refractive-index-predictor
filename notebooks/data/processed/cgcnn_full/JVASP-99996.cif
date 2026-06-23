@@ -1,0 +1,31 @@
+# generated using pymatgen
+data_EuCo2SiGe
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.72564041
+_cell_length_b   5.72564022
+_cell_length_c   5.72564039
+_cell_angle_alpha   139.61151119
+_cell_angle_beta   139.61150882
+_cell_angle_gamma   58.44364167
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   EuCo2SiGe
+_chemical_formula_sum   'Eu1 Co2 Si1 Ge1'
+_cell_volume   78.08482626
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Eu  Eu0  1  0.99856373  0.99856379  0.00000222  1
+  Co  Co1  1  0.75466394  0.25466394  0.50000067  1
+  Co  Co2  1  0.25466415  0.75466368  0.50000063  1
+  Si  Si3  1  0.36591445  0.36591447  0.00000081  1
+  Ge  Ge4  1  0.62619767  0.62619770  0.00000139  1

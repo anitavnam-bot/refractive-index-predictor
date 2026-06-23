@@ -1,0 +1,30 @@
+# generated using pymatgen
+data_ZrCdCu2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.52539002
+_cell_length_b   4.52538978
+_cell_length_c   4.52539056
+_cell_angle_alpha   60.00000153
+_cell_angle_beta   60.00000332
+_cell_angle_gamma   59.99999623
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ZrCdCu2
+_chemical_formula_sum   'Zr1 Cd1 Cu2'
+_cell_volume   65.53194805
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Zr  Zr0  1  0.49999968  0.50000065  0.49999872  1
+  Cd  Cd1  1  0.00000000  0.00000000  0.00000000  1
+  Cu  Cu2  1  0.74999952  0.75000098  0.74999807  1
+  Cu  Cu3  1  0.24999984  0.25000033  0.24999936  1

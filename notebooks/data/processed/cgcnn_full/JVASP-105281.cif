@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_ZrCoH3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.49615366
+_cell_length_b   5.49615366
+_cell_length_c   4.29894302
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   142.56040096
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ZrCoH3
+_chemical_formula_sum   'Zr2 Co2 H6'
+_cell_volume   78.94583813
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Zr  Zr0  1  0.63406556  0.36593443  0.24999982  1
+  Zr  Zr1  1  0.36593355  0.63406618  0.74999947  1
+  Co  Co2  1  0.07198205  0.92801741  0.74999947  1
+  Co  Co3  1  0.92801706  0.07198319  0.24999982  1
+  H  H4  1  0.57357840  0.42642152  0.74999947  1
+  H  H5  1  0.18649256  0.81350701  0.49690469  1
+  H  H6  1  0.18649256  0.81350701  0.00309496  1
+  H  H7  1  0.81350655  0.18649360  0.99690434  1
+  H  H8  1  0.81350655  0.18649360  0.50309461  1
+  H  H9  1  0.42642071  0.57357908  0.24999982  1

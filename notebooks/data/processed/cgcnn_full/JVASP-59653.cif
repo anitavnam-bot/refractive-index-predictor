@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_HoMnSi
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.11405865
+_cell_length_b   6.94114459
+_cell_length_c   7.41514726
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   HoMnSi
+_chemical_formula_sum   'Ho4 Mn4 Si4'
+_cell_volume   211.74899138
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ho  Ho0  1  0.25000008  0.50381991  0.18753841  1
+  Ho  Ho1  1  0.75000025  0.49617942  0.81246196  1
+  Ho  Ho2  1  0.25000008  0.00382024  0.31246178  1
+  Ho  Ho3  1  0.75000025  0.99617909  0.68753859  1
+  Mn  Mn4  1  0.75000025  0.85817979  0.06125292  1
+  Mn  Mn5  1  0.25000008  0.14181955  0.93874745  1
+  Mn  Mn6  1  0.75000025  0.35818012  0.43874727  1
+  Mn  Mn7  1  0.25000008  0.64181922  0.56125310  1
+  Si  Si8  1  0.25000008  0.79102817  0.89162615  1
+  Si  Si9  1  0.75000025  0.20897117  0.10837422  1
+  Si  Si10  1  0.25000008  0.29102850  0.60837441  1
+  Si  Si11  1  0.75000025  0.70897084  0.39162596  1

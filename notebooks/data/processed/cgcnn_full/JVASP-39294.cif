@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_LuAlPd
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.14174268
+_cell_length_b   7.14172406
+_cell_length_c   3.89043576
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00009107
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LuAlPd
+_chemical_formula_sum   'Lu3 Al3 Pd3'
+_cell_volume   171.84454300
+_cell_formula_units_Z   3
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Lu  Lu0  1  0.58683506  0.00000000  0.49999955  1
+  Lu  Lu1  1  -0.00001433  0.58684167  0.49999955  1
+  Lu  Lu2  1  0.41314389  0.41315853  0.49999955  1
+  Al  Al3  1  0.24546273  0.00000000  0.00000000  1
+  Al  Al4  1  0.99999080  0.24547151  0.00000000  1
+  Al  Al5  1  0.75452062  0.75452969  0.00000000  1
+  Pd  Pd6  1  -0.00001070  -0.00000000  0.49999955  1
+  Pd  Pd7  1  0.33332044  0.66666627  0.00000000  1
+  Pd  Pd8  1  0.66665506  0.33333493  0.00000000  1

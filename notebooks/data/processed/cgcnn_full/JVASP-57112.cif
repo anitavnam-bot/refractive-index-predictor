@@ -1,0 +1,47 @@
+# generated using pymatgen
+data_Sr3CePC3O13
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.60450920
+_cell_length_b   6.60450875
+_cell_length_c   6.60450917
+_cell_angle_alpha   100.05985938
+_cell_angle_beta   100.05986658
+_cell_angle_gamma   100.05986988
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sr3CePC3O13
+_chemical_formula_sum   'Sr3 Ce1 P1 C3 O13'
+_cell_volume   272.96844627
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sr  Sr0  1  0.52611832  0.52611881  0.07734782  1
+  Sr  Sr1  1  0.52611867  0.07734798  0.52611873  1
+  Sr  Sr2  1  0.07734786  0.52611881  0.52611873  1
+  Ce  Ce3  1  0.00124582  0.00124582  0.00124582  1
+  P  P4  1  0.57731296  0.57731334  0.57731318  1
+  C  C5  1  0.06771336  0.56695172  0.06771354  1
+  C  C6  1  0.06771375  0.06771363  0.56695171  1
+  C  C7  1  0.56695142  0.06771363  0.06771353  1
+  O  O8  1  0.16136733  0.94050384  0.65901437  1
+  O  O9  1  0.65901441  0.16136764  0.94050373  1
+  O  O10  1  0.11142147  0.39451449  0.11142160  1
+  O  O11  1  0.43547008  0.43547028  0.68417069  1
+  O  O12  1  0.94050310  0.65901452  0.16136740  1
+  O  O13  1  0.11142169  0.11142167  0.39451447  1
+  O  O14  1  0.74349555  0.74349604  0.74349583  1
+  O  O15  1  0.43546988  0.68417081  0.43547012  1
+  O  O16  1  0.68417039  0.43547028  0.43547012  1
+  O  O17  1  0.94050349  0.16136764  0.65901437  1
+  O  O18  1  0.16136755  0.65901452  0.94050374  1
+  O  O19  1  0.65901380  0.94050384  0.16136740  1
+  O  O20  1  0.39451427  0.11142167  0.11142160  1

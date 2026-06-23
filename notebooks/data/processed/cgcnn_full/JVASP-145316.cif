@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_DyTeAs
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.07572772
+_cell_length_b   7.54408619
+_cell_length_c   9.92379118
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   DyTeAs
+_chemical_formula_sum   'Dy4 Te4 As4'
+_cell_volume   305.13317024
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Dy  Dy0  1  0.25000014  0.73206369  0.84182093  1
+  Dy  Dy1  1  0.75000042  0.26793681  0.15817895  1
+  Dy  Dy2  1  0.75000042  0.76793707  0.34182099  1
+  Dy  Dy3  1  0.25000014  0.23206344  0.65817889  1
+  Te  Te4  1  0.25000014  0.58394825  0.14886853  1
+  Te  Te5  1  0.75000042  0.41605226  0.85113135  1
+  Te  Te6  1  0.75000042  0.91605251  0.64886847  1
+  Te  Te7  1  0.25000014  0.08394799  0.35113141  1
+  As  As8  1  0.25000014  0.59854328  0.54004049  1
+  As  As9  1  0.75000042  0.40145723  0.45995939  1
+  As  As10  1  0.75000042  0.90145748  0.04004055  1
+  As  As11  1  0.25000014  0.09854303  0.95995933  1

@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_Ho4InIr
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.55865411
+_cell_length_b   9.55865407
+_cell_length_c   9.55865472
+_cell_angle_alpha   60.00000115
+_cell_angle_beta   60.00000127
+_cell_angle_gamma   60.00000072
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ho4InIr
+_chemical_formula_sum   'Ho16 In4 Ir4'
+_cell_volume   617.55448212
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ho  Ho0  1  0.56047691  0.93952387  0.93952332  1
+  Ho  Ho1  1  0.56047691  0.93952387  0.56047614  1
+  Ho  Ho2  1  0.19097774  0.80902284  0.80902232  1
+  Ho  Ho3  1  0.34964446  0.34964427  0.34964409  1
+  Ho  Ho4  1  0.93952423  0.56047643  0.56047621  1
+  Ho  Ho5  1  0.95106686  0.34964427  0.34964419  1
+  Ho  Ho6  1  0.80902302  0.19097736  0.19097737  1
+  Ho  Ho7  1  0.19097774  0.80902284  0.19097727  1
+  Ho  Ho8  1  0.56047674  0.56047643  0.93952332  1
+  Ho  Ho9  1  0.19097747  0.19097736  0.80902231  1
+  Ho  Ho10  1  0.93952439  0.93952387  0.56047621  1
+  Ho  Ho11  1  0.80902329  0.80902284  0.19097737  1
+  Ho  Ho12  1  0.93952422  0.56047643  0.93952338  1
+  Ho  Ho13  1  0.80902302  0.19097736  0.80902242  1
+  Ho  Ho14  1  0.34964446  0.34964426  0.95106600  1
+  Ho  Ho15  1  0.34964473  0.95106660  0.34964409  1
+  In  In16  1  0.58368769  0.24893686  0.58368721  1
+  In  In17  1  0.58368784  0.58368751  0.24893679  1
+  In  In18  1  0.58368784  0.58368751  0.58368721  1
+  In  In19  1  0.24893715  0.58368751  0.58368715  1
+  Ir  Ir20  1  0.14154531  0.14154523  0.14154515  1
+  Ir  Ir21  1  0.57536565  0.14154523  0.14154523  1
+  Ir  Ir22  1  0.14154550  0.57536552  0.14154516  1
+  Ir  Ir23  1  0.14154531  0.14154523  0.57536514  1

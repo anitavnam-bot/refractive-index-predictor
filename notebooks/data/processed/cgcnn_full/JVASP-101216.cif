@@ -1,0 +1,30 @@
+# generated using pymatgen
+data_CdInAsSe
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.59737475
+_cell_length_b   7.59737475
+_cell_length_c   7.59737495
+_cell_angle_alpha   33.38443746
+_cell_angle_beta   33.38443746
+_cell_angle_gamma   33.38443521
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CdInAsSe
+_chemical_formula_sum   'Cd1 In1 As1 Se1'
+_cell_volume   118.23246741
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cd  Cd0  1  0.00257234  0.00257235  0.00257234  1
+  In  In1  1  0.49829371  0.49829457  0.49829435  1
+  As  As2  1  0.12579210  0.12579231  0.12579226  1
+  Se  Se3  1  0.62334130  0.62334236  0.62334209  1

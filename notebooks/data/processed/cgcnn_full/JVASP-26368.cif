@@ -1,0 +1,34 @@
+# generated using pymatgen
+data_DyZnPO
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   10.38819738
+_cell_length_b   10.38819725
+_cell_length_c   10.38819764
+_cell_angle_alpha   21.60182894
+_cell_angle_beta   21.60183090
+_cell_angle_gamma   21.60182666
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   DyZnPO
+_chemical_formula_sum   'Dy2 Zn2 P2 O2'
+_cell_volume   133.14445879
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Dy  Dy0  1  0.37962304  0.37962259  0.37962367  1
+  Dy  Dy1  1  0.62037647  0.62037575  0.62037750  1
+  Zn  Zn2  1  0.19652905  0.19652882  0.19652937  1
+  Zn  Zn3  1  0.80347048  0.80346954  0.80347181  1
+  P  P4  1  0.11131670  0.11131656  0.11131688  1
+  P  P5  1  0.88868281  0.88868177  0.88868428  1
+  O  O6  1  0.30547086  0.30547050  0.30547137  1
+  O  O7  1  0.69452864  0.69452783  0.69452979  1

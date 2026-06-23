@@ -1,0 +1,30 @@
+# generated using pymatgen
+data_TlCdSe2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.09300260
+_cell_length_b   4.09329713
+_cell_length_c   7.21591907
+_cell_angle_alpha   90.00000062
+_cell_angle_beta   90.01995865
+_cell_angle_gamma   120.00237195
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TlCdSe2
+_chemical_formula_sum   'Tl1 Cd1 Se2'
+_cell_volume   104.69529382
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tl  Tl0  1  -0.00000041  -0.00000054  0.50000008  1
+  Cd  Cd1  1  0.00000000  0.00000000  0.00000000  1
+  Se  Se2  1  0.66662887  0.33331370  0.77975664  1
+  Se  Se3  1  0.33336931  0.66668531  0.22024403  1

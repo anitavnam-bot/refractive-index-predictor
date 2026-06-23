@@ -1,0 +1,32 @@
+# generated using pymatgen
+data_TmGe2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.89628031
+_cell_length_b   4.02242347
+_cell_length_c   8.17400480
+_cell_angle_alpha   104.24387776
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TmGe2
+_chemical_formula_sum   'Tm2 Ge4'
+_cell_volume   124.16863623
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tm  Tm0  1  0.24999998  0.89624566  0.79248971  1
+  Tm  Tm1  1  0.74999994  0.10375513  0.20750995  1
+  Ge  Ge2  1  0.24999998  0.55375890  0.10751720  1
+  Ge  Ge3  1  0.74999994  0.44624188  0.89248245  1
+  Ge  Ge4  1  0.74999994  0.74693831  0.49387545  1
+  Ge  Ge5  1  0.24999998  0.25306248  0.50612421  1

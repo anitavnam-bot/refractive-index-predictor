@@ -1,0 +1,37 @@
+# generated using pymatgen
+data_Al8Mo3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.66211437
+_cell_length_b   4.97640887
+_cell_length_c   10.11322267
+_cell_angle_alpha   99.90703335
+_cell_angle_beta   89.99999999
+_cell_angle_gamma   111.58908338
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Al8Mo3
+_chemical_formula_sum   'Al8 Mo3'
+_cell_volume   168.41636041
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Al  Al0  1  0.27236148  0.54472361  0.90988855  1
+  Al  Al1  1  0.72763602  0.45527561  0.09011160  1
+  Al  Al2  1  0.46035701  0.92071679  0.17910765  1
+  Al  Al3  1  0.53964050  0.07928243  0.82089250  1
+  Al  Al4  1  0.18667988  0.37336089  0.27826200  1
+  Al  Al5  1  0.81331762  0.62663832  0.72173815  1
+  Al  Al6  1  0.36869467  0.73739256  0.54152342  1
+  Al  Al7  1  0.63130283  0.26260665  0.45847673  1
+  Mo  Mo8  1  0.00000000  0.00000000  0.00000000  1
+  Mo  Mo9  1  0.09468236  0.18936529  0.65968416  1
+  Mo  Mo10  1  0.90531515  0.81063392  0.34031599  1

@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_LiMgN
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.48485506
+_cell_length_b   4.99752260
+_cell_length_c   7.17475790
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LiMgN
+_chemical_formula_sum   'Li4 Mg4 N4'
+_cell_volume   124.95301431
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.25000035  0.52881258  0.09495148  1
+  Li  Li1  1  0.75000106  0.47118690  0.90504882  1
+  Li  Li2  1  0.75000106  0.02881284  0.40504867  1
+  Li  Li3  1  0.25000035  0.97118664  0.59495162  1
+  Mg  Mg4  1  0.25000035  0.47992409  0.64435632  1
+  Mg  Mg5  1  0.75000106  0.97992383  0.85564412  1
+  Mg  Mg6  1  0.25000035  0.02007565  0.14435617  1
+  Mg  Mg7  1  0.75000106  0.52007539  0.35564397  1
+  N  N8  1  0.75000106  0.76722077  0.11897946  1
+  N  N9  1  0.75000106  0.73277845  0.61897961  1
+  N  N10  1  0.25000035  0.23277871  0.88102083  1
+  N  N11  1  0.25000035  0.26722103  0.38102068  1

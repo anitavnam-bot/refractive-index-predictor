@@ -1,0 +1,37 @@
+# generated using pymatgen
+data_Ti3PO7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.22143053
+_cell_length_b   5.22143053
+_cell_length_c   5.22142973
+_cell_angle_alpha   101.17008744
+_cell_angle_beta   101.17008744
+_cell_angle_gamma   101.17008890
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ti3PO7
+_chemical_formula_sum   'Ti3 P1 O7'
+_cell_volume   132.99780469
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ti  Ti0  1  0.18068145  0.53512456  0.53511466  1
+  Ti  Ti1  1  0.53512465  0.53511457  0.18068144  1
+  Ti  Ti2  1  0.53511448  0.18068145  0.53512474  1
+  P  P3  1  0.99128029  0.99128029  0.99128050  1
+  O  O4  1  0.14179768  0.82628899  0.82625882  1
+  O  O5  1  0.39308707  0.79361600  0.39307241  1
+  O  O6  1  0.21922752  0.21922752  0.21922756  1
+  O  O7  1  0.82628917  0.82625869  0.14179763  1
+  O  O8  1  0.39307230  0.39308697  0.79361622  1
+  O  O9  1  0.79361600  0.39307240  0.39308708  1
+  O  O10  1  0.82625851  0.14179768  0.82628930  1

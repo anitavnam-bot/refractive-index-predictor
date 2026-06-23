@@ -1,0 +1,33 @@
+# generated using pymatgen
+data_MgAlF5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.31937663
+_cell_length_b   5.83508821
+_cell_length_c   5.83508821
+_cell_angle_alpha   88.85365104
+_cell_angle_beta   73.47507989
+_cell_angle_gamma   73.47507989
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   MgAlF5
+_chemical_formula_sum   'Mg1 Al1 F5'
+_cell_volume   103.64729715
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mg  Mg0  1  0.00000103  0.49999962  0.49999962  1
+  Al  Al1  1  0.50000051  -0.00000000  -0.00000000  1
+  F  F2  1  0.66379514  0.33620598  0.33620598  1
+  F  F3  1  0.33620794  0.66379327  0.66379327  1
+  F  F4  1  0.50000154  0.20996320  0.79003604  1
+  F  F5  1  0.50000154  0.79003604  0.20996320  1
+  F  F6  1  0.00000000  0.00000000  0.00000000  1

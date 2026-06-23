@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Ho2Al
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.04993717
+_cell_length_b   6.48139377
+_cell_length_c   9.38390708
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ho2Al
+_chemical_formula_sum   'Ho8 Al4'
+_cell_volume   307.14120271
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ho  Ho0  1  0.75000042  0.18818983  0.07291397  1
+  Ho  Ho1  1  0.25000014  0.81180959  0.92708634  1
+  Ho  Ho2  1  0.75000042  0.68818953  0.42708619  1
+  Ho  Ho3  1  0.25000014  0.31180988  0.57291412  1
+  Ho  Ho4  1  0.75000042  0.02745399  0.71071178  1
+  Ho  Ho5  1  0.25000014  0.97254543  0.28928853  1
+  Ho  Ho6  1  0.75000042  0.52745370  0.78928869  1
+  Ho  Ho7  1  0.25000014  0.47254572  0.21071162  1
+  Al  Al8  1  0.75000042  0.70841918  0.10258672  1
+  Al  Al9  1  0.25000014  0.29158024  0.89741359  1
+  Al  Al10  1  0.75000042  0.20841947  0.39741343  1
+  Al  Al11  1  0.25000014  0.79157995  0.60258688  1

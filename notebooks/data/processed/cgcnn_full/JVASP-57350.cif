@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_NaNiAsO4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.32315796
+_cell_length_b   9.32315785
+_cell_length_c   9.32315694
+_cell_angle_alpha   31.02773336
+_cell_angle_beta   31.02773125
+_cell_angle_gamma   31.02773210
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NaNiAsO4
+_chemical_formula_sum   'Na2 Ni2 As2 O8'
+_cell_volume   191.01440890
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.71313012  0.71312683  0.71312892  1
+  Na  Na1  1  0.28687227  0.28687094  0.28687178  1
+  Ni  Ni2  1  0.83557784  0.83557398  0.83557643  1
+  Ni  Ni3  1  0.16442455  0.16442379  0.16442427  1
+  As  As4  1  0.43388966  0.43388766  0.43388893  1
+  As  As5  1  0.56611272  0.56611011  0.56611177  1
+  O  O6  1  0.46372825  0.78372863  0.11557188  1
+  O  O7  1  0.53627414  0.21626914  0.88442882  1
+  O  O8  1  0.11557243  0.46372668  0.78372988  1
+  O  O9  1  0.78373109  0.11557016  0.46372770  1
+  O  O10  1  0.37060346  0.37060175  0.37060283  1
+  O  O11  1  0.21627130  0.88442760  0.53627300  1
+  O  O12  1  0.62939893  0.62939602  0.62939787  1
+  O  O13  1  0.88442996  0.53627109  0.21627082  1

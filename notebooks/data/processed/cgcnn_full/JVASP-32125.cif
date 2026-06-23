@@ -1,0 +1,48 @@
+# generated using pymatgen
+data_CuH6(NCl)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.77119415
+_cell_length_b   6.59896899
+_cell_length_c   6.59896899
+_cell_angle_alpha   70.54363742
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CuH6(NCl)2
+_chemical_formula_sum   'Cu2 H12 N4 Cl4'
+_cell_volume   236.96346910
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cu  Cu0  1  0.75000046  0.11007481  0.11007481  1
+  Cu  Cu1  1  0.24999982  0.88992390  0.88992390  1
+  H  H2  1  0.89434292  0.46308242  0.84126277  1
+  H  H3  1  0.60565600  0.46308242  0.84126277  1
+  H  H4  1  0.75000046  0.32334602  0.71386259  1
+  H  H5  1  0.39434228  0.15873694  0.53691828  1
+  H  H6  1  0.10565736  0.15873694  0.53691828  1
+  H  H7  1  0.24999982  0.28613612  0.67665369  1
+  H  H8  1  0.60565600  0.84126277  0.46308242  1
+  H  H9  1  0.75000046  0.71386259  0.32334602  1
+  H  H10  1  0.24999982  0.67665369  0.28613612  1
+  H  H11  1  0.39434228  0.53691828  0.15873694  1
+  H  H12  1  0.10565736  0.53691828  0.15873694  1
+  H  H13  1  0.89434292  0.84126277  0.46308242  1
+  N  N14  1  0.24999982  0.63131299  0.15087797  1
+  N  N15  1  0.75000046  0.84912174  0.36868771  1
+  N  N16  1  0.24999982  0.15087797  0.63131299  1
+  N  N17  1  0.75000046  0.36868771  0.84912174  1
+  Cl  Cl18  1  0.24999982  0.66489790  0.66489790  1
+  Cl  Cl19  1  0.24999982  0.11192575  0.11192575  1
+  Cl  Cl20  1  0.75000046  0.33510281  0.33510281  1
+  Cl  Cl21  1  0.75000046  0.88807296  0.88807296  1

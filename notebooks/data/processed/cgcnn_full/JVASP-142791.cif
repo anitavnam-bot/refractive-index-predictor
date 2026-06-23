@@ -1,0 +1,51 @@
+# generated using pymatgen
+data_KBa4(FeAs)10
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.91748690
+_cell_length_b   8.91748690
+_cell_length_c   8.91748690
+_cell_angle_alpha   120.93985451
+_cell_angle_beta   120.93985451
+_cell_angle_gamma   88.37968957
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   KBa4(FeAs)10
+_chemical_formula_sum   'K1 Ba4 Fe10 As10'
+_cell_volume   494.09473328
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.00000000  0.00000000  0.00000000  1
+  Ba  Ba1  1  0.39330569  0.80235449  0.19566122  1
+  Ba  Ba2  1  0.80235373  0.60669422  0.40904810  1
+  Ba  Ba3  1  0.19764543  0.39330608  0.59095194  1
+  Ba  Ba4  1  0.60669346  0.19764582  0.80433882  1
+  Fe  Fe5  1  0.24999952  0.75000013  0.49999997  1
+  Fe  Fe6  1  0.84939338  0.94944907  0.30005493  1
+  Fe  Fe7  1  0.05055092  0.35060720  0.89994639  1
+  Fe  Fe8  1  0.64939210  0.54933909  0.69994507  1
+  Fe  Fe9  1  0.45066092  0.15060625  0.10005370  1
+  Fe  Fe10  1  0.15060578  0.05055123  0.69994511  1
+  Fe  Fe11  1  0.74999964  0.25000017  0.50000007  1
+  Fe  Fe12  1  0.35060706  0.45066121  0.30005498  1
+  Fe  Fe13  1  0.94944724  0.64939311  0.10005365  1
+  Fe  Fe14  1  0.54933824  0.84939406  0.89994634  1
+  As  As15  1  0.85376244  0.05368194  0.60068587  1
+  As  As16  1  0.94631758  0.54700417  0.80008004  1
+  As  As17  1  0.34724044  0.34724082  -0.00000003  1
+  As  As18  1  0.74692376  0.14623745  0.19992007  1
+  As  As19  1  0.14623672  0.94631837  0.39931417  1
+  As  As20  1  0.54700339  0.74692418  0.60068576  1
+  As  As21  1  0.65275909  0.65275980  -0.00000006  1
+  As  As22  1  0.05368158  0.45299614  0.19992000  1
+  As  As23  1  0.45299577  0.25307613  0.39931428  1
+  As  As24  1  0.25307540  0.85376285  0.80007997  1

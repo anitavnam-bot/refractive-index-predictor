@@ -1,0 +1,31 @@
+# generated using pymatgen
+data_Na2TiN2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.13109446
+_cell_length_b   3.13112281
+_cell_length_c   8.77312086
+_cell_angle_alpha   89.99844593
+_cell_angle_beta   90.00413114
+_cell_angle_gamma   119.99964599
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Na2TiN2
+_chemical_formula_sum   'Na2 Ti1 N2'
+_cell_volume   74.48735694
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.66667833  0.33332610  0.29419603  1
+  Na  Na1  1  0.33331927  0.66667318  0.70580407  1
+  Ti  Ti2  1  0.00000000  0.00000000  0.00000000  1
+  N  N3  1  0.66663851  0.33332540  0.87709025  1
+  N  N4  1  0.33335908  0.66667388  0.12290985  1

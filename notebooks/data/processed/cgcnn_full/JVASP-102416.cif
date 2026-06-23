@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_Rb2NaNdI6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.66980487
+_cell_length_b   8.66980487
+_cell_length_c   8.66980487
+_cell_angle_alpha   60.00000000
+_cell_angle_beta   60.00000000
+_cell_angle_gamma   60.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Rb2NaNdI6
+_chemical_formula_sum   'Rb2 Na1 Nd1 I6'
+_cell_volume   460.80053101
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Rb  Rb0  1  0.75000002  0.75000042  0.74999894  1
+  Rb  Rb1  1  0.25000001  0.25000014  0.24999965  1
+  Na  Na2  1  0.50000002  0.50000028  0.49999929  1
+  Nd  Nd3  1  0.00000000  0.00000000  0.00000000  1
+  I  I4  1  0.74880686  0.25119320  0.25119261  1
+  I  I5  1  0.25119307  0.25119320  0.74880630  1
+  I  I6  1  0.25119317  0.74880736  0.74880597  1
+  I  I7  1  0.25119317  0.74880736  0.25119238  1
+  I  I8  1  0.74880686  0.25119320  0.74880620  1
+  I  I9  1  0.74880696  0.74880736  0.25119228  1

@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_Fe(NiS2)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.67181366
+_cell_length_b   6.67181342
+_cell_length_c   6.56117119
+_cell_angle_alpha   60.54707916
+_cell_angle_beta   60.54708032
+_cell_angle_gamma   60.76687192
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Fe(NiS2)2
+_chemical_formula_sum   'Fe2 Ni4 S8'
+_cell_volume   209.40721401
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Fe  Fe0  1  0.50000054  0.50000003  0.50000029  1
+  Fe  Fe1  1  0.50000054  0.50000003  0.00000038  1
+  Ni  Ni2  1  0.12244963  0.12244951  0.12755057  1
+  Ni  Ni3  1  0.00000002  0.50000030  0.50000008  1
+  Ni  Ni4  1  0.50000052  -0.00000027  0.50000012  1
+  Ni  Ni5  1  0.87755145  0.87755056  0.87245001  1
+  S  S6  1  0.26071099  0.26071072  0.25309987  1
+  S  S7  1  0.26071099  0.26071072  0.72547895  1
+  S  S8  1  0.26144437  0.72525008  0.25665339  1
+  S  S9  1  0.72525055  0.26144383  0.25665343  1
+  S  S10  1  0.27475054  0.73855623  0.74334716  1
+  S  S11  1  0.73855672  0.27474999  0.74334719  1
+  S  S12  1  0.73929010  0.73928935  0.27452163  1
+  S  S13  1  0.73929010  0.73928935  0.74690072  1

@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_InTeClO3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.93191926
+_cell_length_b   7.18199260
+_cell_length_c   8.35050829
+_cell_angle_alpha   103.35332458
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   InTeClO3
+_chemical_formula_sum   'In4 Te4 Cl4 O12'
+_cell_volume   404.49046366
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  In  In0  1  0.24984822  0.20184083  0.32158337  1
+  In  In1  1  0.75015189  0.79815840  0.67841671  1
+  In  In2  1  0.74984827  0.29815869  0.67841670  1
+  In  In3  1  0.25015184  0.70184054  0.32158338  1
+  Te  Te4  1  0.26818766  0.05655632  0.70828531  1
+  Te  Te5  1  0.76818771  0.44344320  0.29171476  1
+  Te  Te6  1  0.23181240  0.55655603  0.70828532  1
+  Te  Te7  1  0.73181245  0.94344291  0.29171477  1
+  Cl  Cl8  1  0.20686608  0.88847309  0.08976532  1
+  Cl  Cl9  1  0.79313403  0.11152614  0.91023475  1
+  Cl  Cl10  1  0.29313397  0.38847338  0.08976531  1
+  Cl  Cl11  1  0.70686613  0.61152585  0.91023476  1
+  O  O12  1  0.71640137  0.50762352  0.52779884  1
+  O  O13  1  0.21640131  0.99237542  0.47220125  1
+  O  O14  1  0.55522559  0.74337299  0.31481396  1
+  O  O15  1  0.94477457  0.24337328  0.31481395  1
+  O  O16  1  0.44523747  0.84520402  0.68986428  1
+  O  O17  1  0.05476258  0.34520431  0.68986427  1
+  O  O18  1  0.94523753  0.65479492  0.31013581  1
+  O  O19  1  0.55476263  0.15479521  0.31013580  1
+  O  O20  1  0.44477452  0.25662624  0.68518612  1
+  O  O21  1  0.28359874  0.49237571  0.47220124  1
+  O  O22  1  0.78359879  0.00762381  0.52779883  1
+  O  O23  1  0.05522554  0.75662595  0.68518613  1

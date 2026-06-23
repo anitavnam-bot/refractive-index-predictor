@@ -1,0 +1,32 @@
+# generated using pymatgen
+data_Ce2Ge3Rh
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.03189996
+_cell_length_b   8.03189996
+_cell_length_c   8.03189996
+_cell_angle_alpha   150.75092295
+_cell_angle_beta   148.87539551
+_cell_angle_gamma   43.23510510
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ce2Ge3Rh
+_chemical_formula_sum   'Ce2 Ge3 Rh1'
+_cell_volume   130.51856838
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ce  Ce0  1  0.12190813  0.12190797  0.00000011  1
+  Ce  Ce1  1  0.37818398  0.87818322  0.50000038  1
+  Ge  Ge2  1  0.70365643  0.70365556  0.00000065  1
+  Ge  Ge3  1  0.53768869  0.53768802  0.00000050  1
+  Ge  Ge4  1  0.79808362  0.29808352  0.49999978  1
+  Rh  Rh5  1  0.96048313  0.46048284  0.49999993  1

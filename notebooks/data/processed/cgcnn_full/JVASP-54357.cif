@@ -1,0 +1,37 @@
+# generated using pymatgen
+data_Zr4In5Co2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.53734854
+_cell_length_b   3.30170663
+_cell_length_c   9.07424384
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   94.83049173
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Zr4In5Co2
+_chemical_formula_sum   'Zr4 In5 Co2'
+_cell_volume   225.02058326
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Zr  Zr0  1  0.79893829  0.50000051  0.56118111  1
+  Zr  Zr1  1  0.18407683  0.50000051  0.83978757  1
+  Zr  Zr2  1  0.20106262  0.50000051  0.43881943  1
+  Zr  Zr3  1  0.81592408  0.50000051  0.16021297  1
+  In  In4  1  0.53919503  0.00000000  0.33312922  1
+  In  In5  1  0.15602446  0.00000000  0.14078428  1
+  In  In6  1  0.50000022  0.00000000  0.00000018  1
+  In  In7  1  0.84397646  0.00000000  0.85921626  1
+  In  In8  1  0.46080589  0.00000000  0.66687132  1
+  Co  Co9  1  0.07748016  0.00000000  0.63318097  1
+  Co  Co10  1  0.92252075  0.00000000  0.36681957  1

@@ -1,0 +1,49 @@
+# generated using pymatgen
+data_Zn(Mo3O8)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.95308864
+_cell_length_b   5.95308870
+_cell_length_c   9.32064573
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   119.99999399
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Zn(Mo3O8)2
+_chemical_formula_sum   'Zn1 Mo6 O16'
+_cell_volume   286.06278424
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Zn  Zn0  1  0.66666748  0.33333324  0.28206776  1
+  Mo  Mo1  1  0.17489876  0.34979799  0.06891734  1
+  Mo  Mo2  1  0.34136627  0.17068263  0.58314403  1
+  Mo  Mo3  1  0.17489923  0.82510221  0.06891734  1
+  Mo  Mo4  1  0.82931785  0.17068263  0.58314403  1
+  Mo  Mo5  1  0.82931833  0.65863544  0.58314403  1
+  Mo  Mo6  1  0.65020423  0.82510221  0.06891734  1
+  O  O7  1  0.15789354  0.84210593  0.67890906  1
+  O  O8  1  0.15789402  0.31578856  0.67890906  1
+  O  O9  1  0.68421366  0.84210593  0.67890906  1
+  O  O10  1  0.83922993  0.16077054  0.17660553  1
+  O  O11  1  0.48337770  0.96675494  0.95074580  1
+  O  O12  1  0.52176722  0.47823372  0.45632149  1
+  O  O13  1  0.95646845  0.47823372  0.45632149  1
+  O  O14  1  0.52176678  0.04353127  0.45632149  1
+  O  O15  1  0.48337725  0.51662474  0.95074580  1
+  O  O16  1  0.32154008  0.16077054  0.17660553  1
+  O  O17  1  0.33333374  0.66666647  0.19791135  1
+  O  O18  1  0.66666748  0.33333324  0.70399415  1
+  O  O19  1  0.00000000  0.00000000  0.96522765  1
+  O  O20  1  0.00000000  0.00000000  0.46881356  1
+  O  O21  1  0.03324627  0.51662474  0.95074580  1
+  O  O22  1  0.83922944  0.67845963  0.17660553  1

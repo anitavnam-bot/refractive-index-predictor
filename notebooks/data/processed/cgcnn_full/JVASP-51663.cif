@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_FeCuC5N6O
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.10785047
+_cell_length_b   7.10784983
+_cell_length_c   7.43019482
+_cell_angle_alpha   118.57498526
+_cell_angle_beta   118.57498105
+_cell_angle_gamma   90.00000069
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   FeCuC5N6O
+_chemical_formula_sum   'Fe1 Cu1 C5 N6 O1'
+_cell_volume   276.47342474
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Fe  Fe0  1  0.00418940  0.00418941  0.00837780  1
+  Cu  Cu1  1  0.52140586  0.52140671  0.04281276  1
+  C  C2  1  0.82752470  0.82752596  0.65505059  1
+  C  C3  1  0.80244946  0.18347758  0.98592768  1
+  C  C4  1  0.80244908  0.80245025  0.98592756  1
+  C  C5  1  0.18347742  0.18347757  0.98592792  1
+  C  C6  1  0.18347704  0.80245025  0.98592780  1
+  N  N7  1  0.30221455  0.68990448  0.99211856  1
+  N  N8  1  0.72111351  0.72111463  0.44222816  1
+  N  N9  1  0.68990350  0.68990448  0.99211841  1
+  N  N10  1  0.30221479  0.30221513  0.99211863  1
+  N  N11  1  0.15536814  0.15536835  0.31073536  1
+  N  N12  1  0.68990373  0.30221514  0.99211848  1
+  O  O13  1  0.26050003  0.26050038  0.52100018  1

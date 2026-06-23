@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_Fe4Se3N2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.47764519
+_cell_length_b   3.28992915
+_cell_length_c   8.71899542
+_cell_angle_alpha   90.00000167
+_cell_angle_beta   48.30343460
+_cell_angle_gamma   75.28893071
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Fe4Se3N2
+_chemical_formula_sum   'Fe4 Se3 N2'
+_cell_volume   130.47018930
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Fe  Fe0  1  0.39079321  0.80460291  0.63542467  1
+  Fe  Fe1  1  0.60920460  0.19539750  0.36457654  1
+  Fe  Fe2  1  0.55207186  0.72396421  0.15171897  1
+  Fe  Fe3  1  0.44792595  0.27603620  0.84828225  1
+  Se  Se4  1  0.00000000  0.00000000  0.00000000  1
+  Se  Se5  1  0.77012415  0.61493734  0.78582034  1
+  Se  Se6  1  0.22987366  0.38506307  0.21418088  1
+  N  N7  1  0.43454260  0.78272800  0.40686289  1
+  N  N8  1  0.56545522  0.21727241  0.59313832  1

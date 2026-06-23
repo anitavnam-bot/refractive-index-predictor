@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_Ca3TeO6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.60032923
+_cell_length_b   5.85253412
+_cell_length_c   9.79612022
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   124.50074299
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ca3TeO6
+_chemical_formula_sum   'Ca6 Te2 O12'
+_cell_volume   264.60708193
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ca  Ca0  1  0.72855442  0.55559444  0.74500291  1
+  Ca  Ca1  1  0.27144794  0.05559479  0.75499758  1
+  Ca  Ca2  1  0.27144739  0.44440485  0.25499742  1
+  Ca  Ca3  1  0.72855388  0.94440450  0.24500276  1
+  Ca  Ca4  1  0.50000036  0.49999965  0.00000002  1
+  Ca  Ca5  1  0.50000091  0.00000000  0.50000017  1
+  Te  Te6  1  0.00000054  0.49999965  0.50000015  1
+  Te  Te7  1  0.00000000  0.00000000  0.00000000  1
+  O  O8  1  0.88987607  0.55578139  0.27409471  1
+  O  O9  1  0.11012520  0.05578175  0.22590547  1
+  O  O10  1  0.33417780  0.17877448  0.05067821  1
+  O  O11  1  0.66582347  0.67877413  0.44932198  1
+  O  O12  1  0.66582401  0.82122482  0.94932213  1
+  O  O13  1  0.24141783  0.72400680  0.07108670  1
+  O  O14  1  0.75858398  0.27599250  0.92891364  1
+  O  O15  1  0.24141838  0.77599215  0.57108685  1
+  O  O16  1  0.88987661  0.94421755  0.77409487  1
+  O  O17  1  0.75858344  0.22400715  0.42891349  1
+  O  O18  1  0.33417834  0.32122517  0.55067836  1
+  O  O19  1  0.11012575  0.44421790  0.72590562  1

@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_CuHgSI
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.06235750
+_cell_length_b   7.18238097
+_cell_length_c   8.47172575
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CuHgSI
+_chemical_formula_sum   'Cu4 Hg4 S4 I4'
+_cell_volume   429.72440922
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cu  Cu0  1  0.29336826  0.07710224  0.35703708  1
+  Cu  Cu1  1  0.79336844  0.92289762  0.64296343  1
+  Cu  Cu2  1  0.79336844  0.42289769  0.85703733  1
+  Cu  Cu3  1  0.29336826  0.57710217  0.14296317  1
+  Hg  Hg4  1  0.18934585  0.03283126  0.94676578  1
+  Hg  Hg5  1  0.68934603  0.96716861  0.05323472  1
+  Hg  Hg6  1  0.68934603  0.46716868  0.44676553  1
+  Hg  Hg7  1  0.18934585  0.53283119  0.55323497  1
+  S  S8  1  0.87539867  0.11752128  0.84169582  1
+  S  S9  1  0.37539849  0.88247858  0.15830468  1
+  S  S10  1  0.37539849  0.38247865  0.34169557  1
+  S  S11  1  0.87539867  0.61752121  0.65830493  1
+  I  I12  1  0.40835783  0.91563329  0.62424665  1
+  I  I13  1  0.90835801  0.08436657  0.37575385  1
+  I  I14  1  0.90835801  0.58436650  0.12424640  1
+  I  I15  1  0.40835783  0.41563336  0.87575410  1

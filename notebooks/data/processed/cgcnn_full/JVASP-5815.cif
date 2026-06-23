@@ -1,0 +1,37 @@
+# generated using pymatgen
+data_Ga2PdI8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.57990059
+_cell_length_b   8.03610535
+_cell_length_c   8.03610562
+_cell_angle_alpha   62.37299233
+_cell_angle_beta   86.20144156
+_cell_angle_gamma   86.20144091
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ga2PdI8
+_chemical_formula_sum   'Ga2 Pd1 I8'
+_cell_volume   432.38940481
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ga  Ga0  1  0.65847409  0.21118719  0.21118660  1
+  Ga  Ga1  1  0.34152624  0.78881265  0.78881261  1
+  Pd  Pd2  1  0.00000000  0.00000000  0.00000000  1
+  I  I3  1  0.14485415  0.65633424  0.10856562  1
+  I  I4  1  0.85514638  0.89143440  0.34366515  1
+  I  I5  1  0.34459603  0.15800474  0.15800445  1
+  I  I6  1  0.65540429  0.84199510  0.84199477  1
+  I  I7  1  0.14485394  0.10856544  0.65633407  1
+  I  I8  1  0.85514617  0.34366560  0.89143359  1
+  I  I9  1  0.68214971  0.39285790  0.39285736  1
+  I  I10  1  0.31785061  0.60714194  0.60714185  1

@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_YbTiClO3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.20916644
+_cell_length_b   5.20916611
+_cell_length_c   10.15582217
+_cell_angle_alpha   73.13343222
+_cell_angle_beta   73.13343325
+_cell_angle_gamma   43.62013421
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   YbTiClO3
+_chemical_formula_sum   'Yb2 Ti2 Cl2 O6'
+_cell_volume   180.59482068
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Yb  Yb0  1  0.28455982  0.28455891  0.18743086  1
+  Yb  Yb1  1  0.71544205  0.71543944  0.81257014  1
+  Ti  Ti2  1  0.88642147  0.88641880  0.43099908  1
+  Ti  Ti3  1  0.11358040  0.11357955  0.56900192  1
+  Cl  Cl4  1  0.60931435  0.60931271  0.10270648  1
+  Cl  Cl5  1  0.39068752  0.39068565  0.89729452  1
+  O  O6  1  0.85230657  0.85230417  0.26139963  1
+  O  O7  1  0.14769530  0.14769419  0.73860137  1
+  O  O8  1  0.65932356  0.65932135  0.55343512  1
+  O  O9  1  0.34067831  0.34067701  0.44656588  1
+  O  O10  1  0.91328562  0.91328270  0.62299900  1
+  O  O11  1  0.08671625  0.08671565  0.37700200  1

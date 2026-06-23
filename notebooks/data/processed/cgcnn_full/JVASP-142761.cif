@@ -1,0 +1,41 @@
+# generated using pymatgen
+data_Ba3CaNb2O9
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.96589324
+_cell_length_b   5.96589324
+_cell_length_c   7.35794297
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   119.99999842
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ba3CaNb2O9
+_chemical_formula_sum   'Ba3 Ca1 Nb2 O9'
+_cell_volume   226.79736855
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.00000000  0.00000000  0.00000000  1
+  Ba  Ba1  1  0.33333307  0.66666729  0.67076328  1
+  Ba  Ba2  1  0.66666626  0.33333364  0.32923632  1
+  Ca  Ca3  1  0.00000000  0.00000000  0.49999980  1
+  Nb  Nb4  1  0.33333307  0.66666729  0.17036089  1
+  Nb  Nb5  1  0.66666626  0.33333364  0.82963870  1
+  O  O6  1  0.17598281  0.82401775  0.31516883  1
+  O  O7  1  0.82401652  0.17598318  0.68483077  1
+  O  O8  1  0.17598287  0.35196535  0.31516883  1
+  O  O9  1  0.82401646  0.64803558  0.68483077  1
+  O  O10  1  0.64803452  0.82401775  0.31516883  1
+  O  O11  1  0.35196481  0.17598318  0.68483077  1
+  O  O12  1  0.49999973  0.00000000  -0.00000000  1
+  O  O13  1  -0.00000006  0.50000047  -0.00000000  1
+  O  O14  1  0.49999967  0.50000047  -0.00000000  1

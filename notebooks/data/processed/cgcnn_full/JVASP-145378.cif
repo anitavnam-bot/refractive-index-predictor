@@ -1,0 +1,41 @@
+# generated using pymatgen
+data_Nb6InSe8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   10.20488918
+_cell_length_b   10.20488918
+_cell_length_c   3.49433478
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00000102
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Nb6InSe8
+_chemical_formula_sum   'Nb6 In1 Se8'
+_cell_volume   315.14594532
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Nb  Nb0  1  0.48592610  0.10527677  0.49999932  1
+  Nb  Nb1  1  0.89472338  0.38064910  0.49999932  1
+  Nb  Nb2  1  0.61935097  0.51407379  0.49999932  1
+  Nb  Nb3  1  0.51138189  0.89475891  -0.00000000  1
+  Nb  Nb4  1  0.10524094  0.61662214  -0.00000000  1
+  Nb  Nb5  1  0.38337781  0.48861823  -0.00000000  1
+  In  In6  1  0.00000000  0.00000000  0.49999932  1
+  Se  Se7  1  0.33333355  0.66666643  0.49999932  1
+  Se  Se8  1  0.66666682  0.33333322  -0.00000000  1
+  Se  Se9  1  0.34083750  0.28030141  0.49999932  1
+  Se  Se10  1  0.71969857  0.06053587  0.49999932  1
+  Se  Se11  1  0.93946437  0.65916238  0.49999932  1
+  Se  Se12  1  0.66205823  0.72307209  -0.00000000  1
+  Se  Se13  1  0.27692794  0.93898529  -0.00000000  1
+  Se  Se14  1  0.06101447  0.33794191  -0.00000000  1

@@ -1,0 +1,41 @@
+# generated using pymatgen
+data_Cd2Fe(CN)6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.32311165
+_cell_length_b   6.32311165
+_cell_length_c   6.37701030
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00000297
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Cd2Fe(CN)6
+_chemical_formula_sum   'Cd2 Fe1 C6 N6'
+_cell_volume   220.80527192
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cd  Cd0  1  0.33333355  0.66666782  0.50014378  1
+  Cd  Cd1  1  0.66666782  0.33333354  0.49985618  1
+  Fe  Fe2  1  0.00000000  0.00000000  0.00000000  1
+  C  C3  1  0.23646670  -0.00007824  0.17567380  1
+  C  C4  1  0.76345730  0.76353460  0.17567380  1
+  C  C5  1  0.76353440  0.00007850  0.82432615  1
+  C  C6  1  0.00007837  0.23654401  0.17567380  1
+  C  C7  1  0.23654407  0.23646676  0.82432615  1
+  C  C8  1  -0.00007810  0.76345710  0.82432615  1
+  N  N9  1  0.37796022  0.99991349  0.29675999  1
+  N  N10  1  0.62195360  0.62204131  0.29675999  1
+  N  N11  1  0.00008782  0.37804767  0.29675999  1
+  N  N12  1  0.99991355  0.62195370  0.70323996  1
+  N  N13  1  0.37804777  0.37796005  0.70323996  1
+  N  N14  1  0.62204115  0.00008787  0.70323996  1

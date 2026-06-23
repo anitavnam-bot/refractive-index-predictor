@@ -1,0 +1,52 @@
+# generated using pymatgen
+data_Na3SiSbCO7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.10170576
+_cell_length_b   6.96547318
+_cell_length_c   9.50816291
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   92.50785408
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Na3SiSbCO7
+_chemical_formula_sum   'Na6 Si2 Sb2 C2 O14'
+_cell_volume   337.55651401
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.78395977  0.24999989  0.09632577  1
+  Na  Na1  1  0.24806819  0.00188074  0.24997491  1
+  Na  Na2  1  0.24806819  0.49811903  0.24997491  1
+  Na  Na3  1  0.75193068  0.50188051  0.75002578  1
+  Na  Na4  1  0.75193068  0.99811880  0.75002578  1
+  Na  Na5  1  0.21603910  0.74999966  0.90367492  1
+  Si  Si6  1  0.72021734  0.24999989  0.40763465  1
+  Si  Si7  1  0.27978153  0.74999966  0.59236604  1
+  Sb  Sb8  1  0.24656476  0.24999989  0.63597922  1
+  Sb  Sb9  1  0.75343411  0.74999966  0.36402147  1
+  C  C10  1  0.72376291  0.74999966  0.04991434  1
+  C  C11  1  0.27623596  0.24999989  0.95008635  1
+  O  O12  1  0.50745249  0.24999989  0.89995585  1
+  O  O13  1  0.18897478  0.93757007  0.68294741  1
+  O  O14  1  0.18897478  0.56242925  0.68294741  1
+  O  O15  1  0.60348805  0.74999966  0.58222328  1
+  O  O16  1  0.85480808  0.24999989  0.57217495  1
+  O  O17  1  0.14519079  0.74999966  0.42782574  1
+  O  O18  1  0.24766612  0.24999989  0.08480283  1
+  O  O19  1  0.81102409  0.43757030  0.31705328  1
+  O  O20  1  0.81102409  0.06242947  0.31705328  1
+  O  O21  1  0.49254638  0.74999966  0.10004484  1
+  O  O22  1  0.93357151  0.74999966  0.13485360  1
+  O  O23  1  0.06642736  0.24999989  0.86514709  1
+  O  O24  1  0.39651081  0.24999989  0.41777741  1
+  O  O25  1  0.75233275  0.74999966  0.91519786  1

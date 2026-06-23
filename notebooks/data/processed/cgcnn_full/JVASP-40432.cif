@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_K2BaCdSb2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.06451785
+_cell_length_b   8.56278293
+_cell_length_c   9.89847321
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   K2BaCdSb2
+_chemical_formula_sum   'K4 Ba2 Cd2 Sb4'
+_cell_volume   429.26082232
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.50000021  0.97676317  0.42366876  1
+  K  K1  1  0.00000000  0.65227567  0.33796388  1
+  K  K2  1  0.50000021  0.47676334  0.57633092  1
+  K  K3  1  0.00000000  0.15227584  0.66203579  1
+  Ba  Ba4  1  0.00000000  0.00393998  0.05056057  1
+  Ba  Ba5  1  0.00000000  0.50393981  0.94943910  1
+  Cd  Cd6  1  0.50000021  0.84705930  0.82051267  1
+  Cd  Cd7  1  0.50000021  0.34705948  0.17948700  1
+  Sb  Sb8  1  0.00000000  0.75861684  0.67594157  1
+  Sb  Sb9  1  0.50000021  0.71574268  0.11494792  1
+  Sb  Sb10  1  0.00000000  0.25861701  0.32405811  1
+  Sb  Sb11  1  0.50000021  0.21574286  0.88505176  1

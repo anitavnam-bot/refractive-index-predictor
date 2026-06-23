@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_BeGeN2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.88261260
+_cell_length_b   5.18521380
+_cell_length_c   5.95292316
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   BeGeN2
+_chemical_formula_sum   'Be4 Ge4 N8'
+_cell_volume   150.71247888
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Be  Be0  1  0.99073384  0.58010035  0.87486268  1
+  Be  Be1  1  0.49073410  0.41989892  0.12513679  1
+  Be  Be2  1  0.49073410  0.91989855  0.37486295  1
+  Be  Be3  1  0.99073384  0.08010072  0.62513652  1
+  Ge  Ge4  1  0.99062711  0.59049493  0.37553311  1
+  Ge  Ge5  1  0.49062738  0.40950433  0.62446636  1
+  Ge  Ge6  1  0.49062738  0.90950397  0.87553284  1
+  Ge  Ge7  1  0.99062711  0.09049530  0.12446663  1
+  N  N8  1  0.37783498  0.59066149  0.36592892  1
+  N  N9  1  0.87783472  0.40933777  0.63407055  1
+  N  N10  1  0.87783472  0.90933741  0.86592865  1
+  N  N11  1  0.37783498  0.09066186  0.13407081  1
+  N  N12  1  0.35480162  0.57243886  0.88446511  1
+  N  N13  1  0.85480136  0.42756041  0.11553436  1
+  N  N14  1  0.85480136  0.92756004  0.38446537  1
+  N  N15  1  0.35480162  0.07243922  0.61553410  1

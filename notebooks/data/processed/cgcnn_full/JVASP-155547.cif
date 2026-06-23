@@ -1,0 +1,33 @@
+# generated using pymatgen
+data_Ga2Mo2Ru3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.33656083
+_cell_length_b   7.33656083
+_cell_length_c   7.33656100
+_cell_angle_alpha   33.87173129
+_cell_angle_beta   33.87173129
+_cell_angle_gamma   33.87172440
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ga2Mo2Ru3
+_chemical_formula_sum   'Ga2 Mo2 Ru3'
+_cell_volume   109.31491727
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ga  Ga0  1  0.24413054  0.24413054  0.24413153  1
+  Ga  Ga1  1  0.76036549  0.76036549  0.76036857  1
+  Mo  Mo2  1  0.50408461  0.50408461  0.50408665  1
+  Mo  Mo3  1  0.99482217  0.99482217  0.99482620  1
+  Ru  Ru4  1  0.12264417  0.12264417  0.12264467  1
+  Ru  Ru5  1  0.37351864  0.37351864  0.37352015  1
+  Ru  Ru6  1  0.62442915  0.62442915  0.62443168  1

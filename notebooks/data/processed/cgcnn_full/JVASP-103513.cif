@@ -1,0 +1,31 @@
+# generated using pymatgen
+data_BaIn3Pt
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.78878562
+_cell_length_b   6.78878530
+_cell_length_c   6.78878554
+_cell_angle_alpha   138.10266489
+_cell_angle_beta   138.10266206
+_cell_angle_gamma   60.74580067
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   BaIn3Pt
+_chemical_formula_sum   'Ba1 In3 Pt1'
+_cell_volume   138.02287612
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.99728280  0.99728275  -0.00000203  1
+  In  In1  1  0.73826930  0.23826980  0.49999937  1
+  In  In2  1  0.23826883  0.73826997  0.49999916  1
+  In  In3  1  0.39869335  0.39869334  -0.00000081  1
+  Pt  Pt4  1  0.62748065  0.62748062  -0.00000128  1

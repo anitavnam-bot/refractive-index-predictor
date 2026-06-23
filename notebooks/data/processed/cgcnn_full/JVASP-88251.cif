@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_NaIn(SiO3)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.42803069
+_cell_length_b   6.79542070
+_cell_length_c   6.79542103
+_cell_angle_alpha   85.05163515
+_cell_angle_beta   77.35639612
+_cell_angle_gamma   77.35639537
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NaIn(SiO3)2
+_chemical_formula_sum   'Na2 In2 Si4 O12'
+_cell_volume   238.45146926
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.24999961  0.69817779  0.30182144  1
+  Na  Na1  1  0.75000000  0.30182046  0.69817801  1
+  In  In2  1  0.24999978  0.10501680  0.89498210  1
+  In  In3  1  0.74999983  0.89498146  0.10501735  1
+  Si  Si4  1  0.74998623  0.79463754  0.62101659  1
+  Si  Si5  1  0.75001360  0.37898222  0.20536093  1
+  Si  Si6  1  0.24998600  0.62101604  0.79463853  1
+  Si  Si7  1  0.25001337  0.20536072  0.37898286  1
+  O  O8  1  0.51950885  0.66325557  0.63769233  1
+  O  O9  1  0.15404651  0.79904051  0.96143295  1
+  O  O10  1  0.32378904  0.39630043  0.88952586  1
+  O  O11  1  0.34595287  0.03856641  0.20095828  1
+  O  O12  1  0.17621042  0.11047328  0.60369841  1
+  O  O13  1  0.65404674  0.96143185  0.79904117  1
+  O  O14  1  0.84595310  0.20095775  0.03856650  1
+  O  O15  1  0.01950858  0.63769195  0.66325648  1
+  O  O16  1  0.48049076  0.33674268  0.36230712  1
+  O  O17  1  0.98049102  0.36230631  0.33674298  1
+  O  O18  1  0.67621056  0.60369783  0.11047360  1
+  O  O19  1  0.82378918  0.88952498  0.39630104  1

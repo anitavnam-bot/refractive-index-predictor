@@ -1,0 +1,54 @@
+# generated using pymatgen
+data_Ti3Al2NiN
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.05296002
+_cell_length_b   8.05296021
+_cell_length_c   8.05295940
+_cell_angle_alpha   60.00000333
+_cell_angle_beta   60.00000252
+_cell_angle_gamma   60.00000249
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ti3Al2NiN
+_chemical_formula_sum   'Ti12 Al8 Ni4 N4'
+_cell_volume   369.27646980
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ti  Ti0  1  0.80909572  0.44090433  0.44090470  1
+  Ti  Ti1  1  0.55909569  0.55909495  0.19090473  1
+  Ti  Ti2  1  0.19090476  0.19090451  0.55909542  1
+  Ti  Ti3  1  0.55909557  0.19090451  0.19090465  1
+  Ti  Ti4  1  0.55909557  0.19090451  0.55909539  1
+  Ti  Ti5  1  0.19090488  0.55909495  0.19090477  1
+  Ti  Ti6  1  0.44090503  0.80909477  0.44090482  1
+  Ti  Ti7  1  0.44090491  0.44090433  0.80909547  1
+  Ti  Ti8  1  0.80909584  0.80909477  0.44090479  1
+  Ti  Ti9  1  0.80909572  0.44090433  0.80909544  1
+  Ti  Ti10  1  0.19090488  0.55909495  0.55909551  1
+  Ti  Ti11  1  0.44090503  0.80909477  0.80909556  1
+  Al  Al12  1  0.79194639  0.79194534  0.79194608  1
+  Al  Al13  1  0.20805421  0.20805394  0.87583884  1
+  Al  Al14  1  0.20805443  0.87583811  0.20805428  1
+  Al  Al15  1  0.87583905  0.20805394  0.20805406  1
+  Al  Al16  1  0.79194639  0.79194534  0.12416137  1
+  Al  Al17  1  0.12416155  0.79194534  0.79194614  1
+  Al  Al18  1  0.20805421  0.20805394  0.20805413  1
+  Al  Al19  1  0.79194617  0.12416117  0.79194592  1
+  Ni  Ni20  1  0.50000013  0.00000000  -0.00000005  1
+  Ni  Ni21  1  0.00000000  0.00000000  0.00000000  1
+  Ni  Ni22  1  0.00000000  0.00000000  0.50000004  1
+  Ni  Ni23  1  0.00000016  0.49999964  0.00000012  1
+  N  N24  1  0.50000030  0.49999964  0.50000010  1
+  N  N25  1  0.50000030  0.49999964  0.00000007  1
+  N  N26  1  0.00000016  0.49999964  0.50000015  1
+  N  N27  1  0.50000013  0.00000000  0.49999999  1

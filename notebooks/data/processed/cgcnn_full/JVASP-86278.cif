@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_ErAgGe
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.11419178
+_cell_length_b   7.11419223
+_cell_length_c   4.15725719
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   119.99999793
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ErAgGe
+_chemical_formula_sum   'Er3 Ag3 Ge3'
+_cell_volume   182.21691891
+_cell_formula_units_Z   3
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Er  Er0  1  0.58543521  0.00000000  0.00000000  1
+  Er  Er1  1  0.41456425  0.41456455  0.00000000  1
+  Er  Er2  1  -0.00000040  0.58543524  0.00000000  1
+  Ag  Ag3  1  0.74660771  0.74660825  0.50000034  1
+  Ag  Ag4  1  0.25339152  0.00000000  0.50000034  1
+  Ag  Ag5  1  -0.00000017  0.25339153  0.50000034  1
+  Ge  Ge6  1  0.00000000  0.00000000  0.00000000  1
+  Ge  Ge7  1  0.66666660  0.33333293  0.50000034  1
+  Ge  Ge8  1  0.33333246  0.66666686  0.50000034  1

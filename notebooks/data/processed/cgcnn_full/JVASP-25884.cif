@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_PrB2ClO4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.23913526
+_cell_length_b   6.59186774
+_cell_length_c   8.08636812
+_cell_angle_alpha   97.81988836
+_cell_angle_beta   89.05999386
+_cell_angle_gamma   107.97796296
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   PrB2ClO4
+_chemical_formula_sum   'Pr2 B4 Cl2 O8'
+_cell_volume   212.85413919
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Pr  Pr0  1  0.78732364  0.02984094  0.77776121  1
+  Pr  Pr1  1  0.21267507  0.97015918  0.22223745  1
+  B  B2  1  0.16826192  0.65010090  0.85286717  1
+  B  B3  1  0.56457148  0.43546379  0.80500583  1
+  B  B4  1  0.43542723  0.56453633  0.19499284  1
+  B  B5  1  0.83173679  0.34989921  0.14713150  1
+  Cl  Cl6  1  0.14409499  0.79560187  0.54116957  1
+  Cl  Cl7  1  0.85590373  0.20439825  0.45882909  1
+  O  O8  1  0.63388901  0.76652234  0.21064895  1
+  O  O9  1  0.09704109  0.53738053  0.17631931  1
+  O  O10  1  0.83730323  0.15298574  0.07908585  1
+  O  O11  1  0.36610971  0.23347777  0.78934971  1
+  O  O12  1  0.90295763  0.46261958  0.82367936  1
+  O  O13  1  0.16269548  0.84701438  0.92091281  1
+  O  O14  1  0.48131012  0.62610324  0.81691375  1
+  O  O15  1  0.51868859  0.37389687  0.18308492  1

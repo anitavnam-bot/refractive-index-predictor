@@ -1,0 +1,30 @@
+# generated using pymatgen
+data_KU3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   2.79308185
+_cell_length_b   8.72039284
+_cell_length_c   4.54558719
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   KU3
+_chemical_formula_sum   'K1 U3'
+_cell_volume   110.71582627
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.00000000  0.12670437  0.75000046  1
+  U  U1  1  0.49999967  0.46096016  0.25000015  1
+  U  U2  1  0.49999967  0.61813327  0.75000046  1
+  U  U3  1  0.00000000  0.79420155  0.25000015  1

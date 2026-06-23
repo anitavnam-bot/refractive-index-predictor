@@ -1,0 +1,33 @@
+# generated using pymatgen
+data_GaCuGeSe4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.69580589
+_cell_length_b   6.69580630
+_cell_length_c   6.69580559
+_cell_angle_alpha   131.23152790
+_cell_angle_beta   131.23153092
+_cell_angle_gamma   71.44548313
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   GaCuGeSe4
+_chemical_formula_sum   'Ga1 Cu1 Ge1 Se4'
+_cell_volume   166.16441002
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ga  Ga0  1  0.50000078  0.49999995  -0.00000014  1
+  Cu  Cu1  1  0.25000087  0.74999921  0.49999976  1
+  Ge  Ge2  1  0.75000110  0.24999998  0.50000041  1
+  Se  Se3  1  0.11295476  0.11532399  0.46277360  1
+  Se  Se4  1  0.65255214  0.65018052  0.53722663  1
+  Se  Se5  1  0.34981988  0.88704514  0.00236941  1
+  Se  Se6  1  0.88467717  0.34744873  0.99763069  1

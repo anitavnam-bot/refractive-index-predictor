@@ -1,0 +1,32 @@
+# generated using pymatgen
+data_DyFeCu
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.14902143
+_cell_length_b   5.14902143
+_cell_length_c   5.14902143
+_cell_angle_alpha   123.02379935
+_cell_angle_beta   120.64921658
+_cell_angle_gamma   86.86045673
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   DyFeCu
+_chemical_formula_sum   'Dy2 Fe2 Cu2'
+_cell_volume   93.64283230
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Dy  Dy0  1  0.36951140  0.11951143  0.24999982  1
+  Dy  Dy1  1  0.63048825  0.88048827  0.74999958  1
+  Fe  Fe2  1  -0.00000030  0.49999985  0.00000001  1
+  Fe  Fe3  1  0.00000041  0.00000002  0.49999980  1
+  Cu  Cu4  1  0.49999942  0.49999983  -0.00000010  1
+  Cu  Cu5  1  0.00000011  0.49999987  0.49999982  1

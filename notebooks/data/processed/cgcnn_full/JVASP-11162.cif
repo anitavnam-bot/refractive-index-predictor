@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_NaTl2RhF6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.04102423
+_cell_length_b   6.04102396
+_cell_length_c   6.04102453
+_cell_angle_alpha   59.99999684
+_cell_angle_beta   59.99999833
+_cell_angle_gamma   60.00000041
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NaTl2RhF6
+_chemical_formula_sum   'Na1 Tl2 Rh1 F6'
+_cell_volume   155.88944925
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.49999951  0.50000047  0.49999926  1
+  Tl  Tl1  1  0.74999926  0.75000071  0.74999889  1
+  Tl  Tl2  1  0.24999975  0.25000024  0.24999963  1
+  Rh  Rh3  1  0.00000000  0.00000000  0.00000000  1
+  F  F4  1  0.23466525  0.76533476  0.76533308  1
+  F  F5  1  0.23466525  0.76533476  0.23466541  1
+  F  F6  1  0.76533376  0.23466619  0.76533310  1
+  F  F7  1  0.23466574  0.23466619  0.76533328  1
+  F  F8  1  0.76533376  0.23466619  0.23466544  1
+  F  F9  1  0.76533328  0.76533475  0.23466523  1

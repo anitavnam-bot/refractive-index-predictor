@@ -1,0 +1,39 @@
+# generated using pymatgen
+data_Ca(MnAl2)4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.97597437
+_cell_length_b   6.70930403
+_cell_length_c   6.70930416
+_cell_angle_alpha   82.09608270
+_cell_angle_beta   68.23340091
+_cell_angle_gamma   68.23341042
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ca(MnAl2)4
+_chemical_formula_sum   'Ca1 Mn4 Al8'
+_cell_volume   193.19061618
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ca  Ca0  1  0.00000000  0.00000000  0.00000000  1
+  Mn  Mn1  1  0.49999965  -0.00000000  0.49999998  1
+  Mn  Mn2  1  -0.00000014  0.50000036  -0.00000019  1
+  Mn  Mn3  1  0.49999983  0.50000036  -0.00000053  1
+  Mn  Mn4  1  -0.00000033  -0.00000000  0.50000033  1
+  Al  Al5  1  0.33813150  0.66186834  0.66186782  1
+  Al  Al6  1  -0.00000053  0.33813238  0.66186817  1
+  Al  Al7  1  -0.00000041  0.66186834  0.33813211  1
+  Al  Al8  1  0.66186751  0.33813238  0.33813177  1
+  Al  Al9  1  0.27726092  0.22273902  0.22273873  1
+  Al  Al10  1  0.49999961  0.77726170  0.22273837  1
+  Al  Al11  1  0.49999940  0.22273902  0.77726122  1
+  Al  Al12  1  0.72273809  0.77726170  0.77726086  1

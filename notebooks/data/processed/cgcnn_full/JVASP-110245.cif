@@ -1,0 +1,34 @@
+# generated using pymatgen
+data_GeBiPd6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.86257047
+_cell_length_b   7.86257047
+_cell_length_c   7.86257006
+_cell_angle_alpha   33.64348234
+_cell_angle_beta   33.64348234
+_cell_angle_gamma   33.64348382
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   GeBiPd6
+_chemical_formula_sum   'Ge1 Bi1 Pd6'
+_cell_volume   132.90905344
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ge  Ge0  1  0.50000063  0.50000018  0.49999957  1
+  Bi  Bi1  1  0.00000000  0.00000000  0.00000000  1
+  Pd  Pd2  1  0.61259828  0.61259773  0.61259698  1
+  Pd  Pd3  1  0.13325171  0.13325160  0.13325143  1
+  Pd  Pd4  1  0.86674954  0.86674877  0.86674770  1
+  Pd  Pd5  1  0.38740297  0.38740263  0.38740215  1
+  Pd  Pd6  1  0.25493040  0.25493017  0.25492986  1
+  Pd  Pd7  1  0.74507086  0.74507019  0.74506928  1

@@ -1,0 +1,33 @@
+# generated using pymatgen
+data_K2MgH4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.00210591
+_cell_length_b   4.00210661
+_cell_length_c   7.30927745
+_cell_angle_alpha   105.88866405
+_cell_angle_beta   105.88866857
+_cell_angle_gamma   89.99999419
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   K2MgH4
+_chemical_formula_sum   'K2 Mg1 H4'
+_cell_volume   107.94113283
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.64534106  0.64533939  0.29067947  1
+  K  K1  1  0.35466137  0.35465948  0.70932032  1
+  Mg  Mg2  1  0.00000000  0.00000000  0.00000000  1
+  H  H3  1  0.50000010  0.00000000  -0.00000019  1
+  H  H4  1  0.00000056  0.49999976  -0.00000016  1
+  H  H5  1  0.85057861  0.85057584  0.70115215  1
+  H  H6  1  0.14942383  0.14942303  0.29884764  1

@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_AcCuO2F
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.71088252
+_cell_length_b   5.71088198
+_cell_length_c   5.71088214
+_cell_angle_alpha   120.75172462
+_cell_angle_beta   120.75172134
+_cell_angle_gamma   88.70283733
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   AcCuO2F
+_chemical_formula_sum   'Ac2 Cu2 O4 F2'
+_cell_volume   130.17004334
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ac  Ac0  1  0.25000058  0.74999998  0.50000103  1
+  Ac  Ac1  1  0.74999988  0.24999985  0.50000060  1
+  Cu  Cu2  1  0.00000000  0.00000000  0.00000000  1
+  Cu  Cu3  1  0.50000013  0.49999969  0.00000077  1
+  O  O4  1  0.29373861  0.79373788  0.08747627  1
+  O  O5  1  0.79373833  0.70626165  0.50000116  1
+  O  O6  1  0.70626184  0.20626195  0.91252536  1
+  O  O7  1  0.20626212  0.29373818  0.50000046  1
+  F  F8  1  0.25000007  0.24999985  0.00000039  1
+  F  F9  1  0.75000020  0.74999954  0.00000116  1

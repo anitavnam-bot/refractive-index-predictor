@@ -1,0 +1,31 @@
+# generated using pymatgen
+data_Pa(GaNi)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.07851169
+_cell_length_b   6.07851169
+_cell_length_c   6.07851169
+_cell_angle_alpha   143.15130731
+_cell_angle_beta   143.15130731
+_cell_angle_gamma   53.09829614
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Pa(GaNi)2
+_chemical_formula_sum   'Pa1 Ga2 Ni2'
+_cell_volume   80.27395543
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Pa  Pa0  1  0.00000000  0.00000000  0.00000000  1
+  Ga  Ga1  1  0.75000075  0.24999998  0.50000077  1
+  Ga  Ga2  1  0.24999998  0.75000075  0.50000077  1
+  Ni  Ni3  1  0.39306596  0.39306596  -0.00000000  1
+  Ni  Ni4  1  0.60693396  0.60693396  -0.00000000  1

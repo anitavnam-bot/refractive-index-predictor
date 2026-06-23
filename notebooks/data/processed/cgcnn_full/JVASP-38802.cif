@@ -1,0 +1,30 @@
+# generated using pymatgen
+data_Nd2AgIr
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.12180271
+_cell_length_b   5.12180481
+_cell_length_c   5.12180132
+_cell_angle_alpha   60.00001351
+_cell_angle_beta   60.00001802
+_cell_angle_gamma   60.00009460
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Nd2AgIr
+_chemical_formula_sum   'Nd2 Ag1 Ir1'
+_cell_volume   95.00665180
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Nd  Nd0  1  0.00000000  0.00000000  0.00000000  1
+  Nd  Nd1  1  0.50000021  0.49999967  0.49999994  1
+  Ag  Ag2  1  0.25000111  0.25000083  0.25000097  1
+  Ir  Ir3  1  0.75000132  0.75000050  0.75000091  1

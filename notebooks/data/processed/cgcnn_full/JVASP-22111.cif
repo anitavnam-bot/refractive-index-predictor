@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_Sr2CaIrO6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.77977756
+_cell_length_b   5.88260357
+_cell_length_c   10.01756678
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   124.86491359
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sr2CaIrO6
+_chemical_formula_sum   'Sr4 Ca2 Ir2 O12'
+_cell_volume   279.46192337
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sr  Sr0  1  0.24063069  0.04427878  0.25027858  1
+  Sr  Sr1  1  0.75936964  0.54427848  0.24972103  1
+  Sr  Sr2  1  0.24063093  0.45572092  0.75027853  1
+  Sr  Sr3  1  0.75936987  0.95572061  0.74972098  1
+  Ca  Ca4  1  0.50000028  0.49999970  0.49999978  1
+  Ca  Ca5  1  0.50000005  0.00000000  -0.00000017  1
+  Ir  Ir6  1  0.00000023  0.00000000  0.49999995  1
+  Ir  Ir7  1  0.00000000  0.49999970  0.00000000  1
+  O  O8  1  0.23203492  0.80888986  0.46042675  1
+  O  O9  1  0.76796541  0.30889016  0.03957286  1
+  O  O10  1  0.85713059  0.77132957  0.04377547  1
+  O  O11  1  0.14286974  0.27132987  0.45622414  1
+  O  O12  1  0.14286997  0.22866983  0.95622409  1
+  O  O13  1  0.69155179  0.52113725  0.76972473  1
+  O  O14  1  0.30844877  0.47886214  0.23027484  1
+  O  O15  1  0.69155156  0.97886184  0.26972477  1
+  O  O16  1  0.23203515  0.69110923  0.96042670  1
+  O  O17  1  0.30844900  0.02113756  0.73027479  1
+  O  O18  1  0.85713082  0.72866952  0.54377542  1
+  O  O19  1  0.76796564  0.19110953  0.53957281  1

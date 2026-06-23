@@ -1,0 +1,52 @@
+# generated using pymatgen
+data_BaTi4AlO7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.05249951
+_cell_length_b   6.05249864
+_cell_length_c   10.21066570
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   119.99999383
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   BaTi4AlO7
+_chemical_formula_sum   'Ba2 Ti8 Al2 O14'
+_cell_volume   323.93224432
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.66666705  0.33333313  0.50062298  1
+  Ba  Ba1  1  0.33333302  0.66666727  0.00062277  1
+  Ti  Ti2  1  0.00000000  0.00000000  0.98094991  1
+  Ti  Ti3  1  0.16576184  0.83423850  0.68272779  1
+  Ti  Ti4  1  0.33152369  0.16576190  0.18272758  1
+  Ti  Ti5  1  0.00000000  0.00000000  0.48094970  1
+  Ti  Ti6  1  0.16576184  0.33152380  0.68272779  1
+  Ti  Ti7  1  0.66847638  0.83423850  0.68272779  1
+  Ti  Ti8  1  0.83423823  0.16576190  0.18272758  1
+  Ti  Ti9  1  0.83423823  0.66847660  0.18272758  1
+  Al  Al10  1  0.66666705  0.33333313  0.87172636  1
+  Al  Al11  1  0.33333302  0.66666727  0.37172615  1
+  O  O12  1  0.00000000  0.00000000  0.28666574  1
+  O  O13  1  0.48251434  0.96502799  0.25890448  1
+  O  O14  1  0.51748574  0.03497241  0.75890469  1
+  O  O15  1  0.96502768  0.48251450  0.75890469  1
+  O  O16  1  0.48251434  0.51748590  0.25890448  1
+  O  O17  1  0.00000000  0.00000000  0.78666595  1
+  O  O18  1  0.81341420  0.18658594  0.98971225  1
+  O  O19  1  0.37317077  0.18658594  0.98971225  1
+  O  O20  1  0.81341419  0.62682951  0.98971225  1
+  O  O21  1  0.18658588  0.37317089  0.48971204  1
+  O  O22  1  0.62682931  0.81341446  0.48971204  1
+  O  O23  1  0.51748574  0.48251450  0.75890469  1
+  O  O24  1  0.18658588  0.81341446  0.48971204  1
+  O  O25  1  0.03497239  0.51748590  0.25890448  1

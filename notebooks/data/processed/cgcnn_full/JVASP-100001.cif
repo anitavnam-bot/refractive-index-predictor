@@ -1,0 +1,32 @@
+# generated using pymatgen
+data_DyAlCo4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.86236991
+_cell_length_b   5.02823306
+_cell_length_c   5.02818138
+_cell_angle_alpha   59.99840404
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   DyAlCo4
+_chemical_formula_sum   'Dy1 Al1 Co4'
+_cell_volume   84.56756905
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Dy  Dy0  1  0.00000000  0.00000672  0.00000337  1
+  Al  Al1  1  0.00000000  0.33333523  0.33332858  1
+  Co  Co2  1  0.00000000  0.66665471  0.66671554  1
+  Co  Co3  1  0.50000001  0.50329489  0.50332503  1
+  Co  Co4  1  0.50000001  0.50327958  0.99340572  1
+  Co  Co5  1  0.50000001  0.99334924  0.50332472  1

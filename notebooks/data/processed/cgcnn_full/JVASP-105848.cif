@@ -1,0 +1,30 @@
+# generated using pymatgen
+data_Pr3Mg
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.21927787
+_cell_length_b   6.21927795
+_cell_length_c   6.21927801
+_cell_angle_alpha   132.63880216
+_cell_angle_beta   132.63880284
+_cell_angle_gamma   69.22196029
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Pr3Mg
+_chemical_formula_sum   'Pr3 Mg1'
+_cell_volume   127.75067006
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Pr  Pr0  1  0.50000099  0.49999974  -0.00000004  1
+  Pr  Pr1  1  0.75000118  0.24999987  0.49999994  1
+  Pr  Pr2  1  0.25000133  0.75000058  0.50000052  1
+  Mg  Mg3  1  0.00000000  0.00000000  0.00000000  1

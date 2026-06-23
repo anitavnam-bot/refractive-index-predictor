@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_Th2Al2C3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.52893171
+_cell_length_b   5.43170114
+_cell_length_c   11.62418215
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Th2Al2C3
+_chemical_formula_sum   'Th4 Al4 C6'
+_cell_volume   222.81351350
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Th  Th0  1  0.49999976  0.82662630  0.14952812  1
+  Th  Th1  1  0.00000000  0.32662641  0.35047179  1
+  Th  Th2  1  0.00000000  0.67337338  0.64952803  1
+  Th  Th3  1  0.49999976  0.17337349  0.85047170  1
+  Al  Al4  1  0.49999976  0.81676776  0.41516158  1
+  Al  Al5  1  0.00000000  0.31676787  0.08483832  1
+  Al  Al6  1  0.49999976  0.18323203  0.58483823  1
+  Al  Al7  1  0.00000000  0.68323192  0.91516149  1
+  C  C8  1  0.00000000  0.16621697  0.68692276  1
+  C  C9  1  0.49999976  0.66621687  0.81307696  1
+  C  C10  1  0.00000000  0.83378282  0.31307706  1
+  C  C11  1  0.00000000  0.00000000  0.00000000  1
+  C  C12  1  0.49999976  0.33378292  0.18692285  1
+  C  C13  1  0.49999976  0.49999990  0.49999991  1

@@ -1,0 +1,30 @@
+# generated using pymatgen
+data_MnCN2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.17645336
+_cell_length_b   5.17645345
+_cell_length_c   5.17645364
+_cell_angle_alpha   37.43058077
+_cell_angle_beta   37.43057751
+_cell_angle_gamma   37.43057831
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   MnCN2
+_chemical_formula_sum   'Mn1 C1 N2'
+_cell_volume   45.94845843
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mn  Mn0  1  0.00000000  0.00000000  0.00000000  1
+  C  C1  1  0.50000135  0.49999967  0.49999900  1
+  N  N2  1  0.41433050  0.41432911  0.41432855  1
+  N  N3  1  0.58567220  0.58567024  0.58566945  1

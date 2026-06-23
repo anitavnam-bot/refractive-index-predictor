@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_Li7NbO6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.54055672
+_cell_length_b   5.54053214
+_cell_length_c   5.86031008
+_cell_angle_alpha   61.78907990
+_cell_angle_beta   61.78776197
+_cell_angle_gamma   59.99905750
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Li7NbO6
+_chemical_formula_sum   'Li7 Nb1 O6'
+_cell_volume   130.53672957
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.50498192  0.87582338  0.34612663  1
+  Li  Li1  1  0.76908110  0.50735401  0.65216019  1
+  Li  Li2  1  0.07149278  0.76657959  0.65217368  1
+  Li  Li3  1  0.34757314  0.34508161  0.95984579  1
+  Li  Li4  1  0.87832744  0.27069269  0.34609181  1
+  Li  Li5  1  0.27321995  0.50250684  0.34607916  1
+  Li  Li6  1  0.50984981  0.06901970  0.65218436  1
+  Nb  Nb7  1  -0.00003739  0.99746454  0.00270974  1
+  O  O8  1  0.36464598  0.76418345  0.75399696  1
+  O  O9  1  0.92972275  0.61783365  0.24673970  1
+  O  O10  1  0.20582605  0.92721915  0.24672541  1
+  O  O11  1  0.76668791  0.11478970  0.75400370  1
+  O  O12  1  0.11727246  0.36215551  0.75399857  1
+  O  O13  1  0.62034711  0.20329911  0.24677266  1

@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_SnH12C7O4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.15854293
+_cell_length_b   6.26303829
+_cell_length_c   7.02991108
+_cell_angle_alpha   91.17596041
+_cell_angle_beta   88.22167406
+_cell_angle_gamma   96.68391527
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   SnH12C7O4
+_chemical_formula_sum   'Sn1 H12 C7 O4'
+_cell_volume   225.43839662
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sn  Sn0  1  -0.00248777  0.66745656  0.63876228  1
+  H  H1  1  0.99605656  0.27363403  0.48371310  1
+  H  H2  1  0.14388449  0.46970548  0.31845847  1
+  H  H3  1  0.08002771  0.89203076  0.96317759  1
+  H  H4  1  0.76724815  0.92077964  0.86840047  1
+  H  H5  1  0.05570998  0.07645143  0.77216482  1
+  H  H6  1  0.32723374  0.39085602  0.51751728  1
+  H  H7  1  0.34755526  0.32715289  0.02932667  1
+  H  H8  1  0.62323829  0.28083550  0.29787917  1
+  H  H9  1  0.83549791  0.13650663  0.15798122  1
+  H  H10  1  0.48865319  0.82752217  0.12412832  1
+  H  H11  1  0.26388713  0.96830884  0.26192991  1
+  H  H12  1  0.46529124  0.11706614  0.89968770  1
+  C  C13  1  0.47132589  0.94821574  0.23899549  1
+  C  C14  1  0.63010433  0.16188736  0.18114087  1
+  C  C15  1  0.52533905  0.24883786  0.00088796  1
+  C  C16  1  0.71719287  0.40065254  0.88861072  1
+  C  C17  1  0.13604559  0.41781367  0.46678358  1
+  C  C18  1  0.97596241  0.92453741  0.83598543  1
+  C  C19  1  0.57143445  0.86343759  0.41973500  1
+  O  O20  1  0.43562860  0.85968362  0.57192751  1
+  O  O21  1  0.62992823  0.48067005  0.73726751  1
+  O  O22  1  0.95429215  0.44553790  0.93074294  1
+  O  O23  1  0.80334616  0.80131246  0.40565251  1

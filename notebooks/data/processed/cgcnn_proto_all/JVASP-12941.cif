@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_ZrTe2Br5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.75431712
+_cell_length_b   8.75431677
+_cell_length_c   9.24001310
+_cell_angle_alpha   111.45377233
+_cell_angle_beta   116.28846303
+_cell_angle_gamma   98.42385364
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ZrTe2Br5
+_chemical_formula_sum   'Zr2 Te4 Br10'
+_cell_volume   549.04716737
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Zr  Zr0  1  0.81524773  0.81524688  0.00000066  1
+  Zr  Zr1  1  0.18475290  0.18475270  0.00000015  1
+  Te  Te2  1  0.83300844  0.33300799  0.50000025  1
+  Te  Te3  1  0.16699210  0.66699209  0.50000029  1
+  Te  Te4  1  0.79845589  0.56812609  0.36658218  1
+  Te  Te5  1  0.20154465  0.43187399  0.63341837  1
+  Br  Br6  1  0.41035390  0.14933616  0.89890825  1
+  Br  Br7  1  0.25042784  0.51144547  0.10109202  1
+  Br  Br8  1  0.58964664  0.85066392  0.10109230  1
+  Br  Br9  1  0.74957270  0.48855461  0.89890852  1
+  Br  Br10  1  0.41140594  0.25217233  0.34057468  1
+  Br  Br11  1  0.91159803  0.07083112  0.65942554  1
+  Br  Br12  1  0.08461544  0.83420468  0.91881967  1
+  Br  Br13  1  0.91538510  0.16579540  0.08118087  1
+  Br  Br14  1  0.08840251  0.92916896  0.34057500  1
+  Br  Br15  1  0.58859460  0.74782775  0.65942586  1

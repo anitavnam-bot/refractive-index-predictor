@@ -1,0 +1,39 @@
+# generated using pymatgen
+data_Na2CrH2F8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.38683495
+_cell_length_b   5.41170107
+_cell_length_c   5.41170107
+_cell_angle_alpha   94.12637580
+_cell_angle_beta   106.66359836
+_cell_angle_gamma   106.66359836
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Na2CrH2F8
+_chemical_formula_sum   'Na2 Cr1 H2 F8'
+_cell_volume   142.73155685
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.49999903  0.73537625  0.26462098  1
+  Na  Na1  1  0.49999903  0.26462098  0.73537625  1
+  Cr  Cr2  1  0.00000000  0.00000000  0.00000000  1
+  H  H3  1  0.78053129  0.34427207  0.34427207  1
+  H  H4  1  0.21946876  0.65572816  0.65572816  1
+  F  F5  1  0.77677943  0.67423055  0.00102050  1
+  F  F6  1  0.77691232  0.14087859  0.14087859  1
+  F  F7  1  0.22322063  0.99897972  0.32576967  1
+  F  F8  1  0.73317203  0.45944198  0.45944198  1
+  F  F9  1  0.26682802  0.54055724  0.54055724  1
+  F  F10  1  0.77677943  0.00102050  0.67423055  1
+  F  F11  1  0.22308773  0.85911963  0.85911963  1
+  F  F12  1  0.22322063  0.32576967  0.99897972  1

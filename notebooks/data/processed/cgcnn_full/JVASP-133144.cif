@@ -1,0 +1,39 @@
+# generated using pymatgen
+data_BaTmFe4O7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.33847471
+_cell_length_b   6.33847514
+_cell_length_c   6.33847519
+_cell_angle_alpha   120.92110089
+_cell_angle_beta   120.92110275
+_cell_angle_gamma   88.41187183
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   BaTmFe4O7
+_chemical_formula_sum   'Ba1 Tm1 Fe4 O7'
+_cell_volume   177.48817109
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.25000033  0.74999962  0.49999993  1
+  Tm  Tm1  1  0.00000000  0.00000000  0.00000000  1
+  Fe  Fe2  1  0.61927046  0.40023483  0.25155464  1
+  Fe  Fe3  1  0.14868065  0.36771547  0.74844538  1
+  Fe  Fe4  1  0.59976489  0.85131857  0.21903423  1
+  Fe  Fe5  1  0.63228496  0.38072955  0.78096527  1
+  O  O6  1  0.22649262  0.73474597  0.91373944  1
+  O  O7  1  0.82100599  0.31275129  0.08626027  1
+  O  O8  1  0.26525414  0.17899419  0.49174647  1
+  O  O9  1  0.68724819  0.77350698  0.50825334  1
+  O  O10  1  0.75511287  0.75511136  -0.00000085  1
+  O  O11  1  0.24488751  0.24488702  -0.00000028  1
+  O  O12  1  0.75000015  0.24999959  0.49999982  1

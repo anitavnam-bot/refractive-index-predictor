@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Lu2Au
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.81217770
+_cell_length_b   6.92325545
+_cell_length_c   8.69656346
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Lu2Au
+_chemical_formula_sum   'Lu8 Au4'
+_cell_volume   289.73414737
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Lu  Lu0  1  0.25000012  0.85022175  0.92217708  1
+  Lu  Lu1  1  0.25000012  0.35022142  0.57782232  1
+  Lu  Lu2  1  0.75000036  0.14977891  0.07782252  1
+  Lu  Lu3  1  0.75000036  0.64977924  0.42217728  1
+  Lu  Lu4  1  0.25000012  0.48519374  0.17816651  1
+  Lu  Lu5  1  0.25000012  0.98519407  0.32183329  1
+  Lu  Lu6  1  0.75000036  0.51480692  0.82183309  1
+  Lu  Lu7  1  0.75000036  0.01480659  0.67816631  1
+  Au  Au8  1  0.25000012  0.25834475  0.89969862  1
+  Au  Au9  1  0.25000012  0.75834508  0.60030078  1
+  Au  Au10  1  0.75000036  0.74165591  0.10030098  1
+  Au  Au11  1  0.75000036  0.24165558  0.39969882  1

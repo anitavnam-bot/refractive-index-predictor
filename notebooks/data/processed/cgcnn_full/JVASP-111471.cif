@@ -1,0 +1,48 @@
+# generated using pymatgen
+data_InNiAg2F7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.63319827
+_cell_length_b   7.63319802
+_cell_length_c   7.63319818
+_cell_angle_alpha   120.83208212
+_cell_angle_beta   118.04151357
+_cell_angle_gamma   90.99499763
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   InNiAg2F7
+_chemical_formula_sum   'In2 Ni2 Ag4 F14'
+_cell_volume   316.88363233
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  In  In0  1  -0.00000040  0.49999952  0.50000008  1
+  In  In1  1  0.50000009  -0.00000000  0.50000059  1
+  Ni  Ni2  1  0.49999969  0.49999988  0.50000061  1
+  Ni  Ni3  1  0.50000009  0.00000035  0.00000053  1
+  Ag  Ag4  1  0.49999969  0.50000023  0.00000056  1
+  Ag  Ag5  1  0.00000000  0.00000000  0.00000000  1
+  Ag  Ag6  1  -0.00000040  0.49999988  0.00000002  1
+  Ag  Ag7  1  -0.00000000  -0.00000036  0.50000005  1
+  F  F8  1  0.13188209  0.39920629  0.73267482  1
+  F  F9  1  0.42069094  0.25000011  0.17069155  1
+  F  F10  1  0.81160177  0.17203110  0.22282410  1
+  F  F11  1  0.55079231  0.32796913  0.63957070  1
+  F  F12  1  0.55079185  0.91122145  0.22282386  1
+  F  F13  1  0.81160144  0.58877853  0.63957099  1
+  F  F14  1  0.18839761  0.82796865  0.77717712  1
+  F  F15  1  0.44920753  0.08877830  0.77717736  1
+  F  F16  1  0.44920707  0.67203063  0.36043052  1
+  F  F17  1  0.83346784  0.10079323  0.73267555  1
+  F  F18  1  0.16653154  0.89920652  0.26732567  1
+  F  F19  1  0.86811729  0.60079347  0.26732640  1
+  F  F20  1  0.18839794  0.41122122  0.36043023  1
+  F  F21  1  0.57930844  0.74999964  0.82930967  1

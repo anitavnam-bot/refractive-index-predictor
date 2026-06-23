@@ -1,0 +1,33 @@
+# generated using pymatgen
+data_BaLi2(MgGe)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.14369295
+_cell_length_b   9.14369259
+_cell_length_c   9.14369235
+_cell_angle_alpha   29.04223228
+_cell_angle_beta   29.04223553
+_cell_angle_gamma   29.04223769
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   BaLi2(MgGe)2
+_chemical_formula_sum   'Ba1 Li2 Mg2 Ge2'
+_cell_volume   159.36056287
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.00000000  0.00000000  0.00000000  1
+  Li  Li1  1  0.57036778  0.57036620  0.57036694  1
+  Li  Li2  1  0.42963348  0.42963229  0.42963284  1
+  Mg  Mg3  1  0.13609296  0.13609258  0.13609275  1
+  Mg  Mg4  1  0.86390831  0.86390591  0.86390703  1
+  Ge  Ge5  1  0.75696779  0.75696569  0.75696667  1
+  Ge  Ge6  1  0.24303347  0.24303280  0.24303311  1

@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_Ga2NiO4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.89995944
+_cell_length_b   5.89996042
+_cell_length_c   5.97301838
+_cell_angle_alpha   59.58952463
+_cell_angle_beta   59.58952388
+_cell_angle_gamma   59.30283564
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ga2NiO4
+_chemical_formula_sum   'Ga4 Ni2 O8'
+_cell_volume   145.32566125
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ga  Ga0  1  0.99274587  0.99274493  0.00725452  1
+  Ga  Ga1  1  0.25725313  0.25725273  0.24274707  1
+  Ga  Ga2  1  0.62499950  0.62499883  0.12500080  1
+  Ga  Ga3  1  0.62499963  0.62499865  0.62500087  1
+  Ni  Ni4  1  0.12499978  0.62499913  0.62500056  1
+  Ni  Ni5  1  0.62499991  0.12499906  0.62500056  1
+  O  O6  1  0.38743843  0.38743783  0.37118995  1
+  O  O7  1  0.38743856  0.38743765  0.85393488  1
+  O  O8  1  0.38819537  0.85822223  0.37679067  1
+  O  O9  1  0.85822309  0.38819457  0.37679067  1
+  O  O10  1  0.39177618  0.86180272  0.87321107  1
+  O  O11  1  0.86180390  0.39177506  0.87321107  1
+  O  O12  1  0.86256071  0.86255965  0.39606687  1
+  O  O13  1  0.86256084  0.86255947  0.87881179  1

@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_ReAgO4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.38819076
+_cell_length_b   5.38866047
+_cell_length_c   6.94596936
+_cell_angle_alpha   112.82710646
+_cell_angle_beta   112.81371954
+_cell_angle_gamma   90.00328991
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ReAgO4
+_chemical_formula_sum   'Re2 Ag2 O8'
+_cell_volume   168.63111760
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Re  Re0  1  0.87500354  0.12496978  0.24998990  1
+  Re  Re1  1  0.12499605  0.87503180  0.75001103  1
+  Ag  Ag2  1  0.62498805  0.37497987  0.74999670  1
+  Ag  Ag3  1  0.37501154  0.62502172  0.25000422  1
+  O  O4  1  0.92778825  0.27205584  0.07854630  1
+  O  O5  1  0.27206769  0.65081394  0.57852549  1
+  O  O6  1  0.80648100  0.92779073  0.57857355  1
+  O  O7  1  0.65075576  0.80644555  0.07851792  1
+  O  O8  1  0.34924384  0.19355603  0.92148301  1
+  O  O9  1  0.19351859  0.07221085  0.42142738  1
+  O  O10  1  0.72793190  0.34918765  0.42147544  1
+  O  O11  1  0.07221134  0.72794575  0.92145463  1

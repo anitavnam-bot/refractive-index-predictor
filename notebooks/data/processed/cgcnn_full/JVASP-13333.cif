@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_Nd5AgSe8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.72220636
+_cell_length_b   7.72220733
+_cell_length_c   7.72220677
+_cell_angle_alpha   109.86901818
+_cell_angle_beta   109.86901530
+_cell_angle_gamma   108.67851507
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Nd5AgSe8
+_chemical_formula_sum   'Nd5 Ag1 Se8'
+_cell_volume   354.43793632
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Nd  Nd0  1  0.11366379  0.74453429  0.87186056  1
+  Nd  Nd1  1  0.25546534  0.62732629  0.36912905  1
+  Nd  Nd2  1  0.37267332  0.24180261  0.62813855  1
+  Nd  Nd3  1  0.62499993  0.37500000  0.24999985  1
+  Nd  Nd4  1  0.75819731  0.88633618  0.13087065  1
+  Ag  Ag5  1  0.87499951  0.12499973  0.74999955  1
+  Se  Se6  1  0.98997181  0.85164157  0.50059123  1
+  Se  Se7  1  0.00803685  0.36189474  0.49158527  1
+  Se  Se8  1  0.48354849  0.99196273  0.85385750  1
+  Se  Se9  1  0.14835836  0.14894989  0.13833018  1
+  Se  Se10  1  0.37030958  0.51645152  0.00841444  1
+  Se  Se11  1  0.63810485  0.62969039  0.64614160  1
+  Se  Se12  1  0.51061939  0.01002801  0.36166952  1
+  Se  Se13  1  0.85104961  0.48937996  0.99940788  1

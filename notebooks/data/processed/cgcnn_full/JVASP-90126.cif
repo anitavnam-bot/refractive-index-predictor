@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_ThSnRh
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.12301533
+_cell_length_b   7.59291574
+_cell_length_c   7.59290555
+_cell_angle_alpha   120.00003855
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ThSnRh
+_chemical_formula_sum   'Th3 Sn3 Rh3'
+_cell_volume   205.85527029
+_cell_formula_units_Z   3
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Th  Th0  1  0.50000057  0.58866852  0.00000002  1
+  Th  Th1  1  0.50000057  0.41131051  0.41132037  1
+  Th  Th2  1  0.50000057  -0.00000888  0.58867978  1
+  Sn  Sn3  1  0.00000000  0.25141812  0.00000001  1
+  Sn  Sn4  1  0.00000000  0.74855974  0.74856994  1
+  Sn  Sn5  1  0.00000000  0.99998981  0.25143025  1
+  Rh  Rh6  1  0.00000000  0.33332259  0.66666809  1
+  Rh  Rh7  1  0.00000000  0.66665458  0.33333208  1
+  Rh  Rh8  1  0.50000057  0.99998929  0.00000003  1

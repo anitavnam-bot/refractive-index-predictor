@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_ZnSiNiO5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.07205523
+_cell_length_b   5.31737326
+_cell_length_c   6.82862143
+_cell_angle_alpha   105.47345233
+_cell_angle_beta   102.65317247
+_cell_angle_gamma   107.42405991
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ZnSiNiO5
+_chemical_formula_sum   'Zn2 Si2 Ni2 O10'
+_cell_volume   160.14945644
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Zn  Zn0  1  0.34404441  0.19752151  0.78945815  1
+  Zn  Zn1  1  0.66443789  0.79230113  0.23963847  1
+  Si  Si2  1  0.69110046  0.81074356  0.74848794  1
+  Si  Si3  1  0.31739165  0.17910195  0.28062164  1
+  Ni  Ni4  1  0.00424919  0.49492211  0.51455452  1
+  Ni  Ni5  1  0.00425139  0.49492510  0.01455373  1
+  O  O6  1  0.71526349  0.64156836  0.92103846  1
+  O  O7  1  0.97263478  0.84085369  0.65760827  1
+  O  O8  1  0.29323411  0.34827965  0.10807418  1
+  O  O9  1  0.03585967  0.14899019  0.37150385  1
+  O  O10  1  0.61634936  0.29510090  0.48674094  1
+  O  O11  1  0.30511481  0.86120134  0.14882135  1
+  O  O12  1  0.39215044  0.69475794  0.54237105  1
+  O  O13  1  0.70338581  0.12864605  0.88028930  1
+  O  O14  1  0.87141216  0.53514302  0.25349018  1
+  O  O15  1  0.13709997  0.45471014  0.77561840  1

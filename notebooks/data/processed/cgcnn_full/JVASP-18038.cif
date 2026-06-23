@@ -1,0 +1,32 @@
+# generated using pymatgen
+data_NpSi2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.94854871
+_cell_length_b   3.94854867
+_cell_length_c   7.69703433
+_cell_angle_alpha   104.86236288
+_cell_angle_beta   104.86236160
+_cell_angle_gamma   90.00000248
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NpSi2
+_chemical_formula_sum   'Np2 Si4'
+_cell_volume   111.83113539
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Np  Np0  1  0.87499930  0.62499931  0.24999918  1
+  Np  Np1  1  0.12499955  0.37499920  0.75000005  1
+  Si  Si2  1  0.70701842  0.95701775  0.91403774  1
+  Si  Si3  1  0.45701842  0.20701872  0.41403808  1
+  Si  Si4  1  0.54298043  0.79297978  0.58596115  1
+  Si  Si5  1  0.29298044  0.04298075  0.08596149  1

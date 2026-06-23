@@ -1,0 +1,31 @@
+# generated using pymatgen
+data_Ho2AlNi2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.14136511
+_cell_length_b   5.39994849
+_cell_length_c   5.34132329
+_cell_angle_alpha   120.36374502
+_cell_angle_beta   112.80973427
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ho2AlNi2
+_chemical_formula_sum   'Ho2 Al1 Ni2'
+_cell_volume   92.07579918
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ho  Ho0  1  0.79720605  0.29720529  0.59440948  1
+  Ho  Ho1  1  0.20279593  0.70279595  0.40559087  1
+  Al  Al2  1  0.00000000  0.00000000  0.00000000  1
+  Ni  Ni3  1  0.50000059  0.73172619  0.00000000  1
+  Ni  Ni4  1  0.50000059  0.26827409  0.00000000  1

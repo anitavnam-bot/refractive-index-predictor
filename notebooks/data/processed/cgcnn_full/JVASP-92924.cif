@@ -1,0 +1,34 @@
+# generated using pymatgen
+data_Mg6WC
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.29104427
+_cell_length_b   5.59041522
+_cell_length_c   4.54081863
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   116.37955175
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Mg6WC
+_chemical_formula_sum   'Mg6 W1 C1'
+_cell_volume   143.06919859
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mg  Mg0  1  0.61735769  0.30256663  0.25000008  1
+  Mg  Mg1  1  0.61735745  0.81479001  0.25000008  1
+  Mg  Mg2  1  0.31664220  0.15823388  0.75000023  1
+  Mg  Mg3  1  0.31664196  0.65840922  0.75000023  1
+  Mg  Mg4  1  0.84522661  0.17261387  0.75000023  1
+  Mg  Mg5  1  0.87207213  0.68603661  0.75000023  1
+  W  W6  1  0.12505764  0.31252832  0.25000008  1
+  C  C7  1  0.28964544  0.89482221  0.25000008  1

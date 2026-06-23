@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_Lu3Mg2TiS8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.68267271
+_cell_length_b   7.58941767
+_cell_length_c   7.68253167
+_cell_angle_alpha   59.59249795
+_cell_angle_beta   60.00137685
+_cell_angle_gamma   59.59060587
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Lu3Mg2TiS8
+_chemical_formula_sum   'Lu3 Mg2 Ti1 S8'
+_cell_volume   314.77891762
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Lu  Lu0  1  0.50000109  0.50000529  0.49999333  1
+  Lu  Lu1  1  0.49999856  0.49999650  0.00000002  1
+  Lu  Lu2  1  0.00000012  0.49999809  0.50000298  1
+  Mg  Mg3  1  0.87569773  0.87292064  0.87569175  1
+  Mg  Mg4  1  0.12430390  0.12708032  0.12430825  1
+  Ti  Ti5  1  0.50000251  -0.00000105  0.50000259  1
+  S  S6  1  0.73548542  0.75869427  0.73551029  1
+  S  S7  1  0.26452438  0.24129798  0.72968705  1
+  S  S8  1  0.25551641  0.73339846  0.25553627  1
+  S  S9  1  0.72968518  0.24127041  0.26452393  1
+  S  S10  1  0.74448038  0.26660213  0.74445811  1
+  S  S11  1  0.27031617  0.75873175  0.73547202  1
+  S  S12  1  0.26451437  0.24129985  0.26449730  1
+  S  S13  1  0.73548187  0.75870441  0.27031281  1

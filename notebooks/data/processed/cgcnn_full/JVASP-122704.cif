@@ -1,0 +1,30 @@
+# generated using pymatgen
+data_Ga3Ru
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.35619657
+_cell_length_b   4.35619603
+_cell_length_c   4.85022271
+_cell_angle_alpha   89.92910159
+_cell_angle_beta   90.07089832
+_cell_angle_gamma   120.04136959
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ga3Ru
+_chemical_formula_sum   'Ga3 Ru1'
+_cell_volume   79.67563971
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ga  Ga0  1  0.25000781  0.74999176  0.37501100  1
+  Ga  Ga1  1  0.91682574  0.08317496  -0.02519711  1
+  Ga  Ga2  1  0.58317189  0.41682744  0.77517756  1
+  Ru  Ru3  1  0.24999299  0.75000591  0.87500824  1

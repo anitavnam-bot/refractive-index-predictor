@@ -1,0 +1,52 @@
+# generated using pymatgen
+data_Mg2Ta2CrO8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.19263308
+_cell_length_b   5.95269357
+_cell_length_c   9.93099451
+_cell_angle_alpha   107.43663983
+_cell_angle_beta   90.51368750
+_cell_angle_gamma   90.00234356
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Mg2Ta2CrO8
+_chemical_formula_sum   'Mg4 Ta4 Cr2 O16'
+_cell_volume   292.85005558
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mg  Mg0  1  0.75467697  0.41692484  0.54458570  1
+  Mg  Mg1  1  0.74424849  0.87138729  0.45347896  1
+  Mg  Mg2  1  0.24425712  0.58416383  0.45349418  1
+  Mg  Mg3  1  0.25468350  0.12970015  0.54459887  1
+  Ta  Ta4  1  0.74660895  0.27606088  0.22973398  1
+  Ta  Ta5  1  0.75234524  0.04531969  0.76835263  1
+  Ta  Ta6  1  0.25233619  0.72501599  0.76835000  1
+  Ta  Ta7  1  0.24660328  0.95577305  0.22972949  1
+  Cr  Cr8  1  0.74946796  0.64059556  0.99903884  1
+  Cr  Cr9  1  0.24946484  0.36048163  0.99904164  1
+  O  O10  1  0.11927200  0.45402712  0.61672967  1
+  O  O11  1  0.37964307  0.83638605  0.38135236  1
+  O  O12  1  0.54836946  0.71353153  0.62814731  1
+  O  O13  1  0.95055245  0.08447827  0.36992672  1
+  O  O14  1  0.04838185  0.91661006  0.62815352  1
+  O  O15  1  0.45056407  0.28755199  0.36993301  1
+  O  O16  1  0.08390656  0.68341429  0.11409848  1
+  O  O17  1  0.91635700  0.81463942  0.86171943  1
+  O  O18  1  0.91502741  0.31769430  0.88397703  1
+  O  O19  1  0.58393286  0.43278985  0.11408499  1
+  O  O20  1  0.58257858  0.95202622  0.13636750  1
+  O  O21  1  0.61928781  0.16470038  0.61672867  1
+  O  O22  1  0.41637868  0.04903336  0.86171871  1
+  O  O23  1  0.08259902  0.18646789  0.13636523  1
+  O  O24  1  0.41499854  0.56825567  0.88399034  1
+  O  O25  1  0.87965918  0.54706110  0.38134940  1

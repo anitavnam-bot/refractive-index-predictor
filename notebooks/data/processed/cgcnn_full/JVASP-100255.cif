@@ -1,0 +1,34 @@
+# generated using pymatgen
+data_USb3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.43989809
+_cell_length_b   6.43989802
+_cell_length_c   5.85446100
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   119.99999501
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   USb3
+_chemical_formula_sum   'U2 Sb6'
+_cell_volume   210.26914838
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  U  U0  1  0.33333321  0.66666753  0.74999987  1
+  U  U1  1  0.66666725  0.33333326  0.24999996  1
+  Sb  Sb2  1  0.17332708  0.34665322  0.24999996  1
+  Sb  Sb3  1  0.65334739  0.82667369  0.24999996  1
+  Sb  Sb4  1  0.17332716  0.82667369  0.24999996  1
+  Sb  Sb5  1  0.82667339  0.65334758  0.74999987  1
+  Sb  Sb6  1  0.34665307  0.17332711  0.74999987  1
+  Sb  Sb7  1  0.82667330  0.17332711  0.74999987  1

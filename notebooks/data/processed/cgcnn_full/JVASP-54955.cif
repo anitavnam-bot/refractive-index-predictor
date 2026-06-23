@@ -1,0 +1,43 @@
+# generated using pymatgen
+data_KMnAg3(CN)6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.71028756
+_cell_length_b   6.71028756
+_cell_length_c   7.65602299
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   119.99999846
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   KMnAg3(CN)6
+_chemical_formula_sum   'K1 Mn1 Ag3 C6 N6'
+_cell_volume   298.54935068
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.66666644  0.33333241  0.00000000  1
+  Mn  Mn1  1  0.00000000  0.00000000  0.00000000  1
+  Ag  Ag2  1  0.01176114  0.50588145  0.49999980  1
+  Ag  Ag3  1  0.49411740  0.98823771  0.49999980  1
+  Ag  Ag4  1  0.49411770  0.50588115  0.49999980  1
+  C  C5  1  0.65942325  0.99066281  0.72415317  1
+  C  C6  1  0.33124015  0.34057540  0.72415317  1
+  C  C7  1  0.00933604  0.34057560  0.27584644  1
+  C  C8  1  0.65942345  0.66875870  0.27584644  1
+  C  C9  1  0.00933583  0.66875911  0.72415317  1
+  C  C10  1  0.33123974  0.99066302  0.27584644  1
+  N  N11  1  0.22514136  0.99541582  0.15590448  1
+  N  N12  1  0.00458337  0.22972449  0.15590448  1
+  N  N13  1  0.77027436  0.99541548  0.84409513  1
+  N  N14  1  0.00458303  0.77485749  0.84409513  1
+  N  N15  1  0.77027450  0.77485701  0.15590448  1
+  N  N16  1  0.22514184  0.22972435  0.84409513  1

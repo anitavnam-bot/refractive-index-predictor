@@ -1,0 +1,31 @@
+# generated using pymatgen
+data_Sc(CuSi)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.83573834
+_cell_length_b   3.83573839
+_cell_length_c   5.74908300
+_cell_angle_alpha   109.48716257
+_cell_angle_beta   109.48716738
+_cell_angle_gamma   90.00000206
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sc(CuSi)2
+_chemical_formula_sum   'Sc1 Cu2 Si2'
+_cell_volume   74.58072001
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sc  Sc0  1  0.00000000  0.00000000  0.00000000  1
+  Si  Si1  1  0.61286442  0.61286591  0.22573126  1
+  Si  Si2  1  0.38713270  0.38713486  0.77426675  1
+  Cu  Cu3  1  0.74999881  0.25000035  0.49999905  1
+  Cu  Cu4  1  0.24999831  0.75000042  0.49999896  1

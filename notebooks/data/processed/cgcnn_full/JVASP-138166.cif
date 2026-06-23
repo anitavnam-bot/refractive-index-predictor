@@ -1,0 +1,30 @@
+# generated using pymatgen
+data_Be3N
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   2.62355052
+_cell_length_b   2.62403923
+_cell_length_c   6.14361939
+_cell_angle_alpha   82.27137805
+_cell_angle_beta   109.73522983
+_cell_angle_gamma   121.59210055
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Be3N
+_chemical_formula_sum   'Be3 N1'
+_cell_volume   33.86286669
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Be  Be0  1  0.07369124  -0.10301933  0.91766971  1
+  Be  Be1  1  0.36402413  0.24616298  0.55723859  1
+  Be  Be2  1  0.79134884  0.54142097  0.27965505  1
+  N  N3  1  0.57767819  0.89378704  0.41845314  1

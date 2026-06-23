@@ -1,0 +1,44 @@
+# generated using pymatgen
+data_BaNb2O6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.94938201
+_cell_length_b   6.19243495
+_cell_length_c   10.54110305
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00157729
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   BaNb2O6
+_chemical_formula_sum   'Ba2 Nb4 O12'
+_cell_volume   257.79628557
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.00000051  0.49999960  0.49999983  1
+  Ba  Ba1  1  0.00000000  0.00000000  0.00000000  1
+  Nb  Nb2  1  0.50030424  0.04730562  0.65211219  1
+  Nb  Nb3  1  0.49969648  0.54730522  0.84788766  1
+  Nb  Nb4  1  0.49969597  0.95269358  0.34788783  1
+  Nb  Nb5  1  0.50030373  0.45269398  0.15211236  1
+  O  O6  1  0.50001533  0.88967849  0.80741127  1
+  O  O7  1  0.49998539  0.38967889  0.69258858  1
+  O  O8  1  0.49995448  0.30329391  0.95941337  1
+  O  O9  1  0.00005603  0.40517491  0.15270130  1
+  O  O10  1  0.49995397  0.19670569  0.45941355  1
+  O  O11  1  0.50001482  0.61032031  0.30741144  1
+  O  O12  1  0.49998488  0.11032071  0.19258875  1
+  O  O13  1  0.00005654  0.09482469  0.65270113  1
+  O  O14  1  0.99994419  0.59482429  0.84729872  1
+  O  O15  1  0.99994368  0.90517451  0.34729889  1
+  O  O16  1  0.50004574  0.69670529  0.04058665  1
+  O  O17  1  0.50004625  0.80329351  0.54058647  1

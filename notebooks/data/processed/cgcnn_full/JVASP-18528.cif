@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_Tl2WCl6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.95608518
+_cell_length_b   6.95608495
+_cell_length_c   6.95608435
+_cell_angle_alpha   59.99999845
+_cell_angle_beta   59.99999952
+_cell_angle_gamma   59.99999861
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Tl2WCl6
+_chemical_formula_sum   'Tl2 W1 Cl6'
+_cell_volume   238.00144784
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tl  Tl0  1  0.25000019  0.25000002  0.24999955  1
+  Tl  Tl1  1  0.75000057  0.75000007  0.74999864  1
+  W  W2  1  0.00000000  0.00000000  0.00000000  1
+  Cl  Cl3  1  0.24295002  0.75705032  0.75704922  1
+  Cl  Cl4  1  0.24295002  0.75705032  0.24294905  1
+  Cl  Cl5  1  0.75705074  0.24294978  0.75704914  1
+  Cl  Cl6  1  0.75705074  0.24294978  0.24294896  1
+  Cl  Cl7  1  0.75705082  0.75705032  0.24294870  1
+  Cl  Cl8  1  0.24294994  0.24294978  0.75704948  1

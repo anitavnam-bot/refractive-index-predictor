@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_B11Ne
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.16224149
+_cell_length_b   5.83489078
+_cell_length_c   5.16224128
+_cell_angle_alpha   52.87606466
+_cell_angle_beta   56.20944995
+_cell_angle_gamma   52.87606200
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   B11Ne
+_chemical_formula_sum   'B11 Ne1'
+_cell_volume   94.24159509
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ne  Ne0  1  0.00282057  0.53905318  0.00282041  1
+  B  B1  1  -0.00264172  0.06047099  0.64549169  1
+  B  B2  1  0.64549277  0.06047095  -0.00264243  1
+  B  B3  1  0.37437516  0.96841317  0.01604663  1
+  B  B4  1  0.98701455  0.25604262  0.98701177  1
+  B  B5  1  0.01604734  0.96841320  0.37437424  1
+  B  B6  1  0.23945958  0.65814197  0.23945874  1
+  B  B7  1  0.21494738  0.23250867  0.59610521  1
+  B  B8  1  0.59610650  0.23250864  0.21494631  1
+  B  B9  1  0.39565275  0.81073119  0.78355124  1
+  B  B10  1  0.74717260  0.40252675  0.74717043  1
+  B  B11  1  0.78355320  0.81073116  0.39565101  1

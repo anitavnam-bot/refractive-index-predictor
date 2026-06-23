@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_Mg2PbO4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.43046495
+_cell_length_b   9.50662690
+_cell_length_c   3.18125770
+_cell_angle_alpha   89.99967153
+_cell_angle_beta   90.00589320
+_cell_angle_gamma   90.00023809
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Mg2PbO4
+_chemical_formula_sum   'Mg4 Pb2 O8'
+_cell_volume   164.23371341
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mg  Mg0  1  0.05756556  0.32318524  0.50001881  1
+  Mg  Mg1  1  0.44242967  0.82318205  0.49999590  1
+  Mg  Mg2  1  0.55758562  0.17682673  0.49998306  1
+  Mg  Mg3  1  0.94241486  0.67682673  0.50001116  1
+  Pb  Pb4  1  0.00002283  0.00000122  0.00000885  1
+  Pb  Pb5  1  0.49997779  0.50000417  -0.00001104  1
+  O  O6  1  0.15255813  0.78706919  0.00001318  1
+  O  O7  1  0.27087646  0.03426566  0.50004628  1
+  O  O8  1  0.22912613  0.53426595  0.49995033  1
+  O  O9  1  0.34744296  0.28707339  -0.00000209  1
+  O  O10  1  0.65254843  0.71292515  0.00000575  1
+  O  O11  1  0.77081944  0.46572574  0.50003105  1
+  O  O12  1  0.72918046  0.96572344  0.49996956  1
+  O  O13  1  0.84744699  0.21292945  -0.00001826  1

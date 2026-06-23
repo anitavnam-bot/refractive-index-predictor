@@ -1,0 +1,34 @@
+# generated using pymatgen
+data_NaMg6Co
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.34396475
+_cell_length_b   10.35993990
+_cell_length_c   3.20596248
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   135.16092604
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NaMg6Co
+_chemical_formula_sum   'Na1 Mg6 Co1'
+_cell_volume   171.99191282
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.24994257  0.87497024  0.24999981  1
+  Mg  Mg1  1  0.75006851  0.37504418  0.24999981  1
+  Mg  Mg2  1  0.75006213  0.87502917  0.24999981  1
+  Mg  Mg3  1  0.24962452  0.17132130  0.74999942  1
+  Mg  Mg4  1  0.25045032  0.57871092  0.74999942  1
+  Mg  Mg5  1  0.84297503  0.17129958  0.74999942  1
+  Mg  Mg6  1  0.65694206  0.57866105  0.74999942  1
+  Co  Co7  1  0.24993794  0.37496473  0.24999981  1

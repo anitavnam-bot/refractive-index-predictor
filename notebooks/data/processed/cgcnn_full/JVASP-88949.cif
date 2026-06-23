@@ -1,0 +1,41 @@
+# generated using pymatgen
+data_Ba3CaIr2O9
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.87475467
+_cell_length_b   5.87475420
+_cell_length_c   7.21191131
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00000261
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ba3CaIr2O9
+_chemical_formula_sum   'Ba3 Ca1 Ir2 O9'
+_cell_volume   215.55615742
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.33333268  0.66666749  0.66401624  1
+  Ba  Ba1  1  0.00000000  0.00000000  0.00000000  1
+  Ba  Ba2  1  0.66666644  0.33333325  0.33598358  1
+  Ca  Ca3  1  0.00000000  0.00000000  0.49999991  1
+  Ir  Ir4  1  0.33333268  0.66666749  0.15778120  1
+  Ir  Ir5  1  0.66666644  0.33333325  0.84221862  1
+  O  O6  1  0.82172232  0.17827714  0.68487786  1
+  O  O7  1  0.82172229  0.64344646  0.68487786  1
+  O  O8  1  0.35655372  0.17827714  0.68487786  1
+  O  O9  1  0.64344540  0.82172360  0.31512196  1
+  O  O10  1  0.17827684  0.35655428  0.31512196  1
+  O  O11  1  0.17827680  0.82172360  0.31512196  1
+  O  O12  1  0.49999960  0.00000000  0.00000000  1
+  O  O13  1  -0.00000004  0.50000037  0.00000000  1
+  O  O14  1  0.49999956  0.50000037  0.00000000  1

@@ -1,0 +1,48 @@
+# generated using pymatgen
+data_Tl2Ge2O7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.10757483
+_cell_length_b   7.10757061
+_cell_length_c   7.10757202
+_cell_angle_alpha   60.00013105
+_cell_angle_beta   60.00001966
+_cell_angle_gamma   60.00007208
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Tl2Ge2O7
+_chemical_formula_sum   'Tl4 Ge4 O14'
+_cell_volume   253.89235636
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tl  Tl0  1  0.00000000  0.00000000  0.00000000  1
+  Tl  Tl1  1  0.49999982  -0.00000005  0.00000055  1
+  Tl  Tl2  1  -0.00000045  0.50000001  0.00000015  1
+  Tl  Tl3  1  0.00000025  0.00000025  0.50000001  1
+  Ge  Ge4  1  0.50000007  0.00000019  0.50000056  1
+  Ge  Ge5  1  0.49999937  0.49999996  0.00000069  1
+  Ge  Ge6  1  -0.00000020  0.50000026  0.50000016  1
+  Ge  Ge7  1  0.49999962  0.50000021  0.50000071  1
+  O  O8  1  0.82476449  0.42523557  0.82476481  1
+  O  O9  1  0.82476393  0.82476490  0.42523740  1
+  O  O10  1  0.42523512  0.42523461  0.82476637  1
+  O  O11  1  0.42523456  0.82476495  0.42523496  1
+  O  O12  1  0.17523495  0.57476504  0.57476413  1
+  O  O13  1  0.82476529  0.42523438  0.42523628  1
+  O  O14  1  0.57476568  0.17523547  0.57476645  1
+  O  O15  1  0.17523575  0.57476384  0.17523561  1
+  O  O16  1  0.17523431  0.17523551  0.57476502  1
+  O  O17  1  0.42523476  0.82476514  0.82476649  1
+  O  O18  1  0.57476448  0.17523527  0.17523593  1
+  O  O19  1  0.12499990  0.12500005  0.12500118  1
+  O  O20  1  0.57476312  0.57476580  0.17523604  1
+  O  O21  1  0.87499933  0.87500136  0.87500024  1

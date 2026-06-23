@@ -1,0 +1,37 @@
+# generated using pymatgen
+data_U3(SiNi)4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.88169073
+_cell_length_b   3.96346516
+_cell_length_c   12.05402601
+_cell_angle_alpha   99.46841074
+_cell_angle_beta   99.26565763
+_cell_angle_gamma   90.00000137
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   U3(SiNi)4
+_chemical_formula_sum   'U3 Si4 Ni4'
+_cell_volume   180.47048836
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  U  U0  1  0.00000000  0.00000000  0.00000000  1
+  U  U1  1  0.85285876  0.35289432  0.70571281  1
+  U  U2  1  0.14714403  0.64710494  0.29428636  1
+  Si  Si3  1  0.44958486  0.44954617  0.89916567  1
+  Si  Si4  1  0.55041792  0.55045309  0.10083351  1
+  Si  Si5  1  0.69660323  0.19658204  0.39320517  1
+  Si  Si6  1  0.30339955  0.80341722  0.60679400  1
+  Ni  Ni7  1  0.74986995  0.74987162  0.49973576  1
+  Ni  Ni8  1  0.40168427  0.90161531  0.80336354  1
+  Ni  Ni9  1  0.59831852  0.09838395  0.19663563  1
+  Ni  Ni10  1  0.25013283  0.25012764  0.50026341  1

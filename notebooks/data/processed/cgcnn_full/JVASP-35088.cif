@@ -1,0 +1,32 @@
+# generated using pymatgen
+data_SrHgPb
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.08905247
+_cell_length_b   5.08952131
+_cell_length_c   8.23796983
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   119.99695915
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   SrHgPb
+_chemical_formula_sum   'Sr2 Hg2 Pb2'
+_cell_volume   184.78980243
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sr  Sr0  1  0.99995403  0.99990931  0.66573022  1
+  Sr  Sr1  1  0.00004487  0.00009074  0.16573021  1
+  Hg  Hg2  1  0.66663978  0.33328064  0.47478265  1
+  Hg  Hg3  1  0.33335911  0.66671941  0.97478266  1
+  Pb  Pb4  1  0.66667645  0.33335397  0.87948718  1
+  Pb  Pb5  1  0.33332245  0.66664607  0.37948717  1

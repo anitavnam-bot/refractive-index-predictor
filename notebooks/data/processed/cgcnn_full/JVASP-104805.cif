@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_K2NaAuF6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.09657583
+_cell_length_b   6.09657583
+_cell_length_c   6.09657583
+_cell_angle_alpha   60.00000000
+_cell_angle_beta   60.00000000
+_cell_angle_gamma   60.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   K2NaAuF6
+_chemical_formula_sum   'K2 Na1 Au1 F6'
+_cell_volume   160.22967133
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.25000008  0.24999983  0.25000038  1
+  K  K1  1  0.75000025  0.74999950  0.75000115  1
+  Na  Na2  1  0.50000017  0.49999967  0.50000077  1
+  Au  Au3  1  0.00000000  0.00000000  0.00000000  1
+  F  F4  1  0.24650901  0.24650876  0.75349180  1
+  F  F5  1  0.24650913  0.75349057  0.75349208  1
+  F  F6  1  0.75349133  0.75349057  0.24650973  1
+  F  F7  1  0.24650913  0.75349057  0.24650958  1
+  F  F8  1  0.75349120  0.24650876  0.75349195  1
+  F  F9  1  0.75349120  0.24650876  0.24650945  1

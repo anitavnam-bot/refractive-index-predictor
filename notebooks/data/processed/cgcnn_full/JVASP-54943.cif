@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_Pr3CuGeSe7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   10.67691354
+_cell_length_b   10.67691354
+_cell_length_c   6.15295656
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   119.99999439
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Pr3CuGeSe7
+_chemical_formula_sum   'Pr6 Cu2 Ge2 Se14'
+_cell_volume   607.44359429
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Pr  Pr0  1  0.77488935  0.13090924  0.74843755  1
+  Pr  Pr1  1  0.35602018  0.22511109  0.74843755  1
+  Pr  Pr2  1  0.86909135  0.64398036  0.74843755  1
+  Pr  Pr3  1  0.13090917  0.35602017  0.24843727  1
+  Pr  Pr4  1  0.64398033  0.77488944  0.24843727  1
+  Pr  Pr5  1  0.22511116  0.86909128  0.24843727  1
+  Cu  Cu6  1  0.00000000  0.00000000  0.21982970  1
+  Cu  Cu7  1  0.00000000  0.00000000  0.71982998  1
+  Ge  Ge8  1  0.33333322  0.66666729  0.83095691  1
+  Ge  Ge9  1  0.66666729  0.33333323  0.33095663  1
+  Se  Se10  1  0.74300215  0.83797769  0.73080090  1
+  Se  Se11  1  0.48126097  0.90249493  0.98902718  1
+  Se  Se12  1  0.90502493  0.74300217  0.23080062  1
+  Se  Se13  1  0.90249492  0.42123516  0.48902690  1
+  Se  Se14  1  0.51873954  0.09750559  0.48902690  1
+  Se  Se15  1  0.09750560  0.57876536  0.98902718  1
+  Se  Se16  1  0.09497559  0.25699835  0.73080090  1
+  Se  Se17  1  0.16202292  0.90502484  0.73080090  1
+  Se  Se18  1  0.66666729  0.33333323  0.94821876  1
+  Se  Se19  1  0.42123510  0.51873959  0.98902718  1
+  Se  Se20  1  0.83797759  0.09497569  0.23080062  1
+  Se  Se21  1  0.25699836  0.16202283  0.23080062  1
+  Se  Se22  1  0.33333322  0.66666729  0.44821848  1
+  Se  Se23  1  0.57876542  0.48126093  0.48902690  1

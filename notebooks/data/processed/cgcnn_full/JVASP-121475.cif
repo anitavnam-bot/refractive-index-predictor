@@ -1,0 +1,44 @@
+# generated using pymatgen
+data_Dy6GaNi2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.25107707
+_cell_length_b   8.25107733
+_cell_length_c   8.25107774
+_cell_angle_alpha   113.06392000
+_cell_angle_beta   109.40437429
+_cell_angle_gamma   106.02215197
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Dy6GaNi2
+_chemical_formula_sum   'Dy12 Ga2 Ni4'
+_cell_volume   430.78866381
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Dy  Dy0  1  0.04165518  0.73613035  0.30552412  1
+  Dy  Dy1  1  0.81944965  0.78549380  0.60494326  1
+  Dy  Dy2  1  0.18055170  0.78549306  0.96604506  1
+  Dy  Dy3  1  0.81944950  0.21450647  0.03395547  1
+  Dy  Dy4  1  0.67364148  0.48021487  0.80657567  1
+  Dy  Dy5  1  0.32636062  0.13293433  0.80657524  1
+  Dy  Dy6  1  0.18055155  0.21450573  0.39505727  1
+  Dy  Dy7  1  0.67364158  0.86706520  0.19342529  1
+  Dy  Dy8  1  0.43060743  0.73613035  0.69447608  1
+  Dy  Dy9  1  0.56939377  0.26386918  0.30552445  1
+  Dy  Dy10  1  0.95834602  0.26386918  0.69447642  1
+  Dy  Dy11  1  0.32636072  0.51978466  0.19342486  1
+  Ga  Ga12  1  0.00000013  0.49999940  0.49999981  1
+  Ga  Ga13  1  0.50000047  0.00000000  0.50000011  1
+  Ni  Ni14  1  0.87680774  0.87680692  0.00000108  1
+  Ni  Ni15  1  0.65345075  0.50000013  0.15345065  1
+  Ni  Ni16  1  0.34655045  0.49999940  0.84654988  1
+  Ni  Ni17  1  0.12319346  0.12319335  0.00000015  1

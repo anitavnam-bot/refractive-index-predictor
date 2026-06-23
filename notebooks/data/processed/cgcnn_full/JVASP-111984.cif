@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_TiNi3(PO4)4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.69136827
+_cell_length_b   4.71467542
+_cell_length_c   9.67994483
+_cell_angle_alpha   89.73613755
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TiNi3(PO4)4
+_chemical_formula_sum   'Ti1 Ni3 P4 O16'
+_cell_volume   259.73876091
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ti  Ti0  1  0.50000015  0.94289363  0.72831895  1
+  Ni  Ni1  1  0.00000000  0.06247148  0.27126728  1
+  Ni  Ni2  1  0.00000000  0.43699660  0.77447167  1
+  Ni  Ni3  1  0.50000015  0.56670173  0.22874657  1
+  P  P4  1  0.50000015  0.11301408  0.40376488  1
+  P  P5  1  0.50000015  0.37084336  0.91798115  1
+  P  P6  1  0.00000000  0.61422586  0.09183000  1
+  P  P7  1  0.00000000  0.90106716  0.58485545  1
+  O  O8  1  0.78753100  0.75215119  0.66453030  1
+  O  O9  1  0.50000015  0.79125281  0.38890977  1
+  O  O10  1  0.50000015  0.68592055  0.88000486  1
+  O  O11  1  0.21159147  0.77164611  0.16562083  1
+  O  O12  1  0.78840884  0.77164611  0.16562083  1
+  O  O13  1  0.00000000  0.67429277  0.93700473  1
+  O  O14  1  0.50000015  0.32089047  0.07181817  1
+  O  O15  1  0.00000000  0.21905583  0.60661374  1
+  O  O16  1  0.29254496  0.21671843  0.83980349  1
+  O  O17  1  0.00000000  0.29135736  0.11107570  1
+  O  O18  1  0.21246930  0.75215119  0.66453030  1
+  O  O19  1  0.71271815  0.27044966  0.33434824  1
+  O  O20  1  0.28728215  0.27044966  0.33434824  1
+  O  O21  1  0.50000015  0.16457806  0.56222001  1
+  O  O22  1  0.70745534  0.21671843  0.83980349  1
+  O  O23  1  0.00000000  0.82251744  0.43250773  1

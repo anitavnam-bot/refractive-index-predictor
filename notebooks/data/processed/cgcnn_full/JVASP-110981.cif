@@ -1,0 +1,32 @@
+# generated using pymatgen
+data_TbMnAl
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.27473920
+_cell_length_b   5.27473920
+_cell_length_c   5.27473920
+_cell_angle_alpha   87.22316856
+_cell_angle_beta   63.92193840
+_cell_angle_gamma   120.79439498
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TbMnAl
+_chemical_formula_sum   'Tb2 Mn2 Al2'
+_cell_volume   105.87997676
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tb  Tb0  1  0.50000059  0.76292289  0.73707751  1
+  Tb  Tb1  1  0.00000054  0.98707780  0.01292264  1
+  Mn  Mn2  1  0.25000057  0.87500034  0.37500007  1
+  Mn  Mn3  1  0.75000054  0.37500024  0.37499972  1
+  Al  Al4  1  0.75000048  0.37500030  0.87499986  1
+  Al  Al5  1  0.25000029  0.37500019  0.37500001  1

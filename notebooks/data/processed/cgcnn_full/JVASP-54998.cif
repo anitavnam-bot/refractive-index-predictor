@@ -1,0 +1,31 @@
+# generated using pymatgen
+data_Np(SiNi)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.91867917
+_cell_length_b   3.91867997
+_cell_length_c   5.52271332
+_cell_angle_alpha   110.77986340
+_cell_angle_beta   110.77987540
+_cell_angle_gamma   89.99999689
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Np(SiNi)2
+_chemical_formula_sum   'Np1 Si2 Ni2'
+_cell_volume   73.36004056
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Np  Np0  1  0.00000000  0.00000000  0.00000000  1
+  Si  Si1  1  0.37774989  0.37774856  0.75549531  1
+  Si  Si2  1  0.62225369  0.62225264  0.24450444  1
+  Ni  Ni3  1  0.75000186  0.25000032  0.49999982  1
+  Ni  Ni4  1  0.25000172  0.75000088  0.49999993  1

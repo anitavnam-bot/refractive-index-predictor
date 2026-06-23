@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_Ca2PbAu2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.75496086
+_cell_length_b   8.16985371
+_cell_length_c   8.16985371
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ca2PbAu2
+_chemical_formula_sum   'Ca4 Pb2 Au4'
+_cell_volume   250.63053112
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ca  Ca0  1  0.49999989  0.17239686  0.67239664  1
+  Ca  Ca1  1  0.49999989  0.32760291  0.17239686  1
+  Ca  Ca2  1  0.49999989  0.67239664  0.82760268  1
+  Ca  Ca3  1  0.49999989  0.82760268  0.32760291  1
+  Pb  Pb4  1  0.00000000  0.00000000  0.00000000  1
+  Pb  Pb5  1  0.00000000  0.49999977  0.49999977  1
+  Au  Au6  1  0.00000000  0.62410122  0.12410144  1
+  Au  Au7  1  0.00000000  0.87589810  0.62410122  1
+  Au  Au8  1  0.00000000  0.12410144  0.37589833  1
+  Au  Au9  1  0.00000000  0.37589833  0.87589810  1

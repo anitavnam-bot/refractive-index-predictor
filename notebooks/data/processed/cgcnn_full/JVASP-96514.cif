@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_CdHgC4(SN)4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.05294450
+_cell_length_b   8.43731043
+_cell_length_c   8.43828840
+_cell_angle_alpha   86.69045472
+_cell_angle_beta   76.08968417
+_cell_angle_gamma   76.09756027
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CdHgC4(SN)4
+_chemical_formula_sum   'Cd1 Hg1 C4 S4 N4'
+_cell_volume   271.88792530
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cd  Cd0  1  0.75006619  0.49996373  0.49993481  1
+  Hg  Hg1  1  -0.00003585  0.00000910  0.00001473  1
+  C  C2  1  0.11727338  0.64746628  0.82895204  1
+  C  C3  1  0.23550059  0.17104730  0.64746894  1
+  C  C4  1  0.59347287  0.35253440  0.17105405  1
+  C  C5  1  0.05375668  0.82896527  0.35251307  1
+  S  S6  1  0.16569129  0.99839671  0.28463495  1
+  S  S7  1  0.44929088  0.00178716  0.71549348  1
+  S  S8  1  0.83568691  0.71541739  0.99832260  1
+  S  S9  1  0.54912663  0.28460491  0.00174163  1
+  N  N10  1  0.97517959  0.70708677  0.40301194  1
+  N  N11  1  0.31787817  0.59689141  0.70712756  1
+  N  N12  1  0.08528569  0.29279840  0.59687188  1
+  N  N13  1  0.62183626  0.40303452  0.29285523  1

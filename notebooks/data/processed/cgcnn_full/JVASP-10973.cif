@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_CoHgC4(SeN)4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.59560166
+_cell_length_b   8.30163872
+_cell_length_c   8.30163889
+_cell_angle_alpha   85.60615014
+_cell_angle_beta   73.93135573
+_cell_angle_gamma   73.93135848
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CoHgC4(SeN)4
+_chemical_formula_sum   'Co1 Hg1 C4 Se4 N4'
+_cell_volume   292.45177074
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Co  Co0  1  0.25000037  0.50000011  0.49999984  1
+  Hg  Hg1  1  0.00000000  0.00000000  0.00000000  1
+  C  C2  1  0.95767591  0.20836686  0.63774827  1
+  C  C3  1  0.40457804  0.63774820  0.79163311  1
+  C  C4  1  0.83395962  0.36225201  0.20836687  1
+  C  C5  1  0.80379011  0.79163336  0.36225193  1
+  Se  Se6  1  0.79983137  0.03253365  0.71437903  1
+  Se  Se7  1  0.48579191  0.71437900  0.96746632  1
+  Se  Se8  1  0.16763651  0.28562122  0.03253342  1
+  Se  Se9  1  0.54674278  0.96746656  0.28562100  1
+  N  N10  1  0.06245188  0.32196524  0.58616274  1
+  N  N11  1  0.35138602  0.58616306  0.67803471  1
+  N  N12  1  -0.02942042  0.67803497  0.41383674  1
+  N  N13  1  0.61558398  0.41383716  0.32196515  1

@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_Na3Nd(AsO4)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.91416535
+_cell_length_b   5.91416489
+_cell_length_c   7.01277921
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00000811
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Na3Nd(AsO4)2
+_chemical_formula_sum   'Na3 Nd1 As2 O8'
+_cell_volume   212.42599130
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.33333384  0.66666744  0.65592790  1
+  Na  Na1  1  0.66666781  0.33333322  0.34407222  1
+  Na  Na2  1  0.00000000  0.00000000  0.00000000  1
+  Nd  Nd3  1  0.00000000  0.00000000  0.50000006  1
+  As  As4  1  0.33333384  0.66666744  0.19823635  1
+  As  As5  1  0.66666781  0.33333322  0.80176377  1
+  O  O6  1  0.33333384  0.66666744  0.96091294  1
+  O  O7  1  0.66666781  0.33333322  0.03908717  1
+  O  O8  1  0.17908437  0.82091703  0.29964844  1
+  O  O9  1  0.82091729  0.17908363  0.70035168  1
+  O  O10  1  0.17908396  0.35816726  0.29964844  1
+  O  O11  1  0.82091769  0.64183340  0.70035168  1
+  O  O12  1  0.64183419  0.82091703  0.29964844  1
+  O  O13  1  0.35816746  0.17908363  0.70035168  1

@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_Pr2SiC(NO2)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.50324188
+_cell_length_b   6.73931432
+_cell_length_c   6.78943797
+_cell_angle_alpha   85.57079705
+_cell_angle_beta   72.63714660
+_cell_angle_gamma   73.95329711
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Pr2SiC(NO2)2
+_chemical_formula_sum   'Pr4 Si2 C2 N4 O8'
+_cell_volume   272.93433471
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Pr  Pr0  1  0.54376687  0.68030675  0.21409116  1
+  Pr  Pr1  1  0.45623267  0.31969308  0.78590981  1
+  Pr  Pr2  1  0.93594986  0.76232560  0.66856186  1
+  Pr  Pr3  1  0.06404968  0.23767423  0.33143911  1
+  Si  Si4  1  0.04159835  0.70433611  0.18580825  1
+  Si  Si5  1  0.95840119  0.29566372  0.81419273  1
+  C  C6  1  0.43497319  0.82096208  0.69578860  1
+  C  C7  1  0.56502635  0.17903775  0.30421237  1
+  N  N8  1  0.64182221  0.29750049  0.37412238  1
+  N  N9  1  0.35817734  0.70249934  0.62587860  1
+  N  N10  1  0.47918765  0.06855253  0.23711576  1
+  N  N11  1  0.52081189  0.93144730  0.76288522  1
+  O  O12  1  0.88624469  0.13160855  0.69715781  1
+  O  O13  1  0.11375486  0.86839128  0.30284316  1
+  O  O14  1  0.13992588  0.38739360  0.62690766  1
+  O  O15  1  0.86007366  0.61260623  0.37309331  1
+  O  O16  1  0.90870667  0.77741585  0.01607797  1
+  O  O17  1  0.09129287  0.22258398  0.98392301  1
+  O  O18  1  0.72531356  0.48304616  0.88642948  1
+  O  O19  1  0.27468598  0.51695367  0.11357150  1

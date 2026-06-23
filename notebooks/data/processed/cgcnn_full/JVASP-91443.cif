@@ -1,0 +1,52 @@
+# generated using pymatgen
+data_CrHg5S2O5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.09840113
+_cell_length_b   8.31235136
+_cell_length_c   9.44145811
+_cell_angle_alpha   83.57404045
+_cell_angle_beta   80.10547167
+_cell_angle_gamma   70.43209181
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CrHg5S2O5
+_chemical_formula_sum   'Cr2 Hg10 S4 O10'
+_cell_volume   516.21768144
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cr  Cr0  1  0.41139879  0.62647295  0.70342840  1
+  Cr  Cr1  1  0.58860103  0.37352686  0.29657128  1
+  Hg  Hg2  1  0.85650992  0.43638801  0.91468363  1
+  Hg  Hg3  1  0.14348989  0.56361180  0.08531605  1
+  Hg  Hg4  1  0.62415324  0.71854882  0.02978905  1
+  Hg  Hg5  1  0.37584657  0.28145099  0.97021063  1
+  Hg  Hg6  1  0.00000000  0.00000000  0.00000000  1
+  Hg  Hg7  1  -0.00000007  0.50000001  0.50000004  1
+  Hg  Hg8  1  0.19712496  0.82497140  0.35221999  1
+  Hg  Hg9  1  0.80287485  0.17502841  0.64777969  1
+  Hg  Hg10  1  0.67059498  0.88758839  0.35192088  1
+  Hg  Hg11  1  0.32940484  0.11241142  0.64807880  1
+  S  S12  1  0.09519969  0.19951597  0.47392459  1
+  S  S13  1  0.90480012  0.80048384  0.52607509  1
+  S  S14  1  0.42117550  0.95479885  0.19115287  1
+  S  S15  1  0.57882432  0.04520096  0.80884680  1
+  O  O16  1  0.39374608  0.77982137  0.57007513  1
+  O  O17  1  0.25932358  0.51580372  0.69503035  1
+  O  O18  1  0.74067624  0.48419609  0.30496933  1
+  O  O19  1  0.65160145  0.49116198  0.69285522  1
+  O  O20  1  0.34839837  0.50883783  0.30714446  1
+  O  O21  1  0.35015333  0.71831246  0.86087694  1
+  O  O22  1  0.64984648  0.28168735  0.13912274  1
+  O  O23  1  0.02274183  0.18304576  0.84297838  1
+  O  O24  1  0.97725798  0.81695405  0.15702130  1
+  O  O25  1  0.60625373  0.22017844  0.42992454  1

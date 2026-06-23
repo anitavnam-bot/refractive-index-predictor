@@ -1,0 +1,33 @@
+# generated using pymatgen
+data_InGaCuO4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.59508685
+_cell_length_b   8.59508685
+_cell_length_c   8.59508683
+_cell_angle_alpha   22.74095390
+_cell_angle_beta   22.74095390
+_cell_angle_gamma   22.74095624
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   InGaCuO4
+_chemical_formula_sum   'In1 Ga1 Cu1 O4'
+_cell_volume   83.25089561
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  In  In0  1  -0.00004504  -0.00004504  -0.00004504  1
+  Ga  Ga1  1  0.21201179  0.21201237  0.21201182  1
+  Cu  Cu2  1  0.78543032  0.78543245  0.78543041  1
+  O  O3  1  0.87446808  0.87447045  0.87446818  1
+  O  O4  1  0.13326584  0.13326620  0.13326586  1
+  O  O5  1  0.70608699  0.70608890  0.70608707  1
+  O  O6  1  0.28878133  0.28878211  0.28878137  1

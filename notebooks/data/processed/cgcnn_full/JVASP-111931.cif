@@ -1,0 +1,48 @@
+# generated using pymatgen
+data_LiMnCSO7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.74849172
+_cell_length_b   4.98253945
+_cell_length_c   8.30527643
+_cell_angle_alpha   86.05267366
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LiMnCSO7
+_chemical_formula_sum   'Li2 Mn2 C2 S2 O14'
+_cell_volume   278.59933933
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.47758405  0.79813226  0.81099439  1
+  Li  Li1  1  0.97758392  0.20186793  0.18900629  1
+  Mn  Mn2  1  0.25090375  0.22999682  0.65938322  1
+  Mn  Mn3  1  0.75090362  0.77000338  0.34061746  1
+  C  C4  1  0.24990570  0.29986680  0.93901043  1
+  C  C5  1  0.74990557  0.70013340  0.06099025  1
+  S  S6  1  0.75666357  0.25377477  0.58955537  1
+  S  S7  1  0.25666370  0.74622542  0.41044532  1
+  O  O8  1  0.77714374  0.50871934  0.17933147  1
+  O  O9  1  0.43512844  0.79420320  0.31459313  1
+  O  O10  1  0.08110715  0.84133747  0.31993735  1
+  O  O11  1  0.77014218  0.12209399  0.43312386  1
+  O  O12  1  0.23386092  0.44925091  0.45645678  1
+  O  O13  1  0.73386080  0.55074928  0.54354391  1
+  O  O14  1  0.27714386  0.49128085  0.82066922  1
+  O  O15  1  0.58110702  0.15866273  0.68006334  1
+  O  O16  1  0.93512831  0.20579699  0.68540755  1
+  O  O17  1  0.76073610  0.93939248  0.12252318  1
+  O  O18  1  0.26073623  0.06060771  0.87747750  1
+  O  O19  1  0.70897600  0.66092416  0.92038565  1
+  O  O20  1  0.27014231  0.87790620  0.56687683  1
+  O  O21  1  0.20897612  0.33907603  0.07961504  1

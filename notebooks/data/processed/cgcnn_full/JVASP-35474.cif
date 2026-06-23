@@ -1,0 +1,33 @@
+# generated using pymatgen
+data_Zr(TiGa2)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.37872651
+_cell_length_b   5.37872651
+_cell_length_c   5.37872651
+_cell_angle_alpha   104.93662758
+_cell_angle_beta   104.93662758
+_cell_angle_gamma   118.97965116
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Zr(TiGa2)2
+_chemical_formula_sum   'Zr1 Ti2 Ga4'
+_cell_volume   117.27840748
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Zr  Zr0  1  0.00000000  0.00000000  0.00000000  1
+  Ti  Ti1  1  0.74999963  0.24999973  0.49999990  1
+  Ti  Ti2  1  0.24999973  0.74999963  0.49999990  1
+  Ga  Ga3  1  0.69646132  0.69646132  0.39292474  1
+  Ga  Ga4  1  0.30353803  0.30353803  0.60707507  1
+  Ga  Ga5  1  0.30353758  0.69646132  -0.00000000  1
+  Ga  Ga6  1  0.69646132  0.30353758  0.00000000  1

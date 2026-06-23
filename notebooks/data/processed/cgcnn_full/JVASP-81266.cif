@@ -1,0 +1,30 @@
+# generated using pymatgen
+data_BeFeCo2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.55224665
+_cell_length_b   6.31963622
+_cell_length_c   6.31963607
+_cell_angle_alpha   22.04555699
+_cell_angle_beta   19.14290189
+_cell_angle_gamma   19.14290291
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   BeFeCo2
+_chemical_formula_sum   'Be1 Fe1 Co2'
+_cell_volume   38.86578165
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Be  Be0  1  -0.00000893  0.00000900  0.00000900  1
+  Fe  Fe1  1  0.49999130  0.00000851  0.00000879  1
+  Co  Co2  1  0.74153772  0.00666406  0.00666444  1
+  Co  Co3  1  0.25847719  -0.00668023  -0.00668005  1

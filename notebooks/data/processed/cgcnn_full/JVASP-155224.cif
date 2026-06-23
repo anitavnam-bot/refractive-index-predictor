@@ -1,0 +1,33 @@
+# generated using pymatgen
+data_Mn(CoTe2)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.77128900
+_cell_length_b   6.77128900
+_cell_length_c   6.82554576
+_cell_angle_alpha   119.81488161
+_cell_angle_beta   119.81488161
+_cell_angle_gamma   33.99474091
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Mn(CoTe2)2
+_chemical_formula_sum   'Mn1 Co2 Te4'
+_cell_volume   149.46961338
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mn  Mn0  1  0.00000000  0.00000000  0.00000000  1
+  Co  Co1  1  0.24529129  0.24529129  0.23653555  1
+  Co  Co2  1  0.75470835  0.75470835  0.76346341  1
+  Te  Te3  1  0.86465427  0.86465427  0.20585456  1
+  Te  Te4  1  0.63211108  0.63211108  0.31007047  1
+  Te  Te5  1  0.36788856  0.36788856  0.68992848  1
+  Te  Te6  1  0.13534537  0.13534537  0.79414440  1

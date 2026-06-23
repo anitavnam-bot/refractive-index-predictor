@@ -1,0 +1,48 @@
+# generated using pymatgen
+data_K2CaNi(NO2)6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.24069118
+_cell_length_b   7.24069118
+_cell_length_c   7.24069118
+_cell_angle_alpha   60.00000000
+_cell_angle_beta   60.00000000
+_cell_angle_gamma   60.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   K2CaNi(NO2)6
+_chemical_formula_sum   'K2 Ca1 Ni1 N6 O12'
+_cell_volume   268.42630744
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.74999998  0.75000005  0.75000077  1
+  K  K1  1  0.24999999  0.25000002  0.25000026  1
+  Ca  Ca2  1  0.49999999  0.50000003  0.50000052  1
+  Ni  Ni3  1  0.00000000  0.00000000  0.00000000  1
+  N  N4  1  0.79847413  0.20152564  0.20152632  1
+  N  N5  1  0.20152585  0.79847443  0.20152607  1
+  N  N6  1  0.20152562  0.20152564  0.79847448  1
+  N  N7  1  0.79847435  0.79847443  0.20152655  1
+  N  N8  1  0.79847413  0.20152564  0.79847496  1
+  N  N9  1  0.20152585  0.79847443  0.79847471  1
+  O  O10  1  0.16142446  0.37154180  0.62845840  1
+  O  O11  1  0.37154169  0.16142439  0.83857585  1
+  O  O12  1  0.62845811  0.37154180  0.83857613  1
+  O  O13  1  0.83857535  0.16142439  0.62845886  1
+  O  O14  1  0.62845829  0.83857568  0.16142519  1
+  O  O15  1  0.37154186  0.62845827  0.16142490  1
+  O  O16  1  0.83857542  0.37154180  0.16142518  1
+  O  O17  1  0.62845803  0.16142439  0.37154228  1
+  O  O18  1  0.37154194  0.83857568  0.62845875  1
+  O  O19  1  0.16142463  0.83857568  0.37154217  1
+  O  O20  1  0.16142455  0.62845827  0.83857586  1
+  O  O21  1  0.83857552  0.62845827  0.37154264  1

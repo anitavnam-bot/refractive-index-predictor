@@ -1,0 +1,34 @@
+# generated using pymatgen
+data_CdCu2TeS4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.54687770
+_cell_length_b   5.54687770
+_cell_length_c   6.52567267
+_cell_angle_alpha   110.07256476
+_cell_angle_beta   110.07256476
+_cell_angle_gamma   91.38994564
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CdCu2TeS4
+_chemical_formula_sum   'Cd1 Cu2 Te1 S4'
+_cell_volume   174.81907892
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cd  Cd0  1  0.02729403  0.02729403  0.00758574  1
+  Cu  Cu1  1  0.72401177  0.23998876  0.49716992  1
+  Cu  Cu2  1  0.23998876  0.72401177  0.49716992  1
+  Te  Te3  1  0.53061911  0.53061911  -0.03035587  1
+  S  S4  1  0.40777330  0.40777330  0.27137385  1
+  S  S5  1  0.91208301  0.91208301  0.31226234  1
+  S  S6  1  0.58576962  0.07295849  0.72239582  1
+  S  S7  1  0.07295849  0.58576962  0.72239582  1

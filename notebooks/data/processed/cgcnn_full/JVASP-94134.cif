@@ -1,0 +1,34 @@
+# generated using pymatgen
+data_Mg6CoSi
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.01609332
+_cell_length_b   6.15864079
+_cell_length_c   4.67231564
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.78696468
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Mg6CoSi
+_chemical_formula_sum   'Mg6 Co1 Si1'
+_cell_volume   148.71794859
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mg  Mg0  1  0.67090160  0.33309514  0.25000023  1
+  Mg  Mg1  1  0.67090173  0.83780486  0.25000023  1
+  Mg  Mg2  1  0.32154339  0.17252338  0.75000070  1
+  Mg  Mg3  1  0.32154352  0.64902077  0.75000070  1
+  Mg  Mg4  1  0.84978613  0.17489261  0.75000070  1
+  Mg  Mg5  1  0.83748850  0.66874483  0.75000070  1
+  Co  Co6  1  0.16452321  0.33226103  0.25000023  1
+  Si  Si7  1  0.16331617  0.83165704  0.25000023  1

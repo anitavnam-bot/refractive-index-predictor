@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_NaTmTi2O6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.26607770
+_cell_length_b   5.50564244
+_cell_length_c   7.56205755
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NaTmTi2O6
+_chemical_formula_sum   'Na2 Tm2 Ti4 O12'
+_cell_volume   219.24779963
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.49396352  0.71281746  0.50000016  1
+  Na  Na1  1  0.99396374  0.28718209  -0.00000000  1
+  Tm  Tm2  1  0.01845989  0.17467160  0.50000016  1
+  Tm  Tm3  1  0.51846011  0.82532795  -0.00000000  1
+  Ti  Ti4  1  0.51144279  0.26531201  0.75237108  1
+  Ti  Ti5  1  0.01144257  0.73468755  0.25237092  1
+  Ti  Ti6  1  0.51144279  0.26531201  0.24762924  1
+  Ti  Ti7  1  0.01144257  0.73468755  0.74762940  1
+  O  O8  1  0.60962497  0.27874882  0.50000016  1
+  O  O9  1  0.91768680  0.77710436  0.50000016  1
+  O  O10  1  0.28266511  0.96143048  0.70659682  1
+  O  O11  1  0.18602489  0.44026461  0.30601293  1
+  O  O12  1  0.68602511  0.55973495  0.19398723  1
+  O  O13  1  0.28266511  0.96143048  0.29340350  1
+  O  O14  1  0.68602511  0.55973495  0.80601309  1
+  O  O15  1  0.78266533  0.03856907  0.20659666  1
+  O  O16  1  0.10962475  0.72125073  -0.00000000  1
+  O  O17  1  0.18602489  0.44026461  0.69398740  1
+  O  O18  1  0.78266533  0.03856907  0.79340367  1
+  O  O19  1  0.41768658  0.22289520  -0.00000000  1

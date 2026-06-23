@@ -1,0 +1,41 @@
+# generated using pymatgen
+data_Sr4CaCl10
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   12.91362438
+_cell_length_b   12.91362438
+_cell_length_c   12.91362438
+_cell_angle_alpha   158.13410406
+_cell_angle_beta   148.91753928
+_cell_angle_gamma   38.32708800
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sr4CaCl10
+_chemical_formula_sum   'Sr4 Ca1 Cl10'
+_cell_volume   413.47170521
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sr  Sr0  1  0.59791147  0.59791256  0.00000009  1
+  Sr  Sr1  1  0.19873560  0.19873596  0.00000003  1
+  Sr  Sr2  1  0.80126351  0.80126498  0.00000011  1
+  Sr  Sr3  1  0.40208764  0.40208838  0.00000006  1
+  Ca  Ca4  1  0.00000000  0.00000000  0.00000000  1
+  Cl  Cl5  1  0.14960674  0.90343646  0.24616963  1
+  Cl  Cl6  1  0.94801785  0.69927146  0.24874770  1
+  Cl  Cl7  1  0.54947660  0.30072948  0.24874764  1
+  Cl  Cl8  1  0.76084525  0.50000047  0.26084570  1
+  Cl  Cl9  1  0.34273335  0.09656376  0.24616971  1
+  Cl  Cl10  1  0.65726625  0.90343646  0.75382999  1
+  Cl  Cl11  1  0.45052300  0.69927073  0.75125206  1
+  Cl  Cl12  1  0.05198175  0.30072875  0.75125201  1
+  Cl  Cl13  1  0.23915435  0.49999974  0.73915401  1
+  Cl  Cl14  1  0.85039286  0.09656376  0.75383008  1

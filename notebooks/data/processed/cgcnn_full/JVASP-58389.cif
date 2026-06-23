@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_LiReO3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.40787216
+_cell_length_b   5.40787230
+_cell_length_c   5.40787174
+_cell_angle_alpha   56.28164016
+_cell_angle_beta   56.28163762
+_cell_angle_gamma   56.28164112
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LiReO3
+_chemical_formula_sum   'Li2 Re2 O6'
+_cell_volume   102.21037229
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.78127531  0.78127336  0.78127540  1
+  Li  Li1  1  0.28127470  0.28127400  0.28127473  1
+  Re  Re2  1  0.49755364  0.49755240  0.49755370  1
+  Re  Re3  1  0.99755425  0.99755176  0.99755437  1
+  O  O4  1  0.73962435  0.12451836  0.36803032  1
+  O  O5  1  0.36803009  0.73962372  0.12451992  1
+  O  O6  1  0.86803038  0.62451863  0.23962486  1
+  O  O7  1  0.23962440  0.86802922  0.62451982  1
+  O  O8  1  0.62451995  0.23962256  0.86803024  1
+  O  O9  1  0.12451967  0.36802896  0.73962401  1

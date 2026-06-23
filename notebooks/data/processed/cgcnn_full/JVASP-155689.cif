@@ -1,0 +1,31 @@
+# generated using pymatgen
+data_Y(SiAg)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.13440745
+_cell_length_b   6.13440745
+_cell_length_c   6.13440745
+_cell_angle_alpha   140.31021177
+_cell_angle_beta   140.31021177
+_cell_angle_gamma   57.38258794
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Y(SiAg)2
+_chemical_formula_sum   'Y1 Si2 Ag2'
+_cell_volume   93.34727460
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Y  Y0  1  0.00000000  0.00000000  0.00000000  1
+  Si  Si1  1  0.39322392  0.39322392  -0.00000000  1
+  Si  Si2  1  0.60677617  0.60677617  -0.00000000  1
+  Ag  Ag3  1  0.75000045  0.25000002  0.50000042  1
+  Ag  Ag4  1  0.25000002  0.75000045  0.50000042  1

@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_HfOs2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.22145470
+_cell_length_b   5.22145470
+_cell_length_c   8.57265482
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   119.99998767
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   HfOs2
+_chemical_formula_sum   'Hf4 Os8'
+_cell_volume   202.40864263
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Hf  Hf0  1  0.33333349  0.66666734  0.43288761  1
+  Hf  Hf1  1  0.66666734  0.33333349  0.56711183  1
+  Hf  Hf2  1  0.66666734  0.33333349  0.93288733  1
+  Hf  Hf3  1  0.33333349  0.66666734  0.06711211  1
+  Os  Os4  1  0.17274608  0.34549182  0.74999958  1
+  Os  Os5  1  0.17274639  0.82725443  0.74999958  1
+  Os  Os6  1  0.34549182  0.17274608  0.24999986  1
+  Os  Os7  1  0.82725475  0.65450901  0.24999986  1
+  Os  Os8  1  0.65450901  0.82725475  0.74999958  1
+  Os  Os9  1  0.00000000  0.00000000  0.00000000  1
+  Os  Os10  1  0.82725443  0.17274639  0.24999986  1
+  Os  Os11  1  0.00000000  0.00000000  0.49999972  1

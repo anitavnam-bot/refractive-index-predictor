@@ -1,0 +1,31 @@
+# generated using pymatgen
+data_NaPF3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.83672926
+_cell_length_b   6.95627484
+_cell_length_c   5.02938434
+_cell_angle_alpha   43.23779329
+_cell_angle_beta   30.56541867
+_cell_angle_gamma   50.95220257
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NaPF3
+_chemical_formula_sum   'Na1 P1 F3'
+_cell_volume   71.13216717
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.08975501  -0.01346035  -0.06436883  1
+  P  P1  1  0.59092945  0.48841473  0.45026631  1
+  F  F2  1  0.59188052  0.74961362  -0.08310306  1
+  F  F3  1  0.58799715  0.30190985  -0.03285559  1
+  F  F4  1  0.58943697  0.77352036  0.35506308  1

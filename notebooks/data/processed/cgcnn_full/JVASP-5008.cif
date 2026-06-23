@@ -1,0 +1,31 @@
+# generated using pymatgen
+data_Ce2SbO2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.98315980
+_cell_length_b   3.98315927
+_cell_length_c   6.95409380
+_cell_angle_alpha   106.64192718
+_cell_angle_beta   106.64192175
+_cell_angle_gamma   90.00000302
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ce2SbO2
+_chemical_formula_sum   'Ce2 Sb1 O2'
+_cell_volume   100.87632133
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ce  Ce0  1  0.65390686  0.65390768  0.30781618  1
+  Ce  Ce1  1  0.34609046  0.34609083  0.69218260  1
+  Sb  Sb2  1  0.00000000  0.00000000  0.00000000  1
+  O  O3  1  0.24999849  0.74999912  0.49999934  1
+  O  O4  1  0.74999882  0.24999939  0.49999944  1

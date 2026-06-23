@@ -1,0 +1,33 @@
+# generated using pymatgen
+data_In(FeO2)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.77279574
+_cell_length_b   8.77279602
+_cell_length_c   8.77279526
+_cell_angle_alpha   22.28356154
+_cell_angle_beta   22.28356006
+_cell_angle_gamma   22.28355727
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   In(FeO2)2
+_chemical_formula_sum   'In1 Fe2 O4'
+_cell_volume   85.13295130
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  In  In0  1  0.00000000  0.00000000  0.00000000  1
+  Fe  Fe1  1  0.78602102  0.78601906  0.78602243  1
+  Fe  Fe2  1  0.21398080  0.21397899  0.21398064  1
+  O  O3  1  0.70802324  0.70802057  0.70802170  1
+  O  O4  1  0.29197858  0.29197648  0.29197936  1
+  O  O5  1  0.87272302  0.87272173  0.87272236  1
+  O  O6  1  0.12727580  0.12727932  0.12727770  1

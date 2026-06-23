@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_SmMoClO4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.38028374
+_cell_length_b   6.38028292
+_cell_length_c   6.94035050
+_cell_angle_alpha   76.29033600
+_cell_angle_beta   76.29033699
+_cell_angle_gamma   70.81858528
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   SmMoClO4
+_chemical_formula_sum   'Sm2 Mo2 Cl2 O8'
+_cell_volume   255.31185675
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sm  Sm0  1  0.22182052  0.22181952  0.88940814  1
+  Sm  Sm1  1  0.77817991  0.77818054  0.11059285  1
+  Mo  Mo2  1  0.63739163  0.63739126  0.73082616  1
+  Mo  Mo3  1  0.36260880  0.36260880  0.26917483  1
+  Cl  Cl4  1  0.01017966  0.01017933  0.23957019  1
+  Cl  Cl5  1  0.98982077  0.98982072  0.76043080  1
+  O  O6  1  0.11647322  0.48953041  0.15210604  1
+  O  O7  1  0.70612570  0.70612576  0.46876385  1
+  O  O8  1  0.46092988  0.46092924  0.79367293  1
+  O  O9  1  0.29387473  0.29387430  0.53123714  1
+  O  O10  1  0.53907055  0.53907081  0.20632806  1
+  O  O11  1  0.51047034  0.88352697  0.84789485  1
+  O  O12  1  0.88352721  0.51046965  0.84789495  1
+  O  O13  1  0.48953009  0.11647309  0.15210614  1

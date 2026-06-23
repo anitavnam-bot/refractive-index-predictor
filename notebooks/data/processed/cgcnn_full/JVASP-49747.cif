@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_Ho2CuO4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.46732125
+_cell_length_b   6.47035120
+_cell_length_c   5.47090319
+_cell_angle_alpha   115.00940961
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ho2CuO4
+_chemical_formula_sum   'Ho4 Cu2 O8'
+_cell_volume   175.38963431
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ho  Ho0  1  0.00000000  0.30764349  0.65382145  1
+  Ho  Ho1  1  0.00000000  0.69235642  0.34617821  1
+  Ho  Ho2  1  0.49999989  0.69235642  0.84617792  1
+  Ho  Ho3  1  0.49999989  0.30764349  0.15382175  1
+  Cu  Cu4  1  0.00000000  0.00000000  0.00000000  1
+  Cu  Cu5  1  0.49999989  0.00000000  0.49999971  1
+  O  O6  1  0.20291882  0.00000000  0.29779641  1
+  O  O7  1  0.24999994  0.49999996  0.99048244  1
+  O  O8  1  0.24999994  0.49999996  0.49048273  1
+  O  O9  1  0.29708106  0.00000000  0.79779612  1
+  O  O10  1  0.70291871  0.00000000  0.20220329  1
+  O  O11  1  0.74999983  0.49999996  0.50951694  1
+  O  O12  1  0.74999983  0.49999996  0.00951723  1
+  O  O13  1  0.79708095  0.00000000  0.70220300  1

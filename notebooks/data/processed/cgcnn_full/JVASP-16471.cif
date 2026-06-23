@@ -1,0 +1,34 @@
+# generated using pymatgen
+data_DyCd3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.87593598
+_cell_length_b   6.50460836
+_cell_length_c   6.50460870
+_cell_angle_alpha   115.01003750
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   DyCd3
+_chemical_formula_sum   'Dy2 Cd6'
+_cell_volume   186.95649122
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Dy  Dy0  1  0.75000062  0.35947983  0.64051993  1
+  Dy  Dy1  1  0.25000021  0.64051950  0.35948023  1
+  Cd  Cd2  1  0.75000062  0.82566211  0.17433761  1
+  Cd  Cd3  1  0.25000021  0.17433723  0.82566255  1
+  Cd  Cd4  1  0.75000062  0.31301252  0.12874306  1
+  Cd  Cd5  1  0.25000021  0.68698681  0.87125710  1
+  Cd  Cd6  1  0.25000021  0.12874289  0.31301271  1
+  Cd  Cd7  1  0.75000062  0.87125645  0.68698745  1

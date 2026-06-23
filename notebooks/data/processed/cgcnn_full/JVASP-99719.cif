@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_Rb2AgMoBr6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.62988982
+_cell_length_b   7.62988978
+_cell_length_c   7.62989033
+_cell_angle_alpha   59.99999762
+_cell_angle_beta   59.99999779
+_cell_angle_gamma   60.00000075
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Rb2AgMoBr6
+_chemical_formula_sum   'Rb2 Ag1 Mo1 Br6'
+_cell_volume   314.07966222
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Rb  Rb0  1  0.75000025  0.75000013  0.75000072  1
+  Rb  Rb1  1  0.25000008  0.25000004  0.25000024  1
+  Ag  Ag2  1  0.50000017  0.50000009  0.50000048  1
+  Mo  Mo3  1  0.00000000  0.00000000  0.00000000  1
+  Br  Br4  1  0.75880566  0.24119460  0.24119505  1
+  Br  Br5  1  0.24119464  0.24119460  0.75880565  1
+  Br  Br6  1  0.24119468  0.75880558  0.75880591  1
+  Br  Br7  1  0.24119468  0.75880558  0.24119506  1
+  Br  Br8  1  0.75880566  0.24119460  0.75880591  1
+  Br  Br9  1  0.75880570  0.75880557  0.24119532  1

@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_Na3GaBr6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.54720393
+_cell_length_b   7.54720393
+_cell_length_c   7.54720393
+_cell_angle_alpha   60.00000000
+_cell_angle_beta   60.00000000
+_cell_angle_gamma   60.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Na3GaBr6
+_chemical_formula_sum   'Na3 Ga1 Br6'
+_cell_volume   303.97877256
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.74999980  0.75000046  0.74999909  1
+  Na  Na1  1  0.24999993  0.25000015  0.24999970  1
+  Na  Na2  1  0.49999986  0.50000031  0.49999939  1
+  Ga  Ga3  1  0.00000000  0.00000000  0.00000000  1
+  Br  Br4  1  0.76187276  0.23812730  0.23812674  1
+  Br  Br5  1  0.23812708  0.23812730  0.76187229  1
+  Br  Br6  1  0.23812697  0.76187332  0.76187205  1
+  Br  Br7  1  0.23812697  0.76187332  0.23812662  1
+  Br  Br8  1  0.76187276  0.23812730  0.76187217  1
+  Br  Br9  1  0.76187264  0.76187332  0.23812650  1

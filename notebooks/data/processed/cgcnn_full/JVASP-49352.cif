@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_CaCu3(GeO3)4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.33572122
+_cell_length_b   6.33572071
+_cell_length_c   6.33572126
+_cell_angle_alpha   109.47122242
+_cell_angle_beta   109.47122078
+_cell_angle_gamma   109.47121763
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CaCu3(GeO3)4
+_chemical_formula_sum   'Ca1 Cu3 Ge4 O12'
+_cell_volume   195.77907006
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ca  Ca0  1  0.00000000  0.00000000  0.00000000  1
+  Cu  Cu1  1  0.50000040  0.00000000  0.49999980  1
+  Cu  Cu2  1  -0.00000045  0.49999958  0.49999938  1
+  Cu  Cu3  1  0.49999995  0.49999958  -0.00000062  1
+  Ge  Ge4  1  0.50000040  0.00000000  -0.00000010  1
+  Ge  Ge5  1  -0.00000045  0.49999958  -0.00000052  1
+  Ge  Ge6  1  0.49999995  0.49999958  0.49999928  1
+  Ge  Ge7  1  0.00000000  0.00000000  0.49999990  1
+  O  O8  1  0.30064589  0.11801352  0.81736751  1
+  O  O9  1  0.88198692  0.18263199  0.69935374  1
+  O  O10  1  0.81736823  0.30064551  0.11801312  1
+  O  O11  1  0.51672277  0.81736717  0.69935315  1
+  O  O12  1  0.69935400  0.88198564  0.18263105  1
+  O  O13  1  0.11801297  0.81736717  0.30064483  1
+  O  O14  1  0.48327712  0.18263199  0.30064542  1
+  O  O15  1  0.30064556  0.48327650  0.18263155  1
+  O  O16  1  0.81736787  0.69935365  0.51672210  1
+  O  O17  1  0.18263166  0.69935365  0.88198544  1
+  O  O18  1  0.18263202  0.30064551  0.48327646  1
+  O  O19  1  0.69935433  0.51672266  0.81736702  1

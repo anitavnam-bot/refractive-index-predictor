@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_Sr2TaCrO6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.60605738
+_cell_length_b   5.60605780
+_cell_length_c   5.60605821
+_cell_angle_alpha   60.00000332
+_cell_angle_beta   60.00000089
+_cell_angle_gamma   59.99999970
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sr2TaCrO6
+_chemical_formula_sum   'Sr2 Ta1 Cr1 O6'
+_cell_volume   124.58269678
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sr  Sr0  1  0.25000106  0.24999916  0.25000010  1
+  Sr  Sr1  1  0.74999917  0.75000047  0.74999929  1
+  Ta  Ta2  1  0.50000111  0.50000131  0.50000019  1
+  Cr  Cr3  1  0.00000000  0.00000000  0.00000000  1
+  O  O4  1  0.24902174  0.75097871  0.75097750  1
+  O  O5  1  0.24902174  0.75097871  0.24902286  1
+  O  O6  1  0.75097848  0.24902192  0.75097752  1
+  O  O7  1  0.24902282  0.24902192  0.75097849  1
+  O  O8  1  0.75097848  0.24902192  0.24902289  1
+  O  O9  1  0.75097741  0.75097871  0.24902389  1

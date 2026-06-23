@@ -1,0 +1,44 @@
+# generated using pymatgen
+data_Nd5As2ClO10
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.72341721
+_cell_length_b   6.88133538
+_cell_length_c   8.90469891
+_cell_angle_alpha   68.44562087
+_cell_angle_beta   71.25292138
+_cell_angle_gamma   65.42473467
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Nd5As2ClO10
+_chemical_formula_sum   'Nd5 As2 Cl1 O10'
+_cell_volume   290.68386626
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Nd  Nd0  1  0.50073463  0.70575540  0.29278301  1
+  Nd  Nd1  1  0.25341528  0.36317730  0.13000789  1
+  Nd  Nd2  1  0.00000000  0.00000000  0.00000000  1
+  Nd  Nd3  1  0.74658370  0.63682232  0.86999214  1
+  Nd  Nd4  1  0.49926435  0.29424422  0.70721702  1
+  As  As5  1  0.21381866  0.96826099  0.60409069  1
+  As  As6  1  0.78618031  0.03173863  0.39590934  1
+  Cl  Cl7  1  -0.00000025  0.49999953  0.50000024  1
+  O  O8  1  0.13250894  0.32547651  0.91579924  1
+  O  O9  1  0.37659301  0.96631978  0.75177743  1
+  O  O10  1  0.62621586  0.32547361  0.91579754  1
+  O  O11  1  0.37378311  0.67452601  0.08420249  1
+  O  O12  1  0.86749003  0.67452311  0.08420080  1
+  O  O13  1  0.35911076  0.68316415  0.59866336  1
+  O  O14  1  0.90531593  0.96631499  0.75178649  1
+  O  O15  1  0.62340597  0.03367984  0.24822260  1
+  O  O16  1  0.64088821  0.31683547  0.40133667  1
+  O  O17  1  0.09468305  0.03368463  0.24821354  1

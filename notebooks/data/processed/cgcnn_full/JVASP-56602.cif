@@ -1,0 +1,33 @@
+# generated using pymatgen
+data_BaLi2(MgSi)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.12803608
+_cell_length_b   9.12803663
+_cell_length_c   9.12803698
+_cell_angle_alpha   28.93506859
+_cell_angle_beta   28.93505986
+_cell_angle_gamma   28.93507141
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   BaLi2(MgSi)2
+_chemical_formula_sum   'Ba1 Li2 Mg2 Si2'
+_cell_volume   157.45229308
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.00000000  0.00000000  0.00000000  1
+  Li  Li1  1  0.42956947  0.42956955  0.42956825  1
+  Li  Li2  1  0.57043123  0.57043133  0.57042960  1
+  Mg  Mg3  1  0.13577691  0.13577693  0.13577652  1
+  Mg  Mg4  1  0.86422380  0.86422394  0.86422133  1
+  Si  Si5  1  0.24202840  0.24202844  0.24202771  1
+  Si  Si6  1  0.75797230  0.75797243  0.75797013  1

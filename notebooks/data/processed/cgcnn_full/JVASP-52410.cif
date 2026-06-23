@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_KAlP4(H2O7)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.91275744
+_cell_length_b   7.43994632
+_cell_length_c   7.72268754
+_cell_angle_alpha   82.53998071
+_cell_angle_beta   84.08721268
+_cell_angle_gamma   74.42265490
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   KAlP4(H2O7)2
+_chemical_formula_sum   'K1 Al1 P4 H4 O14'
+_cell_volume   268.91257963
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.00000000  0.00000000  0.00000000  1
+  Al  Al1  1  -0.00000040  0.50000017  0.00000014  1
+  P  P2  1  0.42077360  0.60803591  0.22895907  1
+  P  P3  1  0.57922588  0.39196388  0.77104188  1
+  P  P4  1  0.31559327  0.23507929  0.31721235  1
+  P  P5  1  0.68440621  0.76492049  0.68278860  1
+  H  H6  1  0.11792044  0.78629456  0.41779660  1
+  H  H7  1  0.88207904  0.21370522  0.58220436  1
+  H  H8  1  0.31078125  0.00344125  0.61844474  1
+  H  H9  1  0.68921903  -0.00344180  0.38155594  1
+  O  O10  1  0.69771617  0.22248498  0.66181812  1
+  O  O11  1  0.30228331  0.77751481  0.33818284  1
+  O  O12  1  0.73160811  0.59192355  0.18422187  1
+  O  O13  1  0.26839137  0.40807623  0.81577908  1
+  O  O14  1  0.62283859  0.57193652  0.64223460  1
+  O  O15  1  0.37716089  0.42806326  0.35776635  1
+  O  O16  1  0.83396374  0.83737662  0.51892863  1
+  O  O17  1  0.24622218  0.62807126  0.07242417  1
+  O  O18  1  0.83832314  0.72188594  0.84943468  1
+  O  O19  1  0.16167634  0.27811385  0.15056627  1
+  O  O20  1  0.38716548  0.90383520  0.71934300  1
+  O  O21  1  0.16603574  0.16262416  0.48107233  1
+  O  O22  1  0.75377730  0.37192853  0.92757678  1
+  O  O23  1  0.61283400  0.09616459  0.28065795  1

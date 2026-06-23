@@ -1,0 +1,34 @@
+# generated using pymatgen
+data_MgCoF6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.20995811
+_cell_length_b   5.20995727
+_cell_length_c   5.20995742
+_cell_angle_alpha   55.59192674
+_cell_angle_beta   55.59192360
+_cell_angle_gamma   55.59193102
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   MgCoF6
+_chemical_formula_sum   'Mg1 Co1 F6'
+_cell_volume   89.76674387
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mg  Mg0  1  0.49999927  0.50000018  0.50000070  1
+  Co  Co1  1  0.00000000  0.00000000  0.00000000  1
+  F  F2  1  0.37425774  0.09583912  0.76787964  1
+  F  F3  1  0.09583823  0.76787960  0.37425887  1
+  F  F4  1  0.23211972  0.62574204  0.90416157  1
+  F  F5  1  0.90416031  0.23212076  0.62574254  1
+  F  F6  1  0.62574080  0.90416123  0.23212177  1
+  F  F7  1  0.76787882  0.37425832  0.09583983  1

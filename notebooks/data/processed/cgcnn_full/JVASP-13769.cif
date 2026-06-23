@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_YbMnSi
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.25304821
+_cell_length_b   6.96478905
+_cell_length_c   7.20174941
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   YbMnSi
+_chemical_formula_sum   'Yb4 Mn4 Si4'
+_cell_volume   213.32722233
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Yb  Yb0  1  0.75000032  0.17593394  0.50373932  1
+  Yb  Yb1  1  0.25000011  0.82406619  0.49626076  1
+  Yb  Yb2  1  0.75000032  0.32406613  0.00373928  1
+  Yb  Yb3  1  0.25000011  0.67593401  -0.00373928  1
+  Mn  Mn4  1  0.25000011  0.06322192  0.13333193  1
+  Mn  Mn5  1  0.75000032  0.93677822  0.86666815  1
+  Mn  Mn6  1  0.25000011  0.43677815  0.63333197  1
+  Mn  Mn7  1  0.75000032  0.56322199  0.36666811  1
+  Si  Si8  1  0.75000032  0.88778714  0.19717503  1
+  Si  Si9  1  0.25000011  0.11221300  0.80282505  1
+  Si  Si10  1  0.75000032  0.61221306  0.69717507  1
+  Si  Si11  1  0.25000011  0.38778707  0.30282501  1

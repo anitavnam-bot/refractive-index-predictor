@@ -1,0 +1,52 @@
+# generated using pymatgen
+data_BaMn4AlO7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.13957536
+_cell_length_b   6.13957536
+_cell_length_c   9.79967693
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   119.99999900
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   BaMn4AlO7
+_chemical_formula_sum   'Ba2 Mn8 Al2 O14'
+_cell_volume   319.90355306
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.66666709  0.33333344  0.51745896  1
+  Ba  Ba1  1  0.33333343  0.66666688  0.01745880  1
+  Mn  Mn2  1  0.00000000  0.00000000  0.94773306  1
+  Mn  Mn3  1  0.18576070  0.81423952  0.70128646  1
+  Mn  Mn4  1  0.37152173  0.18576081  0.20128630  1
+  Mn  Mn5  1  0.00000000  0.00000000  0.44773290  1
+  Mn  Mn6  1  0.18576080  0.37152161  0.70128646  1
+  Mn  Mn7  1  0.62847879  0.81423952  0.70128646  1
+  Mn  Mn8  1  0.81423983  0.18576081  0.20128630  1
+  Mn  Mn9  1  0.81423972  0.62847871  0.20128630  1
+  Al  Al10  1  0.66666709  0.33333344  0.88501167  1
+  Al  Al11  1  0.33333343  0.66666688  0.38501152  1
+  O  O12  1  0.00000000  0.00000000  0.23175153  1
+  O  O13  1  0.47588993  0.95177989  0.25604256  1
+  O  O14  1  0.52411059  0.04822043  0.75604272  1
+  O  O15  1  0.95178020  0.47588995  0.75604272  1
+  O  O16  1  0.47589003  0.52411038  0.25604256  1
+  O  O17  1  0.00000000  0.00000000  0.73175169  1
+  O  O18  1  0.81758993  0.18241071  0.99335312  1
+  O  O19  1  0.36482052  0.18241070  0.99335312  1
+  O  O20  1  0.81758982  0.63517991  0.99335312  1
+  O  O21  1  0.18241070  0.36482041  0.49335296  1
+  O  O22  1  0.63518000  0.81758962  0.49335296  1
+  O  O23  1  0.52411049  0.47588995  0.75604272  1
+  O  O24  1  0.18241059  0.81758962  0.49335296  1
+  O  O25  1  0.04822033  0.52411038  0.25604256  1

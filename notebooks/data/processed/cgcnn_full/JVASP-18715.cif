@@ -1,0 +1,32 @@
+# generated using pymatgen
+data_HfNi2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.88536237
+_cell_length_b   4.88536271
+_cell_length_c   4.88536214
+_cell_angle_alpha   59.99999713
+_cell_angle_beta   59.99999481
+_cell_angle_gamma   59.99999886
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   HfNi2
+_chemical_formula_sum   'Hf2 Ni4'
+_cell_volume   82.44708963
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Hf  Hf0  1  0.12500001  0.12499994  0.12499989  1
+  Hf  Hf1  1  0.87500008  0.87499959  0.87499922  1
+  Ni  Ni2  1  0.50000027  0.00000000  0.49999948  1
+  Ni  Ni3  1  -0.00000022  0.49999976  0.49999985  1
+  Ni  Ni4  1  0.50000005  0.49999976  0.49999955  1
+  Ni  Ni5  1  0.50000005  0.49999976  -0.00000023  1

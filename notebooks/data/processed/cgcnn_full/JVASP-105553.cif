@@ -1,0 +1,32 @@
+# generated using pymatgen
+data_Ba2AlGa3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.18830113
+_cell_length_b   6.18830113
+_cell_length_c   7.91702781
+_cell_angle_alpha   50.75520727
+_cell_angle_beta   50.75520727
+_cell_angle_gamma   47.02997686
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ba2AlGa3
+_chemical_formula_sum   'Ba2 Al1 Ga3'
+_cell_volume   160.58638464
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.25160487  0.25160446  0.18908825  1
+  Ba  Ba1  1  0.74824370  0.74824202  0.81056630  1
+  Al  Al2  1  0.42406549  0.42406463  0.41655005  1
+  Ga  Ga3  1  0.57335127  0.57335006  0.58409473  1
+  Ga  Ga4  1  0.92570021  0.92569958  0.23698816  1
+  Ga  Ga5  1  0.07703855  0.07703710  0.76271492  1

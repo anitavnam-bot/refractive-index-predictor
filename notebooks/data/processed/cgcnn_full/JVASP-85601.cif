@@ -1,0 +1,31 @@
+# generated using pymatgen
+data_Eu(AsRh)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.13357516
+_cell_length_b   4.13345925
+_cell_length_c   6.06642056
+_cell_angle_alpha   109.91429928
+_cell_angle_beta   109.90954059
+_cell_angle_gamma   89.99214014
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Eu(AsRh)2
+_chemical_formula_sum   'Eu1 As2 Rh2'
+_cell_volume   90.83776802
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Eu  Eu0  1  0.00080060  0.00178798  0.00100720  1
+  As  As1  1  0.62121575  0.62210674  0.24166102  1
+  As  As2  1  0.38038796  0.38134293  0.76030257  1
+  Rh  Rh3  1  0.25078744  0.75170525  0.50095494  1
+  Rh  Rh4  1  0.75081974  0.25176166  0.50101596  1

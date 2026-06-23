@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_Ho2HgO4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.59673051
+_cell_length_b   7.02748924
+_cell_length_c   8.77830550
+_cell_angle_alpha   78.50661763
+_cell_angle_beta   78.17842152
+_cell_angle_gamma   75.17282206
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ho2HgO4
+_chemical_formula_sum   'Ho4 Hg2 O8'
+_cell_volume   207.39972832
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ho  Ho0  1  0.11897549  0.22400504  0.53804408  1
+  Ho  Ho1  1  0.88102616  0.77599468  0.46195628  1
+  Ho  Ho2  1  0.33964254  0.52042745  0.80028850  1
+  Ho  Ho3  1  0.66035911  0.47957227  0.19971187  1
+  Hg  Hg4  1  0.38777380  0.06396771  0.16048530  1
+  Hg  Hg5  1  0.61222785  0.93603200  0.83951507  1
+  O  O6  1  0.91748689  0.51287485  0.65215256  1
+  O  O7  1  0.08251475  0.48712486  0.34784781  1
+  O  O8  1  0.73307283  0.14627110  0.38758535  1
+  O  O9  1  0.26692882  0.85372861  0.61241502  1
+  O  O10  1  0.29773474  0.35119150  0.05333957  1
+  O  O11  1  0.70226691  0.64880822  0.94666079  1
+  O  O12  1  0.46612154  0.78522333  0.28253647  1
+  O  O13  1  0.53388010  0.21477639  0.71746390  1

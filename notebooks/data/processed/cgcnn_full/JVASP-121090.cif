@@ -1,0 +1,30 @@
+# generated using pymatgen
+data_NbH2O
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.93309970
+_cell_length_b   4.93309970
+_cell_length_c   4.93309970
+_cell_angle_alpha   145.53422638
+_cell_angle_beta   59.33953476
+_cell_angle_gamma   133.27376919
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NbH2O
+_chemical_formula_sum   'Nb1 H2 O1'
+_cell_volume   49.01839804
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Nb  Nb0  1  0.52927964  0.02928064  0.49999900  1
+  H  H1  1  0.33297730  0.48623889  0.84673777  1
+  H  H2  1  0.63950030  0.48623939  0.15326092  1
+  O  O3  1  0.00481561  0.50481537  0.49999892  1

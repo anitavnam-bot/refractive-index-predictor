@@ -1,0 +1,31 @@
+# generated using pymatgen
+data_Sr2CoN2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.82155806
+_cell_length_b   3.82155907
+_cell_length_c   6.74122773
+_cell_angle_alpha   106.46602961
+_cell_angle_beta   106.46602519
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sr2CoN2
+_chemical_formula_sum   'Sr2 Co1 N2'
+_cell_volume   90.19505955
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sr  Sr0  1  0.85494084  0.85494067  0.20987971  1
+  Sr  Sr1  1  0.14505974  0.14505971  0.79012018  1
+  Co  Co2  1  0.50000029  0.50000019  0.49999994  1
+  N  N3  1  0.35967405  0.35967398  0.21934747  1
+  N  N4  1  0.64032653  0.64032640  0.78065242  1

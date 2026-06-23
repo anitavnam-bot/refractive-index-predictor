@@ -1,0 +1,41 @@
+# generated using pymatgen
+data_Mn2Fe(CN)6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.96305465
+_cell_length_b   5.96305465
+_cell_length_c   6.47548474
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00000736
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Mn2Fe(CN)6
+_chemical_formula_sum   'Mn2 Fe1 C6 N6'
+_cell_volume   199.40702903
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mn  Mn0  1  0.66666760  0.33333340  0.50000394  1
+  Mn  Mn1  1  0.33333341  0.66666760  0.49999533  1
+  Fe  Fe2  1  0.00000000  0.00000000  0.00000000  1
+  C  C3  1  0.24597920  -0.00000355  0.82189196  1
+  C  C4  1  0.24598286  0.24597926  0.17810731  1
+  C  C5  1  0.75402181  1.00000456  0.17810731  1
+  C  C6  1  1.00000445  0.24598302  0.82189196  1
+  C  C7  1  -0.00000344  0.75401799  0.17810731  1
+  C  C8  1  0.75401815  0.75402175  0.82189196  1
+  N  N9  1  0.61561192  0.61561520  0.69074814  1
+  N  N10  1  0.61561506  0.00000341  0.30925113  1
+  N  N11  1  0.99999764  0.61561199  0.30925113  1
+  N  N12  1  0.38438595  0.99999759  0.69074814  1
+  N  N13  1  0.38438909  0.38438581  0.30925113  1
+  N  N14  1  0.00000337  0.38438901  0.69074814  1

@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_HoNiB4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.80792742
+_cell_length_b   6.80792742
+_cell_length_c   6.80792742
+_cell_angle_alpha   112.88097776
+_cell_angle_beta   112.88097776
+_cell_angle_gamma   102.84790904
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   HoNiB4
+_chemical_formula_sum   'Ho4 Ni4 B16'
+_cell_volume   240.50187621
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ho  Ho0  1  0.74999968  0.24999987  0.49999981  1
+  Ho  Ho1  1  0.24999987  0.74999968  0.49999981  1
+  Ho  Ho2  1  0.79528715  0.79528715  0.00000000  1
+  Ho  Ho3  1  0.20471233  0.20471233  0.00000000  1
+  Ni  Ni4  1  0.49999974  0.72871828  0.22871853  1
+  Ni  Ni5  1  0.27128127  0.49999981  0.77128108  1
+  Ni  Ni6  1  0.72871828  0.49999974  0.22871853  1
+  Ni  Ni7  1  0.49999981  0.27128127  0.77128108  1
+  B  B8  1  0.11251944  0.58143068  0.00000000  1
+  B  B9  1  0.58143068  0.11251944  -0.00000000  1
+  B  B10  1  0.58143068  0.58143068  0.46891124  1
+  B  B11  1  0.11251951  0.11251951  0.53108838  1
+  B  B12  1  0.72516602  0.11118779  0.83635381  1
+  B  B13  1  0.41856880  0.88748004  0.00000000  1
+  B  B14  1  0.88748004  0.41856880  -0.00000000  1
+  B  B15  1  0.11118779  0.72516602  0.83635381  1
+  B  B16  1  0.88881176  0.27483353  0.16364580  1
+  B  B17  1  0.72516596  0.88881176  0.61397923  1
+  B  B18  1  0.27483359  0.11118779  0.38602038  1
+  B  B19  1  0.88881176  0.72516596  0.61397923  1
+  B  B20  1  0.11118779  0.27483359  0.38602038  1
+  B  B21  1  0.27483353  0.88881176  0.16364580  1
+  B  B22  1  0.41856887  0.41856887  0.53108838  1
+  B  B23  1  0.88748004  0.88748004  0.46891124  1

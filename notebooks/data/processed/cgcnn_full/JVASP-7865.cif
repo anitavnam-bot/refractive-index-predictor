@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_Na5NiSO2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.55979624
+_cell_length_b   4.55980527
+_cell_length_c   8.06694858
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Na5NiSO2
+_chemical_formula_sum   'Na5 Ni1 S1 O2'
+_cell_volume   167.72624358
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.00000000  0.50000052  0.25500336  1
+  Na  Na1  1  0.50000041  0.00000000  0.25509949  1
+  Na  Na2  1  0.00000000  0.50000052  0.74499682  1
+  Na  Na3  1  0.50000041  0.00000000  0.74490069  1
+  Na  Na4  1  0.00000000  0.00000000  0.50000009  1
+  Ni  Ni5  1  0.00000000  0.00000000  0.00000000  1
+  S  S6  1  0.50000041  0.50000052  0.50000009  1
+  O  O7  1  0.00000000  0.00000000  0.78012038  1
+  O  O8  1  0.00000000  0.00000000  0.21987980  1

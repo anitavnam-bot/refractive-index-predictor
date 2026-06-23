@@ -1,0 +1,30 @@
+# generated using pymatgen
+data_Cl3He
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.83785155
+_cell_length_b   3.71552549
+_cell_length_c   8.21754771
+_cell_angle_alpha   93.82510711
+_cell_angle_beta   82.57838828
+_cell_angle_gamma   121.09518693
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Cl3He
+_chemical_formula_sum   'Cl3 He1'
+_cell_volume   99.50119183
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  He  He0  1  0.75042692  0.99999894  0.37495173  1
+  Cl  Cl1  1  0.17285115  0.00000001  0.66173062  1
+  Cl  Cl2  1  0.74982129  0.00000002  0.87502727  1
+  Cl  Cl3  1  0.32690067  0.99999893  0.08828811  1

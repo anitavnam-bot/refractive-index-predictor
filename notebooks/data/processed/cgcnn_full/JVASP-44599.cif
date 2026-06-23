@@ -1,0 +1,52 @@
+# generated using pymatgen
+data_Na3MnBSO7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.25753846
+_cell_length_b   6.84067581
+_cell_length_c   9.01745357
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.72322239
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Na3MnBSO7
+_chemical_formula_sum   'Na6 Mn2 B2 S2 O14'
+_cell_volume   324.28792887
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.25047896  0.75000046  0.06475529  1
+  Na  Na1  1  0.76194326  0.00828593  0.23811093  1
+  Na  Na2  1  0.76194326  0.49171438  0.23811093  1
+  Na  Na3  1  0.23805649  0.50828623  0.76188910  1
+  Na  Na4  1  0.23805649  0.99171469  0.76188910  1
+  Na  Na5  1  0.74952079  0.25000015  0.93524474  1
+  Mn  Mn6  1  0.24278093  0.25000015  0.33734170  1
+  Mn  Mn7  1  0.75721881  0.75000046  0.66265833  1
+  B  B8  1  0.73281000  0.75000046  0.93863863  1
+  B  B9  1  0.26718975  0.25000015  0.06136140  1
+  S  S10  1  0.28960566  0.75000046  0.41735070  1
+  S  S11  1  0.71039409  0.25000015  0.58264932  1
+  O  O12  1  0.51965894  0.75000046  0.84226441  1
+  O  O13  1  0.78632917  0.07540305  0.67058712  1
+  O  O14  1  0.78632917  0.42459725  0.67058712  1
+  O  O15  1  0.42753634  0.25000015  0.55880678  1
+  O  O16  1  0.16392621  0.75000046  0.56372022  1
+  O  O17  1  0.83607354  0.25000015  0.43627980  1
+  O  O18  1  0.71048484  0.75000046  0.08857868  1
+  O  O19  1  0.21367057  0.57540336  0.32941290  1
+  O  O20  1  0.21367057  0.92459756  0.32941290  1
+  O  O21  1  0.48034080  0.25000015  0.15773562  1
+  O  O22  1  0.03413067  0.25000015  0.13467384  1
+  O  O23  1  0.96586908  0.75000046  0.86532619  1
+  O  O24  1  0.57246341  0.75000046  0.44119325  1
+  O  O25  1  0.28951491  0.25000015  0.91142135  1

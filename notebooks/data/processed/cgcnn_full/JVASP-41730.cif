@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_KNdGeS4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.62999561
+_cell_length_b   6.72375772
+_cell_length_c   8.59779695
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   107.86503769
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   KNdGeS4
+_chemical_formula_sum   'K2 Nd2 Ge2 S8'
+_cell_volume   364.79583142
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.73321052  0.99094374  0.93535190  1
+  K  K1  1  0.26679033  0.49094357  0.06464846  1
+  Nd  Nd2  1  0.22961469  0.50300899  0.55339398  1
+  Nd  Nd3  1  0.77038616  0.00300882  0.44660638  1
+  Ge  Ge4  1  0.78121436  0.47337713  0.68502468  1
+  Ge  Ge5  1  0.21878648  0.97337730  0.31497569  1
+  S  S6  1  0.58199833  0.46981115  0.84817188  1
+  S  S7  1  0.02658443  0.23239216  0.73075082  1
+  S  S8  1  0.98597894  0.74427474  0.71629740  1
+  S  S9  1  0.42047611  0.91919255  0.57366265  1
+  S  S10  1  0.57952474  0.41919238  0.42633772  1
+  S  S11  1  0.01402191  0.24427457  0.28370296  1
+  S  S12  1  0.97341642  0.73239233  0.26924954  1
+  S  S13  1  0.41800251  0.96981132  0.15182849  1

@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_Na2GaPCO7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.13960876
+_cell_length_b   6.49138597
+_cell_length_c   8.90866876
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.90954854
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Na2GaPCO7
+_chemical_formula_sum   'Na4 Ga2 P2 C2 O14'
+_cell_volume   297.18410737
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.77105962  0.50661934  0.22156521  1
+  Na  Na1  1  0.77105962  0.99338159  0.22156521  1
+  Na  Na2  1  0.22894031  0.49338128  0.77843526  1
+  Na  Na3  1  0.22894031  0.00661903  0.77843526  1
+  Ga  Ga4  1  0.21767312  0.25000016  0.35720379  1
+  Ga  Ga5  1  0.78232681  0.75000047  0.64279669  1
+  P  P6  1  0.28048367  0.75000047  0.42668850  1
+  P  P7  1  0.71951626  0.25000016  0.57331198  1
+  C  C8  1  0.28729569  0.25000016  0.08181298  1
+  C  C9  1  0.71270424  0.75000047  0.91818750  1
+  O  O10  1  0.53032074  0.75000047  0.81003946  1
+  O  O11  1  0.80014188  0.05801100  0.66398421  1
+  O  O12  1  0.80014188  0.44198931  0.66398421  1
+  O  O13  1  0.14699855  0.75000047  0.58201582  1
+  O  O14  1  0.41617286  0.25000016  0.54598279  1
+  O  O15  1  0.58382707  0.75000047  0.45401768  1
+  O  O16  1  0.05210747  0.25000016  0.13439970  1
+  O  O17  1  0.19985805  0.55801131  0.33601626  1
+  O  O18  1  0.19985805  0.94198962  0.33601626  1
+  O  O19  1  0.46967919  0.25000016  0.18996101  1
+  O  O20  1  0.94789246  0.75000047  0.86560078  1
+  O  O21  1  0.65614546  0.75000047  0.05465076  1
+  O  O22  1  0.85300138  0.25000016  0.41798465  1
+  O  O23  1  0.34385447  0.25000016  0.94534971  1

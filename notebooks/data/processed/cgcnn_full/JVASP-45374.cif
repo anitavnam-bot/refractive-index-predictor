@@ -1,0 +1,49 @@
+# generated using pymatgen
+data_Sr4Al6TeO12
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.18499636
+_cell_length_b   8.18499655
+_cell_length_c   8.18499626
+_cell_angle_alpha   109.47122238
+_cell_angle_beta   109.47122284
+_cell_angle_gamma   109.47122144
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sr4Al6TeO12
+_chemical_formula_sum   'Sr4 Al6 Te1 O12'
+_cell_volume   422.11769757
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sr  Sr0  1  0.40844845  0.40844807  0.40844865  1
+  Sr  Sr1  1  0.59155196  -0.00000000  0.00000021  1
+  Sr  Sr2  1  -0.00000000  -0.00000000  0.59155211  1
+  Sr  Sr3  1  0.00000030  0.59155172  0.00000023  1
+  Al  Al4  1  0.75000040  0.49999990  0.25000058  1
+  Al  Al5  1  0.25000030  0.49999990  0.75000063  1
+  Al  Al6  1  0.75000028  0.24999995  0.50000060  1
+  Al  Al7  1  0.25000043  0.74999984  0.50000062  1
+  Al  Al8  1  0.50000048  0.74999984  0.25000059  1
+  Al  Al9  1  0.50000023  0.24999995  0.75000062  1
+  Te  Te10  1  0.00000000  0.00000000  0.00000000  1
+  O  O11  1  0.30510188  0.68827321  0.30510199  1
+  O  O12  1  0.00000035  0.69489838  0.38317233  1
+  O  O13  1  0.69489886  0.38317180  0.00000040  1
+  O  O14  1  0.38317231  0.69489838  0.00000041  1
+  O  O15  1  0.61682856  0.61682799  0.31172726  1
+  O  O16  1  0.38317195  -0.00000000  0.69489898  1
+  O  O17  1  0.00000019  0.38317180  0.69489900  1
+  O  O18  1  0.31172703  0.61682799  0.61682876  1
+  O  O19  1  0.61682840  0.31172658  0.61682875  1
+  O  O20  1  0.30510169  0.30510141  0.68827390  1
+  O  O21  1  0.68827364  0.30510141  0.30510198  1
+  O  O22  1  0.69489866  -0.00000000  0.38317230  1

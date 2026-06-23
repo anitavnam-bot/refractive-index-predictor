@@ -1,0 +1,45 @@
+# generated using pymatgen
+data_Ce2Al2Co15
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.30656317
+_cell_length_b   6.30656346
+_cell_length_c   6.30656353
+_cell_angle_alpha   82.43908631
+_cell_angle_beta   82.43908859
+_cell_angle_gamma   82.43908067
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ce2Al2Co15
+_chemical_formula_sum   'Ce2 Al2 Co15'
+_cell_volume   244.81457237
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ce  Ce0  1  0.64562789  0.64562806  0.64562767  1
+  Ce  Ce1  1  0.35437276  0.35437286  0.35437265  1
+  Al  Al2  1  0.10571925  0.10571928  0.10571922  1
+  Al  Al3  1  0.89428140  0.89428164  0.89428110  1
+  Co  Co4  1  0.35137056  0.35137055  0.85323298  1
+  Co  Co5  1  0.00000020  0.00000010  0.49999961  1
+  Co  Co6  1  0.50000005  0.00000009  0.00000029  1
+  Co  Co7  1  0.00000007  0.50000027  0.00000026  1
+  Co  Co8  1  0.28709531  0.71290526  0.00000054  1
+  Co  Co9  1  0.71290501  0.00000019  0.28709537  1
+  Co  Co10  1  0.71290493  0.28709547  0.00000057  1
+  Co  Co11  1  0.85323354  0.35137054  0.35137053  1
+  Co  Co12  1  0.28709550  0.00000019  0.71290442  1
+  Co  Co13  1  0.64863022  0.14676706  0.64862982  1
+  Co  Co14  1  0.64863009  0.64863037  0.14676734  1
+  Co  Co15  1  0.14676711  0.64863038  0.64862979  1
+  Co  Co16  1  0.35137043  0.85323386  0.35137051  1
+  Co  Co17  1  0.00000033  0.28709547  0.71290441  1
+  Co  Co18  1  0.00000022  0.71290526  0.28709533  1

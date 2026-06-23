@@ -1,0 +1,34 @@
+# generated using pymatgen
+data_NaBiS2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.12259004
+_cell_length_b   10.78469544
+_cell_length_c   7.10114170
+_cell_angle_alpha   29.09069714
+_cell_angle_beta   55.11163339
+_cell_angle_gamma   41.13109856
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NaBiS2
+_chemical_formula_sum   'Na2 Bi2 S4'
+_cell_volume   191.57590738
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.00049944  0.99915575  0.99875158  1
+  Na  Na1  1  0.75039643  0.49911053  0.99879380  1
+  Bi  Bi2  1  0.23733419  0.49910812  -0.00120032  1
+  Bi  Bi3  1  0.48735467  0.99913504  -0.00121162  1
+  S  S4  1  0.02228523  0.48496843  0.50083111  1
+  S  S5  1  0.49596399  0.51340453  0.49658868  1
+  S  S6  1  0.25802536  0.01333907  0.47247312  1
+  S  S7  1  0.76015889  0.98487107  0.52511415  1

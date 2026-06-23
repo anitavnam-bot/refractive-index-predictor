@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_Tm3Si3Ni
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.49779903
+_cell_length_b   5.49779903
+_cell_length_c   13.37197225
+_cell_angle_alpha   71.15215370
+_cell_angle_beta   71.15215370
+_cell_angle_gamma   44.29877316
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Tm3Si3Ni
+_chemical_formula_sum   'Tm6 Si6 Ni2'
+_cell_volume   264.55080316
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tm  Tm0  1  0.46880333  0.46880334  0.38046679  1
+  Tm  Tm1  1  0.53119657  0.53119683  0.61953242  1
+  Tm  Tm2  1  0.60113860  0.60113807  0.07875626  1
+  Tm  Tm3  1  0.39886130  0.39886210  0.92124295  1
+  Tm  Tm4  1  0.25217031  0.25217034  0.22748382  1
+  Tm  Tm5  1  0.74782959  0.74782982  0.77251539  1
+  Si  Si6  1  0.95499119  0.95499050  0.23588831  1
+  Si  Si7  1  0.04500871  0.04500967  0.76411090  1
+  Si  Si8  1  0.88328933  0.88328850  0.07584530  1
+  Si  Si9  1  0.11671057  0.11671167  0.92415391  1
+  Si  Si10  1  0.86318344  0.86318324  0.54324386  1
+  Si  Si11  1  0.13681646  0.13681692  0.45675535  1
+  Ni  Ni12  1  0.75116669  0.75116643  0.40035759  1
+  Ni  Ni13  1  0.24883320  0.24883374  0.59964162  1

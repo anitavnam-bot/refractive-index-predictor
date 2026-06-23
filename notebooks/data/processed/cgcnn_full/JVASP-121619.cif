@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_FeSiMo
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.80647079
+_cell_length_b   4.80647151
+_cell_length_c   7.49771570
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   119.75019463
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   FeSiMo
+_chemical_formula_sum   'Fe4 Si4 Mo4'
+_cell_volume   150.38343272
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Fe  Fe0  1  0.99891344  0.00108716  0.25666806  1
+  Fe  Fe1  1  0.99891344  0.00108716  0.74333252  1
+  Fe  Fe2  1  0.83089199  0.65250791  0.00000000  1
+  Fe  Fe3  1  0.34749162  0.16910748  0.00000000  1
+  Si  Si4  1  0.83506746  0.16493270  0.00000000  1
+  Si  Si5  1  0.16629601  0.33935100  0.50000029  1
+  Si  Si6  1  0.66064800  0.83370305  0.50000029  1
+  Si  Si7  1  0.16623112  0.83376726  0.50000029  1
+  Mo  Mo8  1  0.33213741  0.66786141  0.18854161  1
+  Mo  Mo9  1  0.66569638  0.33430332  0.32014327  1
+  Mo  Mo10  1  0.66569638  0.33430332  0.67985731  1
+  Mo  Mo11  1  0.33213741  0.66786141  0.81145896  1

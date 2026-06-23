@@ -1,0 +1,32 @@
+# generated using pymatgen
+data_SnSbPt
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.98113424
+_cell_length_b   5.50409161
+_cell_length_c   6.70541471
+_cell_angle_alpha   88.44243025
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   SnSbPt
+_chemical_formula_sum   'Sn2 Sb2 Pt2'
+_cell_volume   146.87829588
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sn  Sn0  1  -0.00000000  0.78997716  0.63739178  1
+  Sn  Sn1  1  -0.00000000  0.21002244  0.36260727  1
+  Sb  Sb2  1  0.49999947  0.29401789  0.86634212  1
+  Sb  Sb3  1  0.49999947  0.70598171  0.13365692  1
+  Pt  Pt4  1  0.49999947  0.49999980  0.49999952  1
+  Pt  Pt5  1  0.00000000  0.00000000  0.00000000  1

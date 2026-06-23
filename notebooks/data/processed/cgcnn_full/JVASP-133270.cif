@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_Hf2Co
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.46418301
+_cell_length_b   8.46418326
+_cell_length_c   8.46418329
+_cell_angle_alpha   59.99999989
+_cell_angle_beta   59.99999890
+_cell_angle_gamma   59.99999803
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Hf2Co
+_chemical_formula_sum   'Hf16 Co8'
+_cell_volume   428.78556206
+_cell_formula_units_Z   8
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Hf  Hf0  1  0.12499999  0.62500031  0.62499946  1
+  Hf  Hf1  1  0.43732357  0.06267661  0.06267636  1
+  Hf  Hf2  1  0.06267656  0.43732364  0.43732306  1
+  Hf  Hf3  1  0.06267656  0.43732364  0.06267635  1
+  Hf  Hf4  1  0.43732357  0.06267661  0.43732307  1
+  Hf  Hf5  1  0.43732354  0.43732364  0.06267622  1
+  Hf  Hf6  1  0.81267684  0.18732352  0.18732298  1
+  Hf  Hf7  1  0.18732342  0.81267697  0.81267587  1
+  Hf  Hf8  1  0.06267659  0.06267661  0.43732321  1
+  Hf  Hf9  1  0.81267684  0.18732352  0.81267588  1
+  Hf  Hf10  1  0.18732347  0.18732352  0.81267612  1
+  Hf  Hf11  1  0.81267679  0.81267697  0.18732273  1
+  Hf  Hf12  1  0.62500016  0.62500031  0.62499928  1
+  Hf  Hf13  1  0.62500016  0.62500031  0.12499947  1
+  Hf  Hf14  1  0.62500021  0.12500006  0.62499948  1
+  Hf  Hf15  1  0.18732342  0.81267697  0.18732296  1
+  Co  Co16  1  0.84782565  0.84782584  0.45652389  1
+  Co  Co17  1  0.79347553  0.40217477  0.40217396  1
+  Co  Co18  1  0.40217464  0.79347567  0.40217395  1
+  Co  Co19  1  0.40217468  0.40217477  0.79347467  1
+  Co  Co20  1  0.40217468  0.40217477  0.40217411  1
+  Co  Co21  1  0.45652480  0.84782584  0.84782460  1
+  Co  Co22  1  0.84782568  0.45652494  0.84782460  1
+  Co  Co23  1  0.84782565  0.84782584  0.84782445  1

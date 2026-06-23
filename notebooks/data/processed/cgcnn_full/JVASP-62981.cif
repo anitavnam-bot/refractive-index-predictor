@@ -1,0 +1,32 @@
+# generated using pymatgen
+data_ThB2Pt2C
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.09933164
+_cell_length_b   6.09933164
+_cell_length_c   6.09933164
+_cell_angle_alpha   143.16466443
+_cell_angle_beta   143.16466443
+_cell_angle_gamma   53.07826250
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ThB2Pt2C
+_chemical_formula_sum   'Th1 B2 Pt2 C1'
+_cell_volume   81.05197177
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Th  Th0  1  0.00000000  0.00000000  0.00000000  1
+  B  B1  1  0.63596027  0.63596027  0.00000000  1
+  B  B2  1  0.36403946  0.36403946  0.00000000  1
+  Pt  Pt3  1  0.24999993  0.74999923  0.49999930  1
+  Pt  Pt4  1  0.74999923  0.24999993  0.49999930  1
+  C  C5  1  0.49999986  0.49999986  0.00000000  1

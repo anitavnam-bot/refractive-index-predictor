@@ -1,0 +1,41 @@
+# generated using pymatgen
+data_Na2Hf(HO)6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.84462818
+_cell_length_b   5.84462999
+_cell_length_c   5.84452944
+_cell_angle_alpha   61.45043929
+_cell_angle_beta   61.44907827
+_cell_angle_gamma   61.45105766
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Na2Hf(HO)6
+_chemical_formula_sum   'Na2 Hf1 H6 O6'
+_cell_volume   145.76915054
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.16802759  0.16801794  0.16803008  1
+  Na  Na1  1  0.83197233  0.83198374  0.83196997  1
+  Hf  Hf2  1  0.49999996  0.50000084  0.50000003  1
+  H  H3  1  0.07748519  0.64699773  0.32502355  1
+  H  H4  1  0.64697949  0.32504055  0.07748264  1
+  H  H5  1  0.32503233  0.07749035  0.64696732  1
+  H  H6  1  0.92251473  0.35300395  0.67497650  1
+  H  H7  1  0.35302043  0.67496113  0.92251742  1
+  H  H8  1  0.67496759  0.92251134  0.35303273  1
+  O  O9  1  0.12818755  0.71264646  0.41421118  1
+  O  O10  1  0.71265113  0.41422464  0.12816422  1
+  O  O11  1  0.41420605  0.12819049  0.71263326  1
+  O  O12  1  0.87181237  0.28735523  0.58578887  1
+  O  O13  1  0.28734879  0.58577704  0.87183583  1
+  O  O14  1  0.58579387  0.87181119  0.28736679  1

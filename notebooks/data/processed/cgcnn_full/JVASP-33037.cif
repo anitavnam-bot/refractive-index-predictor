@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_HgN3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.59060727
+_cell_length_b   6.04802210
+_cell_length_c   12.66923209
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   103.78648869
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   HgN3
+_chemical_formula_sum   'Hg4 N12'
+_cell_volume   267.19971759
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Hg  Hg0  1  0.89351918  0.79682857  0.53908914  1
+  Hg  Hg1  1  0.39351920  0.29682905  0.96091061  1
+  Hg  Hg2  1  0.10648079  0.20317046  0.46091069  1
+  Hg  Hg3  1  0.60648077  0.70316998  0.03908922  1
+  N  N4  1  0.69640963  0.44871824  0.60171974  1
+  N  N5  1  0.20606134  0.59206525  0.31042050  1
+  N  N6  1  0.80358945  0.05128075  0.10171983  1
+  N  N7  1  0.61720136  0.14178908  0.27280933  1
+  N  N8  1  0.88279772  0.35820991  0.77280925  1
+  N  N9  1  0.11720225  0.64178912  0.22719058  1
+  N  N10  1  0.29393952  0.90793382  0.81042042  1
+  N  N11  1  0.70606045  0.09206521  0.18957942  1
+  N  N12  1  0.30359034  0.55128079  0.39828009  1
+  N  N13  1  0.38279861  0.85820995  0.72719050  1
+  N  N14  1  0.79393863  0.40793378  0.68957934  1
+  N  N15  1  0.19641052  0.94871828  0.89828001  1

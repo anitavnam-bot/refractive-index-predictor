@@ -1,0 +1,34 @@
+# generated using pymatgen
+data_ZnCu2SiSe4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.79955076
+_cell_length_b   6.79955078
+_cell_length_c   6.79955084
+_cell_angle_alpha   131.25241305
+_cell_angle_beta   131.25241318
+_cell_angle_gamma   71.41235087
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ZnCu2SiSe4
+_chemical_formula_sum   'Zn1 Cu2 Si1 Se4'
+_cell_volume   173.90460512
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Zn  Zn0  1  0.74999966  0.24999974  0.49999915  1
+  Cu  Cu1  1  0.00000000  0.00000000  0.00000000  1
+  Cu  Cu2  1  0.24999981  0.74999960  0.49999915  1
+  Si  Si3  1  0.49999956  0.49999948  -0.00000085  1
+  Se  Se4  1  0.14196467  0.13401219  0.51787946  1
+  Se  Se5  1  0.61613207  0.62408445  0.48211925  1
+  Se  Se6  1  0.86598725  0.38386698  0.00795141  1
+  Se  Se7  1  0.37591495  0.85803505  0.99204647  1

@@ -1,0 +1,41 @@
+# generated using pymatgen
+data_Sr4CaFe2(SO3)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.89131085
+_cell_length_b   3.89147280
+_cell_length_c   16.77202001
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sr4CaFe2(SO3)2
+_chemical_formula_sum   'Sr4 Ca1 Fe2 S2 O6'
+_cell_volume   253.97753022
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sr  Sr0  1  0.00000000  0.49999964  0.20378450  1
+  Sr  Sr1  1  0.49999989  0.00000000  0.79621612  1
+  Sr  Sr2  1  0.00000000  0.49999964  0.41738976  1
+  Sr  Sr3  1  0.49999989  0.00000000  0.58260887  1
+  Ca  Ca4  1  0.49999989  0.49999964  0.00000227  1
+  Fe  Fe5  1  0.49999989  0.00000000  0.31951866  1
+  Fe  Fe6  1  0.00000000  0.49999964  0.68047997  1
+  S  S7  1  0.49999989  0.00000000  0.11193625  1
+  S  S8  1  0.00000000  0.49999964  0.88806741  1
+  O  O9  1  0.00000000  0.00000000  0.30236978  1
+  O  O10  1  0.49999989  0.49999964  0.30206513  1
+  O  O11  1  0.49999989  0.49999964  0.69793618  1
+  O  O12  1  0.00000000  0.00000000  0.69762823  1
+  O  O13  1  0.49999989  0.00000000  0.43511268  1
+  O  O14  1  0.00000000  0.49999964  0.56488620  1

@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_KNa2GaF6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.13273401
+_cell_length_b   6.13273395
+_cell_length_c   6.13273465
+_cell_angle_alpha   60.00000144
+_cell_angle_beta   60.00000179
+_cell_angle_gamma   59.99999781
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   KNa2GaF6
+_chemical_formula_sum   'K1 Na2 Ga1 F6'
+_cell_volume   163.09754840
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.49999971  0.50000037  0.50000009  1
+  Na  Na1  1  0.24999986  0.25000019  0.25000005  1
+  Na  Na2  1  0.74999957  0.75000056  0.75000014  1
+  Ga  Ga3  1  0.00000000  0.00000000  0.00000000  1
+  F  F4  1  0.22003420  0.22003449  0.77996529  1
+  F  F5  1  0.22003425  0.77996626  0.77996534  1
+  F  F6  1  0.77996523  0.77996626  0.22003489  1
+  F  F7  1  0.22003425  0.77996626  0.22003442  1
+  F  F8  1  0.77996517  0.22003449  0.77996577  1
+  F  F9  1  0.77996517  0.22003449  0.22003484  1

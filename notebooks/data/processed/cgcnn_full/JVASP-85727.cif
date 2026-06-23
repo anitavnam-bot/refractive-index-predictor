@@ -1,0 +1,39 @@
+# generated using pymatgen
+data_Tb(GaFe)6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.02855881
+_cell_length_b   6.54643346
+_cell_length_c   6.54633403
+_cell_angle_alpha   80.36140502
+_cell_angle_beta   67.40575874
+_cell_angle_gamma   67.40578520
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Tb(GaFe)6
+_chemical_formula_sum   'Tb1 Ga6 Fe6'
+_cell_volume   183.63971983
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tb  Tb0  1  0.00244856  0.99695011  0.00024298  1
+  Ga  Ga1  1  0.68492826  0.81446823  0.81777714  1
+  Ga  Ga2  1  0.34656350  0.65297943  0.65629006  1
+  Ga  Ga3  1  0.65837904  0.34088869  0.34421344  1
+  Ga  Ga4  1  0.00248821  0.33097185  0.66623178  1
+  Ga  Ga5  1  0.31996855  0.17941363  0.18273784  1
+  Ga  Ga6  1  0.00248976  0.66292676  0.33425555  1
+  Fe  Fe7  1  0.50247893  0.75287179  0.24431796  1
+  Fe  Fe8  1  0.50247710  0.24100917  0.75619431  1
+  Fe  Fe9  1  0.50247233  0.99694539  0.50025216  1
+  Fe  Fe10  1  0.50247220  0.49693918  0.00025135  1
+  Fe  Fe11  1  0.00247440  0.99694303  0.50025783  1
+  Fe  Fe12  1  0.00245842  0.49694467  0.00025110  1

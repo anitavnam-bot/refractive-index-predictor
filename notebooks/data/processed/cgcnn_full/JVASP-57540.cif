@@ -1,0 +1,52 @@
+# generated using pymatgen
+data_K3Na2LiTeO6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.81167636
+_cell_length_b   7.57336911
+_cell_length_c   7.57336894
+_cell_angle_alpha   104.27639331
+_cell_angle_beta   92.26016251
+_cell_angle_gamma   92.26016371
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   K3Na2LiTeO6
+_chemical_formula_sum   'K6 Na4 Li2 Te2 O12'
+_cell_volume   377.84201622
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.77695078  0.37225448  0.40465078  1
+  K  K1  1  0.43567264  0.01108242  0.10912045  1
+  K  K2  1  0.24409109  0.78272537  0.70135163  1
+  K  K3  1  0.27695085  0.40465011  0.37225510  1
+  K  K4  1  0.93567258  0.10911976  0.01108312  1
+  K  K5  1  0.74409102  0.70135094  0.78272613  1
+  Na  Na6  1  0.89573370  0.07131884  0.61302836  1
+  Na  Na7  1  0.39573379  0.61302752  0.07131950  1
+  Na  Na8  1  0.59272991  0.85773349  0.43195302  1
+  Na  Na9  1  0.09272996  0.43195250  0.85773406  1
+  Li  Li10  1  0.24642897  0.03362883  0.47189820  1
+  Li  Li11  1  0.74642893  0.47189760  0.03362937  1
+  Te  Te12  1  0.49745557  0.24298863  0.75811790  1
+  Te  Te13  1  -0.00254434  0.75811741  0.24298896  1
+  O  O14  1  0.50972479  0.32441219  0.03194134  1
+  O  O15  1  0.59898363  0.00548729  0.76830413  1
+  O  O16  1  0.89980469  0.74424285  0.48182680  1
+  O  O17  1  0.22135951  0.14171461  0.74314594  1
+  O  O18  1  0.09898373  0.76830355  0.00548764  1
+  O  O19  1  0.72135947  0.74314528  0.14171517  1
+  O  O20  1  0.00972484  0.03194104  0.32441251  1
+  O  O21  1  0.49597217  0.16155277  0.48650139  1
+  O  O22  1  0.99597212  0.48650054  0.16155359  1
+  O  O23  1  0.27289335  0.76994213  0.34588159  1
+  O  O24  1  0.39980475  0.48182597  0.74424370  1
+  O  O25  1  0.77289327  0.34588097  0.76994290  1

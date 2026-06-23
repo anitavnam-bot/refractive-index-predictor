@@ -1,0 +1,34 @@
+# generated using pymatgen
+data_ZnCu2SnSeS3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.53383753
+_cell_length_b   5.52597993
+_cell_length_c   6.78292354
+_cell_angle_alpha   114.14159733
+_cell_angle_beta   114.23678613
+_cell_angle_gamma   89.86066953
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ZnCu2SnSeS3
+_chemical_formula_sum   'Zn1 Cu2 Sn1 Se1 S3'
+_cell_volume   169.14896286
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Zn  Zn0  1  0.24591394  0.76363499  0.50480280  1
+  Cu  Cu1  1  0.97750487  0.98076707  0.98389282  1
+  Cu  Cu2  1  0.77339300  0.24613675  0.51414110  1
+  Sn  Sn3  1  0.50369374  0.50627160  0.99853565  1
+  Se  Se4  1  0.36972101  0.35871164  0.26128802  1
+  S  S5  1  0.88871801  0.89830655  0.25742739  1
+  S  S6  1  0.10699515  0.63124325  0.74013975  1
+  S  S7  1  0.63406862  0.11492130  0.73976682  1

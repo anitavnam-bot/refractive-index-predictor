@@ -1,0 +1,30 @@
+# generated using pymatgen
+data_Er2ZnAg
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.02009220
+_cell_length_b   5.02009215
+_cell_length_c   5.02009249
+_cell_angle_alpha   60.00000421
+_cell_angle_beta   60.00000452
+_cell_angle_gamma   60.00000642
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Er2ZnAg
+_chemical_formula_sum   'Er2 Zn1 Ag1'
+_cell_volume   89.45819956
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Er  Er0  1  0.75000109  0.75000030  0.75000020  1
+  Er  Er1  1  0.25000036  0.25000010  0.25000007  1
+  Zn  Zn2  1  0.00000000  0.00000000  0.00000000  1
+  Ag  Ag3  1  0.50000073  0.50000020  0.50000014  1

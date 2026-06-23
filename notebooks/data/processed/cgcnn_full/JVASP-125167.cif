@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_TiB11
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.30944763
+_cell_length_b   5.63629484
+_cell_length_c   5.30944741
+_cell_angle_alpha   51.82236558
+_cell_angle_beta   55.44534359
+_cell_angle_gamma   51.82236305
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TiB11
+_chemical_formula_sum   'Ti1 B11'
+_cell_volume   93.67481538
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ti  Ti0  1  0.09778510  0.48072321  0.09778493  1
+  B  B1  1  0.00332110  0.03391228  0.64531825  1
+  B  B2  1  0.64531892  0.03391222  0.00332107  1
+  B  B3  1  0.34666751  0.99832073  -0.00904786  1
+  B  B4  1  0.94848461  0.33606175  0.94848355  1
+  B  B5  1  -0.00904770  0.99832076  0.34666700  1
+  B  B6  1  0.24030164  0.65730537  0.24030128  1
+  B  B7  1  0.21432298  0.22684154  0.61267559  1
+  B  B8  1  0.61267626  0.22684151  0.21432270  1
+  B  B9  1  0.37560379  0.80173392  0.78541055  1
+  B  B10  1  0.73915262  0.40429174  0.73915177  1
+  B  B11  1  0.78541149  0.80173389  0.37560325  1

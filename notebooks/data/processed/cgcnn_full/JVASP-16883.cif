@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_Zr6Sb2Pt
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.85571651
+_cell_length_b   7.85571651
+_cell_length_c   3.72601711
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00000051
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Zr6Sb2Pt
+_chemical_formula_sum   'Zr6 Sb2 Pt1'
+_cell_volume   199.13476183
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Zr  Zr0  1  0.00000009  0.40589620  0.00000000  1
+  Zr  Zr1  1  0.59410416  0.59410416  0.00000000  1
+  Zr  Zr2  1  0.40589620  0.00000009  0.00000000  1
+  Zr  Zr3  1  0.00000017  0.74838161  0.50000039  1
+  Zr  Zr4  1  0.25161867  0.25161867  0.50000039  1
+  Zr  Zr5  1  0.74838161  0.00000017  0.50000039  1
+  Sb  Sb6  1  0.66666722  0.33333323  0.50000039  1
+  Sb  Sb7  1  0.33333323  0.66666722  0.50000039  1
+  Pt  Pt8  1  0.00000000  0.00000000  0.00000000  1

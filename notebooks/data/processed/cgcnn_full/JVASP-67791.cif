@@ -1,0 +1,29 @@
+# generated using pymatgen
+data_MnBeV
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.71189517
+_cell_length_b   5.71189517
+_cell_length_c   5.71189517
+_cell_angle_alpha   155.14535780
+_cell_angle_beta   155.14535780
+_cell_angle_gamma   35.43694685
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   MnBeV
+_chemical_formula_sum   'Mn1 Be1 V1'
+_cell_volume   32.88389318
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mn  Mn0  1  0.34918968  0.34918968  -0.00000000  1
+  Be  Be1  1  0.99352019  0.99352019  -0.00000000  1
+  V  V2  1  0.65728828  0.65728828  0.00000000  1

@@ -1,0 +1,33 @@
+# generated using pymatgen
+data_Cu(Te2Rh)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.85070948
+_cell_length_b   6.85070948
+_cell_length_c   7.08778353
+_cell_angle_alpha   121.26410462
+_cell_angle_beta   121.26410462
+_cell_angle_gamma   34.86162507
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Cu(Te2Rh)2
+_chemical_formula_sum   'Cu1 Te4 Rh2'
+_cell_volume   159.54735322
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cu  Cu0  1  -0.00000005  -0.00000005  0.00003171  1
+  Te  Te1  1  0.37149182  0.37149182  0.04742732  1
+  Te  Te2  1  0.13163354  0.13163354  0.47417961  1
+  Te  Te3  1  0.86836446  0.86836446  0.52590401  1
+  Te  Te4  1  0.62850964  0.62850964  0.95266414  1
+  Rh  Rh5  1  0.24681262  0.24681262  0.25109809  1
+  Rh  Rh6  1  0.75318681  0.75318681  0.74899517  1

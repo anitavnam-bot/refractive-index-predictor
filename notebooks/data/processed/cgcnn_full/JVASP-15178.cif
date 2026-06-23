@@ -1,0 +1,34 @@
+# generated using pymatgen
+data_PrFeSi2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.03843539
+_cell_length_b   4.13625315
+_cell_length_c   8.80063827
+_cell_angle_alpha   103.59147332
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   PrFeSi2
+_chemical_formula_sum   'Pr2 Fe2 Si4'
+_cell_volume   142.88903100
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Pr  Pr0  1  0.25000029  0.89305105  0.78610128  1
+  Pr  Pr1  1  0.75000086  0.10694925  0.21389821  1
+  Fe  Fe2  1  0.75000086  0.74961725  0.49923507  1
+  Fe  Fe3  1  0.25000029  0.25038306  0.50076442  1
+  Si  Si4  1  0.25000029  0.69010070  0.38020115  1
+  Si  Si5  1  0.75000086  0.30989960  0.61979834  1
+  Si  Si6  1  0.75000086  0.46154507  0.92308885  1
+  Si  Si7  1  0.25000029  0.53845524  0.07691064  1

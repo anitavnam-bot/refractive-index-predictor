@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_Mn(CoN)3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.72164696
+_cell_length_b   5.94603424
+_cell_length_c   3.81833602
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   119.91779331
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Mn(CoN)3
+_chemical_formula_sum   'Mn2 Co6 N6'
+_cell_volume   132.27173231
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mn  Mn0  1  0.66622796  0.28286847  0.75000078  1
+  Mn  Mn1  1  0.33377366  0.71713264  0.25000026  1
+  Co  Co2  1  0.87883773  0.70345776  0.25000026  1
+  Co  Co3  1  0.82716463  0.11374965  0.25000026  1
+  Co  Co4  1  0.38167497  0.29782240  0.25000026  1
+  Co  Co5  1  0.12116389  0.29654334  0.75000078  1
+  Co  Co6  1  0.17283698  0.88625145  0.75000078  1
+  Co  Co7  1  0.61832665  0.70217870  0.75000078  1
+  N  N8  1  0.87219344  0.61349160  0.75000078  1
+  N  N9  1  0.78549116  0.07076456  0.75000078  1
+  N  N10  1  0.39517650  0.27340595  0.75000078  1
+  N  N11  1  0.12780817  0.38650950  0.25000026  1
+  N  N12  1  0.21451046  0.92923654  0.25000026  1
+  N  N13  1  0.60482512  0.72659516  0.25000026  1

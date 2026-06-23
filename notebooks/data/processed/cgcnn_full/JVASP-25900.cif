@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_Na2Zr(CuS2)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.73211914
+_cell_length_b   7.05159830
+_cell_length_c   7.11214417
+_cell_angle_alpha   111.60385348
+_cell_angle_beta   105.21112673
+_cell_angle_gamma   89.99999742
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Na2Zr(CuS2)2
+_chemical_formula_sum   'Na2 Zr1 Cu2 S4'
+_cell_volume   166.95142579
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.13720794  0.55961006  0.27441660  1
+  Na  Na1  1  0.86278990  0.44038868  0.72558242  1
+  Zr  Zr2  1  0.00000000  0.00000000  0.00000000  1
+  Cu  Cu3  1  0.67928682  0.98900642  0.35857538  1
+  Cu  Cu4  1  0.32071102  0.01099232  0.64142364  1
+  S  S5  1  0.20442184  0.20594895  0.40884572  1
+  S  S6  1  0.79557599  0.79404979  0.59115330  1
+  S  S7  1  0.50984050  0.74996785  0.01968189  1
+  S  S8  1  0.49015733  0.25003089  0.98031713  1

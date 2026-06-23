@@ -1,0 +1,34 @@
+# generated using pymatgen
+data_ZnCu2NiS4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.40990396
+_cell_length_b   6.40990396
+_cell_length_c   5.22208736
+_cell_angle_alpha   65.96182614
+_cell_angle_beta   65.96182614
+_cell_angle_gamma   48.07634772
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ZnCu2NiS4
+_chemical_formula_sum   'Zn1 Cu2 Ni1 S4'
+_cell_volume   142.88065962
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Zn  Zn0  1  0.00000000  0.00000000  0.00000000  1
+  Cu  Cu1  1  0.24999982  0.24999982  0.24999972  1
+  Cu  Cu2  1  0.74999947  0.74999947  0.74999916  1
+  Ni  Ni3  1  0.49999964  0.49999964  0.49999944  1
+  S  S4  1  0.86176275  0.38832458  0.13823633  1
+  S  S5  1  0.13823654  0.61167471  0.38832437  1
+  S  S6  1  0.38832458  0.86176275  0.61167451  1
+  S  S7  1  0.61167471  0.13823654  0.86176255  1

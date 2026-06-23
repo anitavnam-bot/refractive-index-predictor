@@ -1,0 +1,30 @@
+# generated using pymatgen
+data_KrCl3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.86406495
+_cell_length_b   3.77771045
+_cell_length_c   9.53498964
+_cell_angle_alpha   93.32568631
+_cell_angle_beta   83.48690446
+_cell_angle_gamma   120.75908781
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   KrCl3
+_chemical_formula_sum   'Kr1 Cl3'
+_cell_volume   118.83349518
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Kr  Kr0  1  0.74974658  0.99999933  0.37500288  1
+  Cl  Cl1  1  0.16672122  0.00000000  0.69210597  1
+  Cl  Cl2  1  0.75015048  0.00000002  0.87500425  1
+  Cl  Cl3  1  0.33338267  0.00000001  0.05788653  1

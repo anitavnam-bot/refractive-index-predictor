@@ -1,0 +1,30 @@
+# generated using pymatgen
+data_TiH3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.85478254
+_cell_length_b   3.42407723
+_cell_length_c   2.69215847
+_cell_angle_alpha   50.41466300
+_cell_angle_beta   90.00457706
+_cell_angle_gamma   89.99728322
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TiH3
+_chemical_formula_sum   'Ti1 H3'
+_cell_volume   27.38521024
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ti  Ti0  1  0.37501985  0.31141597  0.37750177  1
+  H  H1  1  0.87510410  0.23224756  0.53552791  1
+  H  H2  1  0.14024521  0.72799702  0.54385021  1
+  H  H3  1  -0.39036632  0.72833693  -0.45687705  1

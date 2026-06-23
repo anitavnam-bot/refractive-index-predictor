@@ -1,0 +1,39 @@
+# generated using pymatgen
+data_Ti4FeSe8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.84225601
+_cell_length_b   6.84225601
+_cell_length_c   8.43732744
+_cell_angle_alpha   54.16082197
+_cell_angle_beta   54.16082197
+_cell_angle_gamma   62.73494819
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ti4FeSe8
+_chemical_formula_sum   'Ti4 Fe1 Se8'
+_cell_volume   255.56284987
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ti  Ti0  1  0.73582053  0.26418039  0.49999895  1
+  Ti  Ti1  1  0.26417934  0.73582101  0.49999923  1
+  Ti  Ti2  1  0.74363211  0.74363337  0.00811187  1
+  Ti  Ti3  1  0.25636777  0.25636803  0.99188632  1
+  Fe  Fe4  1  0.00000000  0.00000000  0.00000000  1
+  Se  Se5  1  0.44796377  0.44796448  0.33210354  1
+  Se  Se6  1  0.55203610  0.55203693  0.66789465  1
+  Se  Se7  1  0.55357748  0.04811811  0.16786783  1
+  Se  Se8  1  0.44642240  0.95188329  0.83213035  1
+  Se  Se9  1  0.95188256  0.44642375  0.83213006  1
+  Se  Se10  1  0.04811731  0.55357765  0.16786813  1
+  Se  Se11  1  0.95866270  0.95866427  0.32901350  1
+  Se  Se12  1  0.04133718  0.04133713  0.67098469  1

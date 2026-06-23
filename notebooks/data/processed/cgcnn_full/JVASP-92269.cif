@@ -1,0 +1,31 @@
+# generated using pymatgen
+data_Ca2CoN2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.54505735
+_cell_length_b   5.01315594
+_cell_length_c   6.56056210
+_cell_angle_alpha   89.99999714
+_cell_angle_beta   105.67672125
+_cell_angle_gamma   134.99643930
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ca2CoN2
+_chemical_formula_sum   'Ca2 Co1 N2'
+_cell_volume   76.19288838
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ca  Ca0  1  0.69724640  0.34862341  0.19719677  1
+  Ca  Ca1  1  0.30275657  0.65137806  0.80280409  1
+  Co  Co2  1  0.00000093  0.00000020  0.50000043  1
+  N  N3  1  0.28983937  0.14491890  0.78988911  1
+  N  N4  1  0.71016360  0.85508258  0.21011175  1

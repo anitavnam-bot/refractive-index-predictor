@@ -1,0 +1,44 @@
+# generated using pymatgen
+data_Lu6Co2Sn
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.11995088
+_cell_length_b   8.11995070
+_cell_length_c   8.11995053
+_cell_angle_alpha   111.89439997
+_cell_angle_beta   109.77622733
+_cell_angle_gamma   106.78345441
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Lu6Co2Sn
+_chemical_formula_sum   'Lu12 Co4 Sn2'
+_cell_volume   411.30981111
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Lu  Lu0  1  0.44813739  0.23750188  0.21063440  1
+  Lu  Lu1  1  0.67508156  0.98668579  0.31160366  1
+  Lu  Lu2  1  0.32491806  0.01331431  0.68839574  1
+  Lu  Lu3  1  0.67508155  0.36347788  0.68839571  1
+  Lu  Lu4  1  0.81540833  0.28456059  0.09996818  1
+  Lu  Lu5  1  0.18459129  0.71543950  0.90003121  1
+  Lu  Lu6  1  0.32491807  0.63652222  0.31160369  1
+  Lu  Lu7  1  0.18459170  0.28456025  0.46915305  1
+  Lu  Lu8  1  0.97313296  0.76249856  0.21063436  1
+  Lu  Lu9  1  0.02686667  0.23750153  0.78936504  1
+  Lu  Lu10  1  0.55186223  0.76249821  0.78936499  1
+  Lu  Lu11  1  0.81540792  0.71543985  0.53084635  1
+  Co  Co12  1  0.34325565  -0.00000000  0.34325543  1
+  Co  Co13  1  0.65674432  -0.00000000  0.65674390  1
+  Co  Co14  1  0.11651988  0.61652026  0.49999976  1
+  Co  Co15  1  0.88347974  0.38347983  0.49999963  1
+  Sn  Sn16  1  0.50000011  0.50000022  -0.00000005  1
+  Sn  Sn17  1  0.00000000  0.00000000  0.00000000  1

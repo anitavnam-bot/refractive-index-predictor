@@ -1,0 +1,34 @@
+# generated using pymatgen
+data_SrCrO2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.28670448
+_cell_length_b   5.28668491
+_cell_length_c   5.28668694
+_cell_angle_alpha   95.66613598
+_cell_angle_beta   116.78442136
+_cell_angle_gamma   116.78438197
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   SrCrO2
+_chemical_formula_sum   'Sr2 Cr2 O4'
+_cell_volume   108.98217844
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sr  Sr0  1  0.49999909  0.24999900  0.74999983  1
+  Sr  Sr1  1  0.49999805  0.74999884  0.24999989  1
+  Cr  Cr2  1  0.00000284  0.50000155  0.50000271  1
+  Cr  Cr3  1  0.00000227  0.00000175  0.00000011  1
+  O  O4  1  0.00000335  0.25000232  0.75000227  1
+  O  O5  1  0.99999663  0.74999860  0.25000203  1
+  O  O6  1  0.49999512  0.74999855  0.74999583  1
+  O  O7  1  0.49999869  0.24999593  0.24999981  1

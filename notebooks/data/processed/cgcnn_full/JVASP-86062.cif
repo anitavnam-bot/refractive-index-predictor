@@ -1,0 +1,43 @@
+# generated using pymatgen
+data_KNiAu3(CN)6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.68714758
+_cell_length_b   6.68714783
+_cell_length_c   7.79291768
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00000313
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   KNiAu3(CN)6
+_chemical_formula_sum   'K1 Ni1 Au3 C6 N6'
+_cell_volume   301.79534639
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.66666746  0.33333301  0.50000015  1
+  Ni  Ni1  1  0.00000000  0.00000000  0.50000015  1
+  Au  Au2  1  0.49659434  0.50340619  0.00000000  1
+  Au  Au3  1  0.00681267  0.50340619  0.00000000  1
+  Au  Au4  1  0.49659467  0.99318771  0.00000000  1
+  C  C5  1  0.33804834  0.99273049  0.78454080  1
+  C  C6  1  0.00726979  0.34531714  0.78454080  1
+  C  C7  1  0.00727000  0.66195247  0.21545950  1
+  C  C8  1  0.33804791  0.34531714  0.21545950  1
+  C  C9  1  0.65468355  0.66195247  0.78454080  1
+  C  C10  1  0.65468377  0.99273049  0.21545950  1
+  N  N11  1  0.24224468  0.24593611  0.33991571  1
+  N  N12  1  0.75406467  0.75775561  0.66008459  1
+  N  N13  1  0.24224518  0.99630838  0.66008459  1
+  N  N14  1  0.75406483  0.99630837  0.33991571  1
+  N  N15  1  0.00369218  0.75775561  0.33991571  1
+  N  N16  1  0.00369184  0.24593612  0.66008459  1

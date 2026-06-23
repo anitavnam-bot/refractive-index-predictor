@@ -1,0 +1,30 @@
+# generated using pymatgen
+data_ZnHgTe2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.85096120
+_cell_length_b   7.85096120
+_cell_length_c   7.85096197
+_cell_angle_alpha   33.40195299
+_cell_angle_beta   33.40195299
+_cell_angle_gamma   33.40195453
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ZnHgTe2
+_chemical_formula_sum   'Zn1 Hg1 Te2'
+_cell_volume   130.59601230
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Zn  Zn0  1  0.49896860  0.49897042  0.49896863  1
+  Hg  Hg1  1  0.00215351  0.00215351  0.00215351  1
+  Te  Te2  1  0.12991706  0.12991754  0.12991707  1
+  Te  Te3  1  0.61895961  0.61896187  0.61895964  1

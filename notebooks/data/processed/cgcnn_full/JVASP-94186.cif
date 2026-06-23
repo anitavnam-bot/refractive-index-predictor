@@ -1,0 +1,34 @@
+# generated using pymatgen
+data_Mg6CuW
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.04228974
+_cell_length_b   6.04228842
+_cell_length_c   4.78912389
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.01146239
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Mg6CuW
+_chemical_formula_sum   'Mg6 Cu1 W1'
+_cell_volume   151.40475962
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mg  Mg0  1  0.17025337  0.85351144  0.24999980  1
+  Mg  Mg1  1  0.64648829  0.32974649  0.24999980  1
+  Mg  Mg2  1  0.66392198  0.83607784  0.24999980  1
+  Mg  Mg3  1  0.32474104  0.65582483  0.74999939  1
+  Mg  Mg4  1  0.84417534  0.17525927  0.74999939  1
+  Mg  Mg5  1  0.83272048  0.66727976  0.74999939  1
+  Cu  Cu6  1  0.18750553  0.31249432  0.24999980  1
+  W  W7  1  0.33019416  0.16980605  0.74999939  1

@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_KLaSiS4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.59989371
+_cell_length_b   6.58336639
+_cell_length_c   8.62022203
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   107.57206092
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   KLaSiS4
+_chemical_formula_sum   'K2 La2 Si2 S8'
+_cell_volume   357.06750007
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.72092762  0.25000014  0.93234976  1
+  K  K1  1  0.27907307  0.75000041  0.06765074  1
+  La  La2  1  0.76686895  0.25000014  0.44637644  1
+  La  La3  1  0.23313174  0.75000041  0.55362406  1
+  Si  Si4  1  0.21039706  0.25000014  0.30883024  1
+  Si  Si5  1  0.78960362  0.75000041  0.69117026  1
+  S  S6  1  0.00103453  0.49667083  0.73146495  1
+  S  S7  1  -0.00103460  0.99667110  0.26853483  1
+  S  S8  1  -0.00103460  0.50332972  0.26853483  1
+  S  S9  1  0.00103453  0.00332945  0.73146495  1
+  S  S10  1  0.40580982  0.25000014  0.15481950  1
+  S  S11  1  0.59419087  0.75000041  0.84518100  1
+  S  S12  1  0.39148147  0.25000014  0.56268653  1
+  S  S13  1  0.60851922  0.75000041  0.43731397  1

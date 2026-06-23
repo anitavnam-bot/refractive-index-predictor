@@ -1,0 +1,34 @@
+# generated using pymatgen
+data_Ca4GaSi3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.00048344
+_cell_length_b   4.48366434
+_cell_length_c   10.78036664
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ca4GaSi3
+_chemical_formula_sum   'Ca4 Ga1 Si3'
+_cell_volume   193.36554920
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ca  Ca0  1  0.00000000  0.00000000  0.36381074  1
+  Ca  Ca1  1  -0.00000000  0.49999952  0.85906118  1
+  Ca  Ca2  1  0.49999957  0.49999952  0.13945590  1
+  Ca  Ca3  1  0.49999957  0.00000000  0.63903909  1
+  Ga  Ga4  1  0.00000000  0.00000000  0.07101511  1
+  Si  Si5  1  -0.00000000  0.49999952  0.56911171  1
+  Si  Si6  1  0.49999957  0.49999952  0.43190052  1
+  Si  Si7  1  0.49999957  0.00000000  0.92660799  1

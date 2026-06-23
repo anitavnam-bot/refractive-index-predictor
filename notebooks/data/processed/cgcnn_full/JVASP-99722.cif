@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_Rb2GaHgF6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.30079096
+_cell_length_b   6.30079114
+_cell_length_c   6.30079041
+_cell_angle_alpha   60.00000382
+_cell_angle_beta   60.00000291
+_cell_angle_gamma   60.00000285
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Rb2GaHgF6
+_chemical_formula_sum   'Rb2 Ga1 Hg1 F6'
+_cell_volume   176.87653510
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Rb  Rb0  1  0.25000022  0.24999977  0.25000037  1
+  Rb  Rb1  1  0.75000065  0.74999932  0.75000111  1
+  Ga  Ga2  1  0.00000000  0.00000000  0.00000000  1
+  Hg  Hg3  1  0.50000043  0.49999955  0.50000074  1
+  F  F4  1  0.21616763  0.21616725  0.78383284  1
+  F  F5  1  0.21616762  0.78383185  0.78383353  1
+  F  F6  1  0.78383323  0.78383185  0.21616864  1
+  F  F7  1  0.21616762  0.78383185  0.21616846  1
+  F  F8  1  0.78383324  0.21616725  0.78383302  1
+  F  F9  1  0.78383324  0.21616725  0.21616794  1

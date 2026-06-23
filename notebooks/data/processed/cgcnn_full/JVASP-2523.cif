@@ -1,0 +1,32 @@
+# generated using pymatgen
+data_KAuS
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.99628795
+_cell_length_b   4.99628855
+_cell_length_c   6.74196316
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   102.38060880
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   KAuS
+_chemical_formula_sum   'K2 Au2 S2'
+_cell_volume   164.38511835
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.62560912  0.37439034  0.24999988  1
+  K  K1  1  0.37439066  0.62560869  0.74999965  1
+  Au  Au2  1  0.00000000  0.00000000  0.00000000  1
+  Au  Au3  1  0.00000000  0.00000000  0.49999977  1
+  S  S4  1  0.20746185  0.79253842  0.24999988  1
+  S  S5  1  0.79253892  0.20746162  0.74999965  1

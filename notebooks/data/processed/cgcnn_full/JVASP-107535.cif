@@ -1,0 +1,34 @@
+# generated using pymatgen
+data_Nd2Mn2CuSi3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.16978262
+_cell_length_b   9.16978262
+_cell_length_c   3.97209843
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   154.02986934
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Nd2Mn2CuSi3
+_chemical_formula_sum   'Nd2 Mn2 Cu1 Si3'
+_cell_volume   146.25662149
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Nd  Nd0  1  0.89978381  0.10021786  -0.00000000  1
+  Nd  Nd1  1  0.10228251  0.89771873  0.50000020  1
+  Mn  Mn2  1  0.25141288  0.74858844  -0.00000000  1
+  Mn  Mn3  1  0.75255163  0.24744996  0.50000020  1
+  Cu  Cu4  1  0.66827289  0.33172866  -0.00000000  1
+  Si  Si5  1  0.53738217  0.46261930  -0.00000000  1
+  Si  Si6  1  0.46371062  0.53629081  0.50000020  1
+  Si  Si7  1  0.32461070  0.67539066  0.50000020  1

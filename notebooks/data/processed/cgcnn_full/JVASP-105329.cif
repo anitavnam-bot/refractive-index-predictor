@@ -1,0 +1,34 @@
+# generated using pymatgen
+data_CeCu2Si
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.94982981
+_cell_length_b   8.94982981
+_cell_length_c   4.08435645
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   154.26285164
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CeCu2Si
+_chemical_formula_sum   'Ce2 Cu4 Si2'
+_cell_volume   142.06471775
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ce  Ce0  1  0.60915644  0.39084343  0.25000022  1
+  Ce  Ce1  1  0.39084305  0.60915617  0.75000065  1
+  Cu  Cu2  1  0.96278341  0.03721752  0.25000022  1
+  Cu  Cu3  1  0.03721608  0.96278208  0.75000065  1
+  Cu  Cu4  1  0.24927144  0.75072735  0.25000022  1
+  Cu  Cu5  1  0.75072804  0.24927225  0.75000065  1
+  Si  Si6  1  0.82595226  0.17404826  0.25000022  1
+  Si  Si7  1  0.17404722  0.82595134  0.75000065  1

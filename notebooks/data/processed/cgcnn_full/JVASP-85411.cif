@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_EuMoClO4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.34867708
+_cell_length_b   6.34867774
+_cell_length_c   6.91024968
+_cell_angle_alpha   76.18814909
+_cell_angle_beta   76.18814971
+_cell_angle_gamma   70.72294994
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   EuMoClO4
+_chemical_formula_sum   'Eu2 Mo2 Cl2 O8'
+_cell_volume   251.38926077
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Eu  Eu0  1  0.22185820  0.22185815  0.89009555  1
+  Eu  Eu1  1  0.77814118  0.77814120  0.10990419  1
+  Mo  Mo2  1  0.36255758  0.36255758  0.26942312  1
+  Mo  Mo3  1  0.63744179  0.63744177  0.73057661  1
+  Cl  Cl4  1  0.99028780  0.99028779  0.76081540  1
+  Cl  Cl5  1  0.00971157  0.00971156  0.23918433  1
+  O  O6  1  0.11462724  0.48960539  0.15250948  1
+  O  O7  1  0.46002743  0.46002740  0.79514921  1
+  O  O8  1  0.48960535  0.11462720  0.15250950  1
+  O  O9  1  0.29413539  0.29413537  0.53288278  1
+  O  O10  1  0.88537213  0.51039396  0.84749025  1
+  O  O11  1  0.51039402  0.88537215  0.84749023  1
+  O  O12  1  0.70586398  0.70586398  0.46711696  1
+  O  O13  1  0.53997194  0.53997195  0.20485052  1

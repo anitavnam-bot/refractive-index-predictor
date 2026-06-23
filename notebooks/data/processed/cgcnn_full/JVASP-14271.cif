@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_Yb2Ge2Ir
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.29980461
+_cell_length_b   5.80839671
+_cell_length_c   9.25662793
+_cell_angle_alpha   82.20543339
+_cell_angle_beta   76.57010338
+_cell_angle_gamma   68.27593782
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Yb2Ge2Ir
+_chemical_formula_sum   'Yb4 Ge4 Ir2'
+_cell_volume   208.57623841
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Yb  Yb0  1  0.81574280  0.25729638  0.11122004  1
+  Yb  Yb1  1  0.00194232  0.67006783  0.32604885  1
+  Yb  Yb2  1  0.18425935  0.74270451  0.88877947  1
+  Yb  Yb3  1  0.99805983  0.32993306  0.67395065  1
+  Ge  Ge4  1  0.48591022  0.14728473  0.88089839  1
+  Ge  Ge5  1  0.35258806  0.73361207  0.56121425  1
+  Ge  Ge6  1  0.51409193  0.85271616  0.11910111  1
+  Ge  Ge7  1  0.64741409  0.26638882  0.43878525  1
+  Ir  Ir8  1  0.72380453  0.91494991  0.63744451  1
+  Ir  Ir9  1  0.27619762  0.08505099  0.36255499  1

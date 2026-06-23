@@ -1,0 +1,30 @@
+# generated using pymatgen
+data_Ba3P
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.06771048
+_cell_length_b   8.06906457
+_cell_length_c   8.07084168
+_cell_angle_alpha   32.93888176
+_cell_angle_beta   121.38740693
+_cell_angle_gamma   132.96447019
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ba3P
+_chemical_formula_sum   'Ba3 P1'
+_cell_volume   207.32172010
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.11151136  -0.11438763  0.29886367  1
+  Ba  Ba1  1  0.76725919  0.88604913  0.64254050  1
+  Ba  Ba2  1  0.42309755  0.88528585  -0.01249465  1
+  P  P3  1  0.26723131  0.38529314  0.64327219  1

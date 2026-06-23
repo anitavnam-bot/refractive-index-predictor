@@ -1,0 +1,34 @@
+# generated using pymatgen
+data_NaMg6Fe
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.43327290
+_cell_length_b   10.51237347
+_cell_length_c   3.18478392
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   134.99978842
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NaMg6Fe
+_chemical_formula_sum   'Na1 Mg6 Fe1'
+_cell_volume   175.97356661
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.25022908  0.87511510  0.24999969  1
+  Mg  Mg1  1  0.74966415  0.37482398  0.24999969  1
+  Mg  Mg2  1  0.74966424  0.87484146  0.24999969  1
+  Mg  Mg3  1  0.24977642  0.16582537  0.74999908  1
+  Mg  Mg4  1  0.24976367  0.58394386  0.74999908  1
+  Mg  Mg5  1  0.83214780  0.16607084  0.74999908  1
+  Mg  Mg6  1  0.66837513  0.58419148  0.74999908  1
+  Fe  Fe7  1  0.25037659  0.37518765  0.24999969  1

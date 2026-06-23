@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_Rb2NaTiF6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.03028708
+_cell_length_b   6.03028746
+_cell_length_c   6.03028732
+_cell_angle_alpha   60.00000598
+_cell_angle_beta   60.00000393
+_cell_angle_gamma   60.00000164
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Rb2NaTiF6
+_chemical_formula_sum   'Rb2 Na1 Ti1 F6'
+_cell_volume   155.05973882
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Rb  Rb0  1  0.74999905  0.75000010  0.74999997  1
+  Rb  Rb1  1  0.24999968  0.25000003  0.24999999  1
+  Na  Na2  1  0.49999937  0.50000007  0.49999998  1
+  Ti  Ti3  1  0.00000000  0.00000000  0.00000000  1
+  F  F4  1  0.23333044  0.76666890  0.76666894  1
+  F  F5  1  0.23333044  0.76666890  0.23333111  1
+  F  F6  1  0.76666830  0.23333123  0.76666885  1
+  F  F7  1  0.23333090  0.23333123  0.76666903  1
+  F  F8  1  0.76666830  0.23333123  0.23333101  1
+  F  F9  1  0.76666783  0.76666891  0.23333093  1

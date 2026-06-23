@@ -1,0 +1,33 @@
+# generated using pymatgen
+data_Ag3BO3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.94618916
+_cell_length_b   5.94618951
+_cell_length_c   5.94618881
+_cell_angle_alpha   116.88426415
+_cell_angle_beta   116.88426141
+_cell_angle_gamma   116.88427684
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ag3BO3
+_chemical_formula_sum   'Ag3 B1 O3'
+_cell_volume   94.40929260
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ag  Ag0  1  0.51245990  0.00000093  0.48754315  1
+  Ag  Ag1  1  0.00000039  0.48754134  0.51245931  1
+  Ag  Ag2  1  0.48754207  0.51245835  0.00000080  1
+  B  B3  1  0.00000000  0.00000000  0.00000000  1
+  O  O4  1  -0.00000016  0.86377718  0.13622201  1
+  O  O5  1  0.86377947  0.13622251  0.00000150  1
+  O  O6  1  0.13622305  0.00000093  0.86377976  1

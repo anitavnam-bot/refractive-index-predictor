@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_CaAlAu
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.53199890
+_cell_length_b   7.29438359
+_cell_length_c   7.78260353
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CaAlAu
+_chemical_formula_sum   'Ca4 Al4 Au4'
+_cell_volume   257.27838499
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ca  Ca0  1  0.25000006  0.01541935  0.68282274  1
+  Ca  Ca1  1  0.25000006  0.51541910  0.81717658  1
+  Ca  Ca2  1  0.75000018  0.98458016  0.31717681  1
+  Ca  Ca3  1  0.75000018  0.48458041  0.18282296  1
+  Al  Al4  1  0.75000018  0.84309284  0.93073983  1
+  Al  Al5  1  0.25000006  0.15690667  0.06925971  1
+  Al  Al6  1  0.25000006  0.65690643  0.43074006  1
+  Al  Al7  1  0.75000018  0.34309308  0.56925949  1
+  Au  Au8  1  0.25000006  0.79113696  0.11159229  1
+  Au  Au9  1  0.75000018  0.20886255  0.88840725  1
+  Au  Au10  1  0.75000018  0.70886230  0.61159207  1
+  Au  Au11  1  0.25000006  0.29113721  0.38840748  1

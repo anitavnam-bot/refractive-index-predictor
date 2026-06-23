@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Yb2Pt
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.36240231
+_cell_length_b   7.44955467
+_cell_length_c   8.87282432
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Yb2Pt
+_chemical_formula_sum   'Yb8 Pt4'
+_cell_volume   288.34864103
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Yb  Yb0  1  0.24999987  0.85474039  0.93120119  1
+  Yb  Yb1  1  0.24999987  0.35474070  0.56879808  1
+  Yb  Yb2  1  0.74999960  0.14525899  0.06879832  1
+  Yb  Yb3  1  0.74999960  0.64525867  0.43120143  1
+  Yb  Yb4  1  0.24999987  0.97371241  0.33161523  1
+  Yb  Yb5  1  0.24999987  0.47371272  0.16838453  1
+  Yb  Yb6  1  0.74999960  0.02628697  0.66838429  1
+  Yb  Yb7  1  0.74999960  0.52628665  0.83161498  1
+  Pt  Pt8  1  0.24999987  0.24423436  0.87931193  1
+  Pt  Pt9  1  0.24999987  0.74423405  0.62068734  1
+  Pt  Pt10  1  0.74999960  0.75576501  0.12068758  1
+  Pt  Pt11  1  0.74999960  0.25576532  0.37931218  1

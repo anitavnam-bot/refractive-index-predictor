@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_Y3AlCoS7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.48936930
+_cell_length_b   9.48936930
+_cell_length_c   6.15309262
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   119.99999773
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Y3AlCoS7
+_chemical_formula_sum   'Y6 Al2 Co2 S14'
+_cell_volume   479.84258801
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Y  Y0  1  0.78287356  0.62511580  0.77489477  1
+  Y  Y1  1  0.84224043  0.21712531  0.77489477  1
+  Y  Y2  1  0.37488319  0.15775864  0.77489477  1
+  Y  Y3  1  0.21712543  0.37488318  0.27489498  1
+  Y  Y4  1  0.15775856  0.78287366  0.27489498  1
+  Y  Y5  1  0.62511580  0.84224034  0.27489498  1
+  Al  Al6  1  0.66666640  0.33333258  0.34736331  1
+  Al  Al7  1  0.33333260  0.66666640  0.84736309  1
+  Co  Co8  1  0.00000000  0.00000000  0.93593676  1
+  Co  Co9  1  0.00000000  0.00000000  0.43593697  1
+  S  S10  1  0.47787648  0.56443820  0.00007698  1
+  S  S11  1  0.43556070  0.91343739  0.00007698  1
+  S  S12  1  0.08656161  0.52212259  0.00007698  1
+  S  S13  1  0.52212252  0.43556077  0.50007677  1
+  S  S14  1  0.56443829  0.08656159  0.50007677  1
+  S  S15  1  0.91343738  0.47787639  0.50007677  1
+  S  S16  1  0.90175018  0.12734001  0.18093718  1
+  S  S17  1  0.09824881  0.87265897  0.68093696  1
+  S  S18  1  0.12734017  0.22558917  0.68093696  1
+  S  S19  1  0.22558918  0.09824893  0.18093718  1
+  S  S20  1  0.66666640  0.33333258  0.98496795  1
+  S  S21  1  0.87265882  0.77440980  0.18093718  1
+  S  S22  1  0.77440981  0.90175004  0.68093696  1
+  S  S23  1  0.33333260  0.66666640  0.48496816  1

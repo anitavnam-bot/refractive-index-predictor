@@ -1,0 +1,44 @@
+# generated using pymatgen
+data_MnSi2Pd3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.52452259
+_cell_length_b   6.54307180
+_cell_length_c   11.30324722
+_cell_angle_alpha   89.55195343
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   MnSi2Pd3
+_chemical_formula_sum   'Mn3 Si6 Pd9'
+_cell_volume   260.65852419
+_cell_formula_units_Z   3
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mn  Mn0  1  0.49999963  0.89627967  0.51289471  1
+  Mn  Mn1  1  0.49999963  0.40267507  0.99188861  1
+  Mn  Mn2  1  0.49999963  0.79071357  0.79960749  1
+  Si  Si3  1  0.49999963  0.99511383  0.00013424  1
+  Si  Si4  1  0.00000000  0.00522739  0.32559948  1
+  Si  Si5  1  0.49999963  0.48810839  0.50102757  1
+  Si  Si6  1  0.00000000  0.50985602  0.17236551  1
+  Si  Si7  1  0.00000000  0.99765167  0.67201401  1
+  Si  Si8  1  0.00000000  0.49437273  0.83073313  1
+  Pd  Pd9  1  0.00000000  0.12469921  0.87191903  1
+  Pd  Pd10  1  0.49999963  0.31626856  0.29970841  1
+  Pd  Pd11  1  0.49999963  0.29782456  0.69769487  1
+  Pd  Pd12  1  0.49999963  0.81043585  0.19801950  1
+  Pd  Pd13  1  0.00000000  0.72847434  0.99852361  1
+  Pd  Pd14  1  0.00000000  0.21764164  0.49612176  1
+  Pd  Pd15  1  0.00000000  0.63249287  0.62948801  1
+  Pd  Pd16  1  0.00000000  0.14790223  0.12691445  1
+  Pd  Pd17  1  0.00000000  0.64445732  0.37534234  1

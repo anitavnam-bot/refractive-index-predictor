@@ -1,0 +1,34 @@
+# generated using pymatgen
+data_ThNiGe2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.57732154
+_cell_length_b   8.57732154
+_cell_length_c   4.28726369
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   151.33337523
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ThNiGe2
+_chemical_formula_sum   'Th2 Ni2 Ge4'
+_cell_volume   151.30893936
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Th  Th0  1  0.60746749  0.39253402  0.74999935  1
+  Th  Th1  1  0.39253519  0.60746698  0.24999978  1
+  Ni  Ni2  1  0.81873983  0.18126203  0.74999935  1
+  Ni  Ni3  1  0.18126185  0.81873897  0.24999978  1
+  Ge  Ge4  1  0.95894112  0.04106097  0.74999935  1
+  Ge  Ge5  1  0.04106056  0.95894003  0.24999978  1
+  Ge  Ge6  1  0.25051001  0.74949093  0.74999935  1
+  Ge  Ge7  1  0.74949168  0.25051007  0.24999978  1

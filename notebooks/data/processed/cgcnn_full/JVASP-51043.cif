@@ -1,0 +1,31 @@
+# generated using pymatgen
+data_Mn3GaN
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.77484962
+_cell_length_b   3.77488707
+_cell_length_c   3.77497432
+_cell_angle_alpha   89.99954654
+_cell_angle_beta   90.00012543
+_cell_angle_gamma   89.99899131
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Mn3GaN
+_chemical_formula_sum   'Mn3 Ga1 N1'
+_cell_volume   53.79199108
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mn  Mn0  1  0.50000458  0.49998329  0.00000240  1
+  Mn  Mn1  1  0.49998178  -0.00000203  0.49999666  1
+  Mn  Mn2  1  0.00001545  0.50002359  0.49999670  1
+  Ga  Ga3  1  -0.00000838  0.00001260  0.99999814  1
+  N  N4  1  0.50000863  0.49998865  0.50000230  1

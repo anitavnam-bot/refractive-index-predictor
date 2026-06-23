@@ -1,0 +1,30 @@
+# generated using pymatgen
+data_AlTc2Sb
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   10.98053768
+_cell_length_b   6.08745305
+_cell_length_c   6.08745277
+_cell_angle_alpha   35.56089938
+_cell_angle_beta   25.59115947
+_cell_angle_gamma   25.59116057
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   AlTc2Sb
+_chemical_formula_sum   'Al1 Tc2 Sb1'
+_cell_volume   75.91977726
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Al  Al0  1  0.00000000  0.00000000  0.00000000  1
+  Tc  Tc1  1  0.74887694  0.00000028  -0.00000046  1
+  Tc  Tc2  1  0.25112367  0.00000009  -0.00000015  1
+  Sb  Sb3  1  0.50000030  0.00000019  -0.00000031  1

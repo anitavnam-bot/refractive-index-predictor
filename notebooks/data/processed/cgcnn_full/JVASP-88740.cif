@@ -1,0 +1,48 @@
+# generated using pymatgen
+data_Na6FeSe4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.28424120
+_cell_length_b   9.28424138
+_cell_length_c   7.15976442
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   119.99999936
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Na6FeSe4
+_chemical_formula_sum   'Na12 Fe2 Se8'
+_cell_volume   534.46861218
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.14721117  0.85278903  0.54168129  1
+  Na  Na1  1  0.47083256  0.52916751  0.86971532  1
+  Na  Na2  1  0.52916738  0.05833389  0.36971563  1
+  Na  Na3  1  0.47083262  0.94166624  0.86971532  1
+  Na  Na4  1  0.05833395  0.52916751  0.86971532  1
+  Na  Na5  1  0.52916744  0.47083262  0.36971563  1
+  Na  Na6  1  0.94166605  0.47083262  0.36971563  1
+  Na  Na7  1  0.70557786  0.85278903  0.54168129  1
+  Na  Na8  1  0.14721110  0.29442220  0.54168129  1
+  Na  Na9  1  0.85278890  0.70557793  0.04168160  1
+  Na  Na10  1  0.29442215  0.14721110  0.04168160  1
+  Na  Na11  1  0.85278883  0.14721110  0.04168160  1
+  Fe  Fe12  1  0.33333304  0.66666709  0.25293367  1
+  Fe  Fe13  1  0.66666696  0.33333304  0.75293336  1
+  Se  Se14  1  0.62534835  0.81267377  0.14419013  1
+  Se  Se15  1  0.33333304  0.66666709  0.59850268  1
+  Se  Se16  1  0.66666696  0.33333304  0.09850298  1
+  Se  Se17  1  0.18732642  0.81267377  0.14419013  1
+  Se  Se18  1  0.37465165  0.18732636  0.64418982  1
+  Se  Se19  1  0.81267364  0.62534841  0.64418982  1
+  Se  Se20  1  0.18732636  0.37465173  0.14419013  1
+  Se  Se21  1  0.81267358  0.18732636  0.64418982  1

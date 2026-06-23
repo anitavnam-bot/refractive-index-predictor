@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_NaFe(SiO3)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.26602724
+_cell_length_b   6.42290396
+_cell_length_c   6.42291311
+_cell_angle_alpha   84.20837195
+_cell_angle_beta   77.04000720
+_cell_angle_gamma   77.04006085
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NaFe(SiO3)2
+_chemical_formula_sum   'Na2 Fe2 Si4 O12'
+_cell_volume   206.02346852
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.24999839  0.70109748  0.29890228  1
+  Na  Na1  1  0.74999939  0.29890129  0.70109799  1
+  Fe  Fe2  1  0.25000029  0.08614984  0.91384955  1
+  Fe  Fe3  1  0.74999949  0.91384992  0.08615073  1
+  Si  Si4  1  0.27141892  0.19872347  0.38721079  1
+  Si  Si5  1  0.72858086  0.80127630  0.61278949  1
+  Si  Si6  1  0.77141766  0.38721058  0.19872508  1
+  Si  Si7  1  0.22858212  0.61279018  0.80127520  1
+  O  O8  1  0.13235056  0.80961151  0.96919758  1
+  O  O9  1  0.36764845  0.03080289  0.19038940  1
+  O  O10  1  0.49777984  0.34312690  0.36721732  1
+  O  O11  1  0.69355578  0.62665234  0.09600890  1
+  O  O12  1  0.80644094  0.90399189  0.37334932  1
+  O  O13  1  0.30644400  0.37334643  0.90399238  1
+  O  O14  1  0.19355684  0.09600787  0.62665096  1
+  O  O15  1  0.99777768  0.36721731  0.34312639  1
+  O  O16  1  0.50221993  0.65687487  0.63278296  1
+  O  O17  1  0.00222209  0.63278146  0.65687389  1
+  O  O18  1  0.86764721  0.19038826  0.03080369  1
+  O  O19  1  0.63235132  0.96919688  0.80961188  1

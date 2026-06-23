@@ -1,0 +1,34 @@
+# generated using pymatgen
+data_SrSiPt2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.09781335
+_cell_length_b   6.09781335
+_cell_length_c   7.09619421
+_cell_angle_alpha   90.00541246
+_cell_angle_beta   90.00541246
+_cell_angle_gamma   38.60501215
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   SrSiPt2
+_chemical_formula_sum   'Sr2 Si2 Pt4'
+_cell_volume   164.63497939
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sr  Sr0  1  0.05205401  0.05205401  0.24998832  1
+  Sr  Sr1  1  0.94803839  0.94803839  0.74998575  1
+  Si  Si2  1  0.77817831  0.77817831  0.24998173  1
+  Si  Si3  1  0.22193182  0.22193182  0.74999527  1
+  Pt  Pt4  1  0.32872055  0.32872055  0.05714329  1
+  Pt  Pt5  1  0.32868857  0.32868857  0.44278674  1
+  Pt  Pt6  1  0.67140998  0.67140998  0.55718645  1
+  Pt  Pt7  1  0.67137724  0.67137724  0.94282844  1

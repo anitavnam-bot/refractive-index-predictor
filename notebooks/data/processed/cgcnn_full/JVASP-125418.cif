@@ -1,0 +1,30 @@
+# generated using pymatgen
+data_H3O
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   2.77787242
+_cell_length_b   4.75649406
+_cell_length_c   3.38701704
+_cell_angle_alpha   49.36900232
+_cell_angle_beta   71.08349792
+_cell_angle_gamma   81.75787161
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   H3O
+_chemical_formula_sum   'H3 O1'
+_cell_volume   31.98579231
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  H  H0  1  0.88199370  0.47212301  0.09895034  1
+  H  H1  1  0.32800831  0.73945145  0.55437852  1
+  H  H2  1  -0.16172020  0.10170575  0.65132479  1
+  O  O3  1  -0.04827704  0.68671845  0.69533997  1

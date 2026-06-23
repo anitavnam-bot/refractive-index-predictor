@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_Rb2NaGaCl6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.18507569
+_cell_length_b   7.18507568
+_cell_length_c   7.18507559
+_cell_angle_alpha   60.00000043
+_cell_angle_beta   60.00000047
+_cell_angle_gamma   59.99999776
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Rb2NaGaCl6
+_chemical_formula_sum   'Rb2 Na1 Ga1 Cl6'
+_cell_volume   262.28836995
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Rb  Rb0  1  0.74999985  0.75000005  0.75000097  1
+  Rb  Rb1  1  0.24999995  0.25000002  0.25000032  1
+  Na  Na2  1  0.49999990  0.50000003  0.50000065  1
+  Ga  Ga3  1  0.00000000  0.00000000  0.00000000  1
+  Cl  Cl4  1  0.76524898  0.23475115  0.23475152  1
+  Cl  Cl5  1  0.23475108  0.23475115  0.76524950  1
+  Cl  Cl6  1  0.23475081  0.76524892  0.76524978  1
+  Cl  Cl7  1  0.23475081  0.76524892  0.23475172  1
+  Cl  Cl8  1  0.76524898  0.23475115  0.76524958  1
+  Cl  Cl9  1  0.76524871  0.76524892  0.23475180  1

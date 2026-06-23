@@ -1,0 +1,51 @@
+# generated using pymatgen
+data_Na14Ni2O9
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.60188636
+_cell_length_b   6.60214894
+_cell_length_c   9.27296037
+_cell_angle_alpha   90.00179307
+_cell_angle_beta   89.99852591
+_cell_angle_gamma   60.00036189
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Na14Ni2O9
+_chemical_formula_sum   'Na14 Ni2 O9'
+_cell_volume   350.02896185
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.96708825  0.67337214  0.09249746  1
+  Na  Na1  1  0.03293260  0.32662940  0.90750004  1
+  Na  Na2  1  0.06409114  0.62244431  0.59361944  1
+  Na  Na3  1  0.32653694  0.64049073  0.90752669  1
+  Na  Na4  1  0.64058985  0.03288775  0.90759524  1
+  Na  Na5  1  0.37768500  0.68646878  0.40636409  1
+  Na  Na6  1  0.62232876  0.31352863  0.59363669  1
+  Na  Na7  1  0.31345584  0.06413270  0.59359197  1
+  Na  Na8  1  0.67348555  0.35951183  0.09247449  1
+  Na  Na9  1  0.00004654  -0.00007962  0.25094721  1
+  Na  Na10  1  -0.00003132  0.00007781  0.74905330  1
+  Na  Na11  1  0.93592397  0.37755089  0.40638201  1
+  Na  Na12  1  0.68655882  0.93586314  0.40640806  1
+  Na  Na13  1  0.35942656  0.96711728  0.09240491  1
+  Ni  Ni14  1  0.66660801  0.66673933  0.73735892  1
+  Ni  Ni15  1  0.33340832  0.33326022  0.26264114  1
+  O  O16  1  0.33333356  0.33335385  0.04330156  1
+  O  O17  1  0.36176201  0.69609783  0.66307740  1
+  O  O18  1  0.63825348  0.30389860  0.33692229  1
+  O  O19  1  0.69598253  0.94222416  0.66310231  1
+  O  O20  1  0.66668725  0.66665003  0.95669815  1
+  O  O21  1  0.94213695  0.36188148  0.66308291  1
+  O  O22  1  0.05787748  0.63811435  0.33691698  1
+  O  O23  1  0.00000956  0.00000183  -0.00000004  1
+  O  O24  1  0.30403224  0.05777422  0.33689839  1

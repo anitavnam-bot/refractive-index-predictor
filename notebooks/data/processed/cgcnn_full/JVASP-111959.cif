@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_Fe3Co3(SbO8)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.66893428
+_cell_length_b   5.66893374
+_cell_length_c   9.17958646
+_cell_angle_alpha   90.01016747
+_cell_angle_beta   90.01016772
+_cell_angle_gamma   59.80969928
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Fe3Co3(SbO8)2
+_chemical_formula_sum   'Fe3 Co3 Sb2 O16'
+_cell_volume   254.98846973
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Fe  Fe0  1  0.16781342  0.16781343  0.21408232  1
+  Fe  Fe1  1  0.33666501  0.83133803  0.71404457  1
+  Fe  Fe2  1  0.83133815  0.33666521  0.71404457  1
+  Co  Co3  1  0.16913567  0.66281847  0.21375067  1
+  Co  Co4  1  0.66281868  0.16913578  0.21375066  1
+  Co  Co5  1  0.83127474  0.83127471  0.71413409  1
+  Sb  Sb6  1  0.33621012  0.33621016  0.49016802  1
+  Sb  Sb7  1  0.67047628  0.67047636  0.99392618  1
+  O  O8  1  0.31923807  0.84319058  0.10257050  1
+  O  O9  1  0.66623550  0.66623549  0.61026907  1
+  O  O10  1  0.96918784  0.51423824  0.83256995  1
+  O  O11  1  0.51423806  0.96918772  0.83256995  1
+  O  O12  1  0.16212519  0.16212530  0.60290821  1
+  O  O13  1  0.84630556  0.84630538  0.09824441  1
+  O  O14  1  0.48570238  0.02970955  0.33299936  1
+  O  O15  1  0.00188213  0.00188221  0.31130561  1
+  O  O16  1  0.68535605  0.16051888  0.60182413  1
+  O  O17  1  0.00067083  0.00067104  0.81211824  1
+  O  O18  1  0.51608739  0.51608747  0.83496187  1
+  O  O19  1  0.33138982  0.33138977  0.11080890  1
+  O  O20  1  0.48537133  0.48537129  0.33154939  1
+  O  O21  1  0.16051866  0.68535593  0.60182413  1
+  O  O22  1  0.02970938  0.48570226  0.33299936  1
+  O  O23  1  0.84319087  0.31923812  0.10257050  1

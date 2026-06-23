@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_HfMnO3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.37783324
+_cell_length_b   5.55143215
+_cell_length_c   7.87589380
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   HfMnO3
+_chemical_formula_sum   'Hf4 Mn4 O12'
+_cell_volume   235.13226026
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Hf  Hf0  1  0.00000000  0.49999981  0.00000000  1
+  Hf  Hf1  1  0.00000000  0.49999981  0.49999976  1
+  Hf  Hf2  1  0.49999970  0.00000000  0.00000000  1
+  Hf  Hf3  1  0.49999970  0.00000000  0.49999976  1
+  Mn  Mn4  1  0.00318754  0.96180386  0.74999964  1
+  Mn  Mn5  1  0.49681215  0.46180405  0.74999964  1
+  Mn  Mn6  1  0.50318724  0.53819556  0.24999988  1
+  Mn  Mn7  1  0.99681185  0.03819576  0.24999988  1
+  O  O8  1  0.82484265  0.81960633  0.06706405  1
+  O  O9  1  0.67515644  0.31960652  0.43293571  1
+  O  O10  1  0.67515644  0.31960652  0.06706405  1
+  O  O11  1  0.62530407  0.06623559  0.74999964  1
+  O  O12  1  0.37469533  0.93376402  0.24999988  1
+  O  O13  1  0.17515674  0.18039328  0.56706381  1
+  O  O14  1  0.32484295  0.68039309  0.56706381  1
+  O  O15  1  0.17515674  0.18039328  0.93293546  1
+  O  O16  1  0.82484265  0.81960633  0.43293571  1
+  O  O17  1  0.12530437  0.43376422  0.24999988  1
+  O  O18  1  0.32484295  0.68039309  0.93293546  1
+  O  O19  1  0.87469503  0.56623540  0.74999964  1

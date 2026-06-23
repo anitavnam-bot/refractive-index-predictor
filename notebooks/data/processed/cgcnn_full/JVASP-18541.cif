@@ -1,0 +1,33 @@
+# generated using pymatgen
+data_Al2B2Ru3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   2.94284435
+_cell_length_b   3.03420061
+_cell_length_c   9.05826692
+_cell_angle_alpha   99.64147450
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Al2B2Ru3
+_chemical_formula_sum   'Al2 B2 Ru3'
+_cell_volume   79.74043086
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Al  Al0  1  0.49999926  0.57921389  0.15842635  1
+  Al  Al1  1  0.49999926  0.42078686  0.84157404  1
+  B  B2  1  0.49999926  0.72291277  0.44582421  1
+  B  B3  1  0.49999926  0.27708798  0.55417618  1
+  Ru  Ru4  1  0.00000000  0.82559721  0.65119318  1
+  Ru  Ru5  1  0.00000000  0.00000000  0.00000000  1
+  Ru  Ru6  1  0.00000000  0.17440354  0.34880720  1

@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_Fe2NiO4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.80907022
+_cell_length_b   5.71570560
+_cell_length_c   5.80906966
+_cell_angle_alpha   60.53025272
+_cell_angle_beta   60.01866975
+_cell_angle_gamma   60.53025343
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Fe2NiO4
+_chemical_formula_sum   'Fe4 Ni2 O8'
+_cell_volume   137.48804411
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Fe  Fe0  1  0.99378174  0.00621935  0.99378131  1
+  Fe  Fe1  1  0.25621739  0.24378265  0.25621731  1
+  Fe  Fe2  1  0.62499957  0.12500100  0.62499931  1
+  Fe  Fe3  1  0.62499948  0.62500059  0.62499927  1
+  Ni  Ni4  1  0.12499925  0.62500015  0.62499957  1
+  Ni  Ni5  1  0.62500004  0.62500016  0.12499952  1
+  O  O6  1  0.39231874  0.36884938  0.39231861  1
+  O  O7  1  0.39381984  0.37906500  0.84804919  1
+  O  O8  1  0.39231866  0.84651189  0.39231857  1
+  O  O9  1  0.84804976  0.37906501  0.39381995  1
+  O  O10  1  0.40194920  0.87093617  0.85617860  1
+  O  O11  1  0.85768031  0.40348929  0.85767998  1
+  O  O12  1  0.85617912  0.87093618  0.40194936  1
+  O  O13  1  0.85768023  0.88115180  0.85767994  1

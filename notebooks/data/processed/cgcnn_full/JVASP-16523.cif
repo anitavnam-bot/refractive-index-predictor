@@ -1,0 +1,30 @@
+# generated using pymatgen
+data_PrGa
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.18553970
+_cell_length_b   4.48258790
+_cell_length_c   6.10832654
+_cell_angle_alpha   111.52606160
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   PrGa
+_chemical_formula_sum   'Pr2 Ga2'
+_cell_volume   106.61113350
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Pr  Pr0  1  0.75000005  0.14170036  0.28340053  1
+  Pr  Pr1  1  0.25000002  0.85830010  0.71659936  1
+  Ga  Ga2  1  0.75000005  0.42921078  0.85842000  1
+  Ga  Ga3  1  0.25000002  0.57078968  0.14157989  1

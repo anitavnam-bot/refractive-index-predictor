@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_Li5ReN4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.86930071
+_cell_length_b   6.62049748
+_cell_length_c   6.70728189
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Li5ReN4
+_chemical_formula_sum   'Li10 Re2 N8'
+_cell_volume   216.22394110
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.29975326  0.00000000  0.00000000  1
+  Li  Li1  1  0.24514852  0.76244037  0.69823930  1
+  Li  Li2  1  0.75485133  0.26244018  0.80176027  1
+  Li  Li3  1  0.75485133  0.73756020  0.19823944  1
+  Li  Li4  1  0.75485133  0.73756020  0.80176027  1
+  Li  Li5  1  0.24514852  0.23756001  0.30176041  1
+  Li  Li6  1  0.24514852  0.23756001  0.69823930  1
+  Li  Li7  1  0.24514852  0.76244037  0.30176041  1
+  Li  Li8  1  0.70024660  0.50000019  0.49999986  1
+  Li  Li9  1  0.75485133  0.26244018  0.19823944  1
+  Re  Re10  1  0.27703047  0.50000019  0.00000000  1
+  Re  Re11  1  0.72296939  0.00000000  0.49999986  1
+  N  N12  1  0.92999359  0.76828783  0.49999986  1
+  N  N13  1  0.07000627  0.73171274  0.00000000  1
+  N  N14  1  0.51696622  0.00000000  0.73042291  1
+  N  N15  1  0.48303364  0.50000019  0.23042305  1
+  N  N16  1  0.48303364  0.50000019  0.76957667  1
+  N  N17  1  0.07000627  0.26828764  0.00000000  1
+  N  N18  1  0.92999359  0.23171255  0.49999986  1
+  N  N19  1  0.51696622  0.00000000  0.26957681  1

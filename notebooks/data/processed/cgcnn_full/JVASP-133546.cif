@@ -1,0 +1,52 @@
+# generated using pymatgen
+data_BaAlCo4O7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.91740769
+_cell_length_b   5.91740677
+_cell_length_c   9.86681017
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   119.99999478
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   BaAlCo4O7
+_chemical_formula_sum   'Ba2 Al2 Co8 O14'
+_cell_volume   299.20603081
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.66666727  0.33333269  0.51367939  1
+  Ba  Ba1  1  0.33333314  0.66666637  0.01367940  1
+  Al  Al2  1  0.66666727  0.33333269  0.88907715  1
+  Al  Al3  1  0.33333314  0.66666637  0.38907716  1
+  Co  Co4  1  0.00000000  0.00000000  0.92293334  1
+  Co  Co5  1  0.00000000  0.00000000  0.42293335  1
+  Co  Co6  1  0.19056115  0.80943816  0.69115775  1
+  Co  Co7  1  0.38112229  0.19056089  0.19115776  1
+  Co  Co8  1  0.19056115  0.38112178  0.69115775  1
+  Co  Co9  1  0.61887812  0.80943817  0.69115775  1
+  Co  Co10  1  0.80943925  0.19056089  0.19115776  1
+  Co  Co11  1  0.80943926  0.61887728  0.19115776  1
+  O  O12  1  0.00000000  0.00000000  0.22855500  1
+  O  O13  1  0.48379630  0.96759227  0.27183951  1
+  O  O14  1  0.51620411  0.03240679  0.77183950  1
+  O  O15  1  0.96759357  0.48379564  0.77183950  1
+  O  O16  1  0.48379629  0.51620342  0.27183951  1
+  O  O17  1  0.00000000  0.00000000  0.72855499  1
+  O  O18  1  0.82410506  0.17589511  0.99692040  1
+  O  O19  1  0.35178968  0.17589510  0.99692040  1
+  O  O20  1  0.82410506  0.64820985  0.99692040  1
+  O  O21  1  0.17589534  0.35178920  0.49692041  1
+  O  O22  1  0.64821073  0.82410395  0.49692041  1
+  O  O23  1  0.51620412  0.48379564  0.77183950  1
+  O  O24  1  0.17589535  0.82410395  0.49692041  1
+  O  O25  1  0.03240683  0.51620342  0.27183951  1

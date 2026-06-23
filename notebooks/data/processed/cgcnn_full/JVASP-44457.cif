@@ -1,0 +1,52 @@
+# generated using pymatgen
+data_Na3MnSiCO7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.21324650
+_cell_length_b   6.41464598
+_cell_length_c   9.14550098
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.52511596
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Na3MnSiCO7
+_chemical_formula_sum   'Na6 Mn2 Si2 C2 O14'
+_cell_volume   305.82304884
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.21983219  0.75000047  0.09635663  1
+  Na  Na1  1  0.74055623  0.99810726  0.26057599  1
+  Na  Na2  1  0.74055623  0.50189368  0.26057599  1
+  Na  Na3  1  0.25944292  0.49810694  0.73942410  1
+  Na  Na4  1  0.25944292  0.00189337  0.73942410  1
+  Na  Na5  1  0.78016696  0.25000016  0.90364345  1
+  Mn  Mn6  1  0.21621546  0.25000016  0.35471977  1
+  Mn  Mn7  1  0.78378369  0.75000047  0.64528032  1
+  Si  Si8  1  0.68724855  0.25000016  0.57231561  1
+  Si  Si9  1  0.31275060  0.75000047  0.42768447  1
+  C  C10  1  0.28272924  0.25000016  0.05425963  1
+  C  C11  1  0.71726991  0.75000047  0.94574046  1
+  O  O12  1  0.48739989  0.75000047  0.89432776  1
+  O  O13  1  0.74937939  0.04722958  0.67945849  1
+  O  O14  1  0.74937939  0.45277074  0.67945849  1
+  O  O15  1  0.37066707  0.25000016  0.54205569  1
+  O  O16  1  0.16080576  0.75000047  0.58084742  1
+  O  O17  1  0.83919339  0.25000016  0.41915266  1
+  O  O18  1  0.76496882  0.75000047  0.08460603  1
+  O  O19  1  0.25061976  0.54722989  0.32054159  1
+  O  O20  1  0.25061976  0.95277105  0.32054159  1
+  O  O21  1  0.51259926  0.25000016  0.10567232  1
+  O  O22  1  0.08645742  0.25000016  0.14378230  1
+  O  O23  1  0.91354173  0.75000047  0.85621778  1
+  O  O24  1  0.62933208  0.75000047  0.45794440  1
+  O  O25  1  0.23503032  0.25000016  0.91539405  1

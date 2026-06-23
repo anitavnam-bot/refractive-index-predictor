@@ -1,0 +1,29 @@
+# generated using pymatgen
+data_BeCoSi
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.89407154
+_cell_length_b   3.89398771
+_cell_length_c   2.77576572
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   119.99799466
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   BeCoSi
+_chemical_formula_sum   'Be1 Co1 Si1'
+_cell_volume   36.45194590
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Be  Be0  1  0.40880148  0.08451150  0.00000000  1
+  Co  Co1  1  -0.25784265  -0.24880291  0.00000000  1
+  Si  Si2  1  0.07550436  0.41786521  0.00000000  1

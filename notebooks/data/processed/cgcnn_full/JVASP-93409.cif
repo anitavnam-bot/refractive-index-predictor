@@ -1,0 +1,32 @@
+# generated using pymatgen
+data_NbIrS4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.50304238
+_cell_length_b   6.63780072
+_cell_length_c   6.84292669
+_cell_angle_alpha   58.81067036
+_cell_angle_beta   104.83052247
+_cell_angle_gamma   121.85297837
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NbIrS4
+_chemical_formula_sum   'Nb1 Ir1 S4'
+_cell_volume   115.58533362
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Nb  Nb0  1  0.00000000  0.00000000  0.00000000  1
+  Ir  Ir1  1  0.00000062  0.50000024  0.00000007  1
+  S  S2  1  0.65742771  0.78205104  0.75075285  1
+  S  S3  1  0.32386883  0.69450414  0.25872778  1
+  S  S4  1  0.34257353  0.21795002  0.24924708  1
+  S  S5  1  0.67613240  0.30549692  0.74127216  1

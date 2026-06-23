@@ -1,0 +1,44 @@
+# generated using pymatgen
+data_FeTeBr7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.74760438
+_cell_length_b   8.75388304
+_cell_length_c   10.35181536
+_cell_angle_alpha   85.11834570
+_cell_angle_beta   77.54319709
+_cell_angle_gamma   82.74662497
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   FeTeBr7
+_chemical_formula_sum   'Fe2 Te2 Br14'
+_cell_volume   591.22821634
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Fe  Fe0  1  0.49815388  0.12120400  0.11958609  1
+  Fe  Fe1  1  0.76961351  0.54832942  0.55715948  1
+  Te  Te2  1  0.95101089  0.50544645  0.08235906  1
+  Te  Te3  1  0.19297760  0.93612271  0.54369895  1
+  Br  Br4  1  0.33130551  0.18559421  0.57209927  1
+  Br  Br5  1  0.73919579  0.34028547  0.70819909  1
+  Br  Br6  1  0.67049963  0.48397424  0.36409991  1
+  Br  Br7  1  0.55695193  0.76247698  0.65475824  1
+  Br  Br8  1  0.11371921  0.60439897  0.50157109  1
+  Br  Br9  1  0.64064999  0.62685941  -0.00581459  1
+  Br  Br10  1  0.06757459  0.75690380  0.12962677  1
+  Br  Br11  1  0.97575478  0.91996649  0.77629143  1
+  Br  Br12  1  0.40713006  0.05055999  0.93399762  1
+  Br  Br13  1  0.49268110  0.90506357  0.27553814  1
+  Br  Br14  1  0.28585418  0.33276009  0.21955734  1
+  Br  Br15  1  0.84358336  0.17586528  0.06557294  1
+  Br  Br16  1  0.19294745  0.47689117  0.85928694  1
+  Br  Br17  1  0.91080277  0.05059885  0.42490708  1

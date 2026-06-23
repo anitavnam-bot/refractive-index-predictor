@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_Ca3(FeN2)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.82861050
+_cell_length_b   5.89373662
+_cell_length_c   6.35869504
+_cell_angle_alpha   117.60350845
+_cell_angle_beta   112.31360096
+_cell_angle_gamma   89.99986095
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ca3(FeN2)2
+_chemical_formula_sum   'Ca3 Fe2 N4'
+_cell_volume   144.89785533
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ca  Ca0  1  0.30539353  0.33361267  0.61251131  1
+  Ca  Ca1  1  0.68224771  0.71043845  0.36624279  1
+  Ca  Ca2  1  0.99381161  0.28752037  0.98936308  1
+  Fe  Fe3  1  0.60943936  0.11739344  0.22062878  1
+  Fe  Fe4  1  0.37817074  0.88612092  0.75809151  1
+  N  N5  1  0.77430890  0.22148252  0.55034848  1
+  N  N6  1  0.21332945  0.66043069  0.42839368  1
+  N  N7  1  0.49382440  0.78130918  0.98938932  1
+  N  N8  1  0.49379717  0.23947698  0.98933181  1

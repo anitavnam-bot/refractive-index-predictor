@@ -1,0 +1,30 @@
+# generated using pymatgen
+data_CaIrN2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.34961544
+_cell_length_b   5.34961490
+_cell_length_c   5.34961494
+_cell_angle_alpha   35.85315163
+_cell_angle_beta   35.85314720
+_cell_angle_gamma   35.85314754
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CaIrN2
+_chemical_formula_sum   'Ca1 Ir1 N2'
+_cell_volume   46.96409927
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ca  Ca0  1  0.00000000  0.00000000  0.00000000  1
+  Ir  Ir1  1  0.49999911  0.49999977  0.50000046  1
+  N  N2  1  0.76771797  0.76771899  0.76772004  1
+  N  N3  1  0.23228025  0.23228056  0.23228088  1

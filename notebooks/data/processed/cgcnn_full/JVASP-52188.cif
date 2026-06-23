@@ -1,0 +1,48 @@
+# generated using pymatgen
+data_Y2Pb2O7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.59849830
+_cell_length_b   7.59862938
+_cell_length_c   7.59850998
+_cell_angle_alpha   60.00111599
+_cell_angle_beta   60.00025593
+_cell_angle_gamma   60.00023110
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Y2Pb2O7
+_chemical_formula_sum   'Y4 Pb4 O14'
+_cell_volume   310.22853004
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Y  Y0  1  0.49999591  -0.00001563  0.50001245  1
+  Y  Y1  1  0.50001344  0.49998843  -0.00000485  1
+  Y  Y2  1  0.00001089  0.49998576  0.49999227  1
+  Y  Y3  1  0.50001132  0.49998018  0.50000309  1
+  Pb  Pb4  1  -0.00000575  0.00001838  0.00000736  1
+  Pb  Pb5  1  0.49997096  0.00001493  0.00002028  1
+  Pb  Pb6  1  0.99999274  -0.00000609  0.50000324  1
+  Pb  Pb7  1  0.99999106  0.50004376  -0.00001902  1
+  O  O8  1  0.90003989  0.34998148  0.90002828  1
+  O  O9  1  0.62501368  0.62497965  0.62499906  1
+  O  O10  1  0.34996337  0.34998115  0.90003212  1
+  O  O11  1  0.90001999  0.90001768  0.34998154  1
+  O  O12  1  0.34997201  0.90002554  0.34998894  1
+  O  O13  1  0.09997221  0.65004972  0.09996563  1
+  O  O14  1  0.09994575  0.09996805  0.65004366  1
+  O  O15  1  0.37501098  0.37497683  0.37500011  1
+  O  O16  1  0.65001020  0.65004679  0.09997482  1
+  O  O17  1  0.09998606  0.65002444  0.65000582  1
+  O  O18  1  0.90005540  0.34995585  0.34994145  1
+  O  O19  1  0.65002379  0.09998333  0.09996719  1
+  O  O20  1  0.65002576  0.09996434  0.65005110  1
+  O  O21  1  0.34997063  0.90004318  0.90001794  1

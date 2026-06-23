@@ -1,0 +1,44 @@
+# generated using pymatgen
+data_Ba2SmGaSe5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.36992212
+_cell_length_b   8.81008023
+_cell_length_c   9.53668730
+_cell_angle_alpha   103.60583878
+_cell_angle_beta   103.18050925
+_cell_angle_gamma   107.52095121
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ba2SmGaSe5
+_chemical_formula_sum   'Ba4 Sm2 Ga2 Se10'
+_cell_volume   543.26501959
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.63652365  0.97935049  0.29256393  1
+  Ba  Ba1  1  0.36347619  0.02064951  0.70743569  1
+  Ba  Ba2  1  0.34187976  0.51015198  0.70632027  1
+  Ba  Ba3  1  0.65812009  0.48984801  0.29367934  1
+  Sm  Sm4  1  0.99802095  0.73147408  0.99767070  1
+  Sm  Sm5  1  0.00197889  0.26852592  0.00232892  1
+  Ga  Ga6  1  0.80285841  0.87049638  0.68563971  1
+  Ga  Ga7  1  0.19714144  0.12950361  0.31435991  1
+  Se  Se8  1  0.30126446  0.59106682  0.05681753  1
+  Se  Se9  1  0.69873538  0.40893317  0.94318209  1
+  Se  Se10  1  0.29488186  0.09366994  0.07502022  1
+  Se  Se11  1  0.70511798  0.90633005  0.92497939  1
+  Se  Se12  1  0.98615024  0.68096776  0.67917767  1
+  Se  Se13  1  0.98144224  0.15175503  0.68282789  1
+  Se  Se14  1  0.01384961  0.31903223  0.32082195  1
+  Se  Se15  1  0.48400656  0.73913931  0.49000922  1
+  Se  Se16  1  0.01855760  0.84824497  0.31717173  1
+  Se  Se17  1  0.51599329  0.26086069  0.50999040  1

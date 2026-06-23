@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_K2Yb2O3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.50929223
+_cell_length_b   6.82185075
+_cell_length_c   6.55465686
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   115.65249201
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   K2Yb2O3
+_chemical_formula_sum   'K4 Yb4 O6'
+_cell_volume   262.37411162
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Yb  Yb0  1  0.33000456  0.62386181  0.56014174  1
+  Yb  Yb1  1  0.66999562  0.12386187  0.93986015  1
+  Yb  Yb2  1  0.33000452  0.87613802  0.06014135  1
+  Yb  Yb3  1  0.66999558  0.37613808  0.43985976  1
+  K  K4  1  0.19112557  0.34381617  0.92230988  1
+  K  K5  1  0.19112552  0.15618377  0.42230950  1
+  K  K6  1  0.80887462  0.84381612  0.57769200  1
+  K  K7  1  0.80887457  0.65618372  0.07769161  1
+  O  O8  1  0.00000004  0.49999995  0.50000039  1
+  O  O9  1  0.00000000  0.00000000  0.00000000  1
+  O  O10  1  0.40685304  0.89949497  0.75828455  1
+  O  O11  1  0.59314714  0.39949502  0.74171733  1
+  O  O12  1  0.40685300  0.60050487  0.25828416  1
+  O  O13  1  0.59314710  0.10050492  0.24171695  1

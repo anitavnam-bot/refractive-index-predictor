@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_K2InHgCl6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.53016309
+_cell_length_b   7.53016309
+_cell_length_c   7.53016309
+_cell_angle_alpha   60.00000000
+_cell_angle_beta   60.00000000
+_cell_angle_gamma   60.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   K2InHgCl6
+_chemical_formula_sum   'K2 In1 Hg1 Cl6'
+_cell_volume   301.92435691
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.74999971  0.74999970  0.74999968  1
+  K  K1  1  0.24999990  0.24999990  0.24999989  1
+  In  In2  1  0.00000000  0.00000000  0.00000000  1
+  Hg  Hg3  1  0.49999981  0.49999980  0.49999978  1
+  Cl  Cl4  1  0.75954103  0.24045858  0.24045857  1
+  Cl  Cl5  1  0.24045859  0.24045858  0.75954100  1
+  Cl  Cl6  1  0.24045859  0.75954102  0.75954100  1
+  Cl  Cl7  1  0.24045859  0.75954102  0.24045857  1
+  Cl  Cl8  1  0.75954103  0.24045858  0.75954100  1
+  Cl  Cl9  1  0.75954103  0.75954102  0.24045856  1

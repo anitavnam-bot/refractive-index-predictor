@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_Sm3CuSnSe7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   10.41812320
+_cell_length_b   10.41812216
+_cell_length_c   6.40602739
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00000099
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sm3CuSnSe7
+_chemical_formula_sum   'Sm6 Cu2 Sn2 Se14'
+_cell_volume   602.14121300
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sm  Sm0  1  0.21139695  0.35729236  0.93777008  1
+  Sm  Sm1  1  0.14589361  0.78860327  0.93777008  1
+  Sm  Sm2  1  0.64270776  0.85410673  0.93777008  1
+  Sm  Sm3  1  0.78860302  0.64270776  0.43776988  1
+  Sm  Sm4  1  0.35729221  0.14589338  0.43776988  1
+  Sm  Sm5  1  0.85410636  0.21139684  0.43776988  1
+  Cu  Cu6  1  0.00000000  0.00000000  0.01372999  1
+  Cu  Cu7  1  0.00000000  0.00000000  0.51373019  1
+  Sn  Sn8  1  0.33333310  0.66666712  0.36421693  1
+  Sn  Sn9  1  0.66666686  0.33333299  0.86421714  1
+  Se  Se10  1  0.66666686  0.33333299  0.25950665  1
+  Se  Se11  1  0.07940226  0.51624128  0.18688531  1
+  Se  Se12  1  0.48375885  0.56316002  0.18688531  1
+  Se  Se13  1  0.26258736  0.11075732  0.99196137  1
+  Se  Se14  1  0.33333310  0.66666712  0.75950686  1
+  Se  Se15  1  0.11075758  0.84816910  0.49196116  1
+  Se  Se16  1  0.43684020  0.92059806  0.18688531  1
+  Se  Se17  1  0.88924239  0.15183101  0.99196137  1
+  Se  Se18  1  0.51624112  0.43684009  0.68688551  1
+  Se  Se19  1  0.92059771  0.48375883  0.68688551  1
+  Se  Se20  1  0.15183113  0.26258747  0.49196116  1
+  Se  Se21  1  0.73741260  0.88924279  0.49196116  1
+  Se  Se22  1  0.56315976  0.07940206  0.68688551  1
+  Se  Se23  1  0.84816884  0.73741265  0.99196137  1

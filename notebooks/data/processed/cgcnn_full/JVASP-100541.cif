@@ -1,0 +1,30 @@
+# generated using pymatgen
+data_SrEuTe2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.98082348
+_cell_length_b   7.98082342
+_cell_length_c   7.98082223
+_cell_angle_alpha   32.79252763
+_cell_angle_beta   32.79252830
+_cell_angle_gamma   32.79252524
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   SrEuTe2
+_chemical_formula_sum   'Sr1 Eu1 Te2'
+_cell_volume   132.64793650
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sr  Sr0  1  0.49999940  0.49999889  0.50000087  1
+  Eu  Eu1  1  0.00000000  0.00000000  0.00000000  1
+  Te  Te2  1  0.25454569  0.25454543  0.25454644  1
+  Te  Te3  1  0.74545310  0.74545234  0.74545530  1

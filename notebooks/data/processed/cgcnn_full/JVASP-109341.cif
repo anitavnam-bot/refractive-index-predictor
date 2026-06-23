@@ -1,0 +1,32 @@
+# generated using pymatgen
+data_YCCl
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.90961244
+_cell_length_b   3.90961244
+_cell_length_c   9.33509431
+_cell_angle_alpha   85.14704989
+_cell_angle_beta   85.14704989
+_cell_angle_gamma   56.96660458
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   YCCl
+_chemical_formula_sum   'Y2 C2 Cl2'
+_cell_volume   119.06717086
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Y  Y0  1  0.85546730  0.85547066  0.15984467  1
+  Y  Y1  1  0.14452873  0.14453103  0.84015599  1
+  C  C2  1  0.57320172  0.57320383  0.04181194  1
+  C  C3  1  0.42679432  0.42679785  0.95818872  1
+  Cl  Cl4  1  0.82331029  0.82331459  0.65730495  1
+  Cl  Cl5  1  0.17668574  0.17668709  0.34269571  1

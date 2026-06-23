@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_K2LiSbBr6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.71281473
+_cell_length_b   7.71281473
+_cell_length_c   7.71281473
+_cell_angle_alpha   60.00000000
+_cell_angle_beta   60.00000000
+_cell_angle_gamma   60.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   K2LiSbBr6
+_chemical_formula_sum   'K2 Li1 Sb1 Br6'
+_cell_volume   324.43201221
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.74999973  0.75000037  0.75000000  1
+  K  K1  1  0.24999991  0.25000012  0.25000000  1
+  Li  Li2  1  0.49999982  0.50000025  0.50000000  1
+  Sb  Sb3  1  0.00000000  0.00000000  0.00000000  1
+  Br  Br4  1  0.74406550  0.25593428  0.25593445  1
+  Br  Br5  1  0.25593406  0.25593428  0.74406555  1
+  Br  Br6  1  0.25593414  0.74406622  0.74406556  1
+  Br  Br7  1  0.25593414  0.74406622  0.25593416  1
+  Br  Br8  1  0.74406550  0.25593428  0.74406584  1
+  Br  Br9  1  0.74406558  0.74406622  0.25593445  1

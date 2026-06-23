@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_CeNiSnH
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.26918431
+_cell_length_b   8.29782086
+_cell_length_c   4.35284731
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CeNiSnH
+_chemical_formula_sum   'Ce4 Ni4 Sn4 H4'
+_cell_volume   262.55673813
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ce  Ce0  1  0.51130360  0.19296620  0.24275255  1
+  Ce  Ce1  1  0.48869681  0.80703370  0.74275286  1
+  Ce  Ce2  1  0.98869551  0.69296615  0.74275286  1
+  Ce  Ce3  1  0.01130289  0.30703375  0.24275255  1
+  Ni  Ni4  1  0.28448466  0.60360378  0.24274471  1
+  Ni  Ni5  1  0.71551475  0.39639612  0.74274502  1
+  Ni  Ni6  1  0.21551504  0.10360383  0.74274502  1
+  Ni  Ni7  1  0.78448436  0.89639607  0.24274471  1
+  Sn  Sn8  1  0.17088451  0.92629868  0.24274947  1
+  Sn  Sn9  1  0.82911490  0.07370121  0.74274978  1
+  Sn  Sn10  1  0.32911520  0.42629873  0.74274978  1
+  Sn  Sn11  1  0.67088421  0.57370116  0.24274947  1
+  H  H12  1  0.94300455  0.42000554  0.74275418  1
+  H  H13  1  0.05699485  0.57999436  0.24275388  1
+  H  H14  1  0.55699455  0.92000548  0.24275388  1
+  H  H15  1  0.44300485  0.07999441  0.74275418  1

@@ -1,0 +1,44 @@
+# generated using pymatgen
+data_TiCo5O12
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.92688693
+_cell_length_b   4.92712431
+_cell_length_c   8.76838363
+_cell_angle_alpha   84.64829630
+_cell_angle_beta   79.24865707
+_cell_angle_gamma   60.00158363
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TiCo5O12
+_chemical_formula_sum   'Ti1 Co5 O12'
+_cell_volume   181.10561701
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ti  Ti0  1  0.00000000  0.00000000  0.00000000  1
+  Co  Co1  1  0.16651444  0.66697215  0.49999993  1
+  Co  Co2  1  0.66666343  0.66667098  -0.00000014  1
+  Co  Co3  1  0.33333606  0.33332979  -0.00000007  1
+  Co  Co4  1  0.83348526  0.33302762  0.49999988  1
+  Co  Co5  1  0.49999973  -0.00000024  0.49999996  1
+  O  O6  1  0.03765698  0.34782667  0.88657044  1
+  O  O7  1  0.31017394  0.00000005  0.11343343  1
+  O  O8  1  0.61451548  0.34782773  0.11342945  1
+  O  O9  1  0.79824619  0.66669460  0.60566780  1
+  O  O10  1  0.13100819  -0.00000053  0.60729297  1
+  O  O11  1  0.20175352  0.33330518  0.39433201  1
+  O  O12  1  0.53505773  0.66669467  0.39433194  1
+  O  O13  1  0.68982553  -0.00000052  0.88656648  1
+  O  O14  1  0.38548423  0.65217205  0.88657037  1
+  O  O15  1  -0.03765653  0.65217259  0.11342949  1
+  O  O16  1  0.46494198  0.33330511  0.60566787  1
+  O  O17  1  0.86899128  0.00000006  0.39270694  1

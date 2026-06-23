@@ -1,0 +1,33 @@
+# generated using pymatgen
+data_In2CuSe3Br
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.75959144
+_cell_length_b   5.82293739
+_cell_length_c   7.09699723
+_cell_angle_alpha   114.00624335
+_cell_angle_beta   112.89111881
+_cell_angle_gamma   90.66907102
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   In2CuSe3Br
+_chemical_formula_sum   'In2 Cu1 Se3 Br1'
+_cell_volume   196.17960777
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  In  In0  1  0.25404434  0.76020789  0.46809823  1
+  In  In1  1  0.96497852  0.02469666  0.00905142  1
+  Cu  Cu2  1  0.54997875  0.45757668  0.03072963  1
+  Se  Se3  1  0.82509343  0.87735162  0.25713312  1
+  Se  Se4  1  0.40579547  0.35020008  0.26355799  1
+  Se  Se5  1  0.63042028  0.16119959  0.72486016  1
+  Br  Br6  1  0.11968870  0.61876997  0.74656903  1

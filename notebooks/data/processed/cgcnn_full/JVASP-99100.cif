@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_Ba2UCu2S5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.07437979
+_cell_length_b   7.13759778
+_cell_length_c   9.06383099
+_cell_angle_alpha   69.43111763
+_cell_angle_beta   77.01410943
+_cell_angle_gamma   73.41845885
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ba2UCu2S5
+_chemical_formula_sum   'Ba2 U1 Cu2 S5'
+_cell_volume   234.23587218
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.82351035  0.65110875  0.70182098  1
+  Ba  Ba1  1  0.17648945  0.34889159  0.29817820  1
+  U  U2  1  0.00000000  0.00000000  0.00000000  1
+  Cu  Cu3  1  0.44577447  0.81066862  0.29812995  1
+  Cu  Cu4  1  0.55422533  0.18933172  0.70186924  1
+  S  S5  1  0.61210122  0.71335940  0.06252776  1
+  S  S6  1  0.85433220  0.98411100  0.30736559  1
+  S  S7  1  0.38789858  0.28664093  0.93747142  1
+  S  S8  1  0.49999990  0.50000017  0.49999959  1
+  S  S9  1  0.14566760  0.01588933  0.69263359  1

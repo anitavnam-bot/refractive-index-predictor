@@ -1,0 +1,37 @@
+# generated using pymatgen
+data_H2C5SO3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.65489060
+_cell_length_b   5.59721016
+_cell_length_c   6.48726758
+_cell_angle_alpha   72.26447484
+_cell_angle_beta   86.27212980
+_cell_angle_gamma   82.29556124
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   H2C5SO3
+_chemical_formula_sum   'H2 C5 S1 O3'
+_cell_volume   125.22169641
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  H  H0  1  0.26622089  0.52479577  0.64347623  1
+  H  H1  1  0.27062963  0.89266049  0.27423313  1
+  C  C2  1  0.14039561  0.71652510  0.62355893  1
+  C  C3  1  0.14113590  0.91571111  0.42321872  1
+  C  C4  1  0.96201016  0.13761353  0.44582029  1
+  C  C5  1  0.96122761  0.79788241  0.78630781  1
+  C  C6  1  0.03837072  0.44067241  0.10193591  1
+  S  S7  1  0.79068530  0.11464222  0.70496204  1
+  O  O8  1  0.87641100  0.37725118  0.30236327  1
+  O  O9  1  0.87419070  0.67676664  0.00116847  1
+  O  O10  1  0.27808231  0.31479794  0.02994167  1

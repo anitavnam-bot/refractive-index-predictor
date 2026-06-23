@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_Er2Co3Ge5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.04926081
+_cell_length_b   8.04926081
+_cell_length_c   5.72863782
+_cell_angle_alpha   70.47644852
+_cell_angle_beta   109.52355148
+_cell_angle_gamma   86.26919878
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Er2Co3Ge5
+_chemical_formula_sum   'Er4 Co6 Ge10'
+_cell_volume   323.11552162
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Er  Er0  1  0.59159321  0.12694847  0.73120961  1
+  Er  Er1  1  0.87305103  0.40840481  0.23121069  1
+  Er  Er2  1  0.40840472  0.87305111  0.26879121  1
+  Er  Er3  1  0.12694791  0.59159379  0.76879013  1
+  Co  Co4  1  0.73974341  0.54163303  0.62062292  1
+  Co  Co5  1  0.54163256  0.73974380  0.87937891  1
+  Co  Co6  1  0.45836648  0.26025562  0.12062100  1
+  Co  Co7  1  0.00505885  0.00505888  0.25000086  1
+  Co  Co8  1  0.99494115  0.99494166  0.74999978  1
+  Co  Co9  1  0.26025570  0.45836647  0.37937999  1
+  Ge  Ge10  1  0.22834445  0.22834512  0.74999996  1
+  Ge  Ge11  1  0.73940585  0.07961309  0.32470828  1
+  Ge  Ge12  1  0.07961316  0.73940570  0.17529219  1
+  Ge  Ge13  1  0.26059333  0.92038635  0.67529311  1
+  Ge  Ge14  1  0.92038593  0.26059365  0.82470820  1
+  Ge  Ge15  1  0.78537984  0.78538075  0.74999999  1
+  Ge  Ge16  1  0.21461975  0.21462018  0.25000107  1
+  Ge  Ge17  1  0.49070311  0.49070246  0.75000018  1
+  Ge  Ge18  1  0.50929604  0.50929692  0.25000126  1
+  Ge  Ge19  1  0.77165438  0.77165458  0.25000104  1

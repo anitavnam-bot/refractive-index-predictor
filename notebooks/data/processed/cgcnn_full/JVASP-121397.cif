@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_TmGaNi
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.22524474
+_cell_length_b   6.70632855
+_cell_length_c   7.30089101
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TmGaNi
+_chemical_formula_sum   'Tm4 Ga4 Ni4'
+_cell_volume   206.87716761
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tm  Tm0  1  0.24999972  0.01813779  0.80437588  1
+  Tm  Tm1  1  0.24999972  0.51813790  0.69562391  1
+  Tm  Tm2  1  0.74999916  0.98186242  0.19562398  1
+  Tm  Tm3  1  0.74999916  0.48186231  0.30437595  1
+  Ga  Ga4  1  0.24999972  0.17560543  0.42376819  1
+  Ga  Ga5  1  0.24999972  0.67560554  0.07623174  1
+  Ga  Ga6  1  0.74999916  0.82439478  0.57623167  1
+  Ga  Ga7  1  0.74999916  0.32439468  0.92376812  1
+  Ni  Ni8  1  0.24999972  0.78320738  0.40269607  1
+  Ni  Ni9  1  0.24999972  0.28320727  0.09730386  1
+  Ni  Ni10  1  0.74999916  0.21679284  0.59730380  1
+  Ni  Ni11  1  0.74999916  0.71679295  0.90269600  1

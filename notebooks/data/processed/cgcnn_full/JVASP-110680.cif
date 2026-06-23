@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_K2GaAgBr6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.55903040
+_cell_length_b   7.55903040
+_cell_length_c   7.55903040
+_cell_angle_alpha   60.00000000
+_cell_angle_beta   60.00000000
+_cell_angle_gamma   60.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   K2GaAgBr6
+_chemical_formula_sum   'K2 Ga1 Ag1 Br6'
+_cell_volume   305.41001716
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.74999936  0.74999970  0.75000138  1
+  K  K1  1  0.24999979  0.24999990  0.25000046  1
+  Ga  Ga2  1  0.00000000  0.00000000  0.00000000  1
+  Ag  Ag3  1  0.49999957  0.49999980  0.50000092  1
+  Br  Br4  1  0.75923861  0.24076090  0.24076186  1
+  Br  Br5  1  0.24076079  0.24076090  0.75923942  1
+  Br  Br6  1  0.24076053  0.75923870  0.75923998  1
+  Br  Br7  1  0.24076053  0.75923870  0.24076200  1
+  Br  Br8  1  0.75923861  0.24076090  0.75923984  1
+  Br  Br9  1  0.75923836  0.75923870  0.24076242  1

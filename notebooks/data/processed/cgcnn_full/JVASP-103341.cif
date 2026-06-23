@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_KSrI3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.98162412
+_cell_length_b   7.98162421
+_cell_length_c   11.94332623
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   145.74682314
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   KSrI3
+_chemical_formula_sum   'K2 Sr2 I6'
+_cell_volume   428.25367558
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.24886967  0.75112927  0.25000008  1
+  K  K1  1  0.75112893  0.24886944  0.75000024  1
+  Sr  Sr2  1  0.00000000  0.00000000  0.00000000  1
+  Sr  Sr3  1  0.00000000  0.00000000  0.50000016  1
+  I  I4  1  0.64173915  0.35825934  0.06332790  1
+  I  I5  1  0.35825945  0.64173937  0.93667242  1
+  I  I6  1  0.35825945  0.64173937  0.56332805  1
+  I  I7  1  0.64173915  0.35825934  0.43667226  1
+  I  I8  1  0.91772297  0.08227521  0.25000008  1
+  I  I9  1  0.08227563  0.91772350  0.75000024  1

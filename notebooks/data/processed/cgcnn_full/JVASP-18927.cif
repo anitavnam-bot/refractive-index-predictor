@@ -1,0 +1,32 @@
+# generated using pymatgen
+data_YbZn2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.50944054
+_cell_length_b   5.64126347
+_cell_length_c   5.64126335
+_cell_angle_alpha   78.19011888
+_cell_angle_beta   66.44160545
+_cell_angle_gamma   66.44160071
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   YbZn2
+_chemical_formula_sum   'Yb2 Zn4'
+_cell_volume   120.41042599
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Yb  Yb0  1  0.54607164  0.70392753  0.20392828  1
+  Yb  Yb1  1  0.45392844  0.29607072  0.79607131  1
+  Zn  Zn2  1  0.83529261  0.71977921  0.60963420  1
+  Zn  Zn3  1  0.16470748  0.28021903  0.39036539  1
+  Zn  Zn4  1  0.83529272  0.10963429  0.21977974  1
+  Zn  Zn5  1  0.16470737  0.89036396  0.78021985  1

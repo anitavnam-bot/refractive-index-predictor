@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_Al4InCuS8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.22408268
+_cell_length_b   7.22408268
+_cell_length_c   7.22408177
+_cell_angle_alpha   59.44800474
+_cell_angle_beta   59.44800474
+_cell_angle_gamma   59.44800622
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Al4InCuS8
+_chemical_formula_sum   'Al4 In1 Cu1 S8'
+_cell_volume   263.23568100
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Al  Al0  1  0.37556203  0.37556198  0.37556267  1
+  Al  Al1  1  0.52084455  0.99241449  0.99241593  1
+  Al  Al2  1  0.99241488  0.99241449  0.52084605  1
+  Al  Al3  1  0.99241433  0.52084446  0.99241605  1
+  In  In4  1  0.99496994  0.99496982  0.99497164  1
+  Cu  Cu5  1  0.62594043  0.62594035  0.62594150  1
+  S  S6  1  0.23409039  0.74515153  0.74515249  1
+  S  S7  1  0.74515191  0.74515153  0.23409145  1
+  S  S8  1  0.74515131  0.23409034  0.74515262  1
+  S  S9  1  0.75662757  0.75662748  0.75662886  1
+  S  S10  1  0.76996327  0.25190129  0.25190217  1
+  S  S11  1  0.25190103  0.25190129  0.76996391  1
+  S  S12  1  0.25190163  0.76996319  0.25190203  1
+  S  S13  1  0.24306297  0.24306294  0.24306339  1

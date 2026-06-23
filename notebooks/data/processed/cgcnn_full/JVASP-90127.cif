@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_NbReSi
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.33146419
+_cell_length_b   6.90165743
+_cell_length_c   6.90165101
+_cell_angle_alpha   120.00003662
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NbReSi
+_chemical_formula_sum   'Nb3 Re3 Si3'
+_cell_volume   137.42698367
+_cell_formula_units_Z   3
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Nb  Nb0  1  0.49999937  0.59778556  0.00000021  1
+  Nb  Nb1  1  0.49999937  0.40221052  0.40224070  1
+  Nb  Nb2  1  0.49999937  0.99996993  0.59775971  1
+  Re  Re3  1  0.00000000  0.25873236  0.00000009  1
+  Re  Re4  1  0.00000000  0.74125525  0.74127244  1
+  Re  Re5  1  0.00000000  0.99998334  0.25872809  1
+  Si  Si6  1  0.00000000  0.33331351  0.66667181  1
+  Si  Si7  1  0.00000000  0.66664102  0.33332846  1
+  Si  Si8  1  0.49999937  0.00000871  0.00000000  1

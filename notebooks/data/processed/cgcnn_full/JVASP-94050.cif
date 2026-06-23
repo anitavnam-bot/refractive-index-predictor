@@ -1,0 +1,34 @@
+# generated using pymatgen
+data_HfMg6V
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.38076927
+_cell_length_b   5.81899282
+_cell_length_c   5.00718412
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   117.12794598
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   HfMg6V
+_chemical_formula_sum   'Hf1 Mg6 V1'
+_cell_volume   165.46258232
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Hf  Hf0  1  0.14751003  0.82375577  0.24999979  1
+  Mg  Mg1  1  0.64900004  0.32423567  0.24999979  1
+  Mg  Mg2  1  0.64899999  0.82476417  0.24999979  1
+  Mg  Mg3  1  0.33457008  0.17071491  0.74999938  1
+  Mg  Mg4  1  0.33457003  0.66385680  0.74999938  1
+  Mg  Mg5  1  0.87843863  0.18921981  0.74999938  1
+  Mg  Mg6  1  0.84596592  0.67298443  0.74999938  1
+  V  V7  1  0.16094076  0.33047017  0.24999979  1

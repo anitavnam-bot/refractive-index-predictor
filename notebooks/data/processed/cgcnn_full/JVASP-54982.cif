@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_Ti4NiBi2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.79265629
+_cell_length_b   7.92081576
+_cell_length_c   7.92081541
+_cell_angle_alpha   84.74849037
+_cell_angle_beta   72.39004633
+_cell_angle_gamma   72.39003767
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ti4NiBi2
+_chemical_formula_sum   'Ti8 Ni2 Bi4'
+_cell_volume   273.16669583
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ti  Ti0  1  0.08076053  0.11554427  0.72293445  1
+  Ti  Ti1  1  0.80369585  0.27706550  0.11554400  1
+  Ti  Ti2  1  0.30369531  0.11554427  0.27706545  1
+  Ti  Ti3  1  0.58076137  0.72293435  0.11554395  1
+  Ti  Ti4  1  0.19630511  0.72293435  0.88445553  1
+  Ti  Ti5  1  0.91924043  0.88445558  0.27706507  1
+  Ti  Ti6  1  0.41923958  0.27706550  0.88445558  1
+  Ti  Ti7  1  0.69630565  0.88445558  0.72293408  1
+  Ni  Ni8  1  0.75000064  -0.00000000  -0.00000022  1
+  Ni  Ni9  1  0.25000021  -0.00000000  -0.00000007  1
+  Bi  Bi10  1  0.35922052  0.78155978  0.49999973  1
+  Bi  Bi11  1  0.64078044  0.21844007  0.49999979  1
+  Bi  Bi12  1  0.14078020  0.49999993  0.21843995  1
+  Bi  Bi13  1  0.85922075  0.49999993  0.78155958  1

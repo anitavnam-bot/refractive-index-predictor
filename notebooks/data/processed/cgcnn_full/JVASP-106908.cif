@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_K2HgBiBr6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.14944697
+_cell_length_b   8.14944697
+_cell_length_c   8.14944697
+_cell_angle_alpha   60.00000000
+_cell_angle_beta   60.00000000
+_cell_angle_gamma   60.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   K2HgBiBr6
+_chemical_formula_sum   'K2 Hg1 Bi1 Br6'
+_cell_volume   382.70965276
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.74999975  0.75000050  0.74999951  1
+  K  K1  1  0.24999992  0.25000017  0.24999984  1
+  Hg  Hg2  1  0.49999983  0.50000033  0.49999968  1
+  Bi  Bi3  1  0.00000000  0.00000000  0.00000000  1
+  Br  Br4  1  0.75203775  0.24796247  0.24796186  1
+  Br  Br5  1  0.24796222  0.24796247  0.75203772  1
+  Br  Br6  1  0.24796192  0.75203819  0.75203749  1
+  Br  Br7  1  0.24796192  0.75203819  0.24796191  1
+  Br  Br8  1  0.75203775  0.24796247  0.75203744  1
+  Br  Br9  1  0.75203744  0.75203819  0.24796163  1

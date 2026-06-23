@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_NaCaH6Ir
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.07829904
+_cell_length_b   5.07829897
+_cell_length_c   5.07829945
+_cell_angle_alpha   60.00000322
+_cell_angle_beta   60.00000370
+_cell_angle_gamma   60.00000199
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NaCaH6Ir
+_chemical_formula_sum   'Na1 Ca1 H6 Ir1'
+_cell_volume   92.60615948
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.25000037  0.24999977  0.25000003  1
+  Ca  Ca1  1  0.75000111  0.74999930  0.75000010  1
+  H  H2  1  0.76483020  0.23517039  0.23517049  1
+  H  H3  1  0.23517128  0.76482868  0.23517081  1
+  H  H4  1  0.76483052  0.76482868  0.23517066  1
+  H  H5  1  0.23517128  0.76482868  0.76482965  1
+  H  H6  1  0.76483020  0.23517039  0.76482933  1
+  H  H7  1  0.23517096  0.23517039  0.76482948  1
+  Ir  Ir8  1  0.00000000  0.00000000  0.00000000  1

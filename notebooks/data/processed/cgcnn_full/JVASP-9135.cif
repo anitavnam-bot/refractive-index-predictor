@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Sb2Rh
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.72146397
+_cell_length_b   6.66063973
+_cell_length_c   6.78961264
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   116.29578405
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sb2Rh
+_chemical_formula_sum   'Sb8 Rh4'
+_cell_volume   272.51118271
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sb  Sb0  1  0.34468370  0.63845832  0.17357736  1
+  Sb  Sb1  1  0.65531567  0.13845830  0.32642198  1
+  Sb  Sb2  1  0.65531546  0.36154172  0.82642212  1
+  Sb  Sb3  1  0.34468349  0.86154174  0.67357750  1
+  Sb  Sb4  1  0.15037176  0.36285510  0.37127928  1
+  Sb  Sb5  1  0.84962761  0.86285512  0.12872006  1
+  Sb  Sb6  1  0.84962739  0.63714494  0.62872020  1
+  Sb  Sb7  1  0.15037155  0.13714492  0.87127942  1
+  Rh  Rh8  1  0.27062944  0.00039862  0.28525463  1
+  Rh  Rh9  1  0.72936993  0.50039865  0.21474471  1
+  Rh  Rh10  1  0.72936972  0.99960142  0.71474485  1
+  Rh  Rh11  1  0.27062923  0.49960140  0.78525477  1

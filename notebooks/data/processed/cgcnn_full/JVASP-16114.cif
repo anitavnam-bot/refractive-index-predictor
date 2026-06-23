@@ -1,0 +1,32 @@
+# generated using pymatgen
+data_Mg2Ni3P
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.62270946
+_cell_length_b   4.62270919
+_cell_length_c   4.62270939
+_cell_angle_alpha   65.31622146
+_cell_angle_beta   65.31622495
+_cell_angle_gamma   65.31621494
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Mg2Ni3P
+_chemical_formula_sum   'Mg2 Ni3 P1'
+_cell_volume   77.93774066
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mg  Mg0  1  0.37384396  0.37384408  0.37384448  1
+  Mg  Mg1  1  0.62615549  0.62615569  0.62615636  1
+  Ni  Ni2  1  -0.00000051  -0.00000008  0.50000018  1
+  Ni  Ni3  1  0.00000039  0.50000004  -0.00000002  1
+  Ni  Ni4  1  0.49999984  -0.00000008  0.00000026  1
+  P  P5  1  0.00000000  0.00000000  0.00000000  1

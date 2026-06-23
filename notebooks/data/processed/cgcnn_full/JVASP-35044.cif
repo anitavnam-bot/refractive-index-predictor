@@ -1,0 +1,32 @@
+# generated using pymatgen
+data_PrZnIn
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.74112776
+_cell_length_b   4.74104039
+_cell_length_c   7.71385376
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00060967
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   PrZnIn
+_chemical_formula_sum   'Pr2 Zn2 In2'
+_cell_volume   150.16014492
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Pr  Pr0  1  0.00000000  0.00000000  0.49999976  1
+  Pr  Pr1  1  0.00000000  0.00000000  0.00000000  1
+  Zn  Zn2  1  0.33331324  0.66662507  0.74999963  1
+  Zn  Zn3  1  0.66668851  0.33337585  0.24999988  1
+  In  In4  1  0.33335483  0.66670826  0.24999988  1
+  In  In5  1  0.66664692  0.33329267  0.74999963  1

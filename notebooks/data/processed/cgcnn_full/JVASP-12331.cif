@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_K2Pb2O3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.30640601
+_cell_length_b   7.30640592
+_cell_length_c   7.30640613
+_cell_angle_alpha   109.47122120
+_cell_angle_beta   109.47122095
+_cell_angle_gamma   109.47121688
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   K2Pb2O3
+_chemical_formula_sum   'K4 Pb4 O6'
+_cell_volume   300.25450484
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.44638736  0.50000036  0.00000016  1
+  K  K1  1  0.05361335  0.05361332  0.05361332  1
+  K  K2  1  0.00000031  0.44638705  0.50000040  1
+  K  K3  1  0.50000032  0.00000000  0.44638698  1
+  Pb  Pb4  1  0.50000032  0.00000000  0.97873843  1
+  Pb  Pb5  1  0.00000069  0.97873860  0.50000056  1
+  Pb  Pb6  1  0.52126281  0.52126249  0.52126256  1
+  Pb  Pb7  1  0.97873886  0.50000036  0.00000018  1
+  O  O8  1  0.75000115  0.95631947  0.20631920  1
+  O  O9  1  0.25000054  0.54368162  0.29368155  1
+  O  O10  1  0.95631953  0.20631893  0.75000049  1
+  O  O11  1  0.20631943  0.75000054  0.95631951  1
+  O  O12  1  0.29368159  0.25000018  0.54368160  1
+  O  O13  1  0.54368178  0.29368144  0.25000024  1

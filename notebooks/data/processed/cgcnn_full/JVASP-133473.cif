@@ -1,0 +1,49 @@
+# generated using pymatgen
+data_Dy6Ag(GeS7)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.82527385
+_cell_length_b   9.82527380
+_cell_length_c   5.77839093
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   119.99999681
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Dy6Ag(GeS7)2
+_chemical_formula_sum   'Dy6 Ag1 Ge2 S14'
+_cell_volume   483.08871337
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Dy  Dy0  1  0.86475266  0.64334309  0.74464622  1
+  Dy  Dy1  1  0.77859041  0.13524693  0.74464622  1
+  Dy  Dy2  1  0.35665696  0.22140935  0.74464622  1
+  Dy  Dy3  1  0.13442379  0.35723677  0.24386056  1
+  Dy  Dy4  1  0.22281248  0.86557639  0.24386056  1
+  Dy  Dy5  1  0.64276295  0.77718754  0.24386056  1
+  Ag  Ag6  1  0.00000000  0.00000000  0.46185205  1
+  Ge  Ge7  1  0.33333274  0.66666724  0.81990709  1
+  Ge  Ge8  1  0.66666668  0.33333312  0.32575166  1
+  S  S9  1  0.42333896  0.51888472  0.98370241  1
+  S  S10  1  0.51930428  0.09548146  0.48845008  1
+  S  S11  1  0.90451815  0.42382324  0.48845008  1
+  S  S12  1  0.57617660  0.48069567  0.48845008  1
+  S  S13  1  0.66666668  0.33333312  0.94383227  1
+  S  S14  1  0.33333274  0.66666724  0.43847309  1
+  S  S15  1  0.26153762  0.16165327  0.21053988  1
+  S  S16  1  0.15907477  0.89718120  0.70513843  1
+  S  S17  1  0.10281902  0.26189421  0.70513843  1
+  S  S18  1  0.09554516  0.57666098  0.98370241  1
+  S  S19  1  0.83834645  0.09988459  0.21053988  1
+  S  S20  1  0.90011496  0.73846251  0.21053988  1
+  S  S21  1  0.73810543  0.84092529  0.70513843  1
+  S  S22  1  0.48111510  0.90445501  0.98370241  1

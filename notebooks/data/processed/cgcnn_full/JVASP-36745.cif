@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_TiReN3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.10769920
+_cell_length_b   5.10769977
+_cell_length_c   5.57420317
+_cell_angle_alpha   62.73187423
+_cell_angle_beta   62.73187179
+_cell_angle_gamma   59.99999912
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TiReN3
+_chemical_formula_sum   'Ti2 Re2 N6'
+_cell_volume   106.87302034
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ti  Ti0  1  0.99436272  0.99436401  0.01691037  1
+  Ti  Ti1  1  0.49436274  0.49436417  0.51691009  1
+  Re  Re2  1  0.29794388  0.29794442  0.10616773  1
+  Re  Re3  1  0.79794348  0.79794543  0.60616727  1
+  N  N4  1  0.41088830  0.07112379  0.81059652  1
+  N  N5  1  0.70739064  0.41089007  0.81059646  1
+  N  N6  1  0.91088828  0.20739178  0.31059680  1
+  N  N7  1  0.57112243  0.91088991  0.31059685  1
+  N  N8  1  0.07112245  0.70739279  0.81059657  1
+  N  N9  1  0.20739104  0.57112364  0.31059692  1

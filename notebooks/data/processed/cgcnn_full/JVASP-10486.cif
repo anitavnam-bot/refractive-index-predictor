@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_K3AlO3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.46489395
+_cell_length_b   6.51634644
+_cell_length_c   6.51634675
+_cell_angle_alpha   114.91140510
+_cell_angle_beta   96.72323706
+_cell_angle_gamma   96.72324222
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   K3AlO3
+_chemical_formula_sum   'K6 Al2 O6'
+_cell_volume   243.00874093
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.64725461  0.37115685  0.37115617  1
+  K  K1  1  0.35274551  0.62884387  0.62884321  1
+  K  K2  1  0.50000020  0.19490641  0.80509502  1
+  K  K3  1  0.49999991  0.80509531  0.19490536  1
+  K  K4  1  0.00000053  0.26712920  0.73287130  1
+  K  K5  1  0.00000031  0.73287134  0.26712857  1
+  Al  Al6  1  0.85429489  0.83665320  0.83665206  1
+  Al  Al7  1  0.14570522  0.16334752  0.16334731  1
+  O  O8  1  0.73716329  0.84841254  0.58360675  1
+  O  O9  1  0.26283669  0.41639283  0.15158764  1
+  O  O10  1  0.26283682  0.15158817  0.41639263  1
+  O  O11  1  0.73716342  0.58360789  0.84841173  1
+  O  O12  1  0.14673808  0.90057005  0.90056934  1
+  O  O13  1  0.85326204  0.09943067  0.09943003  1

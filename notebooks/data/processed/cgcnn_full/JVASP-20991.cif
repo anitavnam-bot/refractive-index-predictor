@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_Nd(CuO2)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.82724753
+_cell_length_b   5.82602026
+_cell_length_c   6.39296916
+_cell_angle_alpha   117.09971559
+_cell_angle_beta   117.10589319
+_cell_angle_gamma   90.01483958
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Nd(CuO2)2
+_chemical_formula_sum   'Nd2 Cu4 O8'
+_cell_volume   165.97048544
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Nd  Nd0  1  0.87499328  0.12499307  0.74998612  1
+  Nd  Nd1  1  0.12500764  0.87500715  0.25001379  1
+  Cu  Cu2  1  0.49999997  -0.00000044  -0.00000055  1
+  Cu  Cu3  1  0.50000037  0.49999962  -0.00000066  1
+  Cu  Cu4  1  0.00000049  0.50000055  0.50000050  1
+  Cu  Cu5  1  0.50000046  0.50000011  0.49999995  1
+  O  O6  1  0.70739769  0.53123322  0.85099885  1
+  O  O7  1  0.14360235  0.81976657  0.85099940  1
+  O  O8  1  0.29260323  0.46876700  0.14900105  1
+  O  O9  1  0.85639857  0.18023365  0.14900050  1
+  O  O10  1  0.53130903  0.14363667  0.35099773  1
+  O  O11  1  0.81968961  0.70736084  0.35099729  1
+  O  O12  1  0.18031131  0.29263938  0.64900262  1
+  O  O13  1  0.46869189  0.85636355  0.64900218  1

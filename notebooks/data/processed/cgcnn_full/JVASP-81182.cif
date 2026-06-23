@@ -1,0 +1,30 @@
+# generated using pymatgen
+data_Y2InHg
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   11.97427595
+_cell_length_b   12.14690973
+_cell_length_c   12.14691724
+_cell_angle_alpha   60.95841178
+_cell_angle_beta   60.45512495
+_cell_angle_gamma   60.45510846
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Y2InHg
+_chemical_formula_sum   'Y2 In1 Hg1'
+_cell_volume   1266.80637618
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Y  Y0  1  0.75573538  0.00000287  0.00000276  1
+  Y  Y1  1  0.24426264  0.99999747  0.99999679  1
+  In  In2  1  0.00000191  -0.00000000  -0.00000000  1
+  Hg  Hg3  1  0.50000021  -0.00000009  -0.00000016  1

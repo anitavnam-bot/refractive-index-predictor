@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_Zn2CoN2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.50860295
+_cell_length_b   6.70950240
+_cell_length_c   5.88727767
+_cell_angle_alpha   70.24565123
+_cell_angle_beta   72.67999160
+_cell_angle_gamma   74.85289171
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Zn2CoN2
+_chemical_formula_sum   'Zn4 Co2 N4'
+_cell_volume   122.51445637
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Zn  Zn0  1  0.65315713  0.49727016  0.20096773  1
+  Zn  Zn1  1  0.34986842  0.50323700  0.80146420  1
+  Zn  Zn2  1  0.11621395  0.17413951  0.59858397  1
+  Zn  Zn3  1  0.88683676  0.82636393  0.40386886  1
+  Co  Co4  1  0.38325181  0.10618173  0.13193938  1
+  Co  Co5  1  0.61978777  0.89432272  0.87051742  1
+  N  N6  1  0.20246883  0.35308854  0.24642206  1
+  N  N7  1  0.80055882  0.64741777  0.75603097  1
+  N  N8  1  0.48493015  0.81251509  0.22118117  1
+  N  N9  1  0.51811375  0.18799228  0.78127869  1

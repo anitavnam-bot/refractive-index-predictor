@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_CrGeTe3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.94599304
+_cell_length_b   7.94599265
+_cell_length_c   7.94599282
+_cell_angle_alpha   51.74740670
+_cell_angle_beta   51.74740691
+_cell_angle_gamma   51.74741109
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CrGeTe3
+_chemical_formula_sum   'Cr2 Ge2 Te6'
+_cell_volume   285.87556723
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cr  Cr0  1  0.33441823  0.33441898  0.33441825  1
+  Cr  Cr1  1  0.66558112  0.66558261  0.66558115  1
+  Ge  Ge2  1  0.05884773  0.05884786  0.05884773  1
+  Ge  Ge3  1  0.94115162  0.94115373  0.94115167  1
+  Te  Te4  1  0.91947946  0.54221967  0.28784873  1
+  Te  Te5  1  0.28784854  0.91948070  0.54221852  1
+  Te  Te6  1  0.54221851  0.28785006  0.91947935  1
+  Te  Te7  1  0.08051990  0.45778193  0.71215067  1
+  Te  Te8  1  0.71215081  0.08052089  0.45778088  1
+  Te  Te9  1  0.45778084  0.71215153  0.08052006  1

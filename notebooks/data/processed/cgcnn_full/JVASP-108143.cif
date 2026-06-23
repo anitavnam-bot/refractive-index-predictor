@@ -1,0 +1,32 @@
+# generated using pymatgen
+data_CrFe3B2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.04350486
+_cell_length_b   4.17318580
+_cell_length_c   4.07250832
+_cell_angle_alpha   75.40721718
+_cell_angle_beta   53.20132897
+_cell_angle_gamma   51.39145384
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CrFe3B2
+_chemical_formula_sum   'Cr1 Fe3 B2'
+_cell_volume   52.60818561
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cr  Cr0  1  0.15792211  0.84207808  0.15792225  1
+  Fe  Fe1  1  0.83592647  0.16407331  0.83592587  1
+  Fe  Fe2  1  0.66203096  0.66121933  0.33878033  1
+  Fe  Fe3  1  0.33878053  0.33796914  0.66203070  1
+  B  B4  1  0.75266796  0.74733201  0.75266761  1
+  B  B5  1  0.25266853  0.24733145  0.25266842  1

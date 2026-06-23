@@ -1,0 +1,43 @@
+# generated using pymatgen
+data_K6Cu(SiO4)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.17973872
+_cell_length_b   6.66990954
+_cell_length_c   7.55155029
+_cell_angle_alpha   83.18696494
+_cell_angle_beta   87.87859915
+_cell_angle_gamma   70.29367443
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   K6Cu(SiO4)2
+_chemical_formula_sum   'K6 Cu1 Si2 O8'
+_cell_volume   290.96174931
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.65708204  0.82992510  0.16600326  1
+  K  K1  1  0.79889452  0.30465216  0.97379334  1
+  K  K2  1  0.27515281  0.80911362  0.55850301  1
+  K  K3  1  0.72484790  0.19088556  0.44149833  1
+  K  K4  1  0.20110619  0.69534702  0.02620800  1
+  K  K5  1  0.34291866  0.17007408  0.83399808  1
+  Si  Si6  1  0.78056870  0.76233116  0.73232087  1
+  Si  Si7  1  0.21943201  0.23766802  0.26768047  1
+  Cu  Cu8  1  -0.00000010  0.49999991  0.50000041  1
+  O  O9  1  0.74298293  0.77242115  0.51065254  1
+  O  O10  1  0.56209338  0.72558879  0.84335807  1
+  O  O11  1  0.83332357  0.97280879  0.78536509  1
+  O  O12  1  0.16667713  0.02719039  0.21463624  1
+  O  O13  1  0.01965294  0.54353136  0.75443008  1
+  O  O14  1  0.43790733  0.27441039  0.15664327  1
+  O  O15  1  0.98034777  0.45646781  0.24557126  1
+  O  O16  1  0.25701778  0.22757803  0.48934880  1

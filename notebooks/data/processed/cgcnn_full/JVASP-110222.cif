@@ -1,0 +1,32 @@
+# generated using pymatgen
+data_LaAlSi
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.94708863
+_cell_length_b   7.94708863
+_cell_length_c   7.94708863
+_cell_angle_alpha   148.35315024
+_cell_angle_beta   148.35315024
+_cell_angle_gamma   45.36431425
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LaAlSi
+_chemical_formula_sum   'La2 Al2 Si2'
+_cell_volume   137.72451811
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  La  La0  1  0.62512904  0.12512902  0.49999971  1
+  La  La1  1  0.87513070  0.87512909  0.00000078  1
+  Al  Al2  1  0.45834658  0.45834573  0.00000041  1
+  Al  Al3  1  0.20834617  0.70834675  0.50000092  1
+  Si  Si4  1  0.04152546  0.54152634  0.50000078  1
+  Si  Si5  1  0.29152586  0.29152532  0.00000026  1

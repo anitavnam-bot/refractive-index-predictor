@@ -1,0 +1,30 @@
+# generated using pymatgen
+data_AgPd2Au
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.47083828
+_cell_length_b   9.47083828
+_cell_length_c   9.47083802
+_cell_angle_alpha   17.33667046
+_cell_angle_beta   17.33667046
+_cell_angle_gamma   17.33667026
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   AgPd2Au
+_chemical_formula_sum   'Ag1 Pd2 Au1'
+_cell_volume   65.82451665
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ag  Ag0  1  0.99785687  0.99785220  0.99785337  1
+  Pd  Pd1  1  0.50183703  0.50183468  0.50183527  1
+  Pd  Pd2  1  0.24880288  0.24880172  0.24880201  1
+  Au  Au3  1  0.75150938  0.75150586  0.75150675  1

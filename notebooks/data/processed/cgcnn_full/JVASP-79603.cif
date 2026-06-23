@@ -1,0 +1,30 @@
+# generated using pymatgen
+data_NpPt
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.92999488
+_cell_length_b   4.30778619
+_cell_length_c   5.64298685
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   110.37844368
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NpPt
+_chemical_formula_sum   'Np2 Pt2'
+_cell_volume   89.55424275
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Np  Np0  1  0.86549179  0.75000066  0.73098669  1
+  Np  Np1  1  0.13450635  0.25000022  0.26901338  1
+  Pt  Pt2  1  0.59681911  0.75000066  0.19364095  1
+  Pt  Pt3  1  0.40317903  0.25000022  0.80635912  1

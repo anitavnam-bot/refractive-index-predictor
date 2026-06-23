@@ -1,0 +1,39 @@
+# generated using pymatgen
+data_Na2Ti3Cl8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.82590303
+_cell_length_b   7.82590332
+_cell_length_c   7.82590471
+_cell_angle_alpha   54.84380724
+_cell_angle_beta   54.84380695
+_cell_angle_gamma   54.84380345
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Na2Ti3Cl8
+_chemical_formula_sum   'Na2 Ti3 Cl8'
+_cell_volume   298.22829826
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.16220180  0.16220157  0.16220145  1
+  Na  Na1  1  0.83779879  0.83779760  0.83779700  1
+  Ti  Ti2  1  0.49999994  0.49999974  -0.00000041  1
+  Ti  Ti3  1  0.00000029  0.49999974  0.49999944  1
+  Ti  Ti4  1  0.50000036  -0.00000030  0.49999942  1
+  Cl  Cl5  1  0.40728682  0.40728625  0.40728595  1
+  Cl  Cl6  1  0.59271377  0.59271293  0.59271250  1
+  Cl  Cl7  1  0.09707072  0.58442716  0.09707039  1
+  Cl  Cl8  1  0.09707114  0.09707050  0.58442684  1
+  Cl  Cl9  1  0.58442741  0.09707050  0.09707037  1
+  Cl  Cl10  1  0.41557318  0.90292867  0.90292808  1
+  Cl  Cl11  1  0.90292987  0.41557201  0.90292806  1
+  Cl  Cl12  1  0.90292945  0.90292867  0.41557162  1

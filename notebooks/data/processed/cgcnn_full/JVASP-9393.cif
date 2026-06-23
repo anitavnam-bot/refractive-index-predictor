@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_TbAsO4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.96857453
+_cell_length_b   5.96857486
+_cell_length_c   5.96857405
+_cell_angle_alpha   106.64993841
+_cell_angle_beta   106.64993996
+_cell_angle_gamma   115.27433808
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TbAsO4
+_chemical_formula_sum   'Tb2 As2 O8'
+_cell_volume   162.40584803
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tb  Tb0  1  0.37500109  0.62500030  0.75000001  1
+  Tb  Tb1  1  0.62500102  0.37500039  0.24999994  1
+  As  As2  1  0.87500128  0.12500013  0.75000001  1
+  As  As3  1  0.12500083  0.87500056  0.24999993  1
+  O  O4  1  0.30095961  0.23294279  0.43198371  1
+  O  O5  1  0.86897661  0.30095929  0.56801627  1
+  O  O6  1  0.23294345  0.30095893  0.93198378  1
+  O  O7  1  0.30095993  0.86897597  0.06801619  1
+  O  O8  1  0.13102549  0.69904140  0.43198368  1
+  O  O9  1  0.69904250  0.76705790  0.56801624  1
+  O  O10  1  0.69904217  0.13102472  0.93198375  1
+  O  O11  1  0.76705866  0.69904176  0.06801617  1

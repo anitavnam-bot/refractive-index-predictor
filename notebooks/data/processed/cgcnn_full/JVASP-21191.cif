@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_Ca2NiIrO6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.30935604
+_cell_length_b   5.55111555
+_cell_length_c   9.22699606
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   124.95206935
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ca2NiIrO6
+_chemical_formula_sum   'Ca4 Ni2 Ir2 O12'
+_cell_volume   222.89541604
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ca  Ca0  1  0.23172331  0.93624775  0.24900898  1
+  Ca  Ca1  1  0.76827715  0.43624734  0.25099070  1
+  Ca  Ca2  1  0.23172359  0.56375346  0.74900924  1
+  Ca  Ca3  1  0.76827744  0.06375306  0.75099096  1
+  Ni  Ni4  1  0.00000000  0.50000040  0.00000000  1
+  Ni  Ni5  1  0.00000028  0.00000000  0.50000026  1
+  Ir  Ir6  1  0.50000037  0.50000040  0.49999997  1
+  Ir  Ir7  1  0.50000009  0.00000000  -0.00000029  1
+  O  O8  1  0.14520559  0.79915754  0.95002271  1
+  O  O9  1  0.25526103  0.30052671  0.94986288  1
+  O  O10  1  0.85479544  0.29915714  0.54997749  1
+  O  O11  1  0.65361507  0.02939267  0.25260233  1
+  O  O12  1  0.34638567  0.97060813  0.74739761  1
+  O  O13  1  0.85479516  0.20084326  0.04997723  1
+  O  O14  1  0.74473972  0.69947410  0.05013706  1
+  O  O15  1  0.25526075  0.19947369  0.44986262  1
+  O  O16  1  0.74474000  0.80052711  0.55013732  1
+  O  O17  1  0.65361536  0.47060773  0.75260259  1
+  O  O18  1  0.14520531  0.70084366  0.45002245  1
+  O  O19  1  0.34638539  0.52939307  0.24739735  1

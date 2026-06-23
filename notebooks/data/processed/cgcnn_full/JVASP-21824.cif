@@ -1,0 +1,52 @@
+# generated using pymatgen
+data_Yb(Al5Fe)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.78437958
+_cell_length_b   6.78437920
+_cell_length_c   9.00983482
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   97.26239300
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Yb(Al5Fe)2
+_chemical_formula_sum   'Yb2 Al20 Fe4'
+_cell_volume   411.37600804
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Yb  Yb0  1  0.12290591  0.87709367  0.74999960  1
+  Yb  Yb1  1  0.87709349  0.12290634  0.24999987  1
+  Al  Al2  1  0.62664761  0.37335214  0.45510641  1
+  Al  Al3  1  0.37335179  0.62664787  0.95510614  1
+  Al  Al4  1  0.15623497  0.84376462  0.09633660  1
+  Al  Al5  1  0.84376443  0.15623539  0.59633634  1
+  Al  Al6  1  0.84376443  0.15623539  0.90366286  1
+  Al  Al7  1  0.15623497  0.84376462  0.40366313  1
+  Al  Al8  1  0.78085719  0.52553426  0.74999960  1
+  Al  Al9  1  0.52553381  0.78085755  0.24999987  1
+  Al  Al10  1  0.22751139  0.22751153  0.49999973  1
+  Al  Al11  1  0.13402160  0.41655231  0.74999960  1
+  Al  Al12  1  0.86597780  0.58344770  0.24999987  1
+  Al  Al13  1  0.41655219  0.13402182  0.24999987  1
+  Al  Al14  1  0.58344721  0.86597820  0.74999960  1
+  Al  Al15  1  0.62664761  0.37335214  0.04489332  1
+  Al  Al16  1  0.37335179  0.62664787  0.54489306  1
+  Al  Al17  1  0.22751139  0.22751153  0.00000000  1
+  Al  Al18  1  0.77248801  0.77248849  0.49999973  1
+  Al  Al19  1  0.77248801  0.77248849  0.00000000  1
+  Al  Al20  1  0.47446558  0.21914246  0.74999960  1
+  Al  Al21  1  0.21914220  0.47446575  0.24999987  1
+  Fe  Fe22  1  -0.00000008  0.49999985  0.49999973  1
+  Fe  Fe23  1  -0.00000008  0.49999985  0.00000000  1
+  Fe  Fe24  1  0.49999978  0.00000015  0.49999973  1
+  Fe  Fe25  1  0.49999978  0.00000015  0.00000000  1

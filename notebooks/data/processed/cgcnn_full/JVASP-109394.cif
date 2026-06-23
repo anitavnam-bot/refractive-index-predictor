@@ -1,0 +1,30 @@
+# generated using pymatgen
+data_LaThN2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.41978004
+_cell_length_b   6.41978004
+_cell_length_c   6.41978037
+_cell_angle_alpha   33.49663637
+_cell_angle_beta   33.49663637
+_cell_angle_gamma   33.49664256
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LaThN2
+_chemical_formula_sum   'La1 Th1 N2'
+_cell_volume   71.77316536
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  La  La0  1  0.00000000  0.00000000  0.00000000  1
+  Th  Th1  1  0.50000173  0.49999947  0.49999845  1
+  N  N2  1  0.24223330  0.24223221  0.24223171  1
+  N  N3  1  0.75777016  0.75776674  0.75776519  1

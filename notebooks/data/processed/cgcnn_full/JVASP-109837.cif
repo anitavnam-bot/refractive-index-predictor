@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_Na2AlAgCl6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.03152671
+_cell_length_b   7.03152671
+_cell_length_c   7.03152671
+_cell_angle_alpha   60.00000000
+_cell_angle_beta   60.00000000
+_cell_angle_gamma   60.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Na2AlAgCl6
+_chemical_formula_sum   'Na2 Al1 Ag1 Cl6'
+_cell_volume   245.82944120
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.75000018  0.75000032  0.74999938  1
+  Na  Na1  1  0.25000006  0.25000011  0.24999979  1
+  Al  Al2  1  0.00000000  0.00000000  0.00000000  1
+  Ag  Ag3  1  0.50000012  0.50000022  0.49999959  1
+  Cl  Cl4  1  0.76615412  0.23384597  0.23384545  1
+  Cl  Cl5  1  0.23384592  0.23384597  0.76615419  1
+  Cl  Cl6  1  0.23384611  0.76615447  0.76615373  1
+  Cl  Cl7  1  0.23384611  0.76615447  0.23384521  1
+  Cl  Cl8  1  0.76615412  0.23384597  0.76615397  1
+  Cl  Cl9  1  0.76615432  0.76615447  0.23384499  1

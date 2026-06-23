@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_Na2SbAs
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.13610540
+_cell_length_b   6.52471556
+_cell_length_c   12.01649687
+_cell_angle_alpha   62.98182853
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Na2SbAs
+_chemical_formula_sum   'Na8 Sb4 As4'
+_cell_volume   428.59090231
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.39892730  0.75332615  0.33688086  1
+  Na  Na1  1  0.89892767  0.24667360  0.16311955  1
+  Na  Na2  1  0.60107345  0.24667349  0.66311964  1
+  Na  Na3  1  0.10107308  0.75332603  0.83688094  1
+  Na  Na4  1  0.67032412  0.78881831  0.03534549  1
+  Na  Na5  1  0.17032374  0.21118143  0.46465492  1
+  Na  Na6  1  0.32967663  0.21118132  0.96465501  1
+  Na  Na7  1  0.82967701  0.78881820  0.53534558  1
+  Sb  Sb8  1  0.90684991  0.69203861  0.29380523  1
+  Sb  Sb9  1  0.40684954  0.30796114  0.20619519  1
+  Sb  Sb10  1  0.09315084  0.30796102  0.70619527  1
+  Sb  Sb11  1  0.59315121  0.69203849  0.79380531  1
+  As  As12  1  0.16772375  0.69959166  0.10790863  1
+  As  As13  1  0.66772412  0.30040808  0.39209179  1
+  As  As14  1  0.83227700  0.30040797  0.89209187  1
+  As  As15  1  0.33227663  0.69959155  0.60790871  1

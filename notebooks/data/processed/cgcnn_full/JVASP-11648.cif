@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_Al(NiO2)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.74866551
+_cell_length_b   5.74864317
+_cell_length_c   5.74847474
+_cell_angle_alpha   119.31186242
+_cell_angle_beta   120.11265814
+_cell_angle_gamma   90.50180712
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Al(NiO2)2
+_chemical_formula_sum   'Al2 Ni4 O8'
+_cell_volume   134.89801467
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Al  Al0  1  0.00000039  0.49999998  0.00000038  1
+  Al  Al1  1  0.50000071  0.50000012  0.50000095  1
+  Ni  Ni2  1  0.37496874  0.12496209  0.75000403  1
+  Ni  Ni3  1  0.62503267  0.87503815  0.24999787  1
+  Ni  Ni4  1  0.00000085  0.49999993  0.50000087  1
+  Ni  Ni5  1  0.00000000  0.00000000  0.00000000  1
+  O  O6  1  0.75514298  0.73657441  0.51853667  1
+  O  O7  1  0.21803522  0.73660732  0.98146131  1
+  O  O8  1  0.75822156  0.72751200  0.96931556  1
+  O  O9  1  0.24485844  0.26342583  0.48146523  1
+  O  O10  1  0.24179994  0.71109252  0.46931540  1
+  O  O11  1  0.78196619  0.26339292  0.01854059  1
+  O  O12  1  0.75820147  0.28890772  0.53068650  1
+  O  O13  1  0.24177986  0.27248824  0.03068634  1

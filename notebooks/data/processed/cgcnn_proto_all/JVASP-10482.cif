@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_CdCuF4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.39154768
+_cell_length_b   5.39154708
+_cell_length_c   6.43538309
+_cell_angle_alpha   114.76507996
+_cell_angle_beta   114.76508406
+_cell_angle_gamma   89.99999988
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CdCuF4
+_chemical_formula_sum   'Cd2 Cu2 F8'
+_cell_volume   150.70912322
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cd  Cd0  1  0.75000055  0.75000064  0.50000162  1
+  Cd  Cd1  1  0.25000016  0.25000031  0.50000076  1
+  Cu  Cu2  1  0.50000042  0.00000000  0.00000045  1
+  Cu  Cu3  1  -0.00000002  0.50000033  0.00000041  1
+  F  F4  1  0.94620308  0.44620270  0.25560446  1
+  F  F5  1  0.69059975  0.19059959  0.74439819  1
+  F  F6  1  0.05379764  0.55379826  0.74439792  1
+  F  F7  1  0.19059934  0.05379793  0.74439763  1
+  F  F8  1  0.30940096  0.80940137  0.25560419  1
+  F  F9  1  0.44620267  0.30940104  0.25560391  1
+  F  F10  1  0.80940137  0.94620303  0.25560475  1
+  F  F11  1  0.55379805  0.69059992  0.74439847  1

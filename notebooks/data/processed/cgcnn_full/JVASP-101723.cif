@@ -1,0 +1,34 @@
+# generated using pymatgen
+data_Fe4Se3Br
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.62071582
+_cell_length_b   6.62071582
+_cell_length_c   6.62071582
+_cell_angle_alpha   133.55725769
+_cell_angle_beta   133.55725769
+_cell_angle_gamma   67.78035313
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Fe4Se3Br
+_chemical_formula_sum   'Fe4 Se3 Br1'
+_cell_volume   149.80602012
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Fe  Fe0  1  0.24902504  0.24902489  0.49718301  1
+  Fe  Fe1  1  0.75184328  0.75184327  0.50281782  1
+  Fe  Fe2  1  0.24902508  0.75184327  0.00000013  1
+  Fe  Fe3  1  0.75184328  0.24902536  0.00000033  1
+  Se  Se4  1  0.87310677  0.87310701  0.00000040  1
+  Se  Se5  1  0.62676288  0.12676300  0.50000045  1
+  Se  Se6  1  0.12676297  0.62676263  0.50000026  1
+  Br  Br7  1  0.37162926  0.37162936  0.00000017  1

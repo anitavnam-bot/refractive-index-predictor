@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_NaPr2IrO6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.55193984
+_cell_length_b   6.00702805
+_cell_length_c   9.66776801
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   124.19678117
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NaPr2IrO6
+_chemical_formula_sum   'Na2 Pr4 Ir2 O12'
+_cell_volume   266.68281614
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  -0.00000066  0.50000016  0.49999978  1
+  Na  Na1  1  0.00000000  0.00000000  0.00000000  1
+  Pr  Pr2  1  0.77373656  0.42553146  0.75223197  1
+  Pr  Pr3  1  0.77373722  0.07446871  0.25223220  1
+  Pr  Pr4  1  0.22626185  0.92553162  0.74776771  1
+  Pr  Pr5  1  0.22626251  0.57446887  0.24776793  1
+  Ir  Ir6  1  0.49999953  0.00000000  0.49999995  1
+  Ir  Ir7  1  0.50000019  0.50000016  0.00000017  1
+  O  O8  1  0.15304826  0.82365198  0.44903560  1
+  O  O9  1  0.84695146  0.32365182  0.05096453  1
+  O  O10  1  0.62049266  0.45720006  0.23451807  1
+  O  O11  1  0.37950706  0.95720022  0.26548205  1
+  O  O12  1  0.37950640  0.54280026  0.76548183  1
+  O  O13  1  0.27150521  0.21675917  0.93706091  1
+  O  O14  1  0.72849385  0.78324116  0.06293899  1
+  O  O15  1  0.27150587  0.28324099  0.43706113  1
+  O  O16  1  0.15304760  0.67634851  0.94903537  1
+  O  O17  1  0.72849319  0.71675933  0.56293877  1
+  O  O18  1  0.62049200  0.04280010  0.73451785  1
+  O  O19  1  0.84695080  0.17634835  0.55096431  1

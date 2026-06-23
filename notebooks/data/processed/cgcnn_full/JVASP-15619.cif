@@ -1,0 +1,31 @@
+# generated using pymatgen
+data_Tb(MnSi)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.90658619
+_cell_length_b   3.90658640
+_cell_length_c   5.86482754
+_cell_angle_alpha   109.45412720
+_cell_angle_beta   109.45413491
+_cell_angle_gamma   90.00000101
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Tb(MnSi)2
+_chemical_formula_sum   'Tb1 Mn2 Si2'
+_cell_volume   78.95551530
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tb  Tb0  1  0.00000000  0.00000000  0.00000000  1
+  Mn  Mn1  1  0.25000007  0.74999996  0.50000097  1
+  Mn  Mn2  1  0.75000109  0.24999994  0.50000119  1
+  Si  Si3  1  0.62115489  0.62115460  0.24231036  1
+  Si  Si4  1  0.37884626  0.37884530  0.75769181  1

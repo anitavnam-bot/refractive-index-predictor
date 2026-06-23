@@ -1,0 +1,39 @@
+# generated using pymatgen
+data_Dy4(FeB2)3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.77570132
+_cell_length_b   7.77570132
+_cell_length_c   7.77570124
+_cell_angle_alpha   39.68227177
+_cell_angle_beta   39.68227177
+_cell_angle_gamma   39.68226716
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Dy4(FeB2)3
+_chemical_formula_sum   'Dy4 Fe3 B6'
+_cell_volume   172.60543554
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Dy  Dy0  1  0.74224904  0.74224904  0.74224708  1
+  Dy  Dy1  1  0.25775173  0.25775173  0.25775105  1
+  Dy  Dy2  1  0.59057681  0.59057681  0.59057526  1
+  Dy  Dy3  1  0.40942396  0.40942396  0.40942288  1
+  Fe  Fe4  1  0.00000000  0.00000000  0.00000000  1
+  Fe  Fe5  1  0.89156072  0.89156072  0.89155837  1
+  Fe  Fe6  1  0.10844005  0.10844005  0.10843976  1
+  B  B7  1  0.16740384  0.50000056  0.83259574  1
+  B  B8  1  0.50000021  0.83259693  0.16740240  1
+  B  B9  1  0.83259710  0.16740367  0.49999907  1
+  B  B10  1  0.83259693  0.50000021  0.16740240  1
+  B  B11  1  0.50000056  0.16740384  0.83259574  1
+  B  B12  1  0.16740367  0.83259710  0.49999907  1

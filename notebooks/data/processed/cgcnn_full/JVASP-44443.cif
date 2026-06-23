@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_Co3SnO8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.65758395
+_cell_length_b   5.65755129
+_cell_length_c   9.34658564
+_cell_angle_alpha   89.99931591
+_cell_angle_beta   90.00034569
+_cell_angle_gamma   119.99979894
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Co3SnO8
+_chemical_formula_sum   'Co6 Sn2 O16'
+_cell_volume   259.08603699
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Co  Co0  1  0.16747887  0.83252226  0.21354655  1
+  Co  Co1  1  0.16748305  0.33497574  0.21354944  1
+  Co  Co2  1  0.66503770  0.83252526  0.21354686  1
+  Co  Co3  1  0.33495971  0.16748588  0.71354694  1
+  Co  Co4  1  0.83251793  0.66504384  0.71354768  1
+  Co  Co5  1  0.83251497  0.16749075  0.71354957  1
+  Sn  Sn6  1  0.33334671  0.66668354  0.49181035  1
+  Sn  Sn7  1  0.66665026  0.33333422  0.99181046  1
+  O  O8  1  0.84410079  0.68821033  0.10747924  1
+  O  O9  1  0.66666163  0.33334244  0.61113022  1
+  O  O10  1  0.51526706  0.03053721  0.82631711  1
+  O  O11  1  0.51526162  0.48473766  0.82631322  1
+  O  O12  1  0.68822950  0.84413077  0.60746894  1
+  O  O13  1  0.31176808  0.15590023  0.10746855  1
+  O  O14  1  0.48473073  0.51527026  0.32631702  1
+  O  O15  1  0.00000268  0.00000577  0.31289866  1
+  O  O16  1  0.15589978  0.31180480  0.60748047  1
+  O  O17  1  0.99999581  0.00000252  0.81289881  1
+  O  O18  1  0.96945251  0.48473451  0.82632182  1
+  O  O19  1  0.33333594  0.66668069  0.11113011  1
+  O  O20  1  0.03054472  0.51528045  0.32632168  1
+  O  O21  1  0.15589614  0.84410638  0.60747958  1
+  O  O22  1  0.48473505  0.96947460  0.32631313  1
+  O  O23  1  0.84409845  0.15590376  0.10748013  1

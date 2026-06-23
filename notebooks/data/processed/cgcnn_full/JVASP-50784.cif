@@ -1,0 +1,37 @@
+# generated using pymatgen
+data_Y2Bi2O7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.97752238
+_cell_length_b   5.97752238
+_cell_length_c   5.84226342
+_cell_angle_alpha   84.72175824
+_cell_angle_beta   95.27824176
+_cell_angle_gamma   75.91042903
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Y2Bi2O7
+_chemical_formula_sum   'Y2 Bi2 O7'
+_cell_volume   200.19112327
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Y  Y0  1  0.69525284  0.69525284  0.00000000  1
+  Y  Y1  1  0.30474778  0.30474778  0.00000000  1
+  Bi  Bi2  1  0.26209372  0.73790691  0.40408586  1
+  Bi  Bi3  1  0.73790666  0.26209396  0.59591458  1
+  O  O4  1  0.05342666  0.57979279  0.18767215  1
+  O  O5  1  0.42020783  0.94657396  0.18767215  1
+  O  O6  1  0.45727764  0.54272298  0.75039963  1
+  O  O7  1  -0.00000012  0.00000012  0.50000022  1
+  O  O8  1  0.54272274  0.45727788  0.24960082  1
+  O  O9  1  0.94657372  0.42020807  0.81232830  1
+  O  O10  1  0.57979255  0.05342690  0.81232830  1

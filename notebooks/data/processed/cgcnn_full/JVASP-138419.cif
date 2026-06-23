@@ -1,0 +1,30 @@
+# generated using pymatgen
+data_Ca3As
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.07284784
+_cell_length_b   9.18150780
+_cell_length_c   4.13551453
+_cell_angle_alpha   132.48784622
+_cell_angle_beta   125.76498063
+_cell_angle_gamma   49.58424718
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ca3As
+_chemical_formula_sum   'Ca3 As1'
+_cell_volume   145.55203939
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ca  Ca0  1  0.12433027  0.85422167  0.04677874  1
+  Ca  Ca1  1  0.78848069  0.52577491  0.71799976  1
+  Ca  Ca2  1  0.46013424  0.18251922  0.37467939  1
+  As  As3  1  0.62437031  0.85411791  0.54633926  1

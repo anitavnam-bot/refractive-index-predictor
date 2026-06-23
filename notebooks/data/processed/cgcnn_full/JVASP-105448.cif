@@ -1,0 +1,32 @@
+# generated using pymatgen
+data_Mn2CuSb2Pd
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.57127671
+_cell_length_b   7.57127671
+_cell_length_c   7.57127624
+_cell_angle_alpha   33.34598175
+_cell_angle_beta   33.34598175
+_cell_angle_gamma   33.34598706
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Mn2CuSb2Pd
+_chemical_formula_sum   'Mn2 Cu1 Sb2 Pd1'
+_cell_volume   116.77257575
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mn  Mn0  1  0.75015742  0.75015827  0.75015771  1
+  Mn  Mn1  1  0.24885967  0.24885996  0.24885977  1
+  Cu  Cu2  1  0.12524885  0.12524899  0.12524890  1
+  Sb  Sb3  1  0.00279878  0.00279879  0.00279878  1
+  Sb  Sb4  1  0.49834614  0.49834671  0.49834634  1
+  Pd  Pd5  1  0.62458701  0.62458772  0.62458725  1

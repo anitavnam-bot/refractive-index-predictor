@@ -1,0 +1,32 @@
+# generated using pymatgen
+data_Y2Mn3Fe
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.21474125
+_cell_length_b   5.21474118
+_cell_length_c   5.21474110
+_cell_angle_alpha   57.23633368
+_cell_angle_beta   57.23633401
+_cell_angle_gamma   57.23634002
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Y2Mn3Fe
+_chemical_formula_sum   'Y2 Mn3 Fe1'
+_cell_volume   93.89061598
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Y  Y0  1  0.62322513  0.62322596  0.62322308  1
+  Y  Y1  1  0.37677489  0.37677539  0.37677365  1
+  Mn  Mn2  1  0.00000011  0.50000055  -0.00000080  1
+  Mn  Mn3  1  0.50000011  0.00000006  -0.00000056  1
+  Mn  Mn4  1  -0.00000021  0.00000006  0.49999973  1
+  Fe  Fe5  1  0.00000000  0.00000000  0.00000000  1

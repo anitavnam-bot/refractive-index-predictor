@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_TiCuGe
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.80385688
+_cell_length_b   6.29285031
+_cell_length_c   7.32169313
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TiCuGe
+_chemical_formula_sum   'Ti4 Cu4 Ge4'
+_cell_volume   175.26011489
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ti  Ti0  1  0.25000021  0.02368583  0.81747746  1
+  Ti  Ti1  1  0.25000021  0.52368580  0.68252190  1
+  Ti  Ti2  1  0.75000062  0.97631412  0.18252211  1
+  Ti  Ti3  1  0.75000062  0.47631415  0.31747767  1
+  Cu  Cu4  1  0.25000021  0.15090670  0.43394054  1
+  Cu  Cu5  1  0.25000021  0.65090667  0.06605925  1
+  Cu  Cu6  1  0.75000062  0.84909325  0.56605903  1
+  Cu  Cu7  1  0.75000062  0.34909328  0.93394033  1
+  Ge  Ge8  1  0.25000021  0.76038441  0.38066707  1
+  Ge  Ge9  1  0.25000021  0.26038444  0.11933271  1
+  Ge  Ge10  1  0.75000062  0.23961554  0.61933250  1
+  Ge  Ge11  1  0.75000062  0.73961551  0.88066686  1

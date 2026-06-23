@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_Ca2ScOsO6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.66006690
+_cell_length_b   5.47589775
+_cell_length_c   9.54861894
+_cell_angle_alpha   55.19019059
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ca2ScOsO6
+_chemical_formula_sum   'Ca4 Sc2 Os2 O12'
+_cell_volume   242.98969075
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ca  Ca0  1  0.94505531  0.23654359  0.74965240  1
+  Ca  Ca1  1  0.55494551  0.23654404  0.24965219  1
+  Ca  Ca2  1  0.05494523  0.76345558  0.25034777  1
+  Ca  Ca3  1  0.44505504  0.76345513  0.75034798  1
+  Sc  Sc4  1  0.00000000  0.50000003  -0.00000012  1
+  Sc  Sc5  1  0.50000027  0.49999958  0.50000009  1
+  Os  Os6  1  0.00000000  -0.00000044  0.50000021  1
+  Os  Os7  1  0.50000027  0.00000000  0.00000000  1
+  O  O8  1  0.70990017  0.13965561  0.55202761  1
+  O  O9  1  0.79010065  0.13965606  0.05202740  1
+  O  O10  1  0.19632774  0.24297650  0.54966381  1
+  O  O11  1  0.30367253  0.24297694  0.04966360  1
+  O  O12  1  0.80367281  0.75702267  0.45033636  1
+  O  O13  1  0.96792993  0.33985593  0.25739342  1
+  O  O14  1  0.03207062  0.66014324  0.74260676  1
+  O  O15  1  0.46792965  0.66014368  0.24260655  1
+  O  O16  1  0.20989990  0.86034311  0.94797277  1
+  O  O17  1  0.53207089  0.33985549  0.75739363  1
+  O  O18  1  0.69632802  0.75702222  0.95033657  1
+  O  O19  1  0.29010037  0.86034355  0.44797256  1

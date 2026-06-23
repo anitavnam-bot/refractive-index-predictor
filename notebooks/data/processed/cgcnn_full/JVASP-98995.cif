@@ -1,0 +1,52 @@
+# generated using pymatgen
+data_BaTeMo2O9
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.54228617
+_cell_length_b   7.52552636
+_cell_length_c   8.88275836
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.65632299
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   BaTeMo2O9
+_chemical_formula_sum   'Ba2 Te2 Mo4 O18'
+_cell_volume   370.46329173
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.27214750  0.74743087  0.06662563  1
+  Ba  Ba1  1  0.72785236  0.24743063  0.93337407  1
+  Te  Te2  1  0.62846245  0.51009060  0.42024894  1
+  Te  Te3  1  0.37153741  0.01009036  0.57975075  1
+  Mo  Mo4  1  0.22394228  0.27291922  0.22959029  1
+  Mo  Mo5  1  0.77605758  0.77291946  0.77040941  1
+  Mo  Mo6  1  0.78462512  0.95159834  0.32557514  1
+  Mo  Mo7  1  0.21537474  0.45159810  0.67442455  1
+  O  O8  1  0.98032844  0.93555436  0.83217626  1
+  O  O9  1  0.01967142  0.43555412  0.16782343  1
+  O  O10  1  0.48963879  0.89006141  0.80532624  1
+  O  O11  1  0.51036107  0.39006117  0.19467345  1
+  O  O12  1  0.44402010  0.08983479  0.36958020  1
+  O  O13  1  0.28698592  0.46644043  0.86764139  1
+  O  O14  1  0.54130887  0.72900030  0.32939317  1
+  O  O15  1  0.70504241  0.92981599  0.55798579  1
+  O  O16  1  0.29495745  0.42981575  0.44201391  1
+  O  O17  1  0.22025960  0.12164293  0.07965079  1
+  O  O18  1  0.77974025  0.62164317  0.92034890  1
+  O  O19  1  0.96385785  0.15695635  0.35626918  1
+  O  O20  1  0.03614201  0.65695659  0.64373052  1
+  O  O21  1  0.01951426  0.79870008  0.33378931  1
+  O  O22  1  0.98048560  0.29869984  0.66621039  1
+  O  O23  1  0.71301394  0.96644067  0.13235830  1
+  O  O24  1  0.45869099  0.22900005  0.67060652  1
+  O  O25  1  0.55597976  0.58983504  0.63041949  1

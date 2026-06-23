@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_MnAgO3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.01872555
+_cell_length_b   5.95203469
+_cell_length_c   5.01914278
+_cell_angle_alpha   114.94538921
+_cell_angle_beta   60.00249638
+_cell_angle_gamma   114.92832684
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   MnAgO3
+_chemical_formula_sum   'Mn2 Ag2 O6'
+_cell_volume   113.41897392
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mn  Mn0  1  0.33982422  0.01941509  0.33976774  1
+  Mn  Mn1  1  0.66017520  0.98058446  0.66023201  1
+  Ag  Ag2  1  0.13808044  0.41441893  0.13820190  1
+  Ag  Ag3  1  0.86191903  0.58558072  0.86179795  1
+  O  O4  1  0.06068061  0.20338126  0.45749779  1
+  O  O5  1  0.54264213  0.79661961  0.31470778  1
+  O  O6  1  0.31483955  0.79662175  0.93917890  1
+  O  O7  1  0.68516006  0.20337805  0.06082095  1
+  O  O8  1  0.45735731  0.20338017  0.68529213  1
+  O  O9  1  0.93931889  0.79661855  0.54250191  1

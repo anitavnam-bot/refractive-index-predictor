@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_Na2PrCuCl6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.36755796
+_cell_length_b   7.36755770
+_cell_length_c   7.36755822
+_cell_angle_alpha   60.00000209
+_cell_angle_beta   60.00000326
+_cell_angle_gamma   59.99999845
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Na2PrCuCl6
+_chemical_formula_sum   'Na2 Pr1 Cu1 Cl6'
+_cell_volume   282.78456292
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.74999938  0.75000054  0.75000050  1
+  Na  Na1  1  0.24999979  0.25000018  0.25000017  1
+  Pr  Pr2  1  0.00000000  0.00000000  0.00000000  1
+  Cu  Cu3  1  0.49999958  0.50000036  0.50000034  1
+  Cl  Cl4  1  0.73891776  0.26108202  0.26108219  1
+  Cl  Cl5  1  0.26108161  0.26108202  0.73891846  1
+  Cl  Cl6  1  0.26108141  0.73891870  0.73891848  1
+  Cl  Cl7  1  0.26108141  0.73891870  0.26108203  1
+  Cl  Cl8  1  0.73891776  0.26108202  0.73891865  1
+  Cl  Cl9  1  0.73891756  0.73891870  0.26108221  1

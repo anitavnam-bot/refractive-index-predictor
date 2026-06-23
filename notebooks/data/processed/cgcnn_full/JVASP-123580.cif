@@ -1,0 +1,30 @@
+# generated using pymatgen
+data_HoP3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.66025492
+_cell_length_b   3.99490512
+_cell_length_c   5.54828437
+_cell_angle_alpha   93.80053390
+_cell_angle_beta   109.25994499
+_cell_angle_gamma   90.00000066
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   HoP3
+_chemical_formula_sum   'Ho1 P3'
+_cell_volume   76.39940539
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ho  Ho0  1  0.33948296  -0.01959956  0.67896846  1
+  P  P1  1  0.62162789  0.07461620  0.24325543  1
+  P  P2  1  0.12403196  0.44908750  0.24806447  1
+  P  P3  1  0.91485352  0.49589841  0.82971097  1

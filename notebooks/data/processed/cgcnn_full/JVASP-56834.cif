@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_Ho7FeI12
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.52331646
+_cell_length_b   9.52331533
+_cell_length_c   9.52331611
+_cell_angle_alpha   106.88954829
+_cell_angle_beta   106.88954705
+_cell_angle_gamma   106.88954565
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ho7FeI12
+_chemical_formula_sum   'Ho7 Fe1 I12'
+_cell_volume   721.45668236
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ho  Ho0  1  0.20858986  0.47671939  0.40735040  1
+  Ho  Ho1  1  0.59264888  0.79140983  0.52328026  1
+  Ho  Ho2  1  0.52328020  0.59264942  0.79140944  1
+  Ho  Ho3  1  0.40735034  0.20859009  0.47671905  1
+  Ho  Ho4  1  0.00000000  0.00000000  0.00000000  1
+  Ho  Ho5  1  0.47671901  0.40735051  0.20858987  1
+  Ho  Ho6  1  0.79140936  0.52328054  0.59264891  1
+  Fe  Fe7  1  0.49999961  0.49999996  0.49999966  1
+  I  I8  1  0.57367483  0.73127589  0.17800537  1
+  I  I9  1  0.17800535  0.57367542  0.73127572  1
+  I  I10  1  0.88925257  0.65731672  0.96888462  1
+  I  I11  1  0.42632439  0.26872404  0.82199394  1
+  I  I12  1  0.96888454  0.88925306  0.65731620  1
+  I  I13  1  0.26872361  0.82199439  0.42632447  1
+  I  I14  1  0.73127561  0.17800553  0.57367484  1
+  I  I15  1  0.11074665  0.34268321  0.03111470  1
+  I  I16  1  0.03111468  0.11074686  0.34268311  1
+  I  I17  1  0.34268306  0.03111466  0.11074663  1
+  I  I18  1  0.82199387  0.42632451  0.26872359  1
+  I  I19  1  0.65731616  0.96888526  0.88925268  1

@@ -1,0 +1,44 @@
+# generated using pymatgen
+data_RbFeCuF6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.30464954
+_cell_length_b   7.30464954
+_cell_length_c   7.30464954
+_cell_angle_alpha   121.60967404
+_cell_angle_beta   118.72253422
+_cell_angle_gamma   89.73081507
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   RbFeCuF6
+_chemical_formula_sum   'Rb2 Fe2 Cu2 F12'
+_cell_volume   274.68782761
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Rb  Rb0  1  0.36583363  0.61583418  0.74999989  1
+  Rb  Rb1  1  0.63416544  0.38416582  0.25000005  1
+  Fe  Fe2  1  0.00000000  0.00000000  0.00000000  1
+  Fe  Fe3  1  0.49999967  -0.00000001  0.50000025  1
+  Cu  Cu4  1  -0.00000026  -0.00000008  0.50000007  1
+  Cu  Cu5  1  -0.00000014  0.50000001  -0.00000029  1
+  F  F6  1  0.07630344  0.92885273  0.75879819  1
+  F  F7  1  0.67005368  0.31750550  0.74120158  1
+  F  F8  1  0.07599622  0.32599660  0.74999995  1
+  F  F9  1  0.68217054  0.93217127  0.74999982  1
+  F  F10  1  0.92369514  0.68249449  0.85254980  1
+  F  F11  1  0.32994539  0.68249450  0.25879835  1
+  F  F12  1  0.92369563  0.07114727  0.24120175  1
+  F  F13  1  0.67005371  0.92885288  0.35254949  1
+  F  F14  1  0.92400285  0.67400340  0.24999999  1
+  F  F15  1  0.31782853  0.06782873  0.25000011  1
+  F  F16  1  0.32994535  0.07114712  0.64745044  1
+  F  F17  1  0.07630392  0.31750551  0.14745014  1

@@ -1,0 +1,30 @@
+# generated using pymatgen
+data_Cl3Ne
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.73522459
+_cell_length_b   3.28340672
+_cell_length_c   10.10070847
+_cell_angle_alpha   100.43534524
+_cell_angle_beta   71.43179569
+_cell_angle_gamma   124.66680810
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Cl3Ne
+_chemical_formula_sum   'Cl3 Ne1'
+_cell_volume   96.58251648
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ne  Ne0  1  0.74989688  1.00000163  0.37502261  1
+  Cl  Cl1  1  -0.01714766  0.00000001  0.64351754  1
+  Cl  Cl2  1  0.75007038  0.00000006  0.87498336  1
+  Cl  Cl3  1  0.51718088  0.00000003  0.10647681  1

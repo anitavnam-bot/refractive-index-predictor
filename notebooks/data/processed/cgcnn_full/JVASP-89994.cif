@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_MnAsRu
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.88375694
+_cell_length_b   5.98246562
+_cell_length_c   5.98243335
+_cell_angle_alpha   120.00016866
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   MnAsRu
+_chemical_formula_sum   'Mn3 As3 Ru3'
+_cell_volume   120.37603016
+_cell_formula_units_Z   3
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mn  Mn0  1  0.00000000  0.24735610  -0.00000019  1
+  Mn  Mn1  1  0.00000000  0.75258972  0.75260645  1
+  Mn  Mn2  1  0.00000000  0.99998282  0.24739217  1
+  As  As3  1  0.00000000  0.33331932  0.66667619  1
+  As  As4  1  0.00000000  0.66664190  0.33332300  1
+  As  As5  1  0.50000039  0.00001487  -0.00000000  1
+  Ru  Ru6  1  0.50000039  0.59189696  -0.00000045  1
+  Ru  Ru7  1  0.50000039  0.40812812  0.40815967  1
+  Ru  Ru8  1  0.50000039  -0.00003187  0.59183998  1

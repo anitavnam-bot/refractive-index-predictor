@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_MgCrGaS4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.23937223
+_cell_length_b   7.27309772
+_cell_length_c   7.27309970
+_cell_angle_alpha   59.62026603
+_cell_angle_beta   60.15317560
+_cell_angle_gamma   60.15318897
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   MgCrGaS4
+_chemical_formula_sum   'Mg2 Cr2 Ga2 S8'
+_cell_volume   270.61943363
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mg  Mg0  1  0.87386176  0.87613796  0.87613946  1
+  Mg  Mg1  1  0.12614011  0.12386075  0.12386133  1
+  Cr  Cr2  1  0.50000073  0.49999968  -0.00000009  1
+  Cr  Cr3  1  0.50000031  -0.00000070  0.50000007  1
+  Ga  Ga4  1  0.50000131  0.49999988  0.49999944  1
+  Ga  Ga5  1  0.00000060  0.49999943  0.50000196  1
+  S  S6  1  0.73307894  0.74075252  0.74075301  1
+  S  S7  1  0.26636725  0.25247302  0.71479355  1
+  S  S8  1  0.26636748  0.71479243  0.25247447  1
+  S  S9  1  0.71458509  0.25924641  0.25924717  1
+  S  S10  1  0.73363417  0.28520635  0.74752611  1
+  S  S11  1  0.28541684  0.74075176  0.74075329  1
+  S  S12  1  0.26692185  0.25924726  0.25924749  1
+  S  S13  1  0.73363488  0.74752530  0.28520710  1

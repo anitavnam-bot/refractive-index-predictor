@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_K2GaHgI6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.30298626
+_cell_length_b   8.30298643
+_cell_length_c   8.30298629
+_cell_angle_alpha   60.00000055
+_cell_angle_beta   59.99999989
+_cell_angle_gamma   59.99999836
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   K2GaHgI6
+_chemical_formula_sum   'K2 Ga1 Hg1 I6'
+_cell_volume   404.75103380
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.75000073  0.75000000  0.74999940  1
+  K  K1  1  0.25000024  0.25000000  0.24999980  1
+  Ga  Ga2  1  0.00000000  0.00000000  0.00000000  1
+  Hg  Hg3  1  0.50000048  0.50000000  0.49999960  1
+  I  I4  1  0.75684243  0.24315802  0.24315752  1
+  I  I5  1  0.24315825  0.24315802  0.75684202  1
+  I  I6  1  0.24315854  0.75684198  0.75684168  1
+  I  I7  1  0.24315854  0.75684198  0.24315749  1
+  I  I8  1  0.75684243  0.24315802  0.75684172  1
+  I  I9  1  0.75684271  0.75684198  0.24315719  1

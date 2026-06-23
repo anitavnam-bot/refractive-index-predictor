@@ -1,0 +1,34 @@
+# generated using pymatgen
+data_Zr2NiP
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.26973496
+_cell_length_b   3.66040879
+_cell_length_c   7.47818703
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   110.51694093
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Zr2NiP
+_chemical_formula_sum   'Zr4 Ni2 P2'
+_cell_volume   135.09966718
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Zr  Zr0  1  0.71569037  0.25000008  0.92378509  1
+  Zr  Zr1  1  0.28430974  0.75000025  0.07621582  1
+  Zr  Zr2  1  0.22110268  0.25000008  0.43106589  1
+  Zr  Zr3  1  0.77889742  0.75000025  0.56893502  1
+  Ni  Ni4  1  0.64564742  0.25000008  0.29138929  1
+  Ni  Ni5  1  0.35435269  0.75000025  0.70861162  1
+  P  P6  1  0.13981521  0.25000008  0.79016180  1
+  P  P7  1  0.86018490  0.75000025  0.20983911  1

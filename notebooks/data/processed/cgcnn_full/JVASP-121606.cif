@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_MnCoCu4(SnS4)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.42525213
+_cell_length_b   6.67484763
+_cell_length_c   10.18124675
+_cell_angle_alpha   90.40489747
+_cell_angle_beta   105.46730505
+_cell_angle_gamma   113.98250312
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   MnCoCu4(SnS4)2
+_chemical_formula_sum   'Mn1 Co1 Cu4 Sn2 S8'
+_cell_volume   321.85825957
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mn  Mn0  1  0.37433155  0.62659526  0.12426157  1
+  Co  Co1  1  0.87301018  0.12325958  0.62546710  1
+  Cu  Cu2  1  0.62295180  0.37206587  0.87045744  1
+  Cu  Cu3  1  0.12688880  0.87804887  0.37952402  1
+  Cu  Cu4  1  0.99570832  0.00268135  0.99613686  1
+  Cu  Cu5  1  0.50407122  0.49776852  0.50417727  1
+  Sn  Sn6  1  0.25103686  0.74876141  0.74614141  1
+  Sn  Sn7  1  0.74906002  0.25068177  0.25363395  1
+  S  S8  1  0.42653787  0.31109066  0.05104649  1
+  S  S9  1  0.91576568  0.82162929  0.55399213  1
+  S  S10  1  0.20975325  0.57851624  0.32139179  1
+  S  S11  1  0.71415095  0.08058512  0.81039020  1
+  S  S12  1  0.30268840  0.40948356  0.68233682  1
+  S  S13  1  0.82848257  0.93016412  0.18561493  1
+  S  S14  1  0.04573474  0.68584142  0.94150092  1
+  S  S15  1  0.55982536  0.18282351  0.45392988  1

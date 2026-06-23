@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_ErZnPt
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.05957125
+_cell_length_b   6.93018520
+_cell_length_c   8.20578639
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ErZnPt
+_chemical_formula_sum   'Er4 Zn4 Pt4'
+_cell_volume   230.85815278
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Er  Er0  1  0.24999992  0.04675345  0.31466917  1
+  Er  Er1  1  0.24999992  0.54675379  0.18533105  1
+  Er  Er2  1  0.74999977  0.95324725  0.68533127  1
+  Er  Er3  1  0.74999977  0.45324690  0.81466939  1
+  Zn  Zn4  1  0.24999992  0.63503706  0.56391802  1
+  Zn  Zn5  1  0.24999992  0.13503671  0.93608264  1
+  Zn  Zn6  1  0.74999977  0.36496363  0.43608242  1
+  Zn  Zn7  1  0.74999977  0.86496398  0.06391780  1
+  Pt  Pt8  1  0.24999992  0.24600269  0.62261458  1
+  Pt  Pt9  1  0.24999992  0.74600303  0.87738608  1
+  Pt  Pt10  1  0.74999977  0.75399801  0.37738586  1
+  Pt  Pt11  1  0.74999977  0.25399766  0.12261436  1

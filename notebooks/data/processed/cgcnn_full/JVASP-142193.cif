@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_Nd3FeO6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.39935633
+_cell_length_b   7.39935633
+_cell_length_c   5.63334130
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   102.79100085
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Nd3FeO6
+_chemical_formula_sum   'Nd6 Fe2 O12'
+_cell_volume   300.77419851
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Nd  Nd0  1  0.20177930  0.41361762  0.03236404  1
+  Nd  Nd1  1  0.79822096  0.58638269  0.53236392  1
+  Nd  Nd2  1  0.58638250  0.79822085  0.03236404  1
+  Nd  Nd3  1  0.41361775  0.20177946  0.53236392  1
+  Nd  Nd4  1  0.89581113  0.10418969  0.57657508  1
+  Nd  Nd5  1  0.10418912  0.89581062  0.07657520  1
+  Fe  Fe6  1  0.30841623  0.69158379  0.50105091  1
+  Fe  Fe7  1  0.69158402  0.30841652  0.00105103  1
+  O  O8  1  0.85388432  0.82658911  0.80358800  1
+  O  O9  1  0.14611593  0.17341120  0.30358811  1
+  O  O10  1  0.60564522  0.08484043  0.82899643  1
+  O  O11  1  0.39435503  0.91515988  0.32899655  1
+  O  O12  1  0.91516019  0.39435543  0.82899643  1
+  O  O13  1  0.28336420  0.71663578  0.83252151  1
+  O  O14  1  0.54083059  0.45916974  0.86045014  1
+  O  O15  1  0.45916966  0.54083057  0.36045026  1
+  O  O16  1  0.82658904  0.85388435  0.30358811  1
+  O  O17  1  0.71663605  0.28336453  0.33252162  1
+  O  O18  1  0.08484006  0.60564489  0.32899655  1
+  O  O19  1  0.17341121  0.14611596  0.80358800  1

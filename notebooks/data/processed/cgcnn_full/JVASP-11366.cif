@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_Rb3AlO3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.77885216
+_cell_length_b   6.77885214
+_cell_length_c   6.78633848
+_cell_angle_alpha   97.63476820
+_cell_angle_beta   97.63476795
+_cell_angle_gamma   114.72501611
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Rb3AlO3
+_chemical_formula_sum   'Rb6 Al2 O6'
+_cell_volume   274.53337189
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Rb  Rb0  1  0.36950647  0.36950576  0.65292362  1
+  Rb  Rb1  1  0.63049435  0.63049373  0.34707525  1
+  Rb  Rb2  1  0.19637540  0.80362520  0.49999949  1
+  Rb  Rb3  1  0.80362542  0.19637430  0.49999938  1
+  Rb  Rb4  1  0.26938014  0.73062042  -0.00000016  1
+  Rb  Rb5  1  0.73062036  0.26937952  -0.00000025  1
+  Al  Al6  1  0.84213718  0.84213605  0.85419505  1
+  Al  Al7  1  0.15786364  0.15786344  0.14580382  1
+  O  O8  1  0.85205773  0.59665111  0.73829485  1
+  O  O9  1  0.40334856  0.14794255  0.26170397  1
+  O  O10  1  0.14794309  0.40334839  0.26170402  1
+  O  O11  1  0.59665226  0.85205695  0.73829490  1
+  O  O12  1  0.90272617  0.90272556  0.13562006  1
+  O  O13  1  0.09727465  0.09727393  0.86437881  1

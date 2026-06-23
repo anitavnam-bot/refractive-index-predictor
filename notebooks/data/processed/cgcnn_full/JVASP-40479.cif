@@ -1,0 +1,37 @@
+# generated using pymatgen
+data_Li6CuS4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.62840050
+_cell_length_b   7.62840050
+_cell_length_c   3.56052487
+_cell_angle_alpha   76.50426979
+_cell_angle_beta   103.49573021
+_cell_angle_gamma   123.93092278
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Li6CuS4
+_chemical_formula_sum   'Li6 Cu1 S4'
+_cell_volume   165.79503631
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.40854257  0.17261792  0.11796279  1
+  Li  Li1  1  0.82140935  0.10797161  0.35671877  1
+  Li  Li2  1  0.39403628  0.76713922  0.31344840  1
+  Li  Li3  1  0.76713922  0.39403628  0.68655024  1
+  Li  Li4  1  0.10797161  0.82140935  0.64327986  1
+  Li  Li5  1  0.17261792  0.40854257  0.88203584  1
+  Cu  Cu6  1  0.72132366  0.72132366  -0.00000000  1
+  S  S7  1  0.02955203  0.02955203  0.00000000  1
+  S  S8  1  0.51231611  0.01728798  0.74751282  1
+  S  S9  1  0.01728798  0.51231611  0.25248582  1
+  S  S10  1  0.52898641  0.52898641  0.49999932  1

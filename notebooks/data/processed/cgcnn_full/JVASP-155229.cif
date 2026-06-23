@@ -1,0 +1,33 @@
+# generated using pymatgen
+data_Mn(Te2Rh)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.90791698
+_cell_length_b   6.90791698
+_cell_length_c   7.11301747
+_cell_angle_alpha   120.78493388
+_cell_angle_beta   120.78493388
+_cell_angle_gamma   34.64046133
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Mn(Te2Rh)2
+_chemical_formula_sum   'Mn1 Te4 Rh2'
+_cell_volume   162.86741329
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mn  Mn0  1  0.00000000  0.00000000  0.00000000  1
+  Te  Te1  1  0.86890765  0.86890765  0.20916634  1
+  Te  Te2  1  0.62872032  0.62872032  0.30488080  1
+  Te  Te3  1  0.37127929  0.37127929  0.69511853  1
+  Te  Te4  1  0.13109196  0.13109196  0.79083298  1
+  Rh  Rh5  1  0.24762626  0.24762626  0.23992430  1
+  Rh  Rh6  1  0.75237334  0.75237334  0.76007503  1

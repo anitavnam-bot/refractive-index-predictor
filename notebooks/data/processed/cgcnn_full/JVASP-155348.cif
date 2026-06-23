@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_Tl2CrCl6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.81941327
+_cell_length_b   6.81941327
+_cell_length_c   6.81941336
+_cell_angle_alpha   60.00000291
+_cell_angle_beta   60.00000291
+_cell_angle_gamma   60.00000088
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Tl2CrCl6
+_chemical_formula_sum   'Tl2 Cr1 Cl6'
+_cell_volume   224.24670023
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tl  Tl0  1  0.25000032  0.25000032  0.24999969  1
+  Tl  Tl1  1  0.75000096  0.75000096  0.74999906  1
+  Cr  Cr2  1  0.00000000  0.00000000  0.00000000  1
+  Cl  Cl3  1  0.23837278  0.76162841  0.23837179  1
+  Cl  Cl4  1  0.76162841  0.23837278  0.23837179  1
+  Cl  Cl5  1  0.76162845  0.76162845  0.23837144  1
+  Cl  Cl6  1  0.76162851  0.23837287  0.76162696  1
+  Cl  Cl7  1  0.23837287  0.76162851  0.76162696  1
+  Cl  Cl8  1  0.23837284  0.23837284  0.76162731  1

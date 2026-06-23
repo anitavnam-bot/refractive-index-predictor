@@ -1,0 +1,37 @@
+# generated using pymatgen
+data_Lu7(TePd)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.86923989
+_cell_length_b   9.18977213
+_cell_length_c   9.18977243
+_cell_angle_alpha   61.78726885
+_cell_angle_beta   77.84724734
+_cell_angle_gamma   77.84724306
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Lu7(TePd)2
+_chemical_formula_sum   'Lu7 Te2 Pd2'
+_cell_volume   279.14522690
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Lu  Lu0  1  0.68309454  0.94378423  0.69002608  1
+  Lu  Lu1  1  0.31690551  0.30997373  0.05621606  1
+  Lu  Lu2  1  -0.00000082  0.99946121  0.00053868  1
+  Lu  Lu3  1  0.13184924  0.28528003  0.45102210  1
+  Lu  Lu4  1  0.86815149  0.54897828  0.71472001  1
+  Lu  Lu5  1  0.35564354  0.91190555  0.37680788  1
+  Lu  Lu6  1  0.64435605  0.62319200  0.08809446  1
+  Te  Te7  1  1.00000020  0.66070028  0.33929963  1
+  Te  Te8  1  0.50000061  0.26741177  0.73258855  1
+  Pd  Pd9  1  0.23637528  0.69498241  0.83226686  1
+  Pd  Pd10  1  0.76362541  0.16773323  0.30501789  1

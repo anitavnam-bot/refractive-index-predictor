@@ -1,0 +1,44 @@
+# generated using pymatgen
+data_KBa4Sb3O
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.87384674
+_cell_length_b   8.87384615
+_cell_length_c   10.43384572
+_cell_angle_alpha   115.16606447
+_cell_angle_beta   115.16605759
+_cell_angle_gamma   90.00000348
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   KBa4Sb3O
+_chemical_formula_sum   'K2 Ba8 Sb6 O2'
+_cell_volume   656.43694393
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.00000000  0.00000000  0.00000000  1
+  K  K1  1  0.49999957  0.49999987  -0.00000008  1
+  Ba  Ba2  1  0.18620699  0.00616298  0.69236959  1
+  Ba  Ba3  1  0.00616292  0.50616285  0.69236951  1
+  Ba  Ba4  1  0.68620674  0.18620677  0.69236957  1
+  Ba  Ba5  1  0.31379270  0.81379293  0.30762990  1
+  Ba  Ba6  1  0.99383651  0.49383686  0.30762996  1
+  Ba  Ba7  1  0.81379245  0.99383672  0.30762988  1
+  Ba  Ba8  1  0.49383676  0.31379306  0.30762999  1
+  Ba  Ba9  1  0.50616267  0.68620664  0.69236948  1
+  Sb  Sb10  1  0.11707514  0.38292452  -0.00000006  1
+  Sb  Sb11  1  0.74999950  0.74999979  0.49999970  1
+  Sb  Sb12  1  0.38292401  0.88292439  -0.00000015  1
+  Sb  Sb13  1  0.61707513  0.11707535  -0.00000001  1
+  Sb  Sb14  1  0.88292401  0.61707522  -0.00000009  1
+  Sb  Sb15  1  0.24999993  0.24999992  0.49999977  1
+  O  O16  1  0.24999965  0.74999979  0.49999969  1
+  O  O17  1  0.74999978  0.24999992  0.49999978  1

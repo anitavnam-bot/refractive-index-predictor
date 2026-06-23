@@ -1,0 +1,31 @@
+# generated using pymatgen
+data_Tb(CuSi)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.00582531
+_cell_length_b   4.00582446
+_cell_length_c   5.74102082
+_cell_angle_alpha   110.41867968
+_cell_angle_beta   110.41866681
+_cell_angle_gamma   89.99999467
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Tb(CuSi)2
+_chemical_formula_sum   'Tb1 Cu2 Si2'
+_cell_volume   80.13040071
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tb  Tb0  1  0.00000000  0.00000000  0.00000000  1
+  Si  Si1  1  0.61816378  0.61816350  0.23632673  1
+  Si  Si2  1  0.38183745  0.38183772  0.76367448  1
+  Cu  Cu3  1  0.25000071  0.75000076  0.50000066  1
+  Cu  Cu4  1  0.75000052  0.25000046  0.50000054  1

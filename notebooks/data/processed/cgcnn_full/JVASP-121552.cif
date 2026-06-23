@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_EuGa3(BO3)4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.05856816
+_cell_length_b   6.05856826
+_cell_length_c   6.05856846
+_cell_angle_alpha   104.13025533
+_cell_angle_beta   104.13025555
+_cell_angle_gamma   104.13025404
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   EuGa3(BO3)4
+_chemical_formula_sum   'Eu1 Ga3 B4 O12'
+_cell_volume   197.92557138
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Eu  Eu0  1  0.49999976  0.49999910  0.50000050  1
+  Ga  Ga1  1  0.05073454  0.94926425  0.50000049  1
+  Ga  Ga2  1  0.94926510  0.49999910  0.05073567  1
+  Ga  Ga3  1  0.49999964  0.05073394  0.94926536  1
+  B  B4  1  0.44639097  0.55360837  0.00000057  1
+  B  B5  1  0.55360881  -0.00000060  0.44639129  1
+  B  B6  1  -0.00000026  0.44639042  0.55360915  1
+  B  B7  1  0.00000000  0.00000000  0.00000000  1
+  O  O8  1  0.59131800  0.40868136  0.00000057  1
+  O  O9  1  -0.00000015  0.85493743  0.14506242  1
+  O  O10  1  0.14506164  -0.00000060  0.85493801  1
+  O  O11  1  0.85493803  0.14506137  0.00000058  1
+  O  O12  1  0.87067623  0.47157151  0.71072780  1
+  O  O13  1  0.52842714  0.12932289  0.28927322  1
+  O  O14  1  0.12932323  0.28927231  0.52842742  1
+  O  O15  1  0.71072686  0.87067530  0.47157358  1
+  O  O16  1  0.40868175  -0.00000060  0.59131819  1
+  O  O17  1  0.28927277  0.52842669  0.12932391  1
+  O  O18  1  0.47157234  0.71072588  0.87067709  1
+  O  O19  1  -0.00000022  0.59131743  0.40868224  1

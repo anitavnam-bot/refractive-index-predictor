@@ -1,0 +1,37 @@
+# generated using pymatgen
+data_Ca2As2O7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.95840312
+_cell_length_b   5.88354903
+_cell_length_c   5.88354882
+_cell_angle_alpha   105.43216080
+_cell_angle_beta   96.91710939
+_cell_angle_gamma   96.91710204
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ca2As2O7
+_chemical_formula_sum   'Ca2 As2 O7'
+_cell_volume   162.14969810
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ca  Ca0  1  0.49999953  0.69437624  0.30562306  1
+  Ca  Ca1  1  0.49999942  0.30562344  0.69437592  1
+  As  As2  1  0.09017933  0.77181128  0.77181114  1
+  As  As3  1  0.90981963  0.22818840  0.22818784  1
+  O  O4  1  0.27661666  0.91576730  0.61243541  1
+  O  O5  1  0.72338237  0.38756399  0.08423191  1
+  O  O6  1  0.72338229  0.08423239  0.38756356  1
+  O  O7  1  0.27661658  0.61243569  0.91576707  1
+  O  O8  1  0.00000000  0.00000000  0.00000000  1
+  O  O9  1  0.78318626  0.61606595  0.61606541  1
+  O  O10  1  0.21681270  0.38393374  0.38393357  1

@@ -1,0 +1,34 @@
+# generated using pymatgen
+data_CeFeAsO
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.95644472
+_cell_length_b   3.95652203
+_cell_length_c   8.06079818
+_cell_angle_alpha   89.99788948
+_cell_angle_beta   90.00179840
+_cell_angle_gamma   89.99440342
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CeFeAsO
+_chemical_formula_sum   'Ce2 Fe2 As2 O2'
+_cell_volume   126.18180488
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ce  Ce0  1  0.24631658  0.74883843  0.84476623  1
+  Ce  Ce1  1  0.74631930  0.24882269  0.15298914  1
+  Fe  Fe2  1  0.24635530  0.24880148  0.49887097  1
+  Fe  Fe3  1  0.74635954  0.74880808  0.49887617  1
+  As  As4  1  0.24635270  0.74881085  0.34751316  1
+  As  As5  1  0.74635410  0.24880285  0.65023483  1
+  O  O6  1  0.24631476  0.24883196  0.99887548  1
+  O  O7  1  0.74631567  0.74883086  0.99887902  1

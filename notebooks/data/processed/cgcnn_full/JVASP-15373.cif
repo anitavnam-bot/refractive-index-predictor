@@ -1,0 +1,32 @@
+# generated using pymatgen
+data_TbScGe
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.22784758
+_cell_length_b   4.22784715
+_cell_length_c   8.30545005
+_cell_angle_alpha   104.74528598
+_cell_angle_beta   104.74528177
+_cell_angle_gamma   89.99999769
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TbScGe
+_chemical_formula_sum   'Tb2 Sc2 Ge2'
+_cell_volume   138.50657219
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tb  Tb0  1  0.67640012  0.67639996  0.35279946  1
+  Tb  Tb1  1  0.32360003  0.32359964  0.64720036  1
+  Sc  Sc2  1  0.00000028  0.49999976  0.00000005  1
+  Sc  Sc3  1  0.49999944  0.00000000  -0.00000003  1
+  Ge  Ge4  1  0.12916573  0.12916558  0.25833119  1
+  Ge  Ge5  1  0.87083442  0.87083402  0.74166863  1

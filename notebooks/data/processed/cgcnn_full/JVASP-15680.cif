@@ -1,0 +1,33 @@
+# generated using pymatgen
+data_Na2Ti2Sb2O
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.14689089
+_cell_length_b   4.14689110
+_cell_length_c   8.82031163
+_cell_angle_alpha   103.59611759
+_cell_angle_beta   103.59611483
+_cell_angle_gamma   89.99999309
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Na2Ti2Sb2O
+_chemical_formula_sum   'Na2 Ti2 Sb2 O1'
+_cell_volume   143.05296365
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.68265220  0.68265121  0.36530504  1
+  Na  Na1  1  0.31734795  0.31734680  0.63469431  1
+  Ti  Ti2  1  -0.00000019  0.49999953  -0.00000019  1
+  Ti  Ti3  1  0.50000006  0.00000000  -0.00000011  1
+  Sb  Sb4  1  0.12208191  0.12208147  0.24416359  1
+  Sb  Sb5  1  0.87791824  0.87791654  0.75583576  1
+  O  O6  1  0.49999986  0.49999953  -0.00000030  1

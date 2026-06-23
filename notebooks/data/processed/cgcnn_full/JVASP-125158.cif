@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_SiB11
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.18716412
+_cell_length_b   5.41557411
+_cell_length_c   5.18716393
+_cell_angle_alpha   56.86221766
+_cell_angle_beta   57.19465039
+_cell_angle_gamma   56.86221501
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   SiB11
+_chemical_formula_sum   'Si1 B11'
+_cell_volume   95.84137625
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Si  Si0  1  0.01047959  0.63252202  0.01047991  1
+  B  B1  1  -0.00127147  0.04263188  0.63769976  1
+  B  B2  1  0.63769974  0.04263189  -0.00127163  1
+  B  B3  1  0.34948479  0.98086552  0.99673595  1
+  B  B4  1  0.98584701  0.30988640  0.98584688  1
+  B  B5  1  0.99673555  0.98086552  0.34948499  1
+  B  B6  1  0.23285094  0.63216120  0.23285119  1
+  B  B7  1  0.22369553  0.21159453  0.62072370  1
+  B  B8  1  0.62072366  0.21159453  0.22369546  1
+  B  B9  1  0.39741647  0.79440914  0.76925682  1
+  B  B10  1  0.77708457  0.36643159  0.77708453  1
+  B  B11  1  0.76925653  0.79440915  0.39741665  1

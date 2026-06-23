@@ -1,0 +1,52 @@
+# generated using pymatgen
+data_Lu(Al5Os)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.83771449
+_cell_length_b   6.83771449
+_cell_length_c   9.13501698
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   96.23275734
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Lu(Al5Os)2
+_chemical_formula_sum   'Lu2 Al20 Os4'
+_cell_volume   424.57711092
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Lu  Lu0  1  0.86838475  0.13161477  0.75000025  1
+  Lu  Lu1  1  0.13161529  0.86838535  0.25000008  1
+  Al  Al2  1  0.22195501  0.22195503  0.50000017  1
+  Al  Al3  1  0.22195501  0.22195503  -0.00000000  1
+  Al  Al4  1  0.77804503  0.77804510  0.50000017  1
+  Al  Al5  1  0.77804503  0.77804510  -0.00000000  1
+  Al  Al6  1  0.15275750  0.84724312  0.89849652  1
+  Al  Al7  1  0.84724254  0.15275701  0.10150381  1
+  Al  Al8  1  0.15275750  0.84724312  0.60150398  1
+  Al  Al9  1  0.84724254  0.15275701  0.39849636  1
+  Al  Al10  1  0.84697173  0.57851225  0.75000025  1
+  Al  Al11  1  0.57851239  0.84697200  0.25000008  1
+  Al  Al12  1  0.42148765  0.15302813  0.75000025  1
+  Al  Al13  1  0.37566798  0.62433229  0.45644021  1
+  Al  Al14  1  0.62433206  0.37566784  0.54356012  1
+  Al  Al15  1  0.37566798  0.62433229  0.04355996  1
+  Al  Al16  1  0.62433206  0.37566784  0.95644037  1
+  Al  Al17  1  0.21515235  0.48041150  0.75000025  1
+  Al  Al18  1  0.48041127  0.21515218  0.25000008  1
+  Al  Al19  1  0.78484769  0.51958863  0.25000008  1
+  Al  Al20  1  0.51958877  0.78484794  0.75000025  1
+  Al  Al21  1  0.15302831  0.42148788  0.25000008  1
+  Os  Os22  1  0.49999973  -0.00000007  0.50000017  1
+  Os  Os23  1  0.49999973  -0.00000007  -0.00000000  1
+  Os  Os24  1  0.00000029  0.50000014  -0.00000000  1
+  Os  Os25  1  0.00000029  0.50000014  0.50000017  1

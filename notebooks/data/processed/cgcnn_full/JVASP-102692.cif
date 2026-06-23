@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_Ni6SnTe2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.98367373
+_cell_length_b   9.98367373
+_cell_length_c   9.98367373
+_cell_angle_alpha   158.04554886
+_cell_angle_beta   158.04554886
+_cell_angle_gamma   31.24438230
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ni6SnTe2
+_chemical_formula_sum   'Ni6 Sn1 Te2'
+_cell_volume   138.99633518
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ni  Ni0  1  0.50124478  0.50124617  0.00000068  1
+  Ni  Ni1  1  0.90658951  0.40659133  0.50000016  1
+  Ni  Ni2  1  0.40659026  0.90659139  0.50000090  1
+  Ni  Ni3  1  0.09506455  0.59506482  0.50000048  1
+  Ni  Ni4  1  0.59506381  0.09506476  0.49999973  1
+  Ni  Ni5  1  0.80998123  0.80998348  0.00000110  1
+  Sn  Sn6  1  0.00042161  0.00042161  0.00000000  1
+  Te  Te7  1  0.31549243  0.31549330  0.00000043  1
+  Te  Te8  1  0.67914831  0.67915020  0.00000092  1

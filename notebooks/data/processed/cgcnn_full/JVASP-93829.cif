@@ -1,0 +1,32 @@
+# generated using pymatgen
+data_YbSnHg
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.81900580
+_cell_length_b   4.81900580
+_cell_length_c   7.69297298
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   119.99842248
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   YbSnHg
+_chemical_formula_sum   'Yb2 Sn2 Hg2'
+_cell_volume   154.72006504
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Yb  Yb0  1  0.99999524  0.00000461  0.25412329  1
+  Yb  Yb1  1  0.00000461  0.99999524  0.75412310  1
+  Sn  Sn2  1  0.33333017  0.66666968  0.04002137  1
+  Sn  Sn3  1  0.66666968  0.33333017  0.54002118  1
+  Hg  Hg4  1  0.33333021  0.66666964  0.43585605  1
+  Hg  Hg5  1  0.66666964  0.33333021  0.93585586  1

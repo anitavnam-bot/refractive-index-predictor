@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_CuTe2Cl
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.24521887
+_cell_length_b   5.04077687
+_cell_length_c   12.13920436
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   117.38174577
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CuTe2Cl
+_chemical_formula_sum   'Cu4 Te8 Cl4'
+_cell_volume   448.00642846
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cu  Cu0  1  0.82771754  0.85689385  0.25213888  1
+  Cu  Cu1  1  0.17228254  0.35689354  0.24786078  1
+  Cu  Cu2  1  0.17228269  0.14310677  0.74786075  1
+  Cu  Cu3  1  0.82771770  0.64310708  0.75213885  1
+  Te  Te4  1  0.58165791  0.20917344  0.13926924  1
+  Te  Te5  1  0.41834217  0.70917375  0.36073041  1
+  Te  Te6  1  0.41834233  0.79082718  0.86073038  1
+  Te  Te7  1  0.58165807  0.29082687  0.63926922  1
+  Te  Te8  1  0.26483287  0.00976742  0.13337667  1
+  Te  Te9  1  0.73516721  0.50976773  0.36662299  1
+  Te  Te10  1  0.73516737  0.99023320  0.86662296  1
+  Te  Te11  1  0.26483303  0.49023289  0.63337664  1
+  Cl  Cl12  1  0.08977529  0.10490480  0.37876370  1
+  Cl  Cl13  1  0.91022479  0.60490511  0.12123595  1
+  Cl  Cl14  1  0.91022495  0.89509582  0.62123592  1
+  Cl  Cl15  1  0.08977544  0.39509551  0.87876367  1

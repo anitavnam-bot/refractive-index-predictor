@@ -1,0 +1,43 @@
+# generated using pymatgen
+data_Ho4Ga12Fe
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.39287535
+_cell_length_b   7.39287500
+_cell_length_c   7.39287506
+_cell_angle_alpha   109.47122081
+_cell_angle_beta   109.47121984
+_cell_angle_gamma   109.47121856
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ho4Ga12Fe
+_chemical_formula_sum   'Ho4 Ga12 Fe1'
+_cell_volume   311.04142817
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ho  Ho0  1  0.00000000  0.00000000  0.50000033  1
+  Ho  Ho1  1  0.00000042  0.50000022  0.00000033  1
+  Ho  Ho2  1  0.50000002  0.00000000  0.00000012  1
+  Ho  Ho3  1  0.50000044  0.50000022  0.50000078  1
+  Ga  Ga4  1  0.71810204  0.00000000  0.71810267  1
+  Ga  Ga5  1  0.28189823  0.28189811  0.00000025  1
+  Ga  Ga6  1  0.00000024  0.28189811  0.28189836  1
+  Ga  Ga7  1  0.28189800  0.00000000  0.28189824  1
+  Ga  Ga8  1  0.71810265  0.71810233  0.00000065  1
+  Ga  Ga9  1  0.25000065  0.75000033  0.50000089  1
+  Ga  Ga10  1  0.00000061  0.71810233  0.71810297  1
+  Ga  Ga11  1  0.25000043  0.50000022  0.75000089  1
+  Ga  Ga12  1  0.50000023  0.25000011  0.75000079  1
+  Ga  Ga13  1  0.75000045  0.50000022  0.25000068  1
+  Ga  Ga14  1  0.75000024  0.25000011  0.50000068  1
+  Ga  Ga15  1  0.50000065  0.75000033  0.25000078  1
+  Fe  Fe16  1  0.00000000  0.00000000  0.00000000  1

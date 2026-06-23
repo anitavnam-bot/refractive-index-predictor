@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_Rb2LiScCl6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.10110335
+_cell_length_b   7.10110281
+_cell_length_c   7.10110294
+_cell_angle_alpha   59.99999937
+_cell_angle_beta   60.00000193
+_cell_angle_gamma   59.99999873
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Rb2LiScCl6
+_chemical_formula_sum   'Rb2 Li1 Sc1 Cl6'
+_cell_volume   253.19926720
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Rb  Rb0  1  0.75000007  0.75000051  0.74999909  1
+  Rb  Rb1  1  0.25000002  0.25000017  0.24999970  1
+  Li  Li2  1  0.50000005  0.50000034  0.49999939  1
+  Sc  Sc3  1  0.00000000  0.00000000  0.00000000  1
+  Cl  Cl4  1  0.75260758  0.24739294  0.24739221  1
+  Cl  Cl5  1  0.24739280  0.24739294  0.75260672  1
+  Cl  Cl6  1  0.24739252  0.75260774  0.75260658  1
+  Cl  Cl7  1  0.24739252  0.75260774  0.24739234  1
+  Cl  Cl8  1  0.75260758  0.24739294  0.75260645  1
+  Cl  Cl9  1  0.75260730  0.75260774  0.24739207  1

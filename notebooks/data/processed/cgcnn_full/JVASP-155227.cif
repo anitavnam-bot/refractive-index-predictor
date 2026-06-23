@@ -1,0 +1,33 @@
+# generated using pymatgen
+data_Ti(CoS2)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.35673381
+_cell_length_b   6.35673381
+_cell_length_c   5.95278059
+_cell_angle_alpha   117.70600336
+_cell_angle_beta   117.70600336
+_cell_angle_gamma   30.45620454
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ti(CoS2)2
+_chemical_formula_sum   'Ti1 Co2 S4'
+_cell_volume   106.83697726
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ti  Ti0  1  0.00000000  0.00000000  0.00000000  1
+  Co  Co1  1  0.25899990  0.25899990  0.24697272  1
+  Co  Co2  1  0.74099966  0.74099966  0.75302791  1
+  S  S3  1  0.86213638  0.86213638  0.18776336  1
+  S  S4  1  0.63639837  0.63639837  0.30733498  1
+  S  S5  1  0.36360119  0.36360119  0.69266565  1
+  S  S6  1  0.13786318  0.13786318  0.81223727  1

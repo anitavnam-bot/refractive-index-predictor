@@ -1,0 +1,32 @@
+# generated using pymatgen
+data_CoS2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.89003466
+_cell_length_b   4.89003343
+_cell_length_c   5.90224895
+_cell_angle_alpha   114.47221721
+_cell_angle_beta   114.47220116
+_cell_angle_gamma   89.99999854
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CoS2
+_chemical_formula_sum   'Co2 S4'
+_cell_volume   114.38125015
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Co  Co0  1  0.25000038  0.75000082  0.50000035  1
+  Co  Co1  1  0.00000000  0.00000000  0.00000000  1
+  S  S2  1  0.88059153  0.87500090  0.25000015  1
+  S  S3  1  0.62500069  0.11940906  0.75000038  1
+  S  S4  1  0.36940906  0.37500041  0.25000015  1
+  S  S5  1  0.12500054  0.63059193  0.75000050  1

@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_MgCrFeS4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.08881816
+_cell_length_b   7.06389550
+_cell_length_c   7.06389543
+_cell_angle_alpha   60.43339600
+_cell_angle_beta   59.88239245
+_cell_angle_gamma   59.88236834
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   MgCrFeS4
+_chemical_formula_sum   'Mg2 Cr2 Fe2 S8'
+_cell_volume   250.47833631
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mg  Mg0  1  0.87332818  0.87667172  0.87667097  1
+  Mg  Mg1  1  0.12667417  0.12332674  0.12332653  1
+  Cr  Cr2  1  0.50000046  0.49999858  0.00000142  1
+  Cr  Cr3  1  0.50000096  -0.00000049  0.49999836  1
+  Fe  Fe4  1  0.50000017  0.49999955  0.50000048  1
+  Fe  Fe5  1  0.00000061  0.49999943  0.50000012  1
+  S  S6  1  0.74207930  0.73391127  0.73391196  1
+  S  S7  1  0.25885187  0.27863938  0.70365219  1
+  S  S8  1  0.25885050  0.70365200  0.27864192  1
+  S  S9  1  0.70990704  0.26609091  0.26609226  1
+  S  S10  1  0.74115053  0.29634648  0.72135856  1
+  S  S11  1  0.29009459  0.73390746  0.73390927  1
+  S  S12  1  0.25792075  0.26608798  0.26608801  1
+  S  S13  1  0.74115030  0.72135780  0.29634669  1

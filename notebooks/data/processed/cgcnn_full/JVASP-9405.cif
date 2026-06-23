@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_TlCr5Se8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.66636381
+_cell_length_b   8.98458581
+_cell_length_c   9.59572785
+_cell_angle_alpha   104.30836841
+_cell_angle_beta   101.01357771
+_cell_angle_gamma   89.99999983
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TlCr5Se8
+_chemical_formula_sum   'Tl1 Cr5 Se8'
+_cell_volume   300.27350714
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tl  Tl0  1  0.00000000  0.00000000  0.00000000  1
+  Cr  Cr1  1  0.50000116  0.50000006  -0.00000005  1
+  Cr  Cr2  1  0.15737657  0.47482805  0.31475269  1
+  Cr  Cr3  1  0.20395348  0.83558753  0.40790364  1
+  Cr  Cr4  1  0.79604909  0.16441211  0.59209657  1
+  Cr  Cr5  1  0.84262600  0.52517159  0.68524752  1
+  Se  Se6  1  0.92533200  0.34317465  0.85066062  1
+  Se  Se7  1  0.33083108  0.00717746  0.66166111  1
+  Se  Se8  1  0.66917149  0.99282218  0.33833910  1
+  Se  Se9  1  0.41504523  0.67880815  0.83008679  1
+  Se  Se10  1  0.58495734  0.32119149  0.16991341  1
+  Se  Se11  1  0.73786414  0.65655553  0.47572486  1
+  Se  Se12  1  0.26213843  0.34344411  0.52427535  1
+  Se  Se13  1  0.07467057  0.65682499  0.14933959  1

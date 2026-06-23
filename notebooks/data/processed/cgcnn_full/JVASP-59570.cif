@@ -1,0 +1,39 @@
+# generated using pymatgen
+data_Ba3Cr2O8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.92999485
+_cell_length_b   7.92999534
+_cell_length_c   7.92999434
+_cell_angle_alpha   42.71157666
+_cell_angle_beta   42.71157728
+_cell_angle_gamma   42.71157227
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ba3Cr2O8
+_chemical_formula_sum   'Ba3 Cr2 O8'
+_cell_volume   207.84439879
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.79388988  0.79388797  0.79389063  1
+  Ba  Ba1  1  0.20611107  0.20611058  0.20611127  1
+  Ba  Ba2  1  0.00000000  0.00000000  0.00000000  1
+  Cr  Cr3  1  0.59259643  0.59259500  0.59259700  1
+  Cr  Cr4  1  0.40740452  0.40740354  0.40740491  1
+  O  O5  1  0.67139089  0.67138928  0.67139153  1
+  O  O6  1  0.32861006  0.32860927  0.32861037  1
+  O  O7  1  0.27346055  0.27345922  0.75771824  1
+  O  O8  1  0.27345987  0.75771700  0.27346099  1
+  O  O9  1  0.75771817  0.27345922  0.27346060  1
+  O  O10  1  0.72654108  0.24228154  0.72654091  1
+  O  O11  1  0.72654041  0.72653932  0.24228366  1
+  O  O12  1  0.24228278  0.72653932  0.72654130  1

@@ -1,0 +1,52 @@
+# generated using pymatgen
+data_Sr2Er2Al3Si5N11O3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.18790060
+_cell_length_b   6.18790060
+_cell_length_c   10.40111129
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   119.99999393
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sr2Er2Al3Si5N11O3
+_chemical_formula_sum   'Sr2 Er2 Al3 Si5 N11 O3'
+_cell_volume   344.90306922
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sr  Sr0  1  0.33333287  0.66666694  0.13156130  1
+  Sr  Sr1  1  0.66666694  0.33333287  0.64861889  1
+  Er  Er2  1  0.33333287  0.66666694  0.64365591  1
+  Er  Er3  1  0.66666694  0.33333287  0.34726847  1
+  Al  Al4  1  0.16198290  0.83801691  0.43603446  1
+  Al  Al5  1  0.16198300  0.32396610  0.43603446  1
+  Al  Al6  1  0.67603371  0.83801681  0.43603446  1
+  Si  Si7  1  0.83046920  0.16953061  0.93293849  1
+  Si  Si8  1  0.83046911  0.66093931  0.93293849  1
+  Si  Si9  1  0.00000000  0.00000000  0.21203364  1
+  Si  Si10  1  0.00000000  0.00000000  0.70609402  1
+  Si  Si11  1  0.33906051  0.16953070  0.93293849  1
+  N  N12  1  0.49106952  0.98214032  0.49557978  1
+  N  N13  1  0.85348583  0.14651398  0.77583292  1
+  N  N14  1  0.01785949  0.50893029  0.49557978  1
+  N  N15  1  0.85348572  0.70697255  0.77583292  1
+  N  N16  1  0.70005966  0.85002928  0.26132163  1
+  N  N17  1  0.14997042  0.85002939  0.26132163  1
+  N  N18  1  0.29302726  0.14651409  0.77583292  1
+  N  N19  1  0.14997053  0.29994015  0.26132163  1
+  N  N20  1  0.00000000  0.00000000  0.01492528  1
+  N  N21  1  0.00000000  0.00000000  0.53161556  1
+  N  N22  1  0.49106961  0.50893020  0.49557978  1
+  O  O23  1  0.52571408  0.05142907  0.98169375  1
+  O  O24  1  0.94857074  0.47428573  0.98169375  1
+  O  O25  1  0.52571400  0.47428582  0.98169375  1

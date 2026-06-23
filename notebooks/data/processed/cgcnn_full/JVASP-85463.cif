@@ -1,0 +1,44 @@
+# generated using pymatgen
+data_OsC3I2O3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.72285938
+_cell_length_b   6.72285941
+_cell_length_c   9.64142781
+_cell_angle_alpha   75.48580180
+_cell_angle_beta   75.48580366
+_cell_angle_gamma   70.55095325
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   OsC3I2O3
+_chemical_formula_sum   'Os2 C6 I4 O6'
+_cell_volume   391.05585839
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Os  Os0  1  0.42966003  0.42965989  0.72665822  1
+  Os  Os1  1  0.57034076  0.57034112  0.27334062  1
+  C  C2  1  0.58454511  0.21916000  0.86514413  1
+  C  C3  1  0.74351560  0.74351614  0.27890947  1
+  C  C4  1  0.21916039  0.58454493  0.86514409  1
+  C  C5  1  0.41545568  0.78084101  0.13485471  1
+  C  C6  1  0.25648519  0.25648487  0.72108936  1
+  C  C7  1  0.78084040  0.41545608  0.13485474  1
+  I  I8  1  0.74203101  0.25796975  0.49999944  1
+  I  I9  1  0.68102559  0.68102570  0.73662986  1
+  I  I10  1  0.25796978  0.74203126  0.49999939  1
+  I  I11  1  0.31897519  0.31897531  0.26336898  1
+  O  O12  1  0.90971129  0.31292045  0.05646681  1
+  O  O13  1  0.31292004  0.90971205  0.05646675  1
+  O  O14  1  0.84948028  0.84948093  0.27596105  1
+  O  O15  1  0.68708074  0.09028896  0.94353209  1
+  O  O16  1  0.09028950  0.68708056  0.94353203  1
+  O  O17  1  0.15052051  0.15052008  0.72403778  1

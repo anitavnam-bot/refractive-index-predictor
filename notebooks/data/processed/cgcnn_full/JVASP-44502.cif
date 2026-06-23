@@ -1,0 +1,48 @@
+# generated using pymatgen
+data_Li4Co5NiO12
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.88327803
+_cell_length_b   4.87998024
+_cell_length_c   9.68981856
+_cell_angle_alpha   94.77469496
+_cell_angle_beta   99.57641762
+_cell_angle_gamma   59.97763789
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Li4Co5NiO12
+_chemical_formula_sum   'Li4 Co5 Ni1 O12'
+_cell_volume   197.14385792
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.24583988  0.33278476  0.74120766  1
+  Li  Li1  1  0.42137578  0.33278469  0.25879246  1
+  Li  Li2  1  0.57862607  0.66721468  0.74120772  1
+  Li  Li3  1  0.75416197  0.66721460  0.25879251  1
+  Co  Co4  1  0.16415646  0.67169012  0.49999990  1
+  Co  Co5  1  0.66664885  0.66670388  0.00000012  1
+  Co  Co6  1  0.33335179  0.33329570  0.00000006  1
+  Co  Co7  1  0.83584539  0.32830925  0.50000028  1
+  Co  Co8  1  0.50000068  -0.00000062  0.50000022  1
+  Ni  Ni9  1  0.00000000  0.00000000  0.00000000  1
+  O  O10  1  0.96542727  0.33691752  0.89537069  1
+  O  O11  1  0.37134438  -0.00000040  0.10460645  1
+  O  O12  1  0.69765603  0.33691796  0.10462986  1
+  O  O13  1  0.86757190  0.66041394  0.60362420  1
+  O  O14  1  0.20831244  -0.00000034  0.60601742  1
+  O  O15  1  0.03457457  0.66308184  0.10462949  1
+  O  O16  1  0.47201559  0.66041439  0.39637604  1
+  O  O17  1  0.13242995  0.33958542  0.39637598  1
+  O  O18  1  0.30234582  0.66308140  0.89537032  1
+  O  O19  1  0.62865699  -0.00000083  0.89539399  1
+  O  O20  1  0.52798625  0.33958498  0.60362413  1
+  O  O21  1  0.79168893  -0.00000089  0.39398301  1

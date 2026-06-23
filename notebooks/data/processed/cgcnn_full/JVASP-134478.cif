@@ -1,0 +1,29 @@
+# generated using pymatgen
+data_CdSnO
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.61656776
+_cell_length_b   6.67172910
+_cell_length_c   3.20662962
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   59.01943131
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CdSnO
+_chemical_formula_sum   'Cd1 Sn1 O1'
+_cell_volume   66.33425717
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cd  Cd0  1  0.00858814  -0.14806334  0.00000000  1
+  Sn  Sn1  1  -0.07143709  0.42641282  0.00000000  1
+  O  O2  1  0.30234528  0.06771697  0.00000000  1

@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_Cd3TeO6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.57469003
+_cell_length_b   5.70814056
+_cell_length_c   9.86714714
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   124.25616805
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Cd3TeO6
+_chemical_formula_sum   'Cd6 Te2 O12'
+_cell_volume   259.51661375
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cd  Cd0  1  0.75156737  0.45563246  0.74130363  1
+  Cd  Cd1  1  0.24843247  0.95563241  0.75869733  1
+  Cd  Cd2  1  0.24843271  0.54436744  0.25869720  1
+  Cd  Cd3  1  0.75156761  0.04436749  0.24130350  1
+  Cd  Cd4  1  0.50000028  0.49999995  0.00000028  1
+  Cd  Cd5  1  0.50000004  0.00000000  0.50000042  1
+  Te  Te6  1  -0.00000024  0.49999995  0.50000013  1
+  Te  Te7  1  0.00000000  0.00000000  0.00000000  1
+  O  O8  1  0.65840146  0.42432697  0.27748893  1
+  O  O9  1  0.34159886  0.92432693  0.22251177  1
+  O  O10  1  0.75865054  0.82448131  0.04987947  1
+  O  O11  1  0.24134978  0.32448136  0.45012123  1
+  O  O12  1  0.24134954  0.17551859  0.95012137  1
+  O  O13  1  0.91588509  0.28074084  0.08161515  1
+  O  O14  1  0.08411499  0.71925906  0.91838568  1
+  O  O15  1  0.91588485  0.21925911  0.58161529  1
+  O  O16  1  0.65840122  0.07567298  0.77748907  1
+  O  O17  1  0.08411523  0.78074079  0.41838554  1
+  O  O18  1  0.75865030  0.67551855  0.54987960  1
+  O  O19  1  0.34159862  0.57567293  0.72251190  1

@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_BaCeO3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.22932238
+_cell_length_b   6.22932282
+_cell_length_c   6.22932251
+_cell_angle_alpha   60.79461309
+_cell_angle_beta   60.79460700
+_cell_angle_gamma   60.79461110
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   BaCeO3
+_chemical_formula_sum   'Ba2 Ce2 O6'
+_cell_volume   173.98927713
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.24999985  0.24999961  0.25000026  1
+  Ba  Ba1  1  0.74999954  0.74999884  0.75000078  1
+  Ce  Ce2  1  0.00000000  0.00000000  0.00000000  1
+  Ce  Ce3  1  0.49999969  0.49999923  0.50000052  1
+  O  O4  1  0.24999943  0.81867917  0.68132080  1
+  O  O5  1  0.81867964  0.68131931  0.25000032  1
+  O  O6  1  0.68131985  0.24999881  0.81868071  1
+  O  O7  1  0.74999996  0.18131928  0.31868025  1
+  O  O8  1  0.31867953  0.74999964  0.18132033  1
+  O  O9  1  0.18131974  0.31867914  0.75000072  1

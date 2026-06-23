@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_VCu(PS3)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.00655851
+_cell_length_b   6.01795778
+_cell_length_c   6.68026656
+_cell_angle_alpha   81.18462546
+_cell_angle_beta   107.38621268
+_cell_angle_gamma   119.96005605
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   VCu(PS3)2
+_chemical_formula_sum   'V1 Cu1 P2 S6'
+_cell_volume   199.64539197
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  V  V0  1  0.33816124  0.66407785  0.02217313  1
+  Cu  Cu1  1  0.58834099  0.33744388  0.75220912  1
+  P  P2  1  0.05862733  -0.00197203  0.18052999  1
+  P  P3  1  0.94761039  0.00259916  0.83585292  1
+  S  S4  1  0.56628943  0.69734743  0.74679633  1
+  S  S5  1  0.09798376  0.67221486  0.24951162  1
+  S  S6  1  0.74051092  0.98037192  0.25134889  1
+  S  S7  1  0.22649562  0.95688307  0.74948025  1
+  S  S8  1  0.96512540  0.35456616  0.74335355  1
+  S  S9  1  0.40685488  0.33846453  0.25674308  1

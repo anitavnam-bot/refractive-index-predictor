@@ -1,0 +1,52 @@
+# generated using pymatgen
+data_SnSe2(Cl4O)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.40597755
+_cell_length_b   6.40597770
+_cell_length_c   16.28969541
+_cell_angle_alpha   92.56433345
+_cell_angle_beta   92.56433326
+_cell_angle_gamma   91.06795367
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   SnSe2(Cl4O)2
+_chemical_formula_sum   'Sn2 Se4 Cl16 O4'
+_cell_volume   666.99207338
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sn  Sn0  1  0.19754108  0.80245961  0.74999962  1
+  Sn  Sn1  1  0.80245936  0.19754142  0.24999976  1
+  Se  Se2  1  0.09143088  0.22716913  0.86913586  1
+  Se  Se3  1  0.77283130  0.90857013  0.63086338  1
+  Se  Se4  1  0.90856956  0.77283190  0.13086352  1
+  Se  Se5  1  0.22716915  0.09143090  0.36913600  1
+  Cl  Cl6  1  0.10779445  0.43576886  0.25873772  1
+  Cl  Cl7  1  0.82659036  0.70689692  0.52008706  1
+  Cl  Cl8  1  0.64141406  0.37667926  0.36245517  1
+  Cl  Cl9  1  0.70689637  0.82659090  0.02008721  1
+  Cl  Cl10  1  0.29310407  0.17341012  0.97991217  1
+  Cl  Cl11  1  0.81082785  0.31954214  0.93300311  1
+  Cl  Cl12  1  0.35858638  0.62332177  0.63754421  1
+  Cl  Cl13  1  0.37667895  0.64141432  0.86245503  1
+  Cl  Cl14  1  0.17341008  0.29310410  0.47991232  1
+  Cl  Cl15  1  0.56423168  0.89220645  0.24126181  1
+  Cl  Cl16  1  0.43576876  0.10779458  0.75873757  1
+  Cl  Cl17  1  0.89220599  0.56423217  0.74126166  1
+  Cl  Cl18  1  0.18917259  0.68045888  0.06699627  1
+  Cl  Cl19  1  0.68045864  0.18917290  0.56699613  1
+  Cl  Cl20  1  0.31954180  0.81082813  0.43300325  1
+  Cl  Cl21  1  0.62332149  0.35858671  0.13754435  1
+  O  O22  1  0.98890139  0.01858017  0.16236486  1
+  O  O23  1  0.01857978  0.98890163  0.66236472  1
+  O  O24  1  0.98142066  0.01109940  0.33763466  1
+  O  O25  1  0.01109905  0.98142086  0.83763452  1

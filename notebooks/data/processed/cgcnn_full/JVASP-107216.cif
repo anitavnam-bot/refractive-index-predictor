@@ -1,0 +1,34 @@
+# generated using pymatgen
+data_Rb3Na
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.30807892
+_cell_length_b   9.30807892
+_cell_length_c   7.40303991
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00000431
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Rb3Na
+_chemical_formula_sum   'Rb6 Na2'
+_cell_volume   555.47026654
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Rb  Rb0  1  0.82742678  0.17257324  0.75000001  1
+  Rb  Rb1  1  0.34514660  0.17257324  0.75000001  1
+  Rb  Rb2  1  0.82742671  0.65485322  0.75000001  1
+  Rb  Rb3  1  0.17257319  0.82742646  0.25000000  1
+  Rb  Rb4  1  0.65485337  0.82742646  0.25000000  1
+  Rb  Rb5  1  0.17257326  0.34514648  0.25000000  1
+  Na  Na6  1  0.66666670  0.33333323  0.25000000  1
+  Na  Na7  1  0.33333328  0.66666646  0.75000001  1

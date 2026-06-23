@@ -1,0 +1,49 @@
+# generated using pymatgen
+data_Ba3NbFe3(SiO7)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.64828096
+_cell_length_b   8.64828096
+_cell_length_c   5.28136288
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   119.99999410
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ba3NbFe3(SiO7)2
+_chemical_formula_sum   'Ba3 Nb1 Fe3 Si2 O14'
+_cell_volume   342.08674468
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.43216714  0.43216714  0.00000000  1
+  Ba  Ba1  1  -0.00000003  0.56783268  0.00000000  1
+  Ba  Ba2  1  0.56783268  -0.00000003  0.00000000  1
+  Nb  Nb3  1  0.00000000  0.00000000  0.00000000  1
+  Fe  Fe4  1  0.25450293  -0.00000001  0.49999973  1
+  Fe  Fe5  1  0.74549688  0.74549688  0.49999973  1
+  Fe  Fe6  1  -0.00000001  0.25450293  0.49999973  1
+  Si  Si7  1  0.66666688  0.33333292  0.52293918  1
+  Si  Si8  1  0.33333292  0.66666688  0.47706028  1
+  O  O9  1  0.82321843  0.29850816  0.64933233  1
+  O  O10  1  0.47529060  0.17678138  0.64933233  1
+  O  O11  1  0.66666688  0.33333292  0.21762622  1
+  O  O12  1  0.78162841  0.89467100  0.77517540  1
+  O  O13  1  0.89467100  0.78162841  0.22482405  1
+  O  O14  1  0.52470921  0.70149162  0.35066712  1
+  O  O15  1  0.70149162  0.52470921  0.64933233  1
+  O  O16  1  0.33333292  0.66666688  0.78237323  1
+  O  O17  1  0.21837139  0.11304257  0.22482405  1
+  O  O18  1  0.11304257  0.21837139  0.77517540  1
+  O  O19  1  0.17678138  0.47529060  0.35066712  1
+  O  O20  1  0.29850816  0.82321843  0.35066712  1
+  O  O21  1  0.10532877  0.88695726  0.77517540  1
+  O  O22  1  0.88695726  0.10532877  0.22482405  1

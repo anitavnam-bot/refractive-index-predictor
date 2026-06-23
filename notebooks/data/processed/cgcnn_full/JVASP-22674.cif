@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_K2NiF6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.68741569
+_cell_length_b   5.68741593
+_cell_length_c   5.68741537
+_cell_angle_alpha   59.99999786
+_cell_angle_beta   59.99999648
+_cell_angle_gamma   59.99999592
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   K2NiF6
+_chemical_formula_sum   'K2 Ni1 F6'
+_cell_volume   130.08579627
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.25000032  0.25000024  0.25000008  1
+  K  K1  1  0.75000097  0.75000073  0.75000024  1
+  Ni  Ni2  1  0.00000000  0.00000000  0.00000000  1
+  F  F3  1  0.22483531  0.77516603  0.77516556  1
+  F  F4  1  0.22483531  0.77516603  0.22483456  1
+  F  F5  1  0.77516598  0.22483495  0.77516576  1
+  F  F6  1  0.77516598  0.22483495  0.22483477  1
+  F  F7  1  0.77516628  0.77516603  0.22483453  1
+  F  F8  1  0.22483502  0.22483495  0.77516579  1

@@ -1,0 +1,54 @@
+# generated using pymatgen
+data_Mn3Mo3C
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.84781184
+_cell_length_b   7.84781170
+_cell_length_c   7.84781091
+_cell_angle_alpha   59.99999916
+_cell_angle_beta   59.99999974
+_cell_angle_gamma   60.00000166
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Mn3Mo3C
+_chemical_formula_sum   'Mn12 Mo12 C4'
+_cell_volume   341.76744396
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mn  Mn0  1  0.49999988  0.49999989  0.00000063  1
+  Mn  Mn1  1  0.29687713  0.60936862  0.29687756  1
+  Mn  Mn2  1  0.49999988  0.49999989  0.50000058  1
+  Mn  Mn3  1  0.00000020  0.49999989  0.50000016  1
+  Mn  Mn4  1  0.29687701  0.29687701  0.29687742  1
+  Mn  Mn5  1  0.70312275  0.70312276  0.39063208  1
+  Mn  Mn6  1  0.39063127  0.70312276  0.70312347  1
+  Mn  Mn7  1  0.70312262  0.39063115  0.70312360  1
+  Mn  Mn8  1  0.60936849  0.29687701  0.29687768  1
+  Mn  Mn9  1  0.29687701  0.29687701  0.60936907  1
+  Mn  Mn10  1  0.49999968  0.00000000  0.50000036  1
+  Mn  Mn11  1  0.70312275  0.70312276  0.70312373  1
+  Mo  Mo12  1  0.67720411  0.67720412  0.07279657  1
+  Mo  Mo13  1  0.07279594  0.67720412  0.67720455  1
+  Mo  Mo14  1  0.32279588  0.92720407  0.92720484  1
+  Mo  Mo15  1  0.92720381  0.32279565  0.32279660  1
+  Mo  Mo16  1  0.92720405  0.92720407  0.32279686  1
+  Mo  Mo17  1  0.67720387  0.07279570  0.67720480  1
+  Mo  Mo18  1  0.07279570  0.07279570  0.67720429  1
+  Mo  Mo19  1  0.32279564  0.32279565  0.92720458  1
+  Mo  Mo20  1  0.32279588  0.92720407  0.32279635  1
+  Mo  Mo21  1  0.92720381  0.32279565  0.92720509  1
+  Mo  Mo22  1  0.67720387  0.07279570  0.07279631  1
+  Mo  Mo23  1  0.07279594  0.67720412  0.07279606  1
+  C  C24  1  0.00000000  0.00000000  0.00000000  1
+  C  C25  1  0.49999968  -0.00000000  0.00000042  1
+  C  C26  1  0.00000000  0.00000000  0.49999994  1
+  C  C27  1  0.00000020  0.49999989  0.00000022  1

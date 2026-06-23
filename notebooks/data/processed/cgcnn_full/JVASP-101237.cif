@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_Al4Ge2W3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.86624608
+_cell_length_b   4.86624608
+_cell_length_c   6.72932596
+_cell_angle_alpha   89.90745018
+_cell_angle_beta   89.90745018
+_cell_angle_gamma   120.08298037
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Al4Ge2W3
+_chemical_formula_sum   'Al4 Ge2 W3'
+_cell_volume   137.88731314
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Al  Al0  1  0.15347870  0.84652119  0.50000049  1
+  Al  Al1  1  0.34966404  0.17421697  0.16959468  1
+  Al  Al2  1  0.82578316  0.65033697  0.83040630  1
+  Al  Al3  1  0.81968057  0.18032037  0.50000049  1
+  Ge  Ge4  1  0.69409864  0.84430225  0.17019247  1
+  Ge  Ge5  1  0.15569809  0.30590165  0.82980851  1
+  W  W6  1  0.02969968  0.51465882  0.15967988  1
+  W  W7  1  0.48534080  0.97030082  0.84032110  1
+  W  W8  1  0.48694125  0.51305916  0.50000049  1

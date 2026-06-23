@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_NaPr2Cl6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.92698146
+_cell_length_b   7.92698156
+_cell_length_c   3.93163047
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   119.99999961
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NaPr2Cl6
+_chemical_formula_sum   'Na1 Pr2 Cl6'
+_cell_volume   213.95331308
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.00000000  0.00000000  0.49999994  1
+  Pr  Pr1  1  0.66666697  0.33333312  0.74867943  1
+  Pr  Pr2  1  0.33333313  0.66666725  0.25132045  1
+  Cl  Cl3  1  0.07617151  0.69876350  0.75083531  1
+  Cl  Cl4  1  0.30123682  0.37740823  0.75083531  1
+  Cl  Cl5  1  0.62259206  0.92382902  0.75083531  1
+  Cl  Cl6  1  0.92382859  0.30123687  0.24916457  1
+  Cl  Cl7  1  0.69876328  0.62259214  0.24916457  1
+  Cl  Cl8  1  0.37740804  0.07617135  0.24916457  1

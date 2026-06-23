@@ -1,0 +1,33 @@
+# generated using pymatgen
+data_ZnInGaO4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.91337535
+_cell_length_b   8.91337546
+_cell_length_c   8.91337487
+_cell_angle_alpha   21.62915396
+_cell_angle_beta   21.62915229
+_cell_angle_gamma   21.62915259
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ZnInGaO4
+_chemical_formula_sum   'Zn1 In1 Ga1 O4'
+_cell_volume   84.31159920
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Zn  Zn0  1  0.21905418  0.21905291  0.21905369  1
+  In  In1  1  0.00313090  0.00313088  0.00313089  1
+  Ga  Ga2  1  0.78700553  0.78700097  0.78700379  1
+  O  O3  1  0.29527512  0.29527341  0.29527446  1
+  O  O4  1  0.71123950  0.71123538  0.71123792  1
+  O  O5  1  0.12083092  0.12083022  0.12083066  1
+  O  O6  1  0.86347267  0.86346766  0.86347076  1

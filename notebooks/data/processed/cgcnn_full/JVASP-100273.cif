@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_TbSnIr
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.51901445
+_cell_length_b   7.51901510
+_cell_length_c   3.93728004
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   119.99999269
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TbSnIr
+_chemical_formula_sum   'Tb3 Sn3 Ir3'
+_cell_volume   192.77417164
+_cell_formula_units_Z   3
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tb  Tb0  1  0.59419441  -0.00000000  0.00000000  1
+  Tb  Tb1  1  -0.00000019  0.59419490  0.00000000  1
+  Tb  Tb2  1  0.40580486  0.40580533  0.00000000  1
+  Sn  Sn3  1  0.26035225  -0.00000000  0.49999999  1
+  Sn  Sn4  1  -0.00000008  0.26035246  0.49999999  1
+  Sn  Sn5  1  0.73964692  0.73964776  0.49999999  1
+  Ir  Ir6  1  0.33333259  0.66666715  0.49999999  1
+  Ir  Ir7  1  0.66666650  0.33333307  0.49999999  1
+  Ir  Ir8  1  0.00000000  0.00000000  0.00000000  1

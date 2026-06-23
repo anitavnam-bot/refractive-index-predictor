@@ -1,0 +1,44 @@
+# generated using pymatgen
+data_Sr3(InP2)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.34802979
+_cell_length_b   6.83427323
+_cell_length_c   16.37694356
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sr3(InP2)2
+_chemical_formula_sum   'Sr6 In4 P8'
+_cell_volume   486.65109111
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sr  Sr0  1  0.50000002  0.49999976  0.49999989  1
+  Sr  Sr1  1  0.00000000  0.28987181  0.80182531  1
+  Sr  Sr2  1  0.50000002  0.21012795  0.30182542  1
+  Sr  Sr3  1  0.50000002  0.78987157  0.69817436  1
+  Sr  Sr4  1  0.00000000  0.71012772  0.19817447  1
+  Sr  Sr5  1  0.00000000  0.00000000  0.00000000  1
+  In  In6  1  0.50000002  0.63643925  0.91398566  1
+  In  In7  1  0.00000000  0.86356004  0.41398577  1
+  In  In8  1  0.50000002  0.36356028  0.08601412  1
+  In  In9  1  0.00000000  0.13643948  0.58601401  1
+  P  P10  1  0.50000002  0.25995967  0.66755390  1
+  P  P11  1  0.50000002  0.74003986  0.33244588  1
+  P  P12  1  0.50000002  0.25851631  0.93154320  1
+  P  P13  1  0.00000000  0.24148346  0.43154331  1
+  P  P14  1  0.00000000  0.75851607  0.56845647  1
+  P  P15  1  0.50000002  0.74148322  0.06845658  1
+  P  P16  1  0.00000000  0.75995943  0.83244577  1
+  P  P17  1  0.00000000  0.24004009  0.16755401  1

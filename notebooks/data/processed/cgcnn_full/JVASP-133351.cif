@@ -1,0 +1,52 @@
+# generated using pymatgen
+data_MgZn2(AsO4)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.49510758
+_cell_length_b   5.36546072
+_cell_length_c   8.89190769
+_cell_angle_alpha   60.07092872
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   MgZn2(AsO4)2
+_chemical_formula_sum   'Mg2 Zn4 As4 O16'
+_cell_volume   351.24604077
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mg  Mg0  1  0.00000000  0.00000000  0.00000000  1
+  Mg  Mg1  1  0.50000014  -0.00000046  0.50000029  1
+  Zn  Zn2  1  0.36353533  0.97806314  0.11656070  1
+  Zn  Zn3  1  0.63646495  0.02193681  0.88343947  1
+  Zn  Zn4  1  0.86353547  0.02193727  0.38343918  1
+  Zn  Zn5  1  0.13646481  0.97806269  0.61656100  1
+  As  As6  1  0.80629016  0.64119606  0.80848399  1
+  As  As7  1  0.19371013  0.35880389  0.19151619  1
+  As  As8  1  0.69371027  0.64119652  0.30848370  1
+  As  As9  1  0.30629001  0.35880344  0.69151648  1
+  O  O10  1  0.87338473  0.82130173  0.24507499  1
+  O  O11  1  0.30184559  0.72293986  0.61238700  1
+  O  O12  1  0.69815469  0.27706010  0.38761318  1
+  O  O13  1  0.62661569  0.82130127  0.74507529  1
+  O  O14  1  0.37338459  0.17869868  0.25492489  1
+  O  O15  1  0.12661555  0.17869823  0.75492519  1
+  O  O16  1  0.93395610  0.77957669  0.63458045  1
+  O  O17  1  0.13353725  0.28152396  0.03654510  1
+  O  O18  1  0.43395595  0.22042281  0.86542002  1
+  O  O19  1  0.56604433  0.77957715  0.13458016  1
+  O  O20  1  0.86646303  0.71847600  0.96345508  1
+  O  O21  1  0.19815455  0.72294031  0.11238670  1
+  O  O22  1  0.36646289  0.28152350  0.53654539  1
+  O  O23  1  0.63353739  0.71847645  0.46345479  1
+  O  O24  1  0.06604419  0.22042326  0.36541973  1
+  O  O25  1  0.80184573  0.27705964  0.88761348  1

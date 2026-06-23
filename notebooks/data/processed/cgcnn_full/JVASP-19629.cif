@@ -1,0 +1,32 @@
+# generated using pymatgen
+data_Be5Au
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.32151016
+_cell_length_b   4.32150969
+_cell_length_c   4.32151020
+_cell_angle_alpha   60.00000373
+_cell_angle_beta   60.00000728
+_cell_angle_gamma   59.99999690
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Be5Au
+_chemical_formula_sum   'Be5 Au1'
+_cell_volume   57.06786172
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Be  Be0  1  0.62465711  0.12603043  0.62465590  1
+  Be  Be1  1  0.24999990  0.25000015  0.24999943  1
+  Be  Be2  1  0.62465662  0.62465726  0.62465546  1
+  Be  Be3  1  0.62465662  0.62465726  0.12602896  1
+  Be  Be4  1  0.12602981  0.62465726  0.62465614  1
+  Au  Au5  1  0.00000000  0.00000000  0.00000000  1

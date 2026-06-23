@@ -1,0 +1,43 @@
+# generated using pymatgen
+data_Ca10Ge6F
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.07848445
+_cell_length_b   9.07848445
+_cell_length_c   9.07848445
+_cell_angle_alpha   129.90567159
+_cell_angle_beta   129.90567159
+_cell_angle_gamma   73.55760918
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ca10Ge6F
+_chemical_formula_sum   'Ca10 Ge6 F1'
+_cell_volume   429.67019346
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ca  Ca0  1  0.25000044  0.74999989  0.50000013  1
+  Ca  Ca1  1  0.23091558  0.23091535  0.66557094  1
+  Ca  Ca2  1  0.06858338  0.71411504  -0.00000024  1
+  Ca  Ca3  1  0.71411495  0.06858280  -0.00000067  1
+  Ca  Ca4  1  0.28588488  0.28588464  0.35446892  1
+  Ca  Ca5  1  0.56534482  0.56534442  0.33442921  1
+  Ca  Ca6  1  0.43465533  0.76908434  -0.00000059  1
+  Ca  Ca7  1  0.76908455  0.43465477  -0.00000081  1
+  Ca  Ca8  1  0.75000002  0.24999980  0.49999979  1
+  Ca  Ca9  1  0.93141707  0.93141639  0.64553074  1
+  Ge  Ge10  1  0.63399939  0.63399888  0.76179621  1
+  Ge  Ge11  1  0.00000049  0.50000009  0.50000042  1
+  Ge  Ge12  1  0.50000006  -0.00000000  0.50000008  1
+  Ge  Ge13  1  0.12779716  0.36600080  -0.00000021  1
+  Ge  Ge14  1  0.36600083  0.12779688  -0.00000037  1
+  Ge  Ge15  1  0.87220290  0.87220231  0.23820312  1
+  F  F16  1  0.49999991  0.49999959  -0.00000058  1

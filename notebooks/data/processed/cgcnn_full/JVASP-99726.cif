@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_Rb3TiF6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.49634515
+_cell_length_b   6.49634513
+_cell_length_c   6.49634582
+_cell_angle_alpha   59.99999648
+_cell_angle_beta   59.99999658
+_cell_angle_gamma   59.99999762
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Rb3TiF6
+_chemical_formula_sum   'Rb3 Ti1 F6'
+_cell_volume   193.86182116
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Rb  Rb0  1  0.74999976  0.74999952  0.75000017  1
+  Rb  Rb1  1  0.24999992  0.24999984  0.25000006  1
+  Rb  Rb2  1  0.49999984  0.49999968  0.50000011  1
+  Ti  Ti3  1  0.00000000  0.00000000  0.00000000  1
+  F  F4  1  0.78421164  0.21578818  0.21578810  1
+  F  F5  1  0.21578825  0.21578818  0.78421210  1
+  F  F6  1  0.21578804  0.78421118  0.78421213  1
+  F  F7  1  0.21578804  0.78421118  0.21578839  1
+  F  F8  1  0.78421164  0.21578818  0.78421183  1
+  F  F9  1  0.78421144  0.78421118  0.21578813  1

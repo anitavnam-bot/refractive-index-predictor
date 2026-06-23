@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_Sc2Si2Ru
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.08395996
+_cell_length_b   5.44334392
+_cell_length_c   8.67416012
+_cell_angle_alpha   81.45962141
+_cell_angle_beta   76.38422962
+_cell_angle_gamma   67.96744421
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sc2Si2Ru
+_chemical_formula_sum   'Sc4 Si4 Ru2'
+_cell_volume   173.33611190
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sc  Sc0  1  0.81731673  0.25761539  0.10774979  1
+  Sc  Sc1  1  0.00533039  0.66649543  0.32284494  1
+  Sc  Sc2  1  0.18268365  0.74238472  0.89224981  1
+  Sc  Sc3  1  0.99466999  0.33350468  0.67715466  1
+  Si  Si4  1  0.48588179  0.14942260  0.87881574  1
+  Si  Si5  1  0.36022076  0.71414927  0.56540950  1
+  Si  Si6  1  0.51411859  0.85057751  0.12118386  1
+  Si  Si7  1  0.63977962  0.28585083  0.43459010  1
+  Ru  Ru8  1  0.72919575  0.91135944  0.63024819  1
+  Ru  Ru9  1  0.27080463  0.08864067  0.36975141  1

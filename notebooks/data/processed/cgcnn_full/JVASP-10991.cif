@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_K2ZnTe2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.95687341
+_cell_length_b   7.24849365
+_cell_length_c   8.62701452
+_cell_angle_alpha   114.84117647
+_cell_angle_beta   113.77855581
+_cell_angle_gamma   89.99999805
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   K2ZnTe2
+_chemical_formula_sum   'K4 Zn2 Te4'
+_cell_volume   353.67417693
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.85935219  0.17572039  0.71870234  1
+  K  K1  1  0.14064835  0.82427948  0.28129790  1
+  K  K2  1  0.64064860  0.45701663  0.28129781  1
+  K  K3  1  0.35935195  0.54298324  0.71870242  1
+  Zn  Zn4  1  0.25000008  0.00000000  -0.00000000  1
+  Zn  Zn5  1  0.75000025  0.00000000  -0.00000001  1
+  Te  Te6  1  0.60880408  0.91104782  0.21760715  1
+  Te  Te7  1  0.39119646  0.08895205  0.78239309  1
+  Te  Te8  1  0.89119651  0.69344137  0.78239321  1
+  Te  Te9  1  0.10880404  0.30655849  0.21760702  1

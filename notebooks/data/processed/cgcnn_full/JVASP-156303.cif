@@ -1,0 +1,31 @@
+# generated using pymatgen
+data_Ho(MgAs)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.31331870
+_cell_length_b   4.31331790
+_cell_length_c   6.86879781
+_cell_angle_alpha   89.99766545
+_cell_angle_beta   90.00233455
+_cell_angle_gamma   119.99675152
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ho(MgAs)2
+_chemical_formula_sum   'Ho1 Mg2 As2'
+_cell_volume   110.67476143
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ho  Ho0  1  0.00000000  0.00000000  0.00000000  1
+  Mg  Mg1  1  0.66670234  0.33329684  0.35847062  1
+  Mg  Mg2  1  0.33329746  0.66670151  0.64152969  1
+  As  As3  1  0.33334991  0.66664920  0.24308902  1
+  As  As4  1  0.66664989  0.33334916  0.75691130  1

@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_KThCuS3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.08517208
+_cell_length_b   7.14806587
+_cell_length_c   10.56949864
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   106.60390417
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   KThCuS3
+_chemical_formula_sum   'K2 Th2 Cu2 S6'
+_cell_volume   295.77140436
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.74403314  0.48806699  0.25000003  1
+  K  K1  1  0.25596511  0.51193246  0.75000010  1
+  Th  Th2  1  0.00000000  0.00000000  0.00000000  1
+  Th  Th3  1  0.00000000  0.00000000  0.50000006  1
+  Cu  Cu4  1  0.46674205  0.93348639  0.25000003  1
+  Cu  Cu5  1  0.53325620  0.06651306  0.75000010  1
+  S  S6  1  0.62941505  0.25883124  0.93279871  1
+  S  S7  1  0.37058320  0.74116821  0.06720142  1
+  S  S8  1  0.93366717  0.86733698  0.75000010  1
+  S  S9  1  0.06633108  0.13266248  0.25000003  1
+  S  S10  1  0.37058320  0.74116821  0.43279865  1
+  S  S11  1  0.62941505  0.25883124  0.56720148  1

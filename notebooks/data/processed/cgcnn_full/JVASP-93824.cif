@@ -1,0 +1,32 @@
+# generated using pymatgen
+data_Li2Tl
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.68757197
+_cell_length_b   4.79930948
+_cell_length_c   5.55943247
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   114.93484503
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Li2Tl
+_chemical_formula_sum   'Li4 Tl2'
+_cell_volume   113.41299711
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.24300002  0.75000008  0.48600098  1
+  Li  Li1  1  0.75699926  0.25000003  0.51399992  1
+  Li  Li2  1  0.58183810  0.75000008  0.16367694  1
+  Li  Li3  1  0.41816118  0.25000003  0.83632396  1
+  Tl  Tl4  1  0.90137468  0.75000008  0.80275032  1
+  Tl  Tl5  1  0.09862460  0.25000003  0.19725057  1

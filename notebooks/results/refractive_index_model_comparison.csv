@@ -1,0 +1,4 @@
+Model,MAE,RMSE,R2
+Full Physics (with dielectric tensor),0.02519,0.04808,0.99987
+No Dielectric Tensor,1.45182,2.17895,0.74321
+No Dielectric Tensor + Density,1.45862,2.18213,0.74246

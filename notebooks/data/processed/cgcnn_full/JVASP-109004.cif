@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_KRb2SmCl6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.89456194
+_cell_length_b   7.89456194
+_cell_length_c   7.89456194
+_cell_angle_alpha   60.00000000
+_cell_angle_beta   60.00000000
+_cell_angle_gamma   60.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   KRb2SmCl6
+_chemical_formula_sum   'K1 Rb2 Sm1 Cl6'
+_cell_volume   347.91176187
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.49999971  0.49999978  0.50000001  1
+  Rb  Rb1  1  0.74999957  0.74999967  0.75000001  1
+  Rb  Rb2  1  0.24999986  0.24999989  0.25000000  1
+  Sm  Sm3  1  0.00000000  0.00000000  0.00000000  1
+  Cl  Cl4  1  0.76044254  0.23955713  0.23955722  1
+  Cl  Cl5  1  0.23955710  0.23955713  0.76044264  1
+  Cl  Cl6  1  0.23955689  0.76044243  0.76044280  1
+  Cl  Cl7  1  0.23955689  0.76044243  0.23955739  1
+  Cl  Cl8  1  0.76044254  0.23955713  0.76044262  1
+  Cl  Cl9  1  0.76044233  0.76044243  0.23955737  1

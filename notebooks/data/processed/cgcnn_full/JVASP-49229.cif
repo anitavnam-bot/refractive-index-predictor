@@ -1,0 +1,49 @@
+# generated using pymatgen
+data_Ca4Al6TeO12
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.98099298
+_cell_length_b   7.98099279
+_cell_length_c   7.98099326
+_cell_angle_alpha   109.47121930
+_cell_angle_beta   109.47121881
+_cell_angle_gamma   109.47122294
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ca4Al6TeO12
+_chemical_formula_sum   'Ca4 Al6 Te1 O12'
+_cell_volume   391.33519249
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ca  Ca0  1  0.61094697  -0.00000000  -0.00000001  1
+  Ca  Ca1  1  0.00000000  0.00000000  0.61094691  1
+  Ca  Ca2  1  0.38905242  0.38905264  0.38905254  1
+  Ca  Ca3  1  -0.00000046  0.61094685  -0.00000020  1
+  Al  Al4  1  0.49999927  0.74999962  0.24999965  1
+  Al  Al5  1  0.49999965  0.24999987  0.74999961  1
+  Al  Al6  1  0.74999938  0.49999975  0.24999972  1
+  Al  Al7  1  0.24999954  0.49999975  0.74999953  1
+  Al  Al8  1  0.74999957  0.24999987  0.49999970  1
+  Al  Al9  1  0.24999935  0.74999962  0.49999955  1
+  Te  Te10  1  0.00000000  0.00000000  0.00000000  1
+  O  O11  1  0.41602762  0.71518103  -0.00000024  1
+  O  O12  1  -0.00000032  0.41602808  0.71518096  1
+  O  O13  1  0.71518084  0.41602808  -0.00000015  1
+  O  O14  1  -0.00000054  0.71518103  0.41602789  1
+  O  O15  1  0.70084646  0.28481846  0.28481839  1
+  O  O16  1  0.28481799  0.70084654  0.28481826  1
+  O  O17  1  0.71518116  0.00000000  0.41602811  1
+  O  O18  1  0.29915256  0.58397141  0.58397127  1
+  O  O19  1  0.58397129  0.29915295  0.58397136  1
+  O  O20  1  0.28481830  0.28481846  0.70084652  1
+  O  O21  1  0.58397108  0.58397141  0.29915278  1
+  O  O22  1  0.41602816  0.00000000  0.71518109  1

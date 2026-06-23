@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_K2RbCeCl6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.15496399
+_cell_length_b   8.15496391
+_cell_length_c   8.15496332
+_cell_angle_alpha   59.99999853
+_cell_angle_beta   59.99999882
+_cell_angle_gamma   60.00000117
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   K2RbCeCl6
+_chemical_formula_sum   'K2 Rb1 Ce1 Cl6'
+_cell_volume   383.48740104
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.74999992  0.74999998  0.74999935  1
+  K  K1  1  0.24999997  0.24999999  0.24999978  1
+  Rb  Rb2  1  0.49999994  0.49999999  0.49999957  1
+  Ce  Ce3  1  0.00000000  0.00000000  0.00000000  1
+  Cl  Cl4  1  0.76348961  0.23651067  0.23650918  1
+  Cl  Cl5  1  0.23651065  0.23650967  0.76348891  1
+  Cl  Cl6  1  0.23651028  0.76348931  0.76348896  1
+  Cl  Cl7  1  0.23651028  0.76348931  0.23651052  1
+  Cl  Cl8  1  0.76348961  0.23650967  0.76348861  1
+  Cl  Cl9  1  0.76349024  0.76348931  0.23650923  1

@@ -1,0 +1,30 @@
+# generated using pymatgen
+data_AgSnRh2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   10.82584264
+_cell_length_b   6.05999057
+_cell_length_c   6.05999075
+_cell_angle_alpha   44.15269127
+_cell_angle_beta   26.71895424
+_cell_angle_gamma   26.71894966
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   AgSnRh2
+_chemical_formula_sum   'Ag1 Sn1 Rh2'
+_cell_volume   73.74551842
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ag  Ag0  1  0.00000000  0.00000000  0.00000000  1
+  Sn  Sn1  1  0.49999987  -0.00000011  -0.00000006  1
+  Rh  Rh2  1  0.73470111  -0.00000043  1.00000003  1
+  Rh  Rh3  1  0.26529812  1.00000034  0.00000062  1

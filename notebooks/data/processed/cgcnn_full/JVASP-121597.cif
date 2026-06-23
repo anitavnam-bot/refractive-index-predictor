@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Nb3Ag2TeS6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.77555569
+_cell_length_b   5.77555689
+_cell_length_c   8.29905876
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   119.95037419
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Nb3Ag2TeS6
+_chemical_formula_sum   'Nb3 Ag2 Te1 S6'
+_cell_volume   239.86344712
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Nb  Nb0  1  0.69622653  0.03591258  0.50000007  1
+  Nb  Nb1  1  0.03591198  0.69622648  0.50000007  1
+  Nb  Nb2  1  0.37567657  0.37567685  0.50000007  1
+  Ag  Ag3  1  0.32755824  0.66483452  0.00000000  1
+  Ag  Ag4  1  0.66483431  0.32755878  0.00000000  1
+  Te  Te5  1  0.04121715  0.04121718  0.00000000  1
+  S  S6  1  0.70209006  0.36867541  0.69366146  1
+  S  S7  1  0.36867485  0.70209030  0.30633869  1
+  S  S8  1  0.70209006  0.36867541  0.30633869  1
+  S  S9  1  0.36867485  0.70209030  0.69366146  1
+  S  S10  1  0.03697255  0.03697257  0.31686149  1
+  S  S11  1  0.03697255  0.03697257  0.68313866  1

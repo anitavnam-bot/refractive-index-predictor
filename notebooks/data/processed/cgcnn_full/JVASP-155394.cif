@@ -1,0 +1,34 @@
+# generated using pymatgen
+data_Cu2SnPdSe4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.04291734
+_cell_length_b   7.04291734
+_cell_length_c   5.73535224
+_cell_angle_alpha   114.02728742
+_cell_angle_beta   114.02728742
+_cell_angle_gamma   48.05457433
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Cu2SnPdSe4
+_chemical_formula_sum   'Cu2 Sn1 Pd1 Se4'
+_cell_volume   189.40801224
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cu  Cu0  1  0.74999980  0.74999980  0.24999985  1
+  Cu  Cu1  1  0.25000004  0.25000004  0.74999932  1
+  Sn  Sn2  1  0.49999992  0.49999992  0.49999959  1
+  Pd  Pd3  1  0.00000000  0.00000000  0.00000000  1
+  Se  Se4  1  0.10001381  0.62536982  0.10001419  1
+  Se  Se5  1  0.89998594  0.37462994  0.37463013  1
+  Se  Se6  1  0.62536990  0.10001390  0.62536904  1
+  Se  Se7  1  0.37463002  0.89998603  0.89998498  1

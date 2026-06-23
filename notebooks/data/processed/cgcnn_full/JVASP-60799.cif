@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Ga2Au
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.76462950
+_cell_length_b   7.27915759
+_cell_length_c   8.27104349
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ga2Au
+_chemical_formula_sum   'Ga8 Au4'
+_cell_volume   226.65414595
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ga  Ga0  1  0.25000003  0.87090293  0.56596986  1
+  Ga  Ga1  1  0.75000010  0.62909757  0.06597007  1
+  Ga  Ga2  1  0.75000010  0.12909741  0.43402972  1
+  Ga  Ga3  1  0.25000003  0.37090276  0.93402951  1
+  Ga  Ga4  1  0.25000003  0.45649567  0.34823017  1
+  Ga  Ga5  1  0.75000010  0.04350450  0.84822995  1
+  Ga  Ga6  1  0.75000010  0.54350466  0.65176941  1
+  Ga  Ga7  1  0.25000003  0.95649583  0.15176962  1
+  Au  Au8  1  0.25000003  0.24438804  0.63981156  1
+  Au  Au9  1  0.75000010  0.25561212  0.13981177  1
+  Au  Au10  1  0.75000010  0.75561229  0.36018802  1
+  Au  Au11  1  0.25000003  0.74438821  0.86018781  1

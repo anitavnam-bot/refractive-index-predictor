@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_CeCo3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.63835883
+_cell_length_b   8.63835869
+_cell_length_c   8.63835848
+_cell_angle_alpha   32.77239719
+_cell_angle_beta   32.77240169
+_cell_angle_gamma   32.77239830
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CeCo3
+_chemical_formula_sum   'Ce3 Co9'
+_cell_volume   168.02089134
+_cell_formula_units_Z   3
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ce  Ce0  1  0.86204078  0.86204206  0.86204292  1
+  Ce  Ce1  1  0.13795782  0.13795802  0.13795816  1
+  Ce  Ce2  1  0.00000000  0.00000000  0.00000000  1
+  Co  Co3  1  0.33276821  0.33276871  0.33276904  1
+  Co  Co4  1  0.42002693  0.42002754  0.91862738  1
+  Co  Co5  1  0.57997167  0.57997254  0.08137370  1
+  Co  Co6  1  0.66723039  0.66723138  0.66723205  1
+  Co  Co7  1  0.57997214  0.08137285  0.57997267  1
+  Co  Co8  1  0.91862631  0.42002754  0.42002828  1
+  Co  Co9  1  0.42002646  0.91862724  0.42002841  1
+  Co  Co10  1  0.49999930  0.50000004  0.50000054  1
+  Co  Co11  1  0.08137229  0.57997254  0.57997280  1

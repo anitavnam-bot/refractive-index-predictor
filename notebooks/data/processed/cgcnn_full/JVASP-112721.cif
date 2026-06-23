@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_SiPbN2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.63893936
+_cell_length_b   7.55367856
+_cell_length_c   5.15006638
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   SiPbN2
+_chemical_formula_sum   'Si4 Pb4 N8'
+_cell_volume   219.36571418
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Si  Si0  1  0.51351224  0.37385396  0.00284449  1
+  Si  Si1  1  0.48648787  0.62614623  0.50284484  1
+  Si  Si2  1  0.98648793  0.87385405  0.50284484  1
+  Si  Si3  1  0.01351219  0.12614614  0.00284449  1
+  Pb  Pb4  1  0.56897086  0.87379662  0.01960120  1
+  Pb  Pb5  1  0.43102926  0.12620357  0.51960155  1
+  Pb  Pb6  1  0.93102931  0.37379652  0.51960155  1
+  Pb  Pb7  1  0.06897080  0.62620367  0.01960120  1
+  N  N8  1  0.50597047  0.42106561  0.33638539  1
+  N  N9  1  0.49402964  0.57893458  0.83638574  1
+  N  N10  1  0.99402970  0.92106571  0.83638574  1
+  N  N11  1  0.00597041  0.07893448  0.33638539  1
+  N  N12  1  0.73235282  0.75657014  0.41116947  1
+  N  N13  1  0.26764729  0.24343005  0.91116982  1
+  N  N14  1  0.76764735  0.25657005  0.91116982  1
+  N  N15  1  0.23235276  0.74343014  0.41116947  1

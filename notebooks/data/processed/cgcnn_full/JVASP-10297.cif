@@ -1,0 +1,37 @@
+# generated using pymatgen
+data_K2Zr(BO3)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.54748783
+_cell_length_b   6.54748760
+_cell_length_c   6.54748834
+_cell_angle_alpha   48.04914795
+_cell_angle_beta   48.04914857
+_cell_angle_gamma   48.04914703
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   K2Zr(BO3)2
+_chemical_formula_sum   'K2 Zr1 B2 O6'
+_cell_volume   142.24761475
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.78976817  0.78976981  0.78976842  1
+  K  K1  1  0.21023157  0.21023201  0.21023164  1
+  Zr  Zr2  1  0.00000000  0.00000000  0.00000000  1
+  B  B3  1  0.59510649  0.59510773  0.59510668  1
+  B  B4  1  0.40489326  0.40489410  0.40489338  1
+  O  O5  1  0.74473883  0.29503435  0.74473958  1
+  O  O6  1  0.25526033  0.25526145  0.70496703  1
+  O  O7  1  0.70496660  0.25526145  0.25526071  1
+  O  O8  1  0.25526091  0.70496747  0.25526048  1
+  O  O9  1  0.74473941  0.74474037  0.29503303  1
+  O  O10  1  0.29503315  0.74474037  0.74473935  1

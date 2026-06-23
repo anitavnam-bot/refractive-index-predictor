@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_Li5InO4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.73487273
+_cell_length_b   6.50659033
+_cell_length_c   6.97521283
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Li5InO4
+_chemical_formula_sum   'Li10 In2 O8'
+_cell_volume   214.89150018
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.24418243  0.74320317  0.68960935  1
+  Li  Li1  1  0.75581699  0.24320319  0.81039004  1
+  Li  Li2  1  0.24109766  0.49999997  0.00000000  1
+  Li  Li3  1  0.75581699  0.24320319  0.18960955  1
+  Li  Li4  1  0.75581699  0.75679676  0.18960955  1
+  Li  Li5  1  0.75581699  0.75679676  0.81039004  1
+  Li  Li6  1  0.24418243  0.74320317  0.31039024  1
+  Li  Li7  1  0.75890176  0.00000000  0.49999980  1
+  Li  Li8  1  0.24418243  0.25679678  0.68960935  1
+  Li  Li9  1  0.24418243  0.25679678  0.31039024  1
+  In  In10  1  0.76697443  0.49999997  0.49999980  1
+  In  In11  1  0.23302499  0.00000000  0.00000000  1
+  O  O12  1  0.47426393  0.26147562  0.00000000  1
+  O  O13  1  0.00732874  0.49999997  0.75179089  1
+  O  O14  1  0.52573550  0.76147559  0.49999980  1
+  O  O15  1  0.52573550  0.23852436  0.49999980  1
+  O  O16  1  0.00732874  0.49999997  0.24820871  1
+  O  O17  1  0.99267068  0.00000000  0.25179109  1
+  O  O18  1  0.47426393  0.73852433  0.00000000  1
+  O  O19  1  0.99267068  0.00000000  0.74820851  1

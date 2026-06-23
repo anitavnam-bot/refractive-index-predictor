@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_PrNiGe3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.18853892
+_cell_length_b   4.21800070
+_cell_length_c   11.18671745
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   100.79003099
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   PrNiGe3
+_chemical_formula_sum   'Pr2 Ni2 Ge6'
+_cell_volume   194.14436391
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Pr  Pr0  1  0.33118965  0.49999992  0.66237892  1
+  Pr  Pr1  1  0.66881063  0.49999992  0.33762155  1
+  Ni  Ni2  1  0.10842884  0.00000000  0.21685755  1
+  Ni  Ni3  1  0.89157144  0.00000000  0.78314291  1
+  Ge  Ge4  1  0.55687794  0.00000000  0.11375730  1
+  Ge  Ge5  1  0.44312235  0.00000000  0.88624317  1
+  Ge  Ge6  1  0.94314023  0.49999992  0.88627943  1
+  Ge  Ge7  1  0.05686005  0.49999992  0.11372104  1
+  Ge  Ge8  1  0.78426881  0.00000000  0.56853778  1
+  Ge  Ge9  1  0.21573147  0.00000000  0.43146269  1

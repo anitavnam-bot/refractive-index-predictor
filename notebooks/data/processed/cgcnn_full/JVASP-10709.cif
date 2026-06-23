@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_RbNd2CuS4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.08879206
+_cell_length_b   7.31835587
+_cell_length_c   14.05234503
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   106.22151909
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   RbNd2CuS4
+_chemical_formula_sum   'Rb2 Nd4 Cu2 S8'
+_cell_volume   403.75136602
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Rb  Rb0  1  0.89342515  0.78685392  0.25000009  1
+  Rb  Rb1  1  0.10657300  0.21314557  0.75000027  1
+  Nd  Nd2  1  0.36556751  0.73113699  0.93842601  1
+  Nd  Nd3  1  0.63443064  0.26886250  0.43842584  1
+  Nd  Nd4  1  0.36556751  0.73113699  0.56157452  1
+  Nd  Nd5  1  0.63443064  0.26886250  0.06157434  1
+  Cu  Cu6  1  0.83611452  0.67223136  0.75000027  1
+  Cu  Cu7  1  0.16388363  0.32776813  0.25000009  1
+  S  S8  1  0.00000000  0.00000000  0.50000018  1
+  S  S9  1  0.00000000  0.00000000  0.00000000  1
+  S  S10  1  0.57318420  0.14637030  0.25000009  1
+  S  S11  1  0.42681394  0.85362918  0.75000027  1
+  S  S12  1  0.26190084  0.52380408  0.38672643  1
+  S  S13  1  0.73809731  0.47619540  0.88672661  1
+  S  S14  1  0.73809731  0.47619540  0.61327392  1
+  S  S15  1  0.26190084  0.52380408  0.11327374  1

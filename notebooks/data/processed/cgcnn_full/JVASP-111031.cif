@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_Mn2CrI6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.10868159
+_cell_length_b   4.10868159
+_cell_length_c   20.42698381
+_cell_angle_alpha   89.97421327
+_cell_angle_beta   89.97421327
+_cell_angle_gamma   59.97036348
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Mn2CrI6
+_chemical_formula_sum   'Mn2 Cr1 I6'
+_cell_volume   298.54514698
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mn  Mn0  1  0.33484939  0.33484924  0.33224812  1
+  Mn  Mn1  1  0.66515052  0.66515021  0.66775219  1
+  Cr  Cr2  1  0.00000000  0.00000000  0.00000000  1
+  I  I3  1  0.99841672  0.99841695  0.74971781  1
+  I  I4  1  0.33378903  0.33378958  0.07900661  1
+  I  I5  1  0.66793046  0.66793086  0.41384799  1
+  I  I6  1  0.66621088  0.66620987  0.92099371  1
+  I  I7  1  0.00158319  0.00158250  0.25028251  1
+  I  I8  1  0.33206945  0.33206859  0.58615232  1

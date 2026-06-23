@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Al2InN3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.66790734
+_cell_length_b   5.65155482
+_cell_length_c   5.25115789
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   119.90459963
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Al2InN3
+_chemical_formula_sum   'Al4 In2 N6'
+_cell_volume   145.81193980
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Al  Al0  1  0.34330640  0.33479577  0.49184686  1
+  Al  Al1  1  0.65669368  0.99148882  0.49184686  1
+  Al  Al2  1  0.65669390  0.66520525  0.99184706  1
+  Al  Al3  1  0.34330662  0.00851221  0.99184706  1
+  In  In4  1  -0.00000044  0.67770392  0.48727201  1
+  In  In5  1  -0.00000021  0.32229615  0.98727221  1
+  N  N6  1  0.37044321  0.33368117  0.85550622  1
+  N  N7  1  0.62955690  0.96323839  0.85550622  1
+  N  N8  1  0.62955709  0.66631985  0.35550602  1
+  N  N9  1  0.37044340  0.03676263  0.35550602  1
+  N  N10  1  -0.00000045  0.70193732  0.90602447  1
+  N  N11  1  -0.00000019  0.29806275  0.40602427  1

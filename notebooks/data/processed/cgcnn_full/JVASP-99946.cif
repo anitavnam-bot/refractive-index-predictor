@@ -1,0 +1,31 @@
+# generated using pymatgen
+data_Nb4Al
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   11.82050875
+_cell_length_b   11.72896808
+_cell_length_c   2.82693600
+_cell_angle_alpha   84.95127992
+_cell_angle_beta   81.26678124
+_cell_angle_gamma   13.78193711
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Nb4Al
+_chemical_formula_sum   'Nb4 Al1'
+_cell_volume   89.29578377
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Nb  Nb0  1  0.40400798  0.40400276  0.59599536  1
+  Nb  Nb1  1  0.80098293  0.80097624  0.19902095  1
+  Nb  Nb2  1  0.19902292  0.19901845  0.80098015  1
+  Nb  Nb3  1  0.59599787  0.59599193  0.40400573  1
+  Al  Al4  1  0.00000000  0.00000000  0.00000000  1

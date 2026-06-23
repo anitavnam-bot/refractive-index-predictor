@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_K2NaFeF6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.79300009
+_cell_length_b   5.79299992
+_cell_length_c   5.79300018
+_cell_angle_alpha   59.99999847
+_cell_angle_beta   59.99999946
+_cell_angle_gamma   59.99999567
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   K2NaFeF6
+_chemical_formula_sum   'K2 Na1 Fe1 F6'
+_cell_volume   137.46609021
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.75000164  0.74999930  0.74999948  1
+  K  K1  1  0.25000055  0.24999977  0.24999983  1
+  Na  Na2  1  0.50000109  0.49999953  0.49999965  1
+  Fe  Fe3  1  0.00000000  0.00000000  0.00000000  1
+  F  F4  1  0.22917092  0.77082953  0.77082998  1
+  F  F5  1  0.22917092  0.77082953  0.22916951  1
+  F  F6  1  0.77083126  0.22916954  0.77082980  1
+  F  F7  1  0.22917025  0.22916954  0.77083007  1
+  F  F8  1  0.77083126  0.22916954  0.22916933  1
+  F  F9  1  0.77083193  0.77082953  0.22916924  1

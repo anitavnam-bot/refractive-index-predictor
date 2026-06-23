@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_DyMnSi
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.13530575
+_cell_length_b   6.98755965
+_cell_length_c   7.41332480
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   DyMnSi
+_chemical_formula_sum   'Dy4 Mn4 Si4'
+_cell_volume   214.21317702
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Dy  Dy0  1  0.25000026  0.00262704  0.81291112  1
+  Dy  Dy1  1  0.75000077  0.99737301  0.18708823  1
+  Dy  Dy2  1  0.25000026  0.50262706  0.68708791  1
+  Dy  Dy3  1  0.75000077  0.49737299  0.31291144  1
+  Mn  Mn4  1  0.75000077  0.85938310  0.56088468  1
+  Mn  Mn5  1  0.25000026  0.14061695  0.43911467  1
+  Mn  Mn6  1  0.75000077  0.35938308  0.93911434  1
+  Mn  Mn7  1  0.25000026  0.64061697  0.06088501  1
+  Si  Si8  1  0.25000026  0.29182775  0.10813260  1
+  Si  Si9  1  0.75000077  0.70817230  0.89186676  1
+  Si  Si10  1  0.25000026  0.79182777  0.39186708  1
+  Si  Si11  1  0.75000077  0.20817228  0.60813227  1

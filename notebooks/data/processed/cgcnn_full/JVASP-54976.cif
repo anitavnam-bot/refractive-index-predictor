@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_K2CuBr3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.30046335
+_cell_length_b   12.51890248
+_cell_length_c   13.16998496
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   K2CuBr3
+_chemical_formula_sum   'K8 Cu4 Br12'
+_cell_volume   709.03355093
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.24999981  0.17767956  0.51475934  1
+  K  K1  1  0.24999981  0.51372422  0.32197516  1
+  K  K2  1  0.74999942  0.82232025  0.48524029  1
+  K  K3  1  0.74999942  0.48627558  0.67802447  1
+  K  K4  1  0.74999942  0.98627548  0.82197497  1
+  K  K5  1  0.24999981  0.67767946  0.98524010  1
+  K  K6  1  0.74999942  0.32232035  0.01475953  1
+  K  K7  1  0.24999981  0.01372432  0.17802466  1
+  Cu  Cu8  1  0.24999981  0.25527960  0.80245775  1
+  Cu  Cu9  1  0.24999981  0.75527950  0.69754169  1
+  Cu  Cu10  1  0.74999942  0.74472020  0.19754187  1
+  Cu  Cu11  1  0.74999942  0.24472030  0.30245794  1
+  Br  Br12  1  0.74999942  0.37039418  0.44751566  1
+  Br  Br13  1  0.74999942  0.72232213  0.79354714  1
+  Br  Br14  1  0.74999942  0.22232223  0.70645229  1
+  Br  Br15  1  0.24999981  0.44312018  0.86273202  1
+  Br  Br16  1  0.24999981  0.94312008  0.63726741  1
+  Br  Br17  1  0.24999981  0.77767757  0.29354733  1
+  Br  Br18  1  0.24999981  0.27767767  0.20645248  1
+  Br  Br19  1  0.24999981  0.62960562  0.55248396  1
+  Br  Br20  1  0.24999981  0.12960572  0.94751547  1
+  Br  Br21  1  0.74999942  0.05687972  0.36273221  1
+  Br  Br22  1  0.74999942  0.87039408  0.05248415  1
+  Br  Br23  1  0.74999942  0.55687963  0.13726760  1

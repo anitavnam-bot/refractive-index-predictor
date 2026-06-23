@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_K3TaCl6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.55444167
+_cell_length_b   7.55444179
+_cell_length_c   7.55444146
+_cell_angle_alpha   60.00000146
+_cell_angle_beta   60.00000092
+_cell_angle_gamma   59.99999875
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   K3TaCl6
+_chemical_formula_sum   'K3 Ta1 Cl6'
+_cell_volume   304.85415415
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.75000003  0.75000050  0.74999944  1
+  K  K1  1  0.25000001  0.25000017  0.24999981  1
+  K  K2  1  0.50000002  0.50000033  0.49999963  1
+  Ta  Ta3  1  0.00000000  0.00000000  0.00000000  1
+  Cl  Cl4  1  0.76950188  0.23049841  0.23049797  1
+  Cl  Cl5  1  0.23049827  0.23049841  0.76950147  1
+  Cl  Cl6  1  0.23049817  0.76950225  0.76950129  1
+  Cl  Cl7  1  0.23049817  0.76950225  0.23049791  1
+  Cl  Cl8  1  0.76950188  0.23049841  0.76950135  1
+  Cl  Cl9  1  0.76950177  0.76950225  0.23049779  1

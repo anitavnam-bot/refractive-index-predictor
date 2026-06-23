@@ -1,0 +1,34 @@
+# generated using pymatgen
+data_Mg7C
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.11214668
+_cell_length_b   6.11214695
+_cell_length_c   4.82372248
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00000399
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Mg7C
+_chemical_formula_sum   'Mg7 C1'
+_cell_volume   156.06319142
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mg  Mg0  1  0.16518686  0.83259161  0.24999987  1
+  Mg  Mg1  1  0.66740814  0.33481314  0.24999987  1
+  Mg  Mg2  1  0.66740825  0.83259161  0.24999987  1
+  Mg  Mg3  1  0.32498034  0.17501973  0.74999961  1
+  Mg  Mg4  1  0.32498045  0.64996072  0.74999961  1
+  Mg  Mg5  1  0.85003925  0.17501973  0.74999961  1
+  Mg  Mg6  1  0.83333360  0.66666646  0.74999961  1
+  C  C7  1  0.16666716  0.33333273  0.24999987  1

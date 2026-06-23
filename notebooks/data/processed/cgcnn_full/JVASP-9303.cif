@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_BaCa(BiO2)4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.37500359
+_cell_length_b   6.37500359
+_cell_length_c   7.58340035
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00000934
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   BaCa(BiO2)4
+_chemical_formula_sum   'Ba1 Ca1 Bi4 O8'
+_cell_volume   266.90422158
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.00000000  0.00000000  0.00000000  1
+  Ca  Ca1  1  0.00000000  0.00000000  0.49999998  1
+  Bi  Bi2  1  0.33333265  0.66666693  0.72312111  1
+  Bi  Bi3  1  0.66666693  0.33333265  0.72312111  1
+  Bi  Bi4  1  0.33333265  0.66666693  0.27687885  1
+  Bi  Bi5  1  0.66666693  0.33333265  0.27687885  1
+  O  O6  1  0.28710849  0.28710849  0.70848980  1
+  O  O7  1  0.71289054  -0.00000045  0.70848980  1
+  O  O8  1  -0.00000045  0.71289054  0.70848980  1
+  O  O9  1  0.71289009  0.71289009  0.29151015  1
+  O  O10  1  -0.00000018  0.28710867  0.29151015  1
+  O  O11  1  0.28710867  -0.00000018  0.29151015  1
+  O  O12  1  0.33333265  0.66666693  0.00000000  1
+  O  O13  1  0.66666693  0.33333265  0.00000000  1

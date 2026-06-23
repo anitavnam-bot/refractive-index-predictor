@@ -1,0 +1,34 @@
+# generated using pymatgen
+data_TlAgI2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.06509056
+_cell_length_b   7.06509004
+_cell_length_c   7.06509013
+_cell_angle_alpha   107.63475435
+_cell_angle_beta   107.63475891
+_cell_angle_gamma   113.21009353
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TlAgI2
+_chemical_formula_sum   'Tl2 Ag2 I4'
+_cell_volume   270.60286261
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tl  Tl0  1  0.24999983  0.24999984  -0.00000017  1
+  Tl  Tl1  1  0.74999948  0.74999952  -0.00000052  1
+  Ag  Ag2  1  0.24999953  0.74999956  0.49999931  1
+  Ag  Ag3  1  0.74999935  0.24999984  0.49999934  1
+  I  I4  1  0.68121932  0.18121997  0.86243929  1
+  I  I5  1  0.18121971  0.31877975  0.49999949  1
+  I  I6  1  0.81877918  0.68121965  0.49999916  1
+  I  I7  1  0.31877957  0.81877943  0.13755936  1

@@ -1,0 +1,39 @@
+# generated using pymatgen
+data_Si7(Ni2Au)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.76120250
+_cell_length_b   6.76120371
+_cell_length_c   8.05766897
+_cell_angle_alpha   70.80083282
+_cell_angle_beta   70.80082744
+_cell_angle_gamma   32.63907069
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Si7(Ni2Au)2
+_chemical_formula_sum   'Si7 Ni4 Au2'
+_cell_volume   186.63900239
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Si  Si0  1  0.16492930  0.16493083  0.57769530  1
+  Si  Si1  1  0.83506827  0.83507145  0.42230559  1
+  Si  Si2  1  0.49570976  0.49571180  0.33583326  1
+  Si  Si3  1  0.50428782  0.50429048  0.66416763  1
+  Si  Si4  1  0.15627567  0.15627655  0.23797320  1
+  Si  Si5  1  0.84372191  0.84372573  0.76202769  1
+  Si  Si6  1  0.49999903  0.50000047  0.00000041  1
+  Ni  Ni7  1  0.34451148  0.34451355  0.58738853  1
+  Ni  Ni8  1  0.65548609  0.65548874  0.41261236  1
+  Ni  Ni9  1  0.00436606  0.00436759  0.83165788  1
+  Ni  Ni10  1  0.99563151  0.99563469  0.16834301  1
+  Au  Au11  1  0.19271707  0.19271928  0.90480015  1
+  Au  Au12  1  0.80728050  0.80728300  0.09520074  1
